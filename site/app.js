@@ -124,6 +124,43 @@ function setQuery(value) {
   window.history.replaceState({}, "", url);
 }
 
+function resetRxNormState() {
+  state.rxnorm.error = "";
+  state.rxnorm.candidates = [];
+}
+
+function isEditableTarget(target) {
+  if (!(target instanceof HTMLElement)) return false;
+  const tagName = target.tagName.toLowerCase();
+  return target.isContentEditable || tagName === "input" || tagName === "textarea" || tagName === "select";
+}
+
+function clearSearch() {
+  if (!state.query) return;
+  setQuery("");
+  resetRxNormState();
+  render();
+}
+
+function handleKeyboardShortcuts(event) {
+  if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey) return;
+
+  if (event.key === "/" && !isEditableTarget(event.target)) {
+    event.preventDefault();
+    elements.searchInput.focus();
+    elements.searchInput.select();
+    return;
+  }
+
+  if (event.key === "Escape") {
+    if (event.target === elements.sortSelect) return;
+    if (state.query) {
+      event.preventDefault();
+      clearSearch();
+    }
+  }
+}
+
 function renderSummary() {
   const summary = state.payload.summary || {};
   const source = state.payload.source || {};
@@ -343,8 +380,7 @@ async function init() {
   }
   elements.searchInput.addEventListener("input", (event) => {
     setQuery(event.target.value);
-    state.rxnorm.error = "";
-    state.rxnorm.candidates = [];
+    resetRxNormState();
     render();
   });
   elements.sortSelect.addEventListener("change", (event) => {
@@ -352,6 +388,7 @@ async function init() {
     render();
   });
   elements.rxnormButton.addEventListener("click", resolveRxNorm);
+  document.addEventListener("keydown", handleKeyboardShortcuts);
 
   try {
     const response = await fetch("data/shortages.json", { cache: "no-store" });
