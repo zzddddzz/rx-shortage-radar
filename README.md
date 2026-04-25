@@ -6,7 +6,7 @@
 
 Public FDA drug-shortage search, RxNorm-assisted medication matching, and RSS updates in one static dashboard.
 
-[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Roadmap](ROADMAP.md)
+[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [CSV data](https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Roadmap](ROADMAP.md)
 
 ![Rx Shortage Radar dashboard screenshot](docs/assets/dashboard-albuterol.png)
 
@@ -28,6 +28,7 @@ This project is intentionally public-safe:
 - RxNorm approximate matching for misspelled or free-text medication names.
 - Status counts and source freshness.
 - A downloadable JSON dataset at `site/data/shortages.json`.
+- A downloadable CSV dataset at `site/data/shortages.csv`.
 - An RSS feed at `site/feed.xml`.
 
 ## Quick Start
@@ -53,6 +54,7 @@ rx-shortage-radar search phenobarbital
 rx-shortage-radar search amoxicillin --status Current
 rx-shortage-radar search 0603-5167
 rx-shortage-radar rxnorm "albutrol sulfate"
+rx-shortage-radar export-csv --output site/data/shortages.csv
 rx-shortage-radar feed --output site/feed.xml
 ```
 
@@ -81,7 +83,7 @@ https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html
 This repo includes three GitHub Actions workflows:
 
 - `ci.yml`: runs the Python unit tests.
-- `refresh-data.yml`: refreshes `site/data/shortages.json` and `site/feed.xml` daily, then commits changes.
+- `refresh-data.yml`: refreshes `site/data/shortages.json`, `site/data/shortages.csv`, and `site/feed.xml` daily, then commits changes.
 - `deploy-pages.yml`: deploys the `site/` directory to GitHub Pages.
 
 Optional: set `OPENFDA_API_KEY` as a repository secret if you want higher openFDA rate limits.

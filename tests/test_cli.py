@@ -49,6 +49,35 @@ class CliTests(unittest.TestCase):
         self.assertEqual(exit_code, 0)
         self.assertIn("142153\tAlbuterol Sulfate", output.getvalue())
 
+    def test_export_csv_writes_file(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            data_path = Path(tmpdir) / "shortages.json"
+            output_path = Path(tmpdir) / "shortages.csv"
+            data_path.write_text(
+                json.dumps(
+                    {
+                        "records": [
+                            {
+                                "generic_name": "Albuterol Sulfate Solution",
+                                "status": "Current",
+                                "package_ndc": "0487-9901-30",
+                                "update_date": "2026-04-20",
+                                "company_name": "Nephron Pharmaceuticals Corporation",
+                                "rxcuis": ["245314"],
+                                "source_url": "https://api.fda.gov/drug/shortages.json",
+                            }
+                        ]
+                    }
+                ),
+                encoding="utf-8",
+            )
+            output = io.StringIO()
+            with redirect_stdout(output):
+                exit_code = main(["export-csv", "--data", str(data_path), "--output", str(output_path)])
+            self.assertEqual(exit_code, 0)
+            self.assertIn("Wrote 1 CSV rows", output.getvalue())
+            self.assertIn("Albuterol Sulfate Solution", output_path.read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()

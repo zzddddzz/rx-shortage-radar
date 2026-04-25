@@ -6,6 +6,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from typing import Any
 
+from .csv_export import write_csv
 from .feeds import write_rss
 from .openfda import build_payload, fetch_shortages, write_payload
 from .normalize import normalize_text
@@ -24,10 +25,16 @@ def cmd_refresh(args: argparse.Namespace) -> int:
         feed_path = write_rss(payload, args.feed_output, limit=args.feed_limit)
     else:
         feed_path = None
+    if args.csv_output:
+        csv_path, csv_count = write_csv(payload, args.csv_output)
+    else:
+        csv_path, csv_count = None, 0
     counts = ", ".join(f"{status}: {count}" for status, count in payload["summary"]["status_counts"].items())
     print(f"Wrote {payload['summary']['total_records']} records to {output_path}")
     if feed_path:
         print(f"Wrote RSS feed to {feed_path}")
+    if csv_path:
+        print(f"Wrote {csv_count} CSV rows to {csv_path}")
     print(f"Status counts: {counts}")
     print(f"openFDA last_updated: {payload['source'].get('last_updated')}")
     return 0
@@ -76,6 +83,13 @@ def cmd_feed(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_export_csv(args: argparse.Namespace) -> int:
+    payload = load_payload(args.data)
+    csv_path, row_count = write_csv(payload, args.output, status=args.status)
+    print(f"Wrote {row_count} CSV rows to {csv_path}")
+    return 0
+
+
 def cmd_serve(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
     handler_class = lambda *handler_args, **handler_kwargs: SimpleHTTPRequestHandler(  # noqa: E731
@@ -105,6 +119,7 @@ def build_parser() -> argparse.ArgumentParser:
     refresh.add_argument("--output", default="site/data/shortages.json", help="Output JSON path.")
     refresh.add_argument("--feed-output", default="site/feed.xml", help="Output RSS feed path. Use an empty value to skip.")
     refresh.add_argument("--feed-limit", type=int, default=100, help="Maximum RSS items to write.")
+    refresh.add_argument("--csv-output", default="site/data/shortages.csv", help="Output CSV path. Use an empty value to skip.")
     refresh.add_argument("--max-records", type=int, default=None, help="Limit records for quick demos/tests.")
     refresh.add_argument("--page-limit", type=int, default=1000, help="openFDA page size.")
     refresh.set_defaults(func=cmd_refresh)
@@ -127,6 +142,12 @@ def build_parser() -> argparse.ArgumentParser:
     feed.add_argument("--limit", type=int, default=100, help="Maximum RSS items to write.")
     feed.add_argument("--status", default=None, help="Optional exact status filter.")
     feed.set_defaults(func=cmd_feed)
+
+    export_csv = subparsers.add_parser("export-csv", help="Export generated shortage data to CSV.")
+    export_csv.add_argument("--data", default="site/data/shortages.json", help="Generated JSON data path.")
+    export_csv.add_argument("--output", default="site/data/shortages.csv", help="Output CSV path.")
+    export_csv.add_argument("--status", default=None, help="Optional exact status filter.")
+    export_csv.set_defaults(func=cmd_export_csv)
 
     serve = subparsers.add_parser("serve", help="Serve the static dashboard locally.")
     serve.add_argument("--root", default="site", help="Static site root.")

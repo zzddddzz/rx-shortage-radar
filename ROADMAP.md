@@ -4,7 +4,6 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 
 ## Good First Issues
 
-- Add CSV export from generated shortage JSON.
 - Add status-specific RSS feeds for `Current`, `Resolved`, and `To Be Discontinued`.
 - Add keyboard shortcuts for focusing search and clearing filters.
 - Add small UI tests for search filtering and RxNorm candidate selection.
@@ -31,4 +30,3 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 - Inventory or procurement decisioning.
 - Vendor integrations.
 - Scraping non-public or license-restricted data.
-
