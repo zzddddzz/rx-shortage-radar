@@ -6,8 +6,10 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from typing import Any
 
+from .feeds import write_rss
 from .openfda import build_payload, fetch_shortages, write_payload
 from .normalize import normalize_text
+from .rxnorm import approximate_term
 
 
 def load_payload(path: str | Path) -> dict[str, Any]:
@@ -18,8 +20,14 @@ def cmd_refresh(args: argparse.Namespace) -> int:
     meta, raw_records = fetch_shortages(max_records=args.max_records, page_limit=args.page_limit)
     payload = build_payload(meta, raw_records)
     output_path = write_payload(payload, args.output)
+    if args.feed_output:
+        feed_path = write_rss(payload, args.feed_output, limit=args.feed_limit)
+    else:
+        feed_path = None
     counts = ", ".join(f"{status}: {count}" for status, count in payload["summary"]["status_counts"].items())
     print(f"Wrote {payload['summary']['total_records']} records to {output_path}")
+    if feed_path:
+        print(f"Wrote RSS feed to {feed_path}")
     print(f"Status counts: {counts}")
     print(f"openFDA last_updated: {payload['source'].get('last_updated')}")
     return 0
@@ -50,6 +58,24 @@ def cmd_search(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_rxnorm(args: argparse.Namespace) -> int:
+    candidates = approximate_term(args.term, max_entries=args.limit)
+    if not candidates:
+        print("No RxNorm candidates found")
+        return 1
+    for candidate in candidates:
+        label = candidate.name or "(no name returned)"
+        print(f"{candidate.rxcui}\t{label}\tscore={candidate.score:g}\trank={candidate.rank}\tsource={candidate.source}")
+    return 0
+
+
+def cmd_feed(args: argparse.Namespace) -> int:
+    payload = load_payload(args.data)
+    feed_path = write_rss(payload, args.output, limit=args.limit, status=args.status)
+    print(f"Wrote RSS feed to {feed_path}")
+    return 0
+
+
 def cmd_serve(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
     handler_class = lambda *handler_args, **handler_kwargs: SimpleHTTPRequestHandler(  # noqa: E731
@@ -77,6 +103,8 @@ def build_parser() -> argparse.ArgumentParser:
 
     refresh = subparsers.add_parser("refresh", help="Fetch openFDA shortages and write dashboard JSON.")
     refresh.add_argument("--output", default="site/data/shortages.json", help="Output JSON path.")
+    refresh.add_argument("--feed-output", default="site/feed.xml", help="Output RSS feed path. Use an empty value to skip.")
+    refresh.add_argument("--feed-limit", type=int, default=100, help="Maximum RSS items to write.")
     refresh.add_argument("--max-records", type=int, default=None, help="Limit records for quick demos/tests.")
     refresh.add_argument("--page-limit", type=int, default=1000, help="openFDA page size.")
     refresh.set_defaults(func=cmd_refresh)
@@ -87,6 +115,18 @@ def build_parser() -> argparse.ArgumentParser:
     search.add_argument("--status", default=None, help="Optional exact status filter.")
     search.add_argument("--limit", type=int, default=20, help="Maximum rows to print.")
     search.set_defaults(func=cmd_search)
+
+    rxnorm = subparsers.add_parser("rxnorm", help="Resolve a medication string through RxNorm approximate matching.")
+    rxnorm.add_argument("term", help="Medication text to normalize.")
+    rxnorm.add_argument("--limit", type=int, default=8, help="Maximum RxNorm candidates to request.")
+    rxnorm.set_defaults(func=cmd_rxnorm)
+
+    feed = subparsers.add_parser("feed", help="Build an RSS feed from generated shortage data.")
+    feed.add_argument("--data", default="site/data/shortages.json", help="Generated JSON data path.")
+    feed.add_argument("--output", default="site/feed.xml", help="Output RSS feed path.")
+    feed.add_argument("--limit", type=int, default=100, help="Maximum RSS items to write.")
+    feed.add_argument("--status", default=None, help="Optional exact status filter.")
+    feed.set_defaults(func=cmd_feed)
 
     serve = subparsers.add_parser("serve", help="Serve the static dashboard locally.")
     serve.add_argument("--root", default="site", help="Static site root.")
@@ -101,4 +141,3 @@ def main(argv: list[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(argv)
     return int(args.func(args))
-

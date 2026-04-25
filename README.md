@@ -17,8 +17,10 @@ https://zzddddzz.github.io/rx-shortage-radar/
 
 - Current, resolved, and to-be-discontinued FDA shortage records.
 - Drug search across generic name, brand name, RxCUI, NDC, company, route, and therapeutic category.
+- RxNorm approximate matching for misspelled or free-text medication names.
 - Status counts and source freshness.
 - A downloadable JSON dataset at `site/data/shortages.json`.
+- An RSS feed at `site/feed.xml`.
 
 ## Quick Start
 
@@ -40,6 +42,8 @@ Search from the terminal:
 rx-shortage-radar search phenobarbital
 rx-shortage-radar search amoxicillin --status Current
 rx-shortage-radar search 0603-5167
+rx-shortage-radar rxnorm "albutrol sulfate"
+rx-shortage-radar feed --output site/feed.xml
 ```
 
 ## Data Source
@@ -54,12 +58,20 @@ https://open.fda.gov/apis/drug/drugshortages/
 
 The dataset includes FDA/openFDA metadata fields such as `last_updated`, `terms_url`, `license_url`, and `disclaimer`.
 
+Medication name normalization uses the public NLM RxNorm approximate matching endpoint:
+
+https://rxnav.nlm.nih.gov/REST/approximateTerm.json
+
+RxNorm API documentation:
+
+https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html
+
 ## Automation
 
 This repo includes three GitHub Actions workflows:
 
 - `ci.yml`: runs the Python unit tests.
-- `refresh-data.yml`: refreshes `site/data/shortages.json` daily and commits changes.
+- `refresh-data.yml`: refreshes `site/data/shortages.json` and `site/feed.xml` daily, then commits changes.
 - `deploy-pages.yml`: deploys the `site/` directory to GitHub Pages.
 
 Optional: set `OPENFDA_API_KEY` as a repository secret if you want higher openFDA rate limits.
@@ -74,4 +86,3 @@ python3 -m rx_shortage_radar refresh --max-records 25 --output /tmp/shortages.js
 ## Medical Disclaimer
 
 Rx Shortage Radar is for public data exploration and software demonstration only. Do not use it to make medical decisions, clinical decisions, procurement decisions, or patient-care decisions. Confirm all shortage information with authoritative FDA sources, manufacturers, pharmacists, prescribers, and local policies.
-

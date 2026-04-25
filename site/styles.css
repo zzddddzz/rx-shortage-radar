@@ -73,7 +73,14 @@ h2 {
   font-size: 1rem;
 }
 
-.source-link {
+.topnav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.topnav a {
   display: inline-flex;
   align-items: center;
   min-height: 40px;
@@ -230,6 +237,67 @@ a:focus-visible {
   border-color: transparent;
   background: var(--ink);
   color: #fff;
+}
+
+.rxnorm-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: start;
+  max-width: 1180px;
+  margin-top: 14px;
+  padding: 12px;
+  border: 1px solid #cfdce9;
+  border-radius: 8px;
+  background: #f4f8fc;
+}
+
+.rxnorm-panel[hidden] {
+  display: none;
+}
+
+.rxnorm-panel strong {
+  display: block;
+  margin-bottom: 2px;
+}
+
+#rxnorm-status {
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+#rxnorm-button,
+.rxnorm-choice {
+  min-height: 36px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+  font-weight: 760;
+}
+
+#rxnorm-button {
+  padding: 7px 11px;
+}
+
+.rxnorm-results {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.rxnorm-choice {
+  padding: 6px 9px;
+  text-align: left;
+}
+
+.rxnorm-choice span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 650;
 }
 
 .content-grid {
@@ -417,6 +485,14 @@ a:focus-visible {
     display: grid;
   }
 
+  .topnav {
+    justify-content: start;
+  }
+
+  .rxnorm-panel {
+    grid-template-columns: 1fr;
+  }
+
   .detail-pane {
     position: static;
   }
@@ -434,4 +510,3 @@ a:focus-visible {
     justify-self: start;
   }
 }
-

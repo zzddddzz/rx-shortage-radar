@@ -3,9 +3,11 @@ import json
 import tempfile
 import unittest
 from contextlib import redirect_stdout
+from unittest.mock import patch
 from pathlib import Path
 
 from rx_shortage_radar.cli import main
+from rx_shortage_radar.rxnorm import RxNormCandidate
 
 
 class CliTests(unittest.TestCase):
@@ -36,7 +38,17 @@ class CliTests(unittest.TestCase):
             self.assertIn("Phenobarbital Tablet", output.getvalue())
             self.assertIn("1 match", output.getvalue())
 
+    def test_rxnorm_prints_candidates(self):
+        output = io.StringIO()
+        with patch(
+            "rx_shortage_radar.cli.approximate_term",
+            return_value=[RxNormCandidate(rxcui="142153", name="Albuterol Sulfate", score=10.9, rank=1, source="RXNORM")],
+        ):
+            with redirect_stdout(output):
+                exit_code = main(["rxnorm", "albutrol sulfate"])
+        self.assertEqual(exit_code, 0)
+        self.assertIn("142153\tAlbuterol Sulfate", output.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()
-

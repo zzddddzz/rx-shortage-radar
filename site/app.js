@@ -4,6 +4,12 @@ const state = {
   status: "All",
   sort: "name",
   selectedId: null,
+  rxnorm: {
+    lastQuery: "",
+    loading: false,
+    candidates: [],
+    error: "",
+  },
 };
 
 const statusColors = {
@@ -24,6 +30,10 @@ const elements = {
   generatedAt: document.querySelector("#generated-at"),
   statusChart: document.querySelector("#status-chart"),
   statusTabs: document.querySelector("#status-tabs"),
+  rxnormPanel: document.querySelector("#rxnorm-panel"),
+  rxnormStatus: document.querySelector("#rxnorm-status"),
+  rxnormButton: document.querySelector("#rxnorm-button"),
+  rxnormResults: document.querySelector("#rxnorm-results"),
   searchInput: document.querySelector("#search-input"),
   sortSelect: document.querySelector("#sort-select"),
   resultCount: document.querySelector("#result-count"),
@@ -101,6 +111,19 @@ function filteredRecords() {
   return sorted;
 }
 
+function setQuery(value) {
+  state.query = value;
+  state.selectedId = null;
+  elements.searchInput.value = value;
+  const url = new URL(window.location.href);
+  if (value) {
+    url.searchParams.set("q", value);
+  } else {
+    url.searchParams.delete("q");
+  }
+  window.history.replaceState({}, "", url);
+}
+
 function renderSummary() {
   const summary = state.payload.summary || {};
   const source = state.payload.source || {};
@@ -145,6 +168,81 @@ function renderTabs() {
     return button;
   });
   elements.statusTabs.replaceChildren(...tabs);
+}
+
+function renderRxNormPanel(records) {
+  const query = state.query.trim();
+  if (query.length < 3) {
+    elements.rxnormPanel.hidden = true;
+    return;
+  }
+  elements.rxnormPanel.hidden = false;
+  elements.rxnormButton.disabled = state.rxnorm.loading;
+  elements.rxnormButton.textContent = state.rxnorm.loading ? "Resolving" : "Resolve";
+
+  if (state.rxnorm.error) {
+    elements.rxnormStatus.textContent = state.rxnorm.error;
+  } else if (state.rxnorm.candidates.length && state.rxnorm.lastQuery === query) {
+    elements.rxnormStatus.textContent = "Select a normalized RxNorm candidate to search shortage records.";
+  } else if (records.length === 0) {
+    elements.rxnormStatus.textContent = "No direct shortage match. Try RxNorm approximate matching.";
+  } else {
+    elements.rxnormStatus.textContent = "Optional RxNorm normalization for misspellings and free-text drug names.";
+  }
+
+  const candidateNodes = state.rxnorm.candidates.map((candidate) => {
+    const button = makeElement("button", "rxnorm-choice", candidate.name || `RxCUI ${candidate.rxcui}`);
+    button.type = "button";
+    const meta = makeElement("span", "", `RxCUI ${candidate.rxcui} · score ${candidate.score}`);
+    button.append(meta);
+    button.addEventListener("click", () => {
+      setQuery(candidate.name || candidate.rxcui);
+      state.rxnorm.candidates = [];
+      state.rxnorm.error = "";
+      render();
+    });
+    return button;
+  });
+  elements.rxnormResults.replaceChildren(...candidateNodes);
+}
+
+async function resolveRxNorm() {
+  const query = state.query.trim();
+  if (query.length < 3 || state.rxnorm.loading) return;
+
+  state.rxnorm = { lastQuery: query, loading: true, candidates: [], error: "" };
+  render();
+  const url = new URL("https://rxnav.nlm.nih.gov/REST/approximateTerm.json");
+  url.searchParams.set("term", query);
+  url.searchParams.set("maxEntries", "8");
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`RxNorm HTTP ${response.status}`);
+    const payload = await response.json();
+    const candidates = payload.approximateGroup?.candidate || [];
+    const seen = new Set();
+    state.rxnorm.candidates = candidates
+      .filter((candidate) => {
+        if (!candidate.rxcui || seen.has(candidate.rxcui)) return false;
+        seen.add(candidate.rxcui);
+        return true;
+      })
+      .map((candidate) => ({
+        rxcui: candidate.rxcui,
+        name: candidate.name || "",
+        score: Number.parseFloat(candidate.score || "0").toPrecision(3),
+        rank: candidate.rank || "",
+      }));
+    if (!state.rxnorm.candidates.length) {
+      state.rxnorm.error = "RxNorm returned no candidates for this term.";
+    }
+  } catch (error) {
+    state.rxnorm.error = `RxNorm lookup failed: ${error.message}`;
+  } finally {
+    state.rxnorm.loading = false;
+    render();
+  }
 }
 
 function renderResults(records) {
@@ -230,21 +328,30 @@ function renderDetail(record) {
 
 function render() {
   if (!state.payload) return;
+  const records = filteredRecords();
   renderSummary();
   renderTabs();
-  renderResults(filteredRecords());
+  renderRxNormPanel(records);
+  renderResults(records);
 }
 
 async function init() {
+  const params = new URLSearchParams(window.location.search);
+  const initialQuery = params.get("q") || "";
+  if (initialQuery) {
+    setQuery(initialQuery);
+  }
   elements.searchInput.addEventListener("input", (event) => {
-    state.query = event.target.value;
-    state.selectedId = null;
+    setQuery(event.target.value);
+    state.rxnorm.error = "";
+    state.rxnorm.candidates = [];
     render();
   });
   elements.sortSelect.addEventListener("change", (event) => {
     state.sort = event.target.value;
     render();
   });
+  elements.rxnormButton.addEventListener("click", resolveRxNorm);
 
   try {
     const response = await fetch("data/shortages.json", { cache: "no-store" });
@@ -261,4 +368,3 @@ async function init() {
 }
 
 init();
-
