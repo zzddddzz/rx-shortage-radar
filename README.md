@@ -6,7 +6,7 @@
 
 Public FDA drug-shortage search, RxNorm-assisted medication matching, and RSS updates in one static dashboard.
 
-[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [CSV data](https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Roadmap](ROADMAP.md)
+[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [CSV data](https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv) | [JSON schema](docs/data-schema.md) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Roadmap](ROADMAP.md)
 
 ![Rx Shortage Radar dashboard screenshot](docs/assets/dashboard-albuterol.png)
 
@@ -29,6 +29,7 @@ This project is intentionally public-safe:
 - Status counts and source freshness.
 - A downloadable JSON dataset at `site/data/shortages.json`.
 - A downloadable CSV dataset at `site/data/shortages.csv`.
+- Schema documentation for downstream consumers in `docs/data-schema.md`.
 - RSS feeds for all records and each status:
   - `site/feed.xml`
   - `site/feed-current.xml`
@@ -100,6 +101,8 @@ python -m rx_shortage_radar refresh --max-records 25 --output /tmp/shortages.jso
 ```
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) and [ROADMAP.md](ROADMAP.md) for focused starter tasks.
+
+Dataset fields are documented in [docs/data-schema.md](docs/data-schema.md).
 
 ## Medical Disclaimer
 

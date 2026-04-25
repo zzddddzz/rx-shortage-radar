@@ -14,7 +14,6 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 - Add trend summaries by therapeutic category.
 - Add duplicate grouping so package-level records can be viewed by medication.
 - Add optional RxNorm concept detail lookup from selected RxCUIs.
-- Add static JSON schema documentation for `site/data/shortages.json`.
 
 ## Larger Ideas
 

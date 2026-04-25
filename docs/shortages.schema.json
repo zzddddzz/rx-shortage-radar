@@ -1,0 +1,211 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zzddddzz.github.io/rx-shortage-radar/docs/shortages.schema.json",
+  "title": "Rx Shortage Radar Dataset",
+  "description": "Generated public FDA/openFDA drug shortage dataset for Rx Shortage Radar.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "generated_at",
+    "source",
+    "summary",
+    "records"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "name",
+        "api_url",
+        "docs_url",
+        "terms_url",
+        "license_url",
+        "last_updated",
+        "disclaimer"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "api_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "docs_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "terms_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "license_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "last_updated": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "disclaimer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "total_records",
+        "status_counts"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "total_records": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "status_counts": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/shortage_record"
+      }
+    }
+  },
+  "$defs": {
+    "string_list": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "nullable_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "shortage_record": {
+      "type": "object",
+      "required": [
+        "id",
+        "generic_name",
+        "brand_names",
+        "status",
+        "update_type",
+        "update_date",
+        "initial_posting_date",
+        "discontinued_date",
+        "package_ndc",
+        "package_ndcs",
+        "product_ndcs",
+        "rxcuis",
+        "substances",
+        "routes",
+        "therapeutic_categories",
+        "dosage_form",
+        "presentation",
+        "company_name",
+        "related_info",
+        "source_url",
+        "search_text"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "generic_name": {
+          "type": "string"
+        },
+        "brand_names": {
+          "$ref": "#/$defs/string_list"
+        },
+        "status": {
+          "type": "string"
+        },
+        "update_type": {
+          "type": "string"
+        },
+        "update_date": {
+          "$ref": "#/$defs/nullable_date"
+        },
+        "initial_posting_date": {
+          "$ref": "#/$defs/nullable_date"
+        },
+        "discontinued_date": {
+          "$ref": "#/$defs/nullable_date"
+        },
+        "package_ndc": {
+          "type": "string"
+        },
+        "package_ndcs": {
+          "$ref": "#/$defs/string_list"
+        },
+        "product_ndcs": {
+          "$ref": "#/$defs/string_list"
+        },
+        "rxcuis": {
+          "$ref": "#/$defs/string_list"
+        },
+        "substances": {
+          "$ref": "#/$defs/string_list"
+        },
+        "routes": {
+          "$ref": "#/$defs/string_list"
+        },
+        "therapeutic_categories": {
+          "$ref": "#/$defs/string_list"
+        },
+        "dosage_form": {
+          "type": "string"
+        },
+        "presentation": {
+          "type": "string"
+        },
+        "company_name": {
+          "type": "string"
+        },
+        "related_info": {
+          "type": "string"
+        },
+        "source_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "search_text": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
