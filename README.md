@@ -29,7 +29,11 @@ This project is intentionally public-safe:
 - Status counts and source freshness.
 - A downloadable JSON dataset at `site/data/shortages.json`.
 - A downloadable CSV dataset at `site/data/shortages.csv`.
-- An RSS feed at `site/feed.xml`.
+- RSS feeds for all records and each status:
+  - `site/feed.xml`
+  - `site/feed-current.xml`
+  - `site/feed-resolved.xml`
+  - `site/feed-discontinued.xml`
 
 ## Quick Start
 
@@ -83,7 +87,7 @@ https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html
 This repo includes three GitHub Actions workflows:
 
 - `ci.yml`: runs the Python unit tests.
-- `refresh-data.yml`: refreshes `site/data/shortages.json`, `site/data/shortages.csv`, and `site/feed.xml` daily, then commits changes.
+- `refresh-data.yml`: refreshes JSON, CSV, and all RSS feeds daily, then commits changes.
 - `deploy-pages.yml`: deploys the `site/` directory to GitHub Pages.
 
 Optional: set `OPENFDA_API_KEY` as a repository secret if you want higher openFDA rate limits.

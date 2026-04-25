@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .csv_export import write_csv
-from .feeds import write_rss
+from .feeds import write_rss, write_status_feeds
 from .openfda import build_payload, fetch_shortages, write_payload
 from .normalize import normalize_text
 from .rxnorm import approximate_term
@@ -23,8 +23,10 @@ def cmd_refresh(args: argparse.Namespace) -> int:
     output_path = write_payload(payload, args.output)
     if args.feed_output:
         feed_path = write_rss(payload, args.feed_output, limit=args.feed_limit)
+        status_feed_paths = write_status_feeds(payload, Path(args.feed_output).parent, limit=args.feed_limit)
     else:
         feed_path = None
+        status_feed_paths = {}
     if args.csv_output:
         csv_path, csv_count = write_csv(payload, args.csv_output)
     else:
@@ -33,6 +35,8 @@ def cmd_refresh(args: argparse.Namespace) -> int:
     print(f"Wrote {payload['summary']['total_records']} records to {output_path}")
     if feed_path:
         print(f"Wrote RSS feed to {feed_path}")
+        for status, path in status_feed_paths.items():
+            print(f"Wrote {status} RSS feed to {path}")
     if csv_path:
         print(f"Wrote {csv_count} CSV rows to {csv_path}")
     print(f"Status counts: {counts}")

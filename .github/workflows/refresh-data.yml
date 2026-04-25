@@ -24,12 +24,12 @@ jobs:
         run: rx-shortage-radar refresh --output site/data/shortages.json
       - name: Commit refreshed data
         run: |
-          if git diff --quiet -- site/data/shortages.json site/data/shortages.csv site/feed.xml; then
+          if git diff --quiet -- site/data/shortages.json site/data/shortages.csv site/feed.xml site/feed-current.xml site/feed-resolved.xml site/feed-discontinued.xml; then
             echo "No data changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data/shortages.json site/data/shortages.csv site/feed.xml
+          git add site/data/shortages.json site/data/shortages.csv site/feed.xml site/feed-current.xml site/feed-resolved.xml site/feed-discontinued.xml
           git commit -m "Refresh FDA shortage data"
           git push

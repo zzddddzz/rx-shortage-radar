@@ -8,6 +8,11 @@ from urllib.parse import quote
 from xml.etree import ElementTree as ET
 
 SITE_URL = "https://zzddddzz.github.io/rx-shortage-radar/"
+STATUS_FEEDS = {
+    "Current": "feed-current.xml",
+    "Resolved": "feed-resolved.xml",
+    "To Be Discontinued": "feed-discontinued.xml",
+}
 
 
 def _date_key(record: dict[str, Any]) -> str:
@@ -56,9 +61,13 @@ def build_rss(payload: dict[str, Any], *, limit: int = 100, status: str | None =
 
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "Rx Shortage Radar"
+    title = "Rx Shortage Radar" if not status else f"Rx Shortage Radar - {status}"
+    description = "Latest public FDA drug shortage records from openFDA."
+    if status:
+        description = f"Latest public FDA drug shortage records with status {status} from openFDA."
+    ET.SubElement(channel, "title").text = title
     ET.SubElement(channel, "link").text = SITE_URL
-    ET.SubElement(channel, "description").text = "Latest public FDA drug shortage records from openFDA."
+    ET.SubElement(channel, "description").text = description
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = _rss_date(payload.get("generated_at"))
 
@@ -89,3 +98,11 @@ def write_rss(payload: dict[str, Any], output_path: str | Path, *, limit: int = 
     tree.write(path, encoding="utf-8", xml_declaration=True)
     path.write_text(path.read_text(encoding="utf-8") + "\n", encoding="utf-8")
     return path
+
+
+def write_status_feeds(payload: dict[str, Any], output_dir: str | Path, *, limit: int = 100) -> dict[str, Path]:
+    directory = Path(output_dir)
+    return {
+        status: write_rss(payload, directory / filename, limit=limit, status=status)
+        for status, filename in STATUS_FEEDS.items()
+    }

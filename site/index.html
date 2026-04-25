@@ -10,6 +10,9 @@
     />
     <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="alternate" type="application/rss+xml" title="Rx Shortage Radar RSS" href="feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Current shortage RSS" href="feed-current.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Resolved shortage RSS" href="feed-resolved.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Discontinued shortage RSS" href="feed-discontinued.xml" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -20,7 +23,10 @@
       </div>
       <nav class="topnav" aria-label="Project links">
         <a href="data/shortages.csv">CSV</a>
-        <a href="feed.xml">RSS feed</a>
+        <a href="feed.xml">All RSS</a>
+        <a href="feed-current.xml">Current RSS</a>
+        <a href="feed-resolved.xml">Resolved RSS</a>
+        <a href="feed-discontinued.xml">Discontinued RSS</a>
         <a href="https://open.fda.gov/apis/drug/drugshortages/">FDA source</a>
       </nav>
     </header>

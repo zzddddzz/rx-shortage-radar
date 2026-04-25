@@ -4,7 +4,6 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 
 ## Good First Issues
 
-- Add status-specific RSS feeds for `Current`, `Resolved`, and `To Be Discontinued`.
 - Add keyboard shortcuts for focusing search and clearing filters.
 - Add small UI tests for search filtering and RxNorm candidate selection.
 - Add a glossary for NDC, RxCUI, openFDA, RxNorm, shortage status, and discontinued status.

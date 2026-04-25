@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from rx_shortage_radar.feeds import build_rss, write_rss
+from rx_shortage_radar.feeds import build_rss, write_rss, write_status_feeds
 
 
 class FeedTests(unittest.TestCase):
@@ -40,9 +40,23 @@ class FeedTests(unittest.TestCase):
             write_rss(self.sample_payload(), path, status="Current")
             root = ET.parse(path).getroot()
             titles = [node.text for node in root.findall("./channel/item/title")]
+            self.assertEqual(root.findtext("./channel/title"), "Rx Shortage Radar - Current")
             self.assertEqual(titles, ["Current: Older Drug (1111-2222-33)"])
+
+    def test_write_status_feeds_outputs_expected_files(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            paths = write_status_feeds(self.sample_payload(), tmpdir)
+            self.assertEqual(set(paths), {"Current", "Resolved", "To Be Discontinued"})
+
+            current_root = ET.parse(paths["Current"]).getroot()
+            resolved_root = ET.parse(paths["Resolved"]).getroot()
+            discontinued_root = ET.parse(paths["To Be Discontinued"]).getroot()
+
+            self.assertEqual(current_root.findtext("./channel/item/title"), "Current: Older Drug (1111-2222-33)")
+            self.assertEqual(resolved_root.findtext("./channel/item/title"), "Resolved: Newer Drug (9999-8888-77)")
+            self.assertEqual(discontinued_root.findall("./channel/item"), [])
+            self.assertEqual(paths["To Be Discontinued"].name, "feed-discontinued.xml")
 
 
 if __name__ == "__main__":
     unittest.main()
-
