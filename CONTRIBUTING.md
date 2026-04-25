@@ -22,12 +22,14 @@ rx-shortage-radar serve --root site --port 8765
 
 - Use public data only.
 - Do not add patient data, hospital data, vendor files, credentials, or private operational paths.
+- Do not add non-public scraping, private site automation, or license-restricted data.
 - Keep generated data reproducible from public APIs.
 - Keep clinical language careful: this project is for public data exploration, not medical advice.
 - Add tests when changing Python behavior.
 - Verify the static dashboard still loads after UI changes.
 
+If you find a security issue or accidental sensitive-data exposure, follow [SECURITY.md](SECURITY.md) instead of posting sensitive details in a public issue.
+
 ## Starter Tasks
 
 Look for issues labeled `good first issue`, or start with one of the tasks in [ROADMAP.md](ROADMAP.md).
-

@@ -100,7 +100,7 @@ python -m unittest discover -s tests
 python -m rx_shortage_radar refresh --max-records 25 --output /tmp/shortages.json
 ```
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) and [ROADMAP.md](ROADMAP.md) for focused starter tasks.
+See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), and [ROADMAP.md](ROADMAP.md) for focused starter tasks and public-data safety rules.
 
 Dataset fields are documented in [docs/data-schema.md](docs/data-schema.md).
 
