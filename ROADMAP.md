@@ -6,7 +6,6 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 
 - Add keyboard shortcuts for focusing search and clearing filters.
 - Add small UI tests for search filtering and RxNorm candidate selection.
-- Add a glossary for NDC, RxCUI, openFDA, RxNorm, shortage status, and discontinued status.
 
 ## Near-Term Features
 

@@ -6,6 +6,10 @@ Machine-readable schema:
 
 [`docs/shortages.schema.json`](shortages.schema.json)
 
+Terminology:
+
+[`docs/glossary.md`](glossary.md)
+
 Public source:
 
 https://api.fda.gov/drug/shortages.json
@@ -75,4 +79,3 @@ https://open.fda.gov/apis/drug/drugshortages/
 - `schema_version` is controlled by this project. Consumers should check it before relying on field-level behavior.
 - Empty source values are usually represented as empty strings, empty arrays, or `null`, depending on the field.
 - This dataset is for public data exploration only. It is not medical advice and should not be used for medical, clinical, procurement, or patient-care decisions.
-
