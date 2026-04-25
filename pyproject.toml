@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rx-shortage-radar"
+version = "0.1.0"
+description = "A public FDA drug-shortage radar with a CLI and static dashboard."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Di Zhang" }]
+keywords = ["fda", "openfda", "drug-shortages", "pharmacy", "healthcare"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Intended Audience :: Healthcare Industry",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/zzddddzz/rx-shortage-radar"
+Source = "https://github.com/zzddddzz/rx-shortage-radar"
+Issues = "https://github.com/zzddddzz/rx-shortage-radar/issues"
+
+[project.scripts]
+rx-shortage-radar = "rx_shortage_radar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,12 @@
+.DS_Store
+.coverage
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.playwright-cli/
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/

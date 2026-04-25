@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rx Shortage Radar</title>
+    <meta
+      name="description"
+      content="A public FDA drug shortage radar powered by openFDA data."
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">openFDA drug shortages</p>
+        <h1>Rx Shortage Radar</h1>
+      </div>
+      <a class="source-link" href="https://open.fda.gov/apis/drug/drugshortages/">FDA source</a>
+    </header>
+
+    <main>
+      <section class="summary-band" aria-label="Dataset summary">
+        <div class="summary-grid">
+          <div class="metric">
+            <span class="metric-label">Records</span>
+            <strong id="total-records">Loading</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">FDA updated</span>
+            <strong id="source-updated">Loading</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Generated</span>
+            <strong id="generated-at">Loading</strong>
+          </div>
+        </div>
+        <div class="status-chart" id="status-chart" aria-label="Shortage status counts"></div>
+      </section>
+
+      <section class="workspace" aria-label="Drug shortage search">
+        <div class="toolbar">
+          <label class="search-field">
+            <span>Search</span>
+            <input
+              id="search-input"
+              type="search"
+              autocomplete="off"
+              placeholder="Drug, brand, RxCUI, NDC, company, route"
+            />
+          </label>
+          <label class="select-field">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="name">Drug name</option>
+              <option value="updated">Newest update</option>
+              <option value="status">Status</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="status-tabs" id="status-tabs" role="tablist" aria-label="Status filter"></div>
+
+        <div class="content-grid">
+          <section class="results-pane" aria-label="Search results">
+            <div class="results-head">
+              <h2>Shortage Records</h2>
+              <span id="result-count">Loading</span>
+            </div>
+            <div class="results-list" id="results-list"></div>
+          </section>
+
+          <aside class="detail-pane" aria-label="Selected record detail">
+            <div id="detail-content" class="detail-empty">
+              Select a record to inspect FDA fields.
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="notice-band" aria-label="Important disclaimer">
+        <h2>Use Carefully</h2>
+        <p id="source-disclaimer">
+          This dashboard is for public data exploration only. Do not use it to make medical,
+          procurement, or patient-care decisions.
+        </p>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
