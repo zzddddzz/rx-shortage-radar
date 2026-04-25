@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T05:53:26+00:00",
+  "generated_at": "2026-04-25T10:06:10+00:00",
   "records": [
     {
       "brand_names": [
@@ -7915,7 +7915,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -7923,16 +7925,109 @@
       "id": "93aa32e2f6dac7c5",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1582-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1582-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1582",
+        "0409-1559",
+        "0409-1560",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "Next Delivery: April 2026; Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1582 10 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1582 10 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1582 10 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1582 10 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -7940,7 +8035,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -7948,16 +8045,109 @@
       "id": "2ca1e008dd4e9e36",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1582-29",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine, Injection, Marcaine 225 mg/30 mL (7.5 mg/mL) (NDC 0409-1582-29)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1582",
+        "0409-1559",
+        "0409-1560",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 225 mg 30 ml 7 5 mg ml ndc 0409 1582 29 hospira inc a pfizer company 0409 1582 29 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 225 mg 30 ml 7 5 mg ml ndc 0409 1582 29 hospira inc a pfizer company 0409 1582 29 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -7965,7 +8155,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -7973,16 +8165,109 @@
       "id": "20251073a5b5e772",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1587-50",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1587-50)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1587",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1610",
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "Next Delivery: April 2026; Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1587 50 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1587 50 anesthesia",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1587 50 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1587 50 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1587 0409 1559 0409 1560 0409 1582 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9725,7 +10010,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9733,16 +10020,112 @@
       "id": "087c387bb21a61ab",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1746-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 25 mg/10 mL (2.5 mg/mL 1:200,000) (NDC 0409-1746-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1746",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 25 mg 10 ml 2 5 mg ml 1 200 000 ndc 0409 1746 10 hospira inc a pfizer company 0409 1746 10 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "INFILTRATION",
+        "INTRACAUDAL",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 25 mg 10 ml 2 5 mg ml 1 200 000 ndc 0409 1746 10 hospira inc a pfizer company 0409 1746 10 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9750,7 +10133,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9758,16 +10143,112 @@
       "id": "22c8fea2a81dc845",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1746-30",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 75 mg/30 mL (2.5 mg/mL 1:200,000) (NDC 0409-1746-30)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1746",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 75 mg 30 ml 2 5 mg ml 1 200 000 ndc 0409 1746 30 hospira inc a pfizer company 0409 1746 30 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "INFILTRATION",
+        "INTRACAUDAL",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 75 mg 30 ml 2 5 mg ml 1 200 000 ndc 0409 1746 30 hospira inc a pfizer company 0409 1746 30 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9775,7 +10256,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9783,16 +10266,111 @@
       "id": "9be198965b4d6ee1",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1749-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 50 mg/10 mL (5 mg/mL 1:200,000) (NDC 0409-1749-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1749",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 50 mg 10 ml 5 mg ml 1 200 000 ndc 0409 1749 10 hospira inc a pfizer company 0409 1749 10 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "INTRACAUDAL",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 50 mg 10 ml 5 mg ml 1 200 000 ndc 0409 1749 10 hospira inc a pfizer company 0409 1749 10 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9800,7 +10378,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9808,16 +10388,111 @@
       "id": "b5172c70c0fce2f1",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1749-29",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 150 mg/30 mL (5 mg/mL 1:200,000) (NDC 0409-1749-29)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1749",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1752",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 150 mg 30 ml 5 mg ml 1 200 000 ndc 0409 1749 29 hospira inc a pfizer company 0409 1749 29 anesthesia",
+      "routes": [
+        "EPIDURAL",
+        "INTRACAUDAL",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 150 mg 30 ml 5 mg ml 1 200 000 ndc 0409 1749 29 hospira inc a pfizer company 0409 1749 29 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9825,7 +10500,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9833,16 +10510,110 @@
       "id": "3b6129d2179e5ad1",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1752-50",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 125 mg/50 mL (2.5 mg/mL 1:200,000) (NDC 0409-1752-50)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1752",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1749",
+        "0409-1755",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 125 mg 50 ml 2 5 mg ml 1 200 000 ndc 0409 1752 50 hospira inc a pfizer company 0409 1752 50 anesthesia",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 125 mg 50 ml 2 5 mg ml 1 200 000 ndc 0409 1752 50 hospira inc a pfizer company 0409 1752 50 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1752 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -9850,7 +10621,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MARCAINE WITH EPINEPHRINE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -9858,16 +10631,109 @@
       "id": "632d499593f5d89b",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1755-50",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1559-18",
+        "0409-1559-10",
+        "0409-1559-19",
+        "0409-1559-30",
+        "0409-1560-18",
+        "0409-1560-10",
+        "0409-1560-19",
+        "0409-1560-29",
+        "0409-1582-18",
+        "0409-1582-10",
+        "0409-1582-19",
+        "0409-1582-29",
+        "0409-1587-50",
+        "0409-1610-50",
+        "0409-1746-70",
+        "0409-1746-10",
+        "0409-1746-71",
+        "0409-1746-30",
+        "0409-1749-70",
+        "0409-1749-10",
+        "0409-1749-71",
+        "0409-1749-29",
+        "0409-1752-50",
+        "0409-1755-50",
+        "0409-2510-01",
+        "0409-2510-25",
+        "0409-7535-01",
+        "0409-7535-25",
+        "0409-1250-01",
+        "0409-1250-25",
+        "0409-5010-01",
+        "0409-5010-25",
+        "0409-1530-01",
+        "0409-1530-25",
+        "0409-0525-01",
+        "0409-0525-25",
+        "0409-7510-01",
+        "0409-7510-25",
+        "0409-2253-01",
+        "0409-2253-25"
+      ],
       "presentation": "Marcaine With Epinephrine, Injection, Marcaine with Epinephrine 1:200,000 as the bitartrate 250 mg/50 mL (5 mg/mL 1:200,000) (NDC 0409-1755-50)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1755",
+        "0409-1559",
+        "0409-1560",
+        "0409-1582",
+        "0409-1587",
+        "0409-1610",
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-2510",
+        "0409-7535",
+        "0409-1250",
+        "0409-5010",
+        "0409-1530",
+        "0409-0525",
+        "0409-7510",
+        "0409-2253"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 250 mg 50 ml 5 mg ml 1 200 000 ndc 0409 1755 50 hospira inc a pfizer company 0409 1755 50 anesthesia",
+      "routes": [
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1012396",
+        "1012400",
+        "1012404",
+        "1012406",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1724786",
+        "1724787",
+        "1724794",
+        "1724796",
+        "1724880",
+        "1724884",
+        "1725044",
+        "1725046",
+        "1725078",
+        "1725079",
+        "1725082",
+        "1725083",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 250 mg 50 ml 5 mg ml 1 200 000 ndc 0409 1755 50 hospira inc a pfizer company 0409 1755 50 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1755 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -28362,48 +29228,6 @@
       "brand_names": [
         "FUROSEMIDE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Furosemide Injection",
-      "id": "08efb0a7845ad3a8",
-      "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-02",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
-      "product_ndcs": [
-        "25021-311"
-      ],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2026-04-24",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -28450,15 +29274,15 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Furosemide Injection",
-      "id": "b43a1db35a8d049e",
+      "id": "08efb0a7845ad3a8",
       "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-04",
+      "package_ndc": "25021-311-02",
       "package_ndcs": [
         "25021-311-02",
         "25021-311-04",
         "25021-311-10"
       ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
       "product_ndcs": [
         "25021-311"
       ],
@@ -28472,7 +29296,7 @@
         "1719290",
         "1719291"
       ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28530,23 +29354,23 @@
       "brand_names": [
         "FUROSEMIDE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
+      "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Furosemide Injection",
-      "id": "64abdfdf398bbc7c",
+      "id": "b43a1db35a8d049e",
       "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-10",
+      "package_ndc": "25021-311-04",
       "package_ndcs": [
         "25021-311-02",
         "25021-311-04",
         "25021-311-10"
       ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
       "product_ndcs": [
         "25021-311"
       ],
-      "related_info": "Use Sagent NDC 25021-320-10",
+      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -28556,7 +29380,7 @@
         "1719290",
         "1719291"
       ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 sagent pharmaceuticals use sagent ndc 25021 320 10 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28565,8 +29389,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-23",
-      "update_type": "Reverified"
+      "update_date": "2026-04-24",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -28609,6 +29433,48 @@
       ],
       "update_date": "2026-04-24",
       "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Furosemide Injection",
+      "id": "64abdfdf398bbc7c",
+      "initial_posting_date": "2020-04-07",
+      "package_ndc": "25021-311-10",
+      "package_ndcs": [
+        "25021-311-02",
+        "25021-311-04",
+        "25021-311-10"
+      ],
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
+      "product_ndcs": [
+        "25021-311"
+      ],
+      "related_info": "Use Sagent NDC 25021-320-10",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 sagent pharmaceuticals use sagent ndc 25021 320 10 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "FUROSEMIDE"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-04-23",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -66735,43 +67601,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -66802,6 +67631,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -68325,44 +69191,6 @@
         "DOXYCYCLINE HYCLATE"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Doxycycline Hyclate Tablet",
-      "id": "f09e736901871aa9",
-      "initial_posting_date": "2025-06-13",
-      "package_ndc": "0591-5553-05",
-      "package_ndcs": [
-        "0591-5553-50",
-        "0591-5553-05"
-      ],
-      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
-      "product_ndcs": [
-        "0591-5553"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1650143"
-      ],
-      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2025-06-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-05-02",
       "dosage_form": "Tablet",
       "generic_name": "Doxycycline Hyclate Tablet",
@@ -68394,6 +69222,44 @@
         "Anti-Infective"
       ],
       "update_date": "2025-05-02",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-06-13",
+      "dosage_form": "Tablet",
+      "generic_name": "Doxycycline Hyclate Tablet",
+      "id": "f09e736901871aa9",
+      "initial_posting_date": "2025-06-13",
+      "package_ndc": "0591-5553-05",
+      "package_ndcs": [
+        "0591-5553-50",
+        "0591-5553-05"
+      ],
+      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
+      "product_ndcs": [
+        "0591-5553"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "1650143"
+      ],
+      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2025-06-13",
       "update_type": "New"
     },
     {
@@ -68515,43 +69381,6 @@
         "OCELLA"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-05-02",
-      "dosage_form": "Tablet",
-      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
-      "id": "5a2d217056f5b820",
-      "initial_posting_date": "2025-05-02",
-      "package_ndc": "0555-9131-67",
-      "package_ndcs": [
-        "0555-9131-79",
-        "0555-9131-67"
-      ],
-      "presentation": "Ocella, Tablet, Kit (NDC 0555-9131-67)",
-      "product_ndcs": [
-        "0555-9131"
-      ],
-      "related_info": "",
-      "routes": [],
-      "rxcuis": [
-        "284207",
-        "748797",
-        "748800",
-        "801185"
-      ],
-      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet ocella tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Reproductive"
-      ],
-      "update_date": "2025-05-02",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OCELLA"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-06-13",
       "dosage_form": "Tablet",
       "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
@@ -68582,6 +69411,43 @@
         "Reproductive"
       ],
       "update_date": "2025-06-13",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "OCELLA"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-05-02",
+      "dosage_form": "Tablet",
+      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
+      "id": "5a2d217056f5b820",
+      "initial_posting_date": "2025-05-02",
+      "package_ndc": "0555-9131-67",
+      "package_ndcs": [
+        "0555-9131-79",
+        "0555-9131-67"
+      ],
+      "presentation": "Ocella, Tablet, Kit (NDC 0555-9131-67)",
+      "product_ndcs": [
+        "0555-9131"
+      ],
+      "related_info": "",
+      "routes": [],
+      "rxcuis": [
+        "284207",
+        "748797",
+        "748800",
+        "801185"
+      ],
+      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet ocella tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Reproductive"
+      ],
+      "update_date": "2025-05-02",
       "update_type": "New"
     },
     {
@@ -83445,7 +84311,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ROZEREM"
+      ],
       "company_name": "Takeda Pharmaceuticals USA Inc.",
       "discontinued_date": "2026-03-19",
       "dosage_form": "Tablet",
@@ -83453,16 +84321,29 @@
       "id": "80a2f0f98bd8e6bd",
       "initial_posting_date": "2026-03-19",
       "package_ndc": "64764-805-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "64764-805-30",
+        "64764-805-10",
+        "64764-805-22"
+      ],
       "presentation": "Rozerem, Tablet, 8 mg (NDC 64764-805-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "64764-805"
+      ],
       "related_info": "Product is expected to be available through February 2027.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 10 takeda pharmaceuticals usa inc product is expected to be available through february 2027 64764 805 10 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "577348",
+        "603162"
+      ],
+      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 10 takeda pharmaceuticals usa inc product is expected to be available through february 2027 64764 805 10 rozerem 577348 603162 psychiatry 64764 805",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "RAMELTEON"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -83470,7 +84351,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ROZEREM"
+      ],
       "company_name": "Takeda Pharmaceuticals USA Inc.",
       "discontinued_date": "2026-03-19",
       "dosage_form": "Tablet",
@@ -83478,16 +84361,29 @@
       "id": "f87d12af97b94371",
       "initial_posting_date": "2026-03-19",
       "package_ndc": "64764-805-30",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "64764-805-30",
+        "64764-805-10",
+        "64764-805-22"
+      ],
       "presentation": "Rozerem, Tablet, 8 mg (NDC 64764-805-30)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "64764-805"
+      ],
       "related_info": "Product is expected to be available through June 2027.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 30 takeda pharmaceuticals usa inc product is expected to be available through june 2027 64764 805 30 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "577348",
+        "603162"
+      ],
+      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 30 takeda pharmaceuticals usa inc product is expected to be available through june 2027 64764 805 30 rozerem 577348 603162 psychiatry 64764 805",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "RAMELTEON"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -85356,7 +86252,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-04-24",
+    "last_updated": "2026-04-25",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
