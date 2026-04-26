@@ -6,7 +6,7 @@
 
 Public FDA drug-shortage search, RxNorm-assisted medication matching, and RSS updates in one static dashboard.
 
-[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [CSV data](https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv) | [JSON schema](docs/data-schema.md) | [Glossary](docs/glossary.md) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Changelog](CHANGELOG.md) | [Roadmap](ROADMAP.md)
+[Live dashboard](https://zzddddzz.github.io/rx-shortage-radar/) | [CSV data](https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv) | [JSON schema](docs/data-schema.md) | [Glossary](docs/glossary.md) | [RSS feed](https://zzddddzz.github.io/rx-shortage-radar/feed.xml) | [Changelog](CHANGELOG.md) | [Roadmap](ROADMAP.md) | [Usage examples](docs/usage-examples.md)
 
 ![Rx Shortage Radar dashboard screenshot](docs/assets/dashboard-albuterol.png)
 
@@ -105,6 +105,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), and [ROADMAP
 Dataset fields are documented in [docs/data-schema.md](docs/data-schema.md).
 
 Terminology is explained in [docs/glossary.md](docs/glossary.md).
+
+Practical consumption examples are in [docs/usage-examples.md](docs/usage-examples.md).
 
 ## Medical Disclaimer
 
