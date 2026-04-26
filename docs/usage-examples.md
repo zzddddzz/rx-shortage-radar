@@ -1,0 +1,63 @@
+# Usage Examples
+
+`site/data/shortages.csv` and `site/data/shortages.json` are public datasets
+regenerated daily from the FDA openFDA drug shortages API. Both files are
+committed to this repo and served on GitHub Pages.
+
+See [data-schema.md](data-schema.md) for a complete field reference.
+
+## Python — read the CSV
+
+The snippet below fetches the live CSV from GitHub Pages and prints every
+record whose status is `Current`.
+
+```python
+import csv
+import urllib.request
+
+CSV_URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv"
+
+with urllib.request.urlopen(CSV_URL) as response:
+    lines = response.read().decode("utf-8").splitlines()
+
+reader = csv.DictReader(lines)
+for row in reader:
+    if row["status"] == "Current":
+        print(row["generic_name"], "|", row["company_name"], "|", row["update_date"])
+```
+
+To read from a local copy instead, replace the fetch block with:
+
+```python
+with open("site/data/shortages.csv", newline="", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        if row["status"] == "Current":
+            print(row["generic_name"], "|", row["company_name"], "|", row["update_date"])
+```
+
+CSV columns currently include: `generic_name`, `status`, `package_ndc`,
+`update_date`, `company_name`, `rxcuis`, `brand_names`, `product_ndcs`,
+`therapeutic_categories`, `dosage_form`, and `source_url`.
+
+## JavaScript — read the JSON
+
+The snippet below fetches the live JSON from GitHub Pages and logs the first
+five `Current` shortage records.
+
+```js
+const JSON_URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.json";
+
+fetch(JSON_URL)
+  .then(res => res.json())
+  .then(data => {
+    const current = data.records.filter(r => r.status === "Current");
+    current.slice(0, 5).forEach(r => {
+      console.log(r.generic_name, "|", r.company_name, "|", r.update_date);
+    });
+  });
+```
+
+The top-level JSON object has five keys: `schema_version`, `generated_at`,
+`source`, `summary`, and `records`. Each entry in `records` is a shortage
+record. Field descriptions are in [data-schema.md](data-schema.md).
