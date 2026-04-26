@@ -36,10 +36,9 @@ with open("site/data/shortages.csv", newline="", encoding="utf-8") as f:
             print(row["generic_name"], "|", row["company_name"], "|", row["update_date"])
 ```
 
-Commonly useful columns: `generic_name`, `status`, `company_name`,
-`update_date`, `initial_posting_date`, `dosage_form`, `routes`,
-`therapeutic_categories`. The full column list is in
-[data-schema.md](data-schema.md).
+CSV columns currently include: `generic_name`, `status`, `package_ndc`,
+`update_date`, `company_name`, `rxcuis`, `brand_names`, `product_ndcs`,
+`therapeutic_categories`, `dosage_form`, and `source_url`.
 
 ## JavaScript — read the JSON
 
