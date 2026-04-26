@@ -29,7 +29,7 @@ for row in reader:
 To read from a local copy instead, replace the fetch block with:
 
 ```python
-with open("shortages.csv", newline="", encoding="utf-8") as f:
+with open("site/data/shortages.csv", newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in reader:
         if row["status"] == "Current":
