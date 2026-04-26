@@ -15,9 +15,9 @@ record whose status is `Current`.
 import csv
 import urllib.request
 
-URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv"
+CSV_URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.csv"
 
-with urllib.request.urlopen(URL) as response:
+with urllib.request.urlopen(CSV_URL) as response:
     lines = response.read().decode("utf-8").splitlines()
 
 reader = csv.DictReader(lines)
@@ -47,9 +47,9 @@ The snippet below fetches the live JSON from GitHub Pages and logs the first
 five `Current` shortage records.
 
 ```js
-const URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.json";
+const JSON_URL = "https://zzddddzz.github.io/rx-shortage-radar/data/shortages.json";
 
-fetch(URL)
+fetch(JSON_URL)
   .then(res => res.json())
   .then(data => {
     const current = data.records.filter(r => r.status === "Current");
