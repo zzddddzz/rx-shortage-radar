@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:18:38+00:00",
+  "generated_at": "2026-04-28T11:18:00+00:00",
   "records": [
     {
       "brand_names": [
@@ -6899,8 +6899,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Revised"
+      "update_date": "2026-04-02",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -6942,8 +6942,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Revised"
+      "update_date": "2026-04-02",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -6985,8 +6985,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Revised"
+      "update_date": "2026-04-02",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -7028,8 +7028,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Revised"
+      "update_date": "2026-04-02",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -14021,7 +14021,7 @@
         "0781-3288",
         "0781-3290"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: end of June 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -14030,7 +14030,7 @@
         "309336",
         "309339"
       ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 0781 3289 09 sandoz inc 0781 3289 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3289 0781 3288 0781 3290",
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 0781 3289 09 sandoz inc estimated recovery end of june 2026 0781 3289 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3289 0781 3288 0781 3290",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14039,7 +14039,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-04-07",
+      "update_date": "2026-04-24",
       "update_type": "Revised"
     },
     {
@@ -14067,7 +14067,7 @@
         "0781-3288",
         "0781-3289"
       ],
-      "related_info": "Estimated recovery: end of June 2026",
+      "related_info": "",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -14076,7 +14076,7 @@
         "309336",
         "309339"
       ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 0781 3290 09 sandoz inc estimated recovery end of june 2026 0781 3290 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3290 0781 3288 0781 3289",
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 0781 3290 09 sandoz inc 0781 3290 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3290 0781 3288 0781 3289",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14085,7 +14085,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-04-07",
+      "update_date": "2026-04-24",
       "update_type": "Revised"
     },
     {
@@ -28989,7 +28989,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
+      "update_date": "2026-04-24",
       "update_type": "Revised"
     },
     {
@@ -29036,7 +29036,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
+      "update_date": "2026-04-24",
       "update_type": "Revised"
     },
     {
@@ -29083,7 +29083,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-15",
+      "update_date": "2026-04-24",
       "update_type": "Revised"
     },
     {
@@ -29312,48 +29312,6 @@
       "brand_names": [
         "FUROSEMIDE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Furosemide Injection",
-      "id": "b43a1db35a8d049e",
-      "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-04",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
-      "product_ndcs": [
-        "25021-311"
-      ],
-      "related_info": "Use Sagent NDC 25021-320-04",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 sagent pharmaceuticals use sagent ndc 25021 320 04 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2026-04-23",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -29396,23 +29354,23 @@
       "brand_names": [
         "FUROSEMIDE"
       ],
-      "company_name": "Gland Pharma Limited",
+      "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Furosemide Injection",
-      "id": "64abdfdf398bbc7c",
+      "id": "b43a1db35a8d049e",
       "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-10",
+      "package_ndc": "25021-311-04",
       "package_ndcs": [
         "25021-311-02",
         "25021-311-04",
         "25021-311-10"
       ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
       "product_ndcs": [
         "25021-311"
       ],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
+      "related_info": "Use Sagent NDC 25021-320-04",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -29422,7 +29380,7 @@
         "1719290",
         "1719291"
       ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 sagent pharmaceuticals use sagent ndc 25021 320 04 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29431,8 +29389,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Revised"
+      "update_date": "2026-04-23",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -29475,6 +29433,48 @@
       ],
       "update_date": "2026-04-23",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Furosemide Injection",
+      "id": "64abdfdf398bbc7c",
+      "initial_posting_date": "2020-04-07",
+      "package_ndc": "25021-311-10",
+      "package_ndcs": [
+        "25021-311-02",
+        "25021-311-04",
+        "25021-311-10"
+      ],
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
+      "product_ndcs": [
+        "25021-311"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "FUROSEMIDE"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-04-24",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -32991,7 +32991,7 @@
         "63323-161",
         "63323-162"
       ],
-      "related_info": "Next release April 2026. Check wholesalers for inventory.",
+      "related_info": "Next release May 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -33001,7 +33001,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 63323 161 01 fresenius kabi usa llc next release april 2026 check wholesalers for inventory 63323 161 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 161 63323 162",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 63323 161 01 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 161 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 161 63323 162",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33010,7 +33010,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-02",
+      "update_date": "2026-04-23",
       "update_type": "Revised"
     },
     {
@@ -33051,7 +33051,7 @@
         "63323-162",
         "63323-161"
       ],
-      "related_info": "Next release April 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -33060,7 +33060,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 01 fresenius kabi usa llc next release april 2026 check wholesalers for inventory 63323 162 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 01 fresenius kabi usa llc check wholesalers for inventory 63323 162 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33069,8 +33069,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-02",
-      "update_type": "Reverified"
+      "update_date": "2026-04-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -33110,7 +33110,7 @@
         "63323-162",
         "63323-161"
       ],
-      "related_info": "Next release April 2026. Check wholesalers for inventory.",
+      "related_info": "Next release May 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -33119,7 +33119,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 02 fresenius kabi usa llc next release april 2026 check wholesalers for inventory 63323 162 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 02 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 162 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33128,8 +33128,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-02",
-      "update_type": "Reverified"
+      "update_date": "2026-04-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [],
@@ -33153,8 +33153,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Reverified"
+      "update_date": "2026-04-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [],
@@ -33178,8 +33178,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Reverified"
+      "update_date": "2026-04-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [],
@@ -33203,8 +33203,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Reverified"
+      "update_date": "2026-04-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -33250,8 +33250,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Reverified"
+      "update_date": "2026-04-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -33296,8 +33296,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-04-24",
-      "update_type": "Reverified"
+      "update_date": "2026-04-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -50463,14 +50463,14 @@
       "product_ndcs": [
         "47335-993"
       ],
-      "related_info": "Unavailable",
+      "related_info": "Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "311683"
       ],
-      "search_text": "metronidazole injection current injection metronidazole in plastic container injection 500 mg 100 ml ndc 47335 993 01 gland pharma limited unavailable 47335 993 01 metronidazole 311683 anti infective 47335 993",
+      "search_text": "metronidazole injection current injection metronidazole in plastic container injection 500 mg 100 ml ndc 47335 993 01 gland pharma limited discontinuation of the manufacture of the drug 47335 993 01 metronidazole 311683 anti infective 47335 993",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -50479,7 +50479,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2025-09-29",
+      "update_date": "2026-04-27",
       "update_type": "Revised"
     },
     {
@@ -67601,43 +67601,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67668,6 +67631,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -69191,44 +69191,6 @@
         "DOXYCYCLINE HYCLATE"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-05-02",
-      "dosage_form": "Tablet",
-      "generic_name": "Doxycycline Hyclate Tablet",
-      "id": "2b8a8c3faa451f22",
-      "initial_posting_date": "2025-05-02",
-      "package_ndc": "0591-5553-05",
-      "package_ndcs": [
-        "0591-5553-50",
-        "0591-5553-05"
-      ],
-      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
-      "product_ndcs": [
-        "0591-5553"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1650143"
-      ],
-      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2025-05-02",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-06-13",
       "dosage_form": "Tablet",
       "generic_name": "Doxycycline Hyclate Tablet",
@@ -69260,6 +69222,44 @@
         "Anti-Infective"
       ],
       "update_date": "2025-06-13",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-05-02",
+      "dosage_form": "Tablet",
+      "generic_name": "Doxycycline Hyclate Tablet",
+      "id": "2b8a8c3faa451f22",
+      "initial_posting_date": "2025-05-02",
+      "package_ndc": "0591-5553-05",
+      "package_ndcs": [
+        "0591-5553-50",
+        "0591-5553-05"
+      ],
+      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
+      "product_ndcs": [
+        "0591-5553"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "1650143"
+      ],
+      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2025-05-02",
       "update_type": "New"
     },
     {
@@ -69381,43 +69381,6 @@
         "OCELLA"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
-      "id": "20123ff3d009ca70",
-      "initial_posting_date": "2025-06-13",
-      "package_ndc": "0555-9131-67",
-      "package_ndcs": [
-        "0555-9131-79",
-        "0555-9131-67"
-      ],
-      "presentation": "Yasmin, Tablet, Kit (NDC 0555-9131-67)",
-      "product_ndcs": [
-        "0555-9131"
-      ],
-      "related_info": "",
-      "routes": [],
-      "rxcuis": [
-        "284207",
-        "748797",
-        "748800",
-        "801185"
-      ],
-      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet yasmin tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Reproductive"
-      ],
-      "update_date": "2025-06-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OCELLA"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-05-02",
       "dosage_form": "Tablet",
       "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
@@ -69448,6 +69411,43 @@
         "Reproductive"
       ],
       "update_date": "2025-05-02",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "OCELLA"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-06-13",
+      "dosage_form": "Tablet",
+      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
+      "id": "20123ff3d009ca70",
+      "initial_posting_date": "2025-06-13",
+      "package_ndc": "0555-9131-67",
+      "package_ndcs": [
+        "0555-9131-79",
+        "0555-9131-67"
+      ],
+      "presentation": "Yasmin, Tablet, Kit (NDC 0555-9131-67)",
+      "product_ndcs": [
+        "0555-9131"
+      ],
+      "related_info": "",
+      "routes": [],
+      "rxcuis": [
+        "284207",
+        "748797",
+        "748800",
+        "801185"
+      ],
+      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet yasmin tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Reproductive"
+      ],
+      "update_date": "2025-06-13",
       "update_type": "New"
     },
     {
@@ -86252,7 +86252,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-04-25",
+    "last_updated": "2026-04-27",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
