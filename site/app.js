@@ -92,13 +92,43 @@ function allStatuses() {
 function filteredRecords() {
   const terms = normalizeText(state.query).split(" ").filter(Boolean);
   let records = state.payload?.records || [];
+  
   if (state.status !== "All") {
     records = records.filter((record) => record.status === state.status);
   }
   if (terms.length) {
     records = records.filter((record) => terms.every((term) => record.search_text?.includes(term)));
   }
-  const sorted = [...records];
+
+  const groups = new Map();
+  for (const record of records) {
+    const key = `${record.generic_name || "Unnamed"}|${record.status}`;
+    
+    if (!groups.has(key)) {
+      groups.set(key, {
+        ...record,
+        id: key, 
+        _packageCount: 1,
+        _ndcSet: new Set(record.package_ndc ? [record.package_ndc] : [])
+      });
+    } else {
+      const group = groups.get(key);
+      group._packageCount++;
+      if (record.package_ndc) group._ndcSet.add(record.package_ndc);
+      
+      if (record.update_date && (!group.update_date || record.update_date > group.update_date)) {
+        group.update_date = record.update_date;
+      }
+    }
+  }
+
+  
+  const groupedRecords = Array.from(groups.values()).map(g => ({
+    ...g,
+    package_ndc: Array.from(g._ndcSet) 
+  }));
+
+  const sorted = [...groupedRecords];
   sorted.sort((a, b) => {
     if (state.sort === "updated") {
       return String(b.update_date || "").localeCompare(String(a.update_date || ""));
@@ -309,7 +339,7 @@ function renderResults(records) {
       makeElement(
         "div",
         "result-meta",
-        `${record.brand_names?.join(", ") || "No brand listed"} · NDC ${record.package_ndc || "unknown"} · Updated ${formatDate(record.update_date)}`,
+        `${record.brand_names?.join(", ") || "No brand listed"} · ${record._packageCount} package(s) · Updated ${formatDate(record.update_date)}`,
       ),
     );
     button.append(body, makeElement("span", pillClass(record.status), record.status || "Unknown"));
