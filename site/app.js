@@ -100,21 +100,38 @@ function filteredRecords() {
     records = records.filter((record) => terms.every((term) => record.search_text?.includes(term)));
   }
 
+
   const groups = new Map();
   for (const record of records) {
-    const key = `${record.generic_name || "Unnamed"}|${record.status}`;
+    const company = record.company_name || "Unknown Company";
+    const key = `${record.generic_name || "Unnamed"}|${company}|${record.status}`;
     
     if (!groups.has(key)) {
       groups.set(key, {
         ...record,
         id: key, 
         _packageCount: 1,
-        _ndcSet: new Set(record.package_ndc ? [record.package_ndc] : [])
+        _brands: new Set(record.brand_names || []),
+        _rxcuis: new Set(record.rxcuis || []),
+        _pkgNdcs: new Set(record.package_ndc ? [record.package_ndc] : []),
+        _prodNdcs: new Set(record.product_ndcs || []),
+        _categories: new Set(record.therapeutic_categories || []),
+        _dosage: new Set(record.dosage_form ? [record.dosage_form] : []),
+        _routes: new Set(record.routes || []),
+        _related: new Set(record.related_info ? [record.related_info] : [])
       });
     } else {
       const group = groups.get(key);
       group._packageCount++;
-      if (record.package_ndc) group._ndcSet.add(record.package_ndc);
+      
+      if (record.brand_names) record.brand_names.forEach(v => group._brands.add(v));
+      if (record.rxcuis) record.rxcuis.forEach(v => group._rxcuis.add(v));
+      if (record.package_ndc) group._pkgNdcs.add(record.package_ndc);
+      if (record.product_ndcs) record.product_ndcs.forEach(v => group._prodNdcs.add(v));
+      if (record.therapeutic_categories) record.therapeutic_categories.forEach(v => group._categories.add(v));
+      if (record.dosage_form) group._dosage.add(record.dosage_form);
+      if (record.routes) record.routes.forEach(v => group._routes.add(v));
+      if (record.related_info) group._related.add(record.related_info);
       
       if (record.update_date && (!group.update_date || record.update_date > group.update_date)) {
         group.update_date = record.update_date;
@@ -122,10 +139,17 @@ function filteredRecords() {
     }
   }
 
-  
   const groupedRecords = Array.from(groups.values()).map(g => ({
     ...g,
-    package_ndc: Array.from(g._ndcSet) 
+    brand_names: Array.from(g._brands),
+    rxcuis: Array.from(g._rxcuis),
+    package_ndc: Array.from(g._pkgNdcs),
+    product_ndcs: Array.from(g._prodNdcs),
+    therapeutic_categories: Array.from(g._categories),
+    dosage_form: Array.from(g._dosage),
+    routes: Array.from(g._routes),
+    related_info: Array.from(g._related).filter(Boolean), 
+    presentation: `Multiple presentations (${g._packageCount} packages)`
   }));
 
   const sorted = [...groupedRecords];
@@ -339,7 +363,7 @@ function renderResults(records) {
       makeElement(
         "div",
         "result-meta",
-        `${record.brand_names?.join(", ") || "No brand listed"} · ${record._packageCount} package(s) · Updated ${formatDate(record.update_date)}`,
+        `${record.company_name || "Unknown Company"} · ${record._packageCount} package(s) · Updated ${formatDate(record.update_date)}`,
       ),
     );
     button.append(body, makeElement("span", pillClass(record.status), record.status || "Unknown"));
