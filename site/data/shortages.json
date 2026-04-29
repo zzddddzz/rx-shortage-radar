@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:18:00+00:00",
+  "generated_at": "2026-04-29T11:05:34+00:00",
   "records": [
     {
       "brand_names": [
@@ -6447,7 +6447,7 @@
       "product_ndcs": [
         "63323-771"
       ],
-      "related_info": "4 & 7 month expiry available on request. Check wholesalers for inventory.",
+      "related_info": "3 & 6 month expiry available on request. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS",
         "SUBCUTANEOUS"
@@ -6455,7 +6455,7 @@
       "rxcuis": [
         "485246"
       ],
-      "search_text": "azacitidine injection current injection azacitidine injection 100 mg 30 ml ndc 63323 771 39 fresenius kabi usa llc 4 7 month expiry available on request check wholesalers for inventory 63323 771 39 azacitidine 485246 oncology 63323 771",
+      "search_text": "azacitidine injection current injection azacitidine injection 100 mg 30 ml ndc 63323 771 39 fresenius kabi usa llc 3 6 month expiry available on request check wholesalers for inventory 63323 771 39 azacitidine 485246 oncology 63323 771",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -6464,8 +6464,8 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-04-02",
-      "update_type": "Reverified"
+      "update_date": "2026-04-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -7992,37 +7992,8 @@
         "EPIDURAL",
         "RETROBULBAR"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1582 10 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1582 10 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1582 10 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1582 10 marcaine anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8112,37 +8083,8 @@
         "EPIDURAL",
         "RETROBULBAR"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 225 mg 30 ml 7 5 mg ml ndc 0409 1582 29 hospira inc a pfizer company 0409 1582 29 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 225 mg 30 ml 7 5 mg ml ndc 0409 1582 29 hospira inc a pfizer company 0409 1582 29 marcaine anesthesia 0409 1582 0409 1559 0409 1560 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8232,37 +8174,8 @@
         "INFILTRATION",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1587 50 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1587 50 marcaine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1587 0409 1559 0409 1560 0409 1582 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1587 50 hospira inc a pfizer company next delivery april 2026 estimated recovery june 2026 shortage per manufacturer manufacturing delay 0409 1587 50 marcaine anesthesia 0409 1587 0409 1559 0409 1560 0409 1582 0409 1610 0409 1746 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -9763,15 +9676,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 2 5 mg 1 ml ndc 71288 722 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 722 32 bupivacaine hydrochloride 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 71288 722 71288 721 71288 724 71288 725 71288 727 71288 728",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 2 5 mg 1 ml ndc 71288 722 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 722 32 bupivacaine hydrochloride anesthesia 71288 722 71288 721 71288 724 71288 725 71288 727 71288 728",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -9858,15 +9764,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 5 mg 1 ml ndc 71288 725 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 725 32 bupivacaine hydrochloride 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 71288 725 71288 721 71288 722 71288 724 71288 727 71288 728",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 5 mg 1 ml ndc 71288 725 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 725 32 bupivacaine hydrochloride anesthesia 71288 725 71288 721 71288 722 71288 724 71288 727 71288 728",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -9951,15 +9850,8 @@
         "EPIDURAL",
         "RETROBULBAR"
       ],
-      "rxcuis": [
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 71288 728 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 728 32 bupivacaine hydrochloride 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 71288 728 71288 721 71288 722 71288 724 71288 725 71288 727",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 71288 728 32 kindos pharmaceuticals co ltd meitheal pharmaceuticals is distributor labeler product is available 71288 728 32 bupivacaine hydrochloride anesthesia 71288 728 71288 721 71288 722 71288 724 71288 725 71288 727",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10089,37 +9981,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 25 mg 10 ml 2 5 mg ml 1 200 000 ndc 0409 1746 10 hospira inc a pfizer company 0409 1746 10 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 25 mg 10 ml 2 5 mg ml 1 200 000 ndc 0409 1746 10 hospira inc a pfizer company 0409 1746 10 marcaine with epinephrine anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10212,37 +10075,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 75 mg 30 ml 2 5 mg ml 1 200 000 ndc 0409 1746 30 hospira inc a pfizer company 0409 1746 30 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 75 mg 30 ml 2 5 mg ml 1 200 000 ndc 0409 1746 30 hospira inc a pfizer company 0409 1746 30 marcaine with epinephrine anesthesia 0409 1746 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1749 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10334,37 +10168,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 50 mg 10 ml 5 mg ml 1 200 000 ndc 0409 1749 10 hospira inc a pfizer company 0409 1749 10 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 50 mg 10 ml 5 mg ml 1 200 000 ndc 0409 1749 10 hospira inc a pfizer company 0409 1749 10 marcaine with epinephrine anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10456,37 +10261,8 @@
         "INTRACAUDAL",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 150 mg 30 ml 5 mg ml 1 200 000 ndc 0409 1749 29 hospira inc a pfizer company 0409 1749 29 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 150 mg 30 ml 5 mg ml 1 200 000 ndc 0409 1749 29 hospira inc a pfizer company 0409 1749 29 marcaine with epinephrine anesthesia 0409 1749 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1752 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10577,37 +10353,8 @@
         "INFILTRATION",
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 125 mg 50 ml 2 5 mg ml 1 200 000 ndc 0409 1752 50 hospira inc a pfizer company 0409 1752 50 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1752 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 125 mg 50 ml 2 5 mg ml 1 200 000 ndc 0409 1752 50 hospira inc a pfizer company 0409 1752 50 marcaine with epinephrine anesthesia 0409 1752 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1755 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -10697,37 +10444,8 @@
       "routes": [
         "PERINEURAL"
       ],
-      "rxcuis": [
-        "1012377",
-        "1012381",
-        "1012384",
-        "1012388",
-        "1012396",
-        "1012400",
-        "1012404",
-        "1012406",
-        "1672917",
-        "1672919",
-        "1673242",
-        "1673243",
-        "1724786",
-        "1724787",
-        "1724794",
-        "1724796",
-        "1724880",
-        "1724884",
-        "1725044",
-        "1725046",
-        "1725078",
-        "1725079",
-        "1725082",
-        "1725083",
-        "1867594",
-        "1867596",
-        "1867612",
-        "1867614"
-      ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 250 mg 50 ml 5 mg ml 1 200 000 ndc 0409 1755 50 hospira inc a pfizer company 0409 1755 50 marcaine with epinephrine 1012377 1012381 1012384 1012388 1012396 1012400 1012404 1012406 1672917 1672919 1673242 1673243 1724786 1724787 1724794 1724796 1724880 1724884 1725044 1725046 1725078 1725079 1725082 1725083 1867594 1867596 1867612 1867614 anesthesia 0409 1755 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
+      "rxcuis": [],
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection marcaine with epinephrine injection marcaine with epinephrine 1 200 000 as the bitartrate 250 mg 50 ml 5 mg ml 1 200 000 ndc 0409 1755 50 hospira inc a pfizer company 0409 1755 50 marcaine with epinephrine anesthesia 0409 1755 0409 1559 0409 1560 0409 1582 0409 1587 0409 1610 0409 1746 0409 1749 0409 1752 0409 2510 0409 7535 0409 1250 0409 5010 0409 1530 0409 0525 0409 7510 0409 2253",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13339,8 +13057,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "309339",
-        "685574",
         "685576",
         "685578",
         "706461",
@@ -13352,9 +13068,11 @@
         "1737582",
         "205964",
         "309335",
-        "309336"
+        "309336",
+        "309339",
+        "685574"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 600 mg 4 ml 150 mg ml ndc 0009 0775 26 pfizer inc 0009 0775 26 cleocin phosphate 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 600 mg 4 ml 150 mg ml ndc 0009 0775 26 pfizer inc 0009 0775 26 cleocin phosphate 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 309339 685574 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13418,8 +13136,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "309339",
-        "685574",
         "685576",
         "685578",
         "706461",
@@ -13431,9 +13147,11 @@
         "1737582",
         "205964",
         "309335",
-        "309336"
+        "309336",
+        "309339",
+        "685574"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 300 mg 2 ml 150 mg ml ndc 0009 0870 26 pfizer inc limited supply available next delivery and estimated recovery december 2028 0009 0870 26 cleocin phosphate 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 300 mg 2 ml 150 mg ml ndc 0009 0870 26 pfizer inc limited supply available next delivery and estimated recovery december 2028 0009 0870 26 cleocin phosphate 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 309339 685574 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13497,8 +13215,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "309339",
-        "685574",
         "685576",
         "685578",
         "706461",
@@ -13510,9 +13226,11 @@
         "1737582",
         "205964",
         "309335",
-        "309336"
+        "309336",
+        "309339",
+        "685574"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 900 mg 6 ml 150 mg ml ndc 0009 0902 18 pfizer inc 0009 0902 18 cleocin phosphate 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 900 mg 6 ml 150 mg ml ndc 0009 0902 18 pfizer inc 0009 0902 18 cleocin phosphate 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 309335 309336 309339 685574 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13979,12 +13697,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "309335",
-        "309336",
-        "309339"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 6 mg 1 ml ndc 0781 3288 09 sandoz inc 0781 3288 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3288 0781 3289 0781 3290",
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 6 mg 1 ml ndc 0781 3288 09 sandoz inc 0781 3288 09 clindamycin in 5 percent dextrose anti infective 0781 3288 0781 3289 0781 3290",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14025,12 +13739,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "309335",
-        "309336",
-        "309339"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 0781 3289 09 sandoz inc estimated recovery end of june 2026 0781 3289 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3289 0781 3288 0781 3290",
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 0781 3289 09 sandoz inc estimated recovery end of june 2026 0781 3289 09 clindamycin in 5 percent dextrose anti infective 0781 3289 0781 3288 0781 3290",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14071,12 +13781,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "309335",
-        "309336",
-        "309339"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 0781 3290 09 sandoz inc 0781 3290 09 clindamycin in 5 percent dextrose 309335 309336 309339 anti infective 0781 3290 0781 3288 0781 3289",
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 0781 3290 09 sandoz inc 0781 3290 09 clindamycin in 5 percent dextrose anti infective 0781 3290 0781 3288 0781 3289",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29228,48 +28934,6 @@
       "brand_names": [
         "FUROSEMIDE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Furosemide Injection",
-      "id": "08efb0a7845ad3a8",
-      "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-02",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
-      "product_ndcs": [
-        "25021-311"
-      ],
-      "related_info": "Use Sagent NDC 25021-320-02",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 02 sagent pharmaceuticals use sagent ndc 25021 320 02 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2026-04-23",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -29305,7 +28969,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-24",
+      "update_date": "2026-04-28",
       "update_type": "Revised"
     },
     {
@@ -29347,92 +29011,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-24",
+      "update_date": "2026-04-28",
       "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Furosemide Injection",
-      "id": "b43a1db35a8d049e",
-      "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-04",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
-      "product_ndcs": [
-        "25021-311"
-      ],
-      "related_info": "Use Sagent NDC 25021-320-04",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 sagent pharmaceuticals use sagent ndc 25021 320 04 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2026-04-23",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Furosemide Injection",
-      "id": "64abdfdf398bbc7c",
-      "initial_posting_date": "2020-04-07",
-      "package_ndc": "25021-311-10",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
-      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
-      "product_ndcs": [
-        "25021-311"
-      ],
-      "related_info": "Use Sagent NDC 25021-320-10",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 sagent pharmaceuticals use sagent ndc 25021 320 10 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2026-04-23",
-      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -29473,7 +29053,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-04-24",
+      "update_date": "2026-04-28",
       "update_type": "Revised"
     },
     {
@@ -30486,7 +30066,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Reverified"
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -30530,7 +30110,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Revised"
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -41980,79 +41560,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "cb0835bd9e955a3d",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-04-17",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "bbab88fdb6eb3a99",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -42107,6 +41614,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-04-17",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "cb0835bd9e955a3d",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51155,7 +50735,7 @@
       "brand_names": [
         "MIDAZOLAM HYDROCHLORIDE"
       ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
+      "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Midazolam Hydrochloride Injection",
@@ -51170,7 +50750,7 @@
       "product_ndcs": [
         "23155-600"
       ],
-      "related_info": "Logistic delay due to geopolitical situation. Estimated availability: 5/25/2026",
+      "related_info": "Distributed by Avet Pharmaceuticals, Inc.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51178,7 +50758,7 @@
       "rxcuis": [
         "1666798"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 avet pharmaceuticals inc logistic delay due to geopolitical situation estimated availability 5 25 2026 23155 600 41 midazolam hydrochloride 1666798 anesthesia neurology 23155 600",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 gland pharma limited distributed by avet pharmaceuticals inc 23155 600 41 midazolam hydrochloride 1666798 anesthesia neurology 23155 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51188,14 +50768,14 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Reverified"
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
         "MIDAZOLAM HYDROCHLORIDE"
       ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
+      "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Midazolam Hydrochloride Injection",
@@ -51212,7 +50792,7 @@
       "product_ndcs": [
         "23155-601"
       ],
-      "related_info": "Estimated availability: 5/25/2026",
+      "related_info": "Distributed by Avet Pharmaceuticals, Inc.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51220,7 +50800,7 @@
       "rxcuis": [
         "311702"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 23155 601 41 avet pharmaceuticals inc estimated availability 5 25 2026 23155 601 41 midazolam hydrochloride 311702 anesthesia neurology 23155 601",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 23155 601 41 gland pharma limited distributed by avet pharmaceuticals inc 23155 601 41 midazolam hydrochloride 311702 anesthesia neurology 23155 601",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51230,14 +50810,14 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-04-15",
-      "update_type": "Reverified"
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
         "MIDAZOLAM HYDROCHLORIDE"
       ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
+      "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Midazolam Hydrochloride Injection",
@@ -51254,7 +50834,7 @@
       "product_ndcs": [
         "23155-601"
       ],
-      "related_info": "Expected to go on BO by end May and recovery by W3 July 2026",
+      "related_info": "Distributed by Avet Pharmaceuticals, Inc.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51262,7 +50842,7 @@
       "rxcuis": [
         "311702"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 23155 601 42 avet pharmaceuticals inc expected to go on bo by end may and recovery by w3 july 2026 23155 601 42 midazolam hydrochloride 311702 anesthesia neurology 23155 601",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 23155 601 42 gland pharma limited distributed by avet pharmaceuticals inc 23155 601 42 midazolam hydrochloride 311702 anesthesia neurology 23155 601",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51272,7 +50852,85 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-04-15",
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "MIDAZOLAM"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "6226c20c43cc6ad6",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "25021-655-02",
+      "package_ndcs": [
+        "25021-655-02"
+      ],
+      "presentation": "Midazolam Hydrochloride, Injection, 1 mg/1 mL (NDC 25021-655-02)",
+      "product_ndcs": [
+        "25021-655"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1666798"
+      ],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 25021 655 02 gland pharma limited distributed by sagent pharmaceuticals 25021 655 02 midazolam 1666798 anesthesia neurology 25021 655",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "MIDAZOLAM"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "08bf2bfafbc1eefe",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "25021-661-10",
+      "package_ndcs": [
+        "25021-661-10"
+      ],
+      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 25021-661-10)",
+      "product_ndcs": [
+        "25021-661"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "311702"
+      ],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 25021 661 10 gland pharma limited distributed by sagent pharmaceuticals 25021 661 10 midazolam 311702 anesthesia neurology 25021 661",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
       "update_type": "Revised"
     },
     {
@@ -51359,84 +51017,6 @@
         "Neurology"
       ],
       "update_date": "2026-04-01",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "d0eca78fac38b632",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "47781-588-68",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 2 mg/2 mL (NDC 47781-588-68)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 2 mg 2 ml ndc 47781 588 68 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 47781 588 68 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "9635f3324f1569d7",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "47781-589-17",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 47781-589-17)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Alvogen",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 47781 589 17 gland pharma limited distributed by alvogen 47781 589 17 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "5939acf5e15aa3a6",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "47781-589-91",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 47781-589-91)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 47781 589 91 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 47781 589 91 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
       "update_type": "Reverified"
     },
     {
@@ -51529,7 +51109,7 @@
         "63323-411",
         "63323-412"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release May 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51538,7 +51118,7 @@
         "311700",
         "311702"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 63323 411 12 fresenius kabi usa llc check wholesalers for inventory 63323 411 12 midazolam 311700 311702 anesthesia neurology 63323 411 63323 412",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 63323 411 12 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 411 12 midazolam 311700 311702 anesthesia neurology 63323 411 63323 412",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51548,8 +51128,8 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-04-02",
-      "update_type": "Reverified"
+      "update_date": "2026-04-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -51756,7 +51336,7 @@
         "63323-412",
         "63323-411"
       ],
-      "related_info": "Next release April 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51765,7 +51345,7 @@
         "311700",
         "311702"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 63323 412 25 fresenius kabi usa llc next release april 2026 check wholesalers for inventory 63323 412 25 midazolam 311700 311702 anesthesia neurology 63323 412 63323 411",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 63323 412 25 fresenius kabi usa llc check wholesalers for inventory 63323 412 25 midazolam 311700 311702 anesthesia neurology 63323 412 63323 411",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51775,86 +51355,8 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-04-02",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "317a18011600cd01",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "70860-600-02",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 2 mg/2 mL (NDC 70860-600-02)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 2 mg 2 ml ndc 70860 600 02 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 70860 600 02 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "dc7d8f20b73928ff",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "70860-601-05",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 70860-601-05)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 70860 601 05 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 70860 601 05 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Midazolam Hydrochloride Injection",
-      "id": "4bde28932e4fe9d7",
-      "initial_posting_date": "2020-04-02",
-      "package_ndc": "70860-601-10",
-      "package_ndcs": [],
-      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 70860-601-10)",
-      "product_ndcs": [],
-      "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 5 mg 1 ml ndc 70860 601 10 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 70860 601 10 anesthesia neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Anesthesia",
-        "Neurology"
-      ],
-      "update_date": "2025-09-29",
-      "update_type": "Reverified"
+      "update_date": "2026-04-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -67601,43 +67103,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67668,6 +67133,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -67748,6 +67250,56 @@
         "Antiviral"
       ],
       "update_date": "2025-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CRENESSITY"
+      ],
+      "company_name": "Neurocrine Biosciences, Inc.",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Capsule",
+      "generic_name": "Crinecerfont Capsule",
+      "id": "523c40ead1b498a0",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "70370-5025-1",
+      "package_ndcs": [
+        "70370-5025-1",
+        "70370-5050-1",
+        "70370-5100-1",
+        "70370-5250-1"
+      ],
+      "presentation": "Crenessity, Capsule, 25 mg (NDC 70370-5025-1)",
+      "product_ndcs": [
+        "70370-5025",
+        "70370-5050",
+        "70370-5100",
+        "70370-5250"
+      ],
+      "related_info": "Neurocrine is discontinuing only the 25 mg soft gel capsule dose strength (NDC 70370-5025-01). The 50mg and 100mg soft gel capsule dose strength (NDC 70370-5050-1 and 70370-5100-1), and 50 mg/mL oral solution will continue to be marketed (NDC 70370-5250-1).",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "2701391",
+        "2701397",
+        "2701399",
+        "2701401",
+        "2701403",
+        "2701405",
+        "2701409",
+        "2701413"
+      ],
+      "search_text": "crinecerfont capsule to be discontinued capsule crenessity capsule 25 mg ndc 70370 5025 1 neurocrine biosciences inc neurocrine is discontinuing only the 25 mg soft gel capsule dose strength ndc 70370 5025 01 the 50mg and 100mg soft gel capsule dose strength ndc 70370 5050 1 and 70370 5100 1 and 50 mg ml oral solution will continue to be marketed ndc 70370 5250 1 70370 5025 1 crenessity 2701391 2701397 2701399 2701401 2701403 2701405 2701409 2701413 endocrinology metabolism 70370 5025 70370 5050 70370 5100 70370 5250",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CRINECERFONT"
+      ],
+      "therapeutic_categories": [
+        "Endocrinology/Metabolism"
+      ],
+      "update_date": "2026-04-28",
       "update_type": "New"
     },
     {
@@ -68439,406 +67991,6 @@
     },
     {
       "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "5d4d0495702880bf",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7122-11",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 125 mg (NDC 0832-7122-11)",
-      "product_ndcs": [
-        "0832-7122",
-        "0832-7123",
-        "0832-7124"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 125 mg ndc 0832 7122 11 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7122 11 divalproex sodium 1099625 1099678 1099870 neurology 0832 7122 0832 7123 0832 7124",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "cab5badab59d1435",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7122-15",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 125 mg (NDC 0832-7122-15)",
-      "product_ndcs": [
-        "0832-7122",
-        "0832-7123",
-        "0832-7124"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 125 mg ndc 0832 7122 15 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7122 15 divalproex sodium 1099625 1099678 1099870 neurology 0832 7122 0832 7123 0832 7124",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "ce21471de56c79cb",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7123-01",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 250 mg (NDC 0832-7123-01)",
-      "product_ndcs": [
-        "0832-7123",
-        "0832-7122",
-        "0832-7124"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 250 mg ndc 0832 7123 01 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7123 01 divalproex sodium 1099625 1099678 1099870 neurology 0832 7123 0832 7122 0832 7124",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "c242c4d1bac30819",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7123-11",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 250 mg (NDC 0832-7123-11)",
-      "product_ndcs": [
-        "0832-7123",
-        "0832-7122",
-        "0832-7124"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 250 mg ndc 0832 7123 11 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7123 11 divalproex sodium 1099625 1099678 1099870 neurology 0832 7123 0832 7122 0832 7124",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "3164f59d00f01694",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7123-15",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 250 mg (NDC 0832-7123-15)",
-      "product_ndcs": [
-        "0832-7123",
-        "0832-7122",
-        "0832-7124"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 250 mg ndc 0832 7123 15 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7123 15 divalproex sodium 1099625 1099678 1099870 neurology 0832 7123 0832 7122 0832 7124",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "4dbea483603004c3",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7124-01",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 500 mg (NDC 0832-7124-01)",
-      "product_ndcs": [
-        "0832-7124",
-        "0832-7122",
-        "0832-7123"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 500 mg ndc 0832 7124 01 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7124 01 divalproex sodium 1099625 1099678 1099870 neurology 0832 7124 0832 7122 0832 7123",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "e3c9f80f17413165",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7124-11",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 500 mg (NDC 0832-7124-11)",
-      "product_ndcs": [
-        "0832-7124",
-        "0832-7122",
-        "0832-7123"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 500 mg ndc 0832 7124 11 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7124 11 divalproex sodium 1099625 1099678 1099870 neurology 0832 7124 0832 7122 0832 7123",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DIVALPROEX SODIUM"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Divalproex Sodium Tablet, Delayed Release",
-      "id": "aa333135a898c3c9",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-7124-15",
-      "package_ndcs": [
-        "0832-7122-11",
-        "0832-7122-15",
-        "0832-7123-11",
-        "0832-7123-15",
-        "0832-7123-89",
-        "0832-7123-01",
-        "0832-7124-11",
-        "0832-7124-15",
-        "0832-7124-89",
-        "0832-7124-01"
-      ],
-      "presentation": "Divalproex Sodium, Tablet, Delayed Release, 500 mg (NDC 0832-7124-15)",
-      "product_ndcs": [
-        "0832-7124",
-        "0832-7122",
-        "0832-7123"
-      ],
-      "related_info": "Discontinuation of manufacture of drug based on business decision.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099625",
-        "1099678",
-        "1099870"
-      ],
-      "search_text": "divalproex sodium tablet delayed release to be discontinued tablet divalproex sodium tablet delayed release 500 mg ndc 0832 7124 15 upsher smith laboratories llc discontinuation of manufacture of drug based on business decision 0832 7124 15 divalproex sodium 1099625 1099678 1099870 neurology 0832 7124 0832 7122 0832 7123",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DIVALPROEX SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "DOBUTAMINE"
       ],
       "company_name": "Pfizer Inc.",
@@ -69381,43 +68533,6 @@
         "OCELLA"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-05-02",
-      "dosage_form": "Tablet",
-      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
-      "id": "5a2d217056f5b820",
-      "initial_posting_date": "2025-05-02",
-      "package_ndc": "0555-9131-67",
-      "package_ndcs": [
-        "0555-9131-79",
-        "0555-9131-67"
-      ],
-      "presentation": "Ocella, Tablet, Kit (NDC 0555-9131-67)",
-      "product_ndcs": [
-        "0555-9131"
-      ],
-      "related_info": "",
-      "routes": [],
-      "rxcuis": [
-        "284207",
-        "748797",
-        "748800",
-        "801185"
-      ],
-      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet ocella tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Reproductive"
-      ],
-      "update_date": "2025-05-02",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OCELLA"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-06-13",
       "dosage_form": "Tablet",
       "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
@@ -69448,6 +68563,43 @@
         "Reproductive"
       ],
       "update_date": "2025-06-13",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "OCELLA"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-05-02",
+      "dosage_form": "Tablet",
+      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
+      "id": "5a2d217056f5b820",
+      "initial_posting_date": "2025-05-02",
+      "package_ndc": "0555-9131-67",
+      "package_ndcs": [
+        "0555-9131-79",
+        "0555-9131-67"
+      ],
+      "presentation": "Ocella, Tablet, Kit (NDC 0555-9131-67)",
+      "product_ndcs": [
+        "0555-9131"
+      ],
+      "related_info": "",
+      "routes": [],
+      "rxcuis": [
+        "284207",
+        "748797",
+        "748800",
+        "801185"
+      ],
+      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet ocella tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Reproductive"
+      ],
+      "update_date": "2025-05-02",
       "update_type": "New"
     },
     {
@@ -69908,6 +69060,92 @@
         "Anti-Infective"
       ],
       "update_date": "2025-07-16",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ETRAVIRINE"
+      ],
+      "company_name": "Janssen Research and Development",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Tablet",
+      "generic_name": "Etravirine Tablet",
+      "id": "3336332c17e81b47",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "10147-0570-1",
+      "package_ndcs": [
+        "10147-0570-1",
+        "10147-0571-1"
+      ],
+      "presentation": "Etravirine, Tablet, 100 mg (NDC 10147-0570-1)",
+      "product_ndcs": [
+        "10147-0570",
+        "10147-0571"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "754761",
+        "1052658"
+      ],
+      "search_text": "etravirine tablet to be discontinued tablet etravirine tablet 100 mg ndc 10147 0570 1 janssen research and development discontinuation of the manufacture of the drug 10147 0570 1 etravirine 754761 1052658 antiviral 10147 0570 10147 0571",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ETRAVIRINE"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "INTELENCE"
+      ],
+      "company_name": "Janssen Research and Development",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Tablet",
+      "generic_name": "Etravirine Tablet",
+      "id": "68c9f22d9899b971",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "59676-570-01",
+      "package_ndcs": [
+        "59676-570-01",
+        "59676-571-01",
+        "59676-572-01"
+      ],
+      "presentation": "Intelence, Tablet, 100 mg (NDC 59676-570-01)",
+      "product_ndcs": [
+        "59676-570",
+        "59676-571",
+        "59676-572"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "754761",
+        "758555",
+        "1052658",
+        "1052660",
+        "1250721",
+        "1250723"
+      ],
+      "search_text": "etravirine tablet to be discontinued tablet intelence tablet 100 mg ndc 59676 570 01 janssen research and development discontinuation of the manufacture of the drug 59676 570 01 intelence 754761 758555 1052658 1052660 1250721 1250723 antiviral 59676 570 59676 571 59676 572",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ETRAVIRINE"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-04-28",
       "update_type": "New"
     },
     {
@@ -71348,6 +70586,132 @@
         "Neurology"
       ],
       "update_date": "2026-02-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Furosemide Injection",
+      "id": "68d7584c4e03e1ef",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "25021-311-02",
+      "package_ndcs": [
+        "25021-311-02",
+        "25021-311-04",
+        "25021-311-10"
+      ],
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
+      "product_ndcs": [
+        "25021-311"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "FUROSEMIDE"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Furosemide Injection",
+      "id": "466ae4fa038bbcd6",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "25021-311-04",
+      "package_ndcs": [
+        "25021-311-02",
+        "25021-311-04",
+        "25021-311-10"
+      ],
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
+      "product_ndcs": [
+        "25021-311"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "FUROSEMIDE"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Furosemide Injection",
+      "id": "33c4dcf480fb8a3e",
+      "initial_posting_date": "2026-04-28",
+      "package_ndc": "25021-311-10",
+      "package_ndcs": [
+        "25021-311-02",
+        "25021-311-04",
+        "25021-311-10"
+      ],
+      "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
+      "product_ndcs": [
+        "25021-311"
+      ],
+      "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "FUROSEMIDE"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-04-28",
       "update_type": "New"
     },
     {
@@ -76426,86 +75790,6 @@
     },
     {
       "brand_names": [
-        "MEMANTINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Memantine Hydrochloride Tablet",
-      "id": "2cc8f0621735cafd",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-1112-60",
-      "package_ndcs": [
-        "0832-1112-60",
-        "0832-1113-60"
-      ],
-      "presentation": "Memantine Hydrochloride, Tablet, 5 mg (NDC 0832-1112-60)",
-      "product_ndcs": [
-        "0832-1112",
-        "0832-1113"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "996561",
-        "996571"
-      ],
-      "search_text": "memantine hydrochloride tablet to be discontinued tablet memantine hydrochloride tablet 5 mg ndc 0832 1112 60 upsher smith laboratories llc 0832 1112 60 memantine hydrochloride 996561 996571 neurology 0832 1112 0832 1113",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MEMANTINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MEMANTINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Memantine Hydrochloride Tablet",
-      "id": "8c57b949b70c5f9a",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-1113-60",
-      "package_ndcs": [
-        "0832-1112-60",
-        "0832-1113-60"
-      ],
-      "presentation": "Memantine Hydrochloride, Tablet, 10 mg (NDC 0832-1113-60)",
-      "product_ndcs": [
-        "0832-1113",
-        "0832-1112"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "996561",
-        "996571"
-      ],
-      "search_text": "memantine hydrochloride tablet to be discontinued tablet memantine hydrochloride tablet 10 mg ndc 0832 1113 60 upsher smith laboratories llc 0832 1113 60 memantine hydrochloride 996561 996571 neurology 0832 1113 0832 1112",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MEMANTINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "METHAMPHETAMINE HYDROCHLORIDE"
       ],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
@@ -77138,323 +76422,160 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "a1a9e99a5aca00a3",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0211-01",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 2.5 mg (NDC 0245-0211-01)",
-      "product_ndcs": [
-        "0245-0211",
-        "0245-0212",
-        "0245-0213"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 2 5 mg ndc 0245 0211 01 upsher smith laboratories llc 0245 0211 01 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0211 0245 0212 0245 0213",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "ac916a93a5b312be",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0211-11",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 2.5 mg (NDC 0245-0211-11)",
-      "product_ndcs": [
-        "0245-0211",
-        "0245-0212",
-        "0245-0213"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 2 5 mg ndc 0245 0211 11 upsher smith laboratories llc 0245 0211 11 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0211 0245 0212 0245 0213",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "1e0a000feb37637d",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0212-01",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 5 mg (NDC 0245-0212-01)",
-      "product_ndcs": [
-        "0245-0212",
-        "0245-0211",
-        "0245-0213"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 5 mg ndc 0245 0212 01 upsher smith laboratories llc 0245 0212 01 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0212 0245 0211 0245 0213",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "9a2da4628d30925b",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0212-11",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 5 mg (NDC 0245-0212-11)",
-      "product_ndcs": [
-        "0245-0212",
-        "0245-0211",
-        "0245-0213"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 5 mg ndc 0245 0212 11 upsher smith laboratories llc 0245 0212 11 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0212 0245 0211 0245 0213",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "cfc26d3978e75e2e",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0213-01",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 10 mg (NDC 0245-0213-01)",
-      "product_ndcs": [
-        "0245-0213",
-        "0245-0211",
-        "0245-0212"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 10 mg ndc 0245 0213 01 upsher smith laboratories llc 0245 0213 01 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0213 0245 0211 0245 0212",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "832bd32776539c79",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0245-0213-11",
-      "package_ndcs": [
-        "0245-0211-11",
-        "0245-0211-89",
-        "0245-0211-01",
-        "0245-0212-11",
-        "0245-0212-89",
-        "0245-0212-01",
-        "0245-0213-11",
-        "0245-0213-89",
-        "0245-0213-01"
-      ],
-      "presentation": "Orvaten, Tablet, 10 mg (NDC 0245-0213-11)",
-      "product_ndcs": [
-        "0245-0213",
-        "0245-0211",
-        "0245-0212"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "993462",
-        "993466",
-        "993470"
-      ],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 10 mg ndc 0245 0213 11 upsher smith laboratories llc 0245 0213 11 midodrine hydrochloride 993462 993466 993470 cardiovascular 0245 0213 0245 0211 0245 0212",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "MIDODRINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
       "brand_names": [],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Tablet",
-      "generic_name": "Midodrine Hydrochloride Tablet",
-      "id": "52a0079a0be2e58e",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "55154-5623-0",
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "014041ced1671179",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "47781-588-68",
       "package_ndcs": [],
-      "presentation": "Orvaten, Tablet, 5 mg (NDC 55154-5623-0)",
+      "presentation": "Midazolam Hydrochloride, Injection, 2 mg/2 mL (NDC 47781-588-68)",
       "product_ndcs": [],
-      "related_info": "",
+      "related_info": "This NDC is discontinued for Alvogen",
       "routes": [],
       "rxcuis": [],
-      "search_text": "midodrine hydrochloride tablet to be discontinued tablet orvaten tablet 5 mg ndc 55154 5623 0 upsher smith laboratories llc 55154 5623 0 cardiovascular",
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 2 mg 2 ml ndc 47781 588 68 gland pharma limited this ndc is discontinued for alvogen 47781 588 68 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [],
       "therapeutic_categories": [
-        "Cardiovascular"
+        "Anesthesia",
+        "Neurology"
       ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "1d7762c4a75e7a7a",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "47781-589-17",
+      "package_ndcs": [],
+      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 47781-589-17)",
+      "product_ndcs": [],
+      "related_info": "This NDC is discontinued for Alvogen",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 5 mg 1 ml ndc 47781 589 17 gland pharma limited this ndc is discontinued for alvogen 47781 589 17 anesthesia neurology",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "8583bbc42a41e534",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "47781-589-91",
+      "package_ndcs": [],
+      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 47781-589-91)",
+      "product_ndcs": [],
+      "related_info": "This NDC is discontinued for Alvogen",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 5 mg 1 ml ndc 47781 589 91 gland pharma limited this ndc is discontinued for alvogen 47781 589 91 anesthesia neurology",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "67bbd8a33fb813c1",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "70860-600-02",
+      "package_ndcs": [],
+      "presentation": "Midazolam Hydrochloride, Injection, 2 mg/2 mL (NDC 70860-600-02)",
+      "product_ndcs": [],
+      "related_info": "This NDC is discontinued for Athenex",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 2 mg 2 ml ndc 70860 600 02 gland pharma limited this ndc is discontinued for athenex 70860 600 02 anesthesia neurology",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "9687ad551e844535",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "70860-601-05",
+      "package_ndcs": [],
+      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 70860-601-05)",
+      "product_ndcs": [],
+      "related_info": "This NDC is discontinued for Athenex",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 5 mg 1 ml ndc 70860 601 05 gland pharma limited this ndc is discontinued for athenex 70860 601 05 anesthesia neurology",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": "2026-04-28",
+      "dosage_form": "Injection",
+      "generic_name": "Midazolam Hydrochloride Injection",
+      "id": "c0463087ee2221af",
+      "initial_posting_date": "2020-04-02",
+      "package_ndc": "70860-601-10",
+      "package_ndcs": [],
+      "presentation": "Midazolam Hydrochloride, Injection, 5 mg/1 mL (NDC 70860-601-10)",
+      "product_ndcs": [],
+      "related_info": "This NDC is discontinued for Athenex",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection to be discontinued injection midazolam hydrochloride injection 5 mg 1 ml ndc 70860 601 10 gland pharma limited this ndc is discontinued for athenex 70860 601 10 anesthesia neurology",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anesthesia",
+        "Neurology"
+      ],
+      "update_date": "2026-04-28",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -79329,129 +78450,6 @@
         "Psychiatry"
       ],
       "update_date": "2025-05-23",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "NYAMYC"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Topical Powder",
-      "generic_name": "Nystatin Topical Powder",
-      "id": "b29a873ecba4623e",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-0465-15",
-      "package_ndcs": [
-        "0832-0465-15",
-        "0832-0465-30",
-        "0832-0465-60"
-      ],
-      "presentation": "Nystatin, Topical Powder, 100000 [USP'U]/1 g (NDC 0832-0465-15)",
-      "product_ndcs": [
-        "0832-0465"
-      ],
-      "related_info": "",
-      "routes": [
-        "TOPICAL"
-      ],
-      "rxcuis": [
-        "584414",
-        "646456"
-      ],
-      "search_text": "nystatin topical powder to be discontinued topical powder nystatin topical powder 100000 usp u 1 g ndc 0832 0465 15 upsher smith laboratories llc 0832 0465 15 nyamyc 584414 646456 anti infective dermatology 0832 0465",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "NYSTATIN"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective",
-        "Dermatology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "NYAMYC"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Topical Powder",
-      "generic_name": "Nystatin Topical Powder",
-      "id": "17206d3b6520579e",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-0465-30",
-      "package_ndcs": [
-        "0832-0465-15",
-        "0832-0465-30",
-        "0832-0465-60"
-      ],
-      "presentation": "Nystatin, Topical Powder, 100000 [USP'U]/1 g (NDC 0832-0465-30)",
-      "product_ndcs": [
-        "0832-0465"
-      ],
-      "related_info": "",
-      "routes": [
-        "TOPICAL"
-      ],
-      "rxcuis": [
-        "584414",
-        "646456"
-      ],
-      "search_text": "nystatin topical powder to be discontinued topical powder nystatin topical powder 100000 usp u 1 g ndc 0832 0465 30 upsher smith laboratories llc 0832 0465 30 nyamyc 584414 646456 anti infective dermatology 0832 0465",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "NYSTATIN"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective",
-        "Dermatology"
-      ],
-      "update_date": "2025-04-28",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "NYAMYC"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-04-28",
-      "dosage_form": "Topical Powder",
-      "generic_name": "Nystatin Topical Powder",
-      "id": "71904c8cdecba3c3",
-      "initial_posting_date": "2025-04-28",
-      "package_ndc": "0832-0465-60",
-      "package_ndcs": [
-        "0832-0465-15",
-        "0832-0465-30",
-        "0832-0465-60"
-      ],
-      "presentation": "Nystatin, Topical Powder, 100000 [USP'U]/1 g (NDC 0832-0465-60)",
-      "product_ndcs": [
-        "0832-0465"
-      ],
-      "related_info": "",
-      "routes": [
-        "TOPICAL"
-      ],
-      "rxcuis": [
-        "584414",
-        "646456"
-      ],
-      "search_text": "nystatin topical powder to be discontinued topical powder nystatin topical powder 100000 usp u 1 g ndc 0832 0465 60 upsher smith laboratories llc 0832 0465 60 nyamyc 584414 646456 anti infective dermatology 0832 0465",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "NYSTATIN"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective",
-        "Dermatology"
-      ],
-      "update_date": "2025-04-28",
       "update_type": "New"
     },
     {
@@ -84334,11 +83332,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "577348",
-        "603162"
-      ],
-      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 10 takeda pharmaceuticals usa inc product is expected to be available through february 2027 64764 805 10 rozerem 577348 603162 psychiatry 64764 805",
+      "rxcuis": [],
+      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 10 takeda pharmaceuticals usa inc product is expected to be available through february 2027 64764 805 10 rozerem psychiatry 64764 805",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -84374,11 +83369,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "577348",
-        "603162"
-      ],
-      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 30 takeda pharmaceuticals usa inc product is expected to be available through june 2027 64764 805 30 rozerem 577348 603162 psychiatry 64764 805",
+      "rxcuis": [],
+      "search_text": "ramelteon tablet to be discontinued tablet rozerem tablet 8 mg ndc 64764 805 30 takeda pharmaceuticals usa inc product is expected to be available through june 2027 64764 805 30 rozerem psychiatry 64764 805",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -86252,17 +85244,17 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-04-29",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
   },
   "summary": {
     "status_counts": {
-      "Current": 1147,
+      "Current": 1140,
       "Resolved": 29,
-      "To Be Discontinued": 507
+      "To Be Discontinued": 499
     },
-    "total_records": 1683
+    "total_records": 1668
   }
 }
