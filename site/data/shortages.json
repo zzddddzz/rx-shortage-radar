@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T11:05:52+00:00",
+  "generated_at": "2026-05-01T10:43:20+00:00",
   "records": [
     {
       "brand_names": [
@@ -12958,7 +12958,7 @@
         "Anti-Infective",
         "Pediatric"
       ],
-      "update_date": "2025-12-05",
+      "update_date": "2026-04-30",
       "update_type": "Reverified"
     },
     {
@@ -13002,7 +13002,7 @@
         "Anti-Infective",
         "Pediatric"
       ],
-      "update_date": "2025-12-05",
+      "update_date": "2026-04-30",
       "update_type": "Reverified"
     },
     {
@@ -29978,7 +29978,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Revised"
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -30022,7 +30022,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Reverified"
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -52655,7 +52655,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-03-06",
+      "update_date": "2026-04-30",
       "update_type": "Revised"
     },
     {
@@ -53232,7 +53232,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2025-11-05",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53278,7 +53278,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2025-11-05",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53324,7 +53324,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2025-11-05",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53370,7 +53370,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2025-11-05",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53851,7 +53851,7 @@
         "68180-558",
         "68180-559"
       ],
-      "related_info": "Unavailable",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -53861,7 +53861,7 @@
         "312750",
         "314203"
       ],
-      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 40 mg ndc 68180 554 09 lupin pharmaceuticals inc unavailable 68180 554 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 554 68180 556 68180 557 68180 558 68180 559",
+      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 40 mg ndc 68180 554 09 lupin pharmaceuticals inc estimated recovery tbd 68180 554 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 554 68180 556 68180 557 68180 558 68180 559",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53870,7 +53870,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53885,17 +53885,17 @@
       "package_ndcs": [],
       "presentation": "Quinapril Hydrochloride, Tablet, 5 mg (NDC 68180-556-09)",
       "product_ndcs": [],
-      "related_info": "Unavailable",
+      "related_info": "Estimated recovery: TBD",
       "routes": [],
       "rxcuis": [],
-      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 5 mg ndc 68180 556 09 lupin pharmaceuticals inc unavailable 68180 556 09 cardiovascular",
+      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 5 mg ndc 68180 556 09 lupin pharmaceuticals inc estimated recovery tbd 68180 556 09 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53928,7 +53928,7 @@
         "68180-554",
         "68180-559"
       ],
-      "related_info": "Unavailable",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -53938,7 +53938,7 @@
         "312750",
         "314203"
       ],
-      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 10 mg ndc 68180 557 09 lupin pharmaceuticals inc unavailable 68180 557 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 557 68180 556 68180 558 68180 554 68180 559",
+      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 10 mg ndc 68180 557 09 lupin pharmaceuticals inc estimated recovery tbd 68180 557 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 557 68180 556 68180 558 68180 554 68180 559",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53947,7 +53947,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -53980,7 +53980,7 @@
         "68180-554",
         "68180-559"
       ],
-      "related_info": "Unavailable",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -53990,7 +53990,7 @@
         "312750",
         "314203"
       ],
-      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 20 mg ndc 68180 558 09 lupin pharmaceuticals inc unavailable 68180 558 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 558 68180 556 68180 557 68180 554 68180 559",
+      "search_text": "quinapril hydrochloride tablet current tablet quinapril hydrochloride tablet 20 mg ndc 68180 558 09 lupin pharmaceuticals inc estimated recovery tbd 68180 558 09 quinapril 312748 312749 312750 314203 cardiovascular 68180 558 68180 556 68180 557 68180 554 68180 559",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53999,7 +53999,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -54998,7 +54998,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -55041,7 +55041,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -55084,7 +55084,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-03-02",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -55235,7 +55235,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2025-09-17",
+      "update_date": "2026-04-29",
       "update_type": "Reverified"
     },
     {
@@ -68239,44 +68239,6 @@
         "DOXYCYCLINE HYCLATE"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-05-02",
-      "dosage_form": "Tablet",
-      "generic_name": "Doxycycline Hyclate Tablet",
-      "id": "2b8a8c3faa451f22",
-      "initial_posting_date": "2025-05-02",
-      "package_ndc": "0591-5553-05",
-      "package_ndcs": [
-        "0591-5553-50",
-        "0591-5553-05"
-      ],
-      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
-      "product_ndcs": [
-        "0591-5553"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1650143"
-      ],
-      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2025-05-02",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DOXYCYCLINE HYCLATE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-06-13",
       "dosage_form": "Tablet",
       "generic_name": "Doxycycline Hyclate Tablet",
@@ -68308,6 +68270,44 @@
         "Anti-Infective"
       ],
       "update_date": "2025-06-13",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-05-02",
+      "dosage_form": "Tablet",
+      "generic_name": "Doxycycline Hyclate Tablet",
+      "id": "2b8a8c3faa451f22",
+      "initial_posting_date": "2025-05-02",
+      "package_ndc": "0591-5553-05",
+      "package_ndcs": [
+        "0591-5553-50",
+        "0591-5553-05"
+      ],
+      "presentation": "Doxycycline Hyclate, Tablet, 100 mg (NDC 0591-5553-05)",
+      "product_ndcs": [
+        "0591-5553"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "1650143"
+      ],
+      "search_text": "doxycycline hyclate tablet to be discontinued tablet doxycycline hyclate tablet 100 mg ndc 0591 5553 05 teva pharmaceuticals usa inc 0591 5553 05 doxycycline hyclate 1650143 anti infective 0591 5553",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DOXYCYCLINE HYCLATE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2025-05-02",
       "update_type": "New"
     },
     {
@@ -68429,43 +68429,6 @@
         "OCELLA"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
-      "id": "20123ff3d009ca70",
-      "initial_posting_date": "2025-06-13",
-      "package_ndc": "0555-9131-67",
-      "package_ndcs": [
-        "0555-9131-79",
-        "0555-9131-67"
-      ],
-      "presentation": "Yasmin, Tablet, Kit (NDC 0555-9131-67)",
-      "product_ndcs": [
-        "0555-9131"
-      ],
-      "related_info": "",
-      "routes": [],
-      "rxcuis": [
-        "284207",
-        "748797",
-        "748800",
-        "801185"
-      ],
-      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet yasmin tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Reproductive"
-      ],
-      "update_date": "2025-06-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OCELLA"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-05-02",
       "dosage_form": "Tablet",
       "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
@@ -68496,6 +68459,43 @@
         "Reproductive"
       ],
       "update_date": "2025-05-02",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "OCELLA"
+      ],
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "discontinued_date": "2025-06-13",
+      "dosage_form": "Tablet",
+      "generic_name": "Drospirenone; Ethinyl Estradiol Tablet",
+      "id": "20123ff3d009ca70",
+      "initial_posting_date": "2025-06-13",
+      "package_ndc": "0555-9131-67",
+      "package_ndcs": [
+        "0555-9131-79",
+        "0555-9131-67"
+      ],
+      "presentation": "Yasmin, Tablet, Kit (NDC 0555-9131-67)",
+      "product_ndcs": [
+        "0555-9131"
+      ],
+      "related_info": "",
+      "routes": [],
+      "rxcuis": [
+        "284207",
+        "748797",
+        "748800",
+        "801185"
+      ],
+      "search_text": "drospirenone ethinyl estradiol tablet to be discontinued tablet yasmin tablet kit ndc 0555 9131 67 teva pharmaceuticals usa inc 0555 9131 67 ocella 284207 748797 748800 801185 reproductive 0555 9131",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Reproductive"
+      ],
+      "update_date": "2025-06-13",
       "update_type": "New"
     },
     {
@@ -68641,9 +68641,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "MENEST"
-      ],
+      "brand_names": [],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2025-07-29",
       "dosage_form": "Tablet",
@@ -68651,39 +68649,16 @@
       "id": "86e0bf52b6fba148",
       "initial_posting_date": "2025-07-29",
       "package_ndc": "61570-074-01",
-      "package_ndcs": [
-        "61570-072-01",
-        "61570-073-01",
-        "61570-074-01",
-        "61570-075-50"
-      ],
+      "package_ndcs": [],
       "presentation": "Menest, Tablet, 1.25 mg (NDC 61570-074-01)",
-      "product_ndcs": [
-        "61570-074",
-        "61570-072",
-        "61570-073",
-        "61570-075"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197666",
-        "197667",
-        "197668",
-        "197669",
-        "212039",
-        "212232",
-        "212373",
-        "212464"
-      ],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 1 25 mg ndc 61570 074 01 pfizer inc discontinuation of the manufacture of the drug 61570 074 01 menest 197666 197667 197668 197669 212039 212232 212373 212464 endocrinology metabolism 61570 074 61570 072 61570 073 61570 075",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 1 25 mg ndc 61570 074 01 pfizer inc discontinuation of the manufacture of the drug 61570 074 01 endocrinology metabolism",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ESTROGENS, ESTERIFIED"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -68691,9 +68666,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "MENEST"
-      ],
+      "brand_names": [],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2025-07-29",
       "dosage_form": "Tablet",
@@ -68701,39 +68674,16 @@
       "id": "de1e86186d925441",
       "initial_posting_date": "2025-07-29",
       "package_ndc": "61570-075-50",
-      "package_ndcs": [
-        "61570-072-01",
-        "61570-073-01",
-        "61570-074-01",
-        "61570-075-50"
-      ],
+      "package_ndcs": [],
       "presentation": "Menest, Tablet, 2.5 mg (NDC 61570-075-50)",
-      "product_ndcs": [
-        "61570-075",
-        "61570-072",
-        "61570-073",
-        "61570-074"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197666",
-        "197667",
-        "197668",
-        "197669",
-        "212039",
-        "212232",
-        "212373",
-        "212464"
-      ],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 2 5 mg ndc 61570 075 50 pfizer inc discontinuation of the manufacture of the drug 61570 075 50 menest 197666 197667 197668 197669 212039 212232 212373 212464 endocrinology metabolism 61570 075 61570 072 61570 073 61570 074",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 2 5 mg ndc 61570 075 50 pfizer inc discontinuation of the manufacture of the drug 61570 075 50 endocrinology metabolism",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ESTROGENS, ESTERIFIED"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -70622,6 +70572,9 @@
       "initial_posting_date": "2025-09-11",
       "package_ndc": "0409-0181-25",
       "package_ndcs": [
+        "0409-0181-01",
+        "0409-0183-01",
+        "0409-0182-01",
         "0409-0181-25",
         "0409-0182-25",
         "0409-0183-25"
@@ -70629,15 +70582,15 @@
       "presentation": "Gemcitabine Hydrochloride, Injection, 1 g/26.3 mL (38 mg/mL), sterile solution in a single-dose glass vial  NovaPlus (NDC 0409-0181-25)",
       "product_ndcs": [
         "0409-0181",
-        "0409-0182",
-        "0409-0183"
+        "0409-0183",
+        "0409-0182"
       ],
       "related_info": "Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gemcitabine hydrochloride injection to be discontinued injection gemcitabine hydrochloride injection 1 g 26 3 ml 38 mg ml sterile solution in a single dose glass vial novaplus ndc 0409 0181 25 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 0181 25 gemcitabine oncology 0409 0181 0409 0182 0409 0183",
+      "search_text": "gemcitabine hydrochloride injection to be discontinued injection gemcitabine hydrochloride injection 1 g 26 3 ml 38 mg ml sterile solution in a single dose glass vial novaplus ndc 0409 0181 25 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 0181 25 gemcitabine oncology 0409 0181 0409 0183 0409 0182",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -70661,6 +70614,9 @@
       "initial_posting_date": "2025-09-11",
       "package_ndc": "0409-0182-25",
       "package_ndcs": [
+        "0409-0181-01",
+        "0409-0183-01",
+        "0409-0182-01",
         "0409-0181-25",
         "0409-0182-25",
         "0409-0183-25"
@@ -70700,6 +70656,9 @@
       "initial_posting_date": "2025-09-11",
       "package_ndc": "0409-0183-25",
       "package_ndcs": [
+        "0409-0181-01",
+        "0409-0183-01",
+        "0409-0182-01",
         "0409-0181-25",
         "0409-0182-25",
         "0409-0183-25"
@@ -73396,6 +73355,390 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-04-20",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "96b218c2058d052c",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-561-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 25 mg (NDC 49884-561-11)",
+      "product_ndcs": [
+        "49884-561",
+        "49884-562",
+        "49884-563",
+        "49884-564",
+        "49884-604",
+        "49884-605"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 25 mg ndc 49884 561 11 par health inc discontinuation of the manufacture of the drug 49884 561 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 561 49884 562 49884 563 49884 564 49884 604 49884 605",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "ceb663f00214efe1",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-562-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 50 mg (NDC 49884-562-11)",
+      "product_ndcs": [
+        "49884-562",
+        "49884-561",
+        "49884-563",
+        "49884-564",
+        "49884-604",
+        "49884-605"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 50 mg ndc 49884 562 11 par health inc discontinuation of the manufacture of the drug 49884 562 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 562 49884 561 49884 563 49884 564 49884 604 49884 605",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "b7cac71ce161a5f8",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-563-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 100 mg (NDC 49884-563-11)",
+      "product_ndcs": [
+        "49884-563",
+        "49884-561",
+        "49884-562",
+        "49884-564",
+        "49884-604",
+        "49884-605"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 100 mg ndc 49884 563 11 par health inc discontinuation of the manufacture of the drug 49884 563 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 563 49884 561 49884 562 49884 564 49884 604 49884 605",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "4bc832dcf74d22b9",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-564-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 200 mg (NDC 49884-564-11)",
+      "product_ndcs": [
+        "49884-564",
+        "49884-561",
+        "49884-562",
+        "49884-563",
+        "49884-604",
+        "49884-605"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 200 mg ndc 49884 564 11 par health inc discontinuation of the manufacture of the drug 49884 564 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 564 49884 561 49884 562 49884 563 49884 604 49884 605",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "562c61f0a39922dc",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-604-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 250 mg (NDC 49884-604-11)",
+      "product_ndcs": [
+        "49884-604",
+        "49884-561",
+        "49884-562",
+        "49884-563",
+        "49884-564",
+        "49884-605"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 250 mg ndc 49884 604 11 par health inc discontinuation of the manufacture of the drug 49884 604 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 604 49884 561 49884 562 49884 563 49884 564 49884 605",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "LAMOTRIGINE EXTENDED RELEASE"
+      ],
+      "company_name": "Par Health, Inc.",
+      "discontinued_date": "2026-04-29",
+      "dosage_form": "Tablet",
+      "generic_name": "Lamotrigine Tablet, Extended Release",
+      "id": "898330e3e8be4daa",
+      "initial_posting_date": "2026-04-29",
+      "package_ndc": "49884-605-11",
+      "package_ndcs": [
+        "49884-561-11",
+        "49884-561-01",
+        "49884-561-05",
+        "49884-562-11",
+        "49884-562-01",
+        "49884-562-05",
+        "49884-563-11",
+        "49884-563-01",
+        "49884-563-05",
+        "49884-564-11",
+        "49884-564-01",
+        "49884-564-05",
+        "49884-604-11",
+        "49884-604-01",
+        "49884-604-05",
+        "49884-605-11",
+        "49884-605-01",
+        "49884-605-05"
+      ],
+      "presentation": "Lamotrigine, Tablet, Extended Release, 300 mg (NDC 49884-605-11)",
+      "product_ndcs": [
+        "49884-605",
+        "49884-561",
+        "49884-562",
+        "49884-563",
+        "49884-564",
+        "49884-604"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "850087",
+        "850091",
+        "900156",
+        "900164",
+        "1098608",
+        "1146690"
+      ],
+      "search_text": "lamotrigine tablet extended release to be discontinued tablet lamotrigine tablet extended release 300 mg ndc 49884 605 11 par health inc discontinuation of the manufacture of the drug 49884 605 11 lamotrigine extended release 850087 850091 900156 900164 1098608 1146690 neurology 49884 605 49884 561 49884 562 49884 563 49884 564 49884 604",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LAMOTRIGINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-04-29",
       "update_type": "New"
     },
     {
@@ -78617,9 +78960,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "TAMIFLU"
-      ],
+      "brand_names": [],
       "company_name": "Genentech, Inc",
       "discontinued_date": "2025-09-30",
       "dosage_form": "Capsule",
@@ -78627,41 +78968,16 @@
       "id": "c7eadbb5f1e2944b",
       "initial_posting_date": "2025-09-30",
       "package_ndc": "0004-0801-85",
-      "package_ndcs": [
-        "0004-0802-85",
-        "0004-0801-85",
-        "0004-0800-85",
-        "0004-0800-07",
-        "0004-0800-08",
-        "0004-0822-05"
-      ],
+      "package_ndcs": [],
       "presentation": "Tamiflu, Capsule, 45 mg (NDC 0004-0801-85)",
-      "product_ndcs": [
-        "0004-0801",
-        "0004-0802",
-        "0004-0800",
-        "0004-0822"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "261315",
-        "312122",
-        "728109",
-        "728111",
-        "728113",
-        "728115",
-        "1115698",
-        "1115700"
-      ],
-      "search_text": "oseltamivir phosphate capsule to be discontinued capsule tamiflu capsule 45 mg ndc 0004 0801 85 genentech inc discontinuation of the manufacture of the drug 0004 0801 85 tamiflu 261315 312122 728109 728111 728113 728115 1115698 1115700 antiviral 0004 0801 0004 0802 0004 0800 0004 0822",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "oseltamivir phosphate capsule to be discontinued capsule tamiflu capsule 45 mg ndc 0004 0801 85 genentech inc discontinuation of the manufacture of the drug 0004 0801 85 antiviral",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "OSELTAMIVIR PHOSPHATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Antiviral"
       ],
@@ -78879,9 +79195,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DAYPRO"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2025-07-17",
       "dosage_form": "Tablet",
@@ -78889,29 +79203,16 @@
       "id": "e11c49af5306939d",
       "initial_posting_date": "2025-07-17",
       "package_ndc": "0025-1381-31",
-      "package_ndcs": [
-        "0025-1381-31",
-        "0025-1381-34",
-        "0025-1381-51"
-      ],
+      "package_ndcs": [],
       "presentation": "Daypro, Tablet, 600 mg (NDC 0025-1381-31)",
-      "product_ndcs": [
-        "0025-1381"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "207243",
-        "312132"
-      ],
-      "search_text": "oxaprozin tablet to be discontinued tablet daypro tablet 600 mg ndc 0025 1381 31 hospira inc a pfizer company discontinuation of the manufacture of the drug 0025 1381 31 daypro 207243 312132 analgesia addiction 0025 1381",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "oxaprozin tablet to be discontinued tablet daypro tablet 600 mg ndc 0025 1381 31 hospira inc a pfizer company discontinuation of the manufacture of the drug 0025 1381 31 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "OXAPROZIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -84919,7 +85220,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-05-01",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -84928,8 +85229,8 @@
     "status_counts": {
       "Current": 1140,
       "Resolved": 29,
-      "To Be Discontinued": 492
+      "To Be Discontinued": 498
     },
-    "total_records": 1661
+    "total_records": 1667
   }
 }
