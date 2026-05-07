@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T11:20:52+00:00",
+  "generated_at": "2026-05-07T11:19:06+00:00",
   "records": [
     {
       "brand_names": [
@@ -6358,13 +6358,13 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Azacitidine Injection",
-      "id": "1d28d639f13a8445",
+      "id": "47b2087a5678e81b",
       "initial_posting_date": "2020-12-22",
       "package_ndc": "55150-393-01",
       "package_ndcs": [
         "55150-393-01"
       ],
-      "presentation": "Injection, 100 mg/4 mL (NDC 55150-393-01)",
+      "presentation": "Azacitidine, Injection, 100 mg/4 mL (NDC 55150-393-01)",
       "product_ndcs": [
         "55150-393"
       ],
@@ -6376,7 +6376,7 @@
       "rxcuis": [
         "485246"
       ],
-      "search_text": "azacitidine injection current injection injection 100 mg 4 ml ndc 55150 393 01 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 393 01 azacitidine 485246 oncology 55150 393",
+      "search_text": "azacitidine injection current injection azacitidine injection 100 mg 4 ml ndc 55150 393 01 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 393 01 azacitidine 485246 oncology 55150 393",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -6385,8 +6385,8 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-04-08",
-      "update_type": "Revised"
+      "update_date": "2026-05-05",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -8367,7 +8367,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8427,7 +8427,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8486,7 +8486,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8545,7 +8545,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8580,7 +8580,7 @@
         "55150-249",
         "55150-250"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "",
       "routes": [
         "EPIDURAL",
         "RETROBULBAR"
@@ -8595,7 +8595,7 @@
         "1725078",
         "1725082"
       ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 171 10 eugia us llc check wholesalers for inventory 55150 171 10 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 171 55150 167 55150 168 55150 169 55150 170 55150 172 55150 249 55150 250",
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 171 10 eugia us llc 55150 171 10 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 171 55150 167 55150 168 55150 169 55150 170 55150 172 55150 249 55150 250",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8604,7 +8604,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8663,7 +8663,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8722,7 +8722,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -8780,7 +8780,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -16787,7 +16787,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -30349,7 +30349,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Reverified"
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -30393,7 +30393,7 @@
         "Hematology"
       ],
       "update_date": "2026-04-20",
-      "update_type": "Revised"
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -35006,7 +35006,7 @@
         "55150-158",
         "55150-160"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35018,7 +35018,7 @@
         "1737568",
         "1737757"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 159 74 eugia us llc 55150 159 74 lidocaine hydrochloride 1737566 1737568 1737757 anesthesia 55150 159 55150 158 55150 160",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 159 74 eugia us llc estimated recovery tbd 55150 159 74 lidocaine hydrochloride 1737566 1737568 1737757 anesthesia 55150 159 55150 158 55150 160",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35027,7 +35027,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35086,7 +35086,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35122,7 +35122,7 @@
         "55150-164",
         "55150-165"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35136,7 +35136,7 @@
         "1737757",
         "1737761"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 162 05 eugia us llc check wholesalers for inventory 55150 162 05 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 162 55150 161 55150 163 55150 164 55150 165",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 162 05 eugia us llc estimated recovery tbd 55150 162 05 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 162 55150 161 55150 163 55150 164 55150 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35145,7 +35145,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35204,7 +35204,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35240,7 +35240,7 @@
         "55150-163",
         "55150-165"
       ],
-      "related_info": "On backorder. Recovery: TBD. Check wholesalers for inventory",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35254,7 +35254,7 @@
         "1737757",
         "1737761"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 20 mg ml ndc 55150 164 02 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 164 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 164 55150 161 55150 162 55150 163 55150 165",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 20 mg ml ndc 55150 164 02 eugia us llc check wholesalers for inventory 55150 164 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 164 55150 161 55150 162 55150 163 55150 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35263,7 +35263,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35322,7 +35322,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35375,7 +35375,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35428,7 +35428,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35481,7 +35481,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35534,7 +35534,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -35583,7 +35583,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -41843,79 +41843,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-04-17",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41970,6 +41897,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-04-17",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -49893,7 +49893,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -49935,7 +49935,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -56232,14 +56232,14 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Rocuronium Bromide Injection",
-      "id": "0d109ab75db26c54",
+      "id": "d20c2520771dba92",
       "initial_posting_date": "2023-02-15",
       "package_ndc": "55150-225-05",
       "package_ndcs": [
         "55150-225-05",
         "55150-226-10"
       ],
-      "presentation": "Injection, 50 mg/5 mL (NDC 55150-225-05)",
+      "presentation": "Rocuronium Bromide, Injection, 50 mg/5 mL (NDC 55150-225-05)",
       "product_ndcs": [
         "55150-225",
         "55150-226"
@@ -56251,7 +56251,7 @@
       "rxcuis": [
         "1234995"
       ],
-      "search_text": "rocuronium bromide injection current injection injection 50 mg 5 ml ndc 55150 225 05 eugia us llc check wholesalers for inventory 55150 225 05 rocuronium bromide 1234995 anesthesia 55150 225 55150 226",
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 50 mg 5 ml ndc 55150 225 05 eugia us llc check wholesalers for inventory 55150 225 05 rocuronium bromide 1234995 anesthesia 55150 225 55150 226",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56260,8 +56260,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
-      "update_type": "Revised"
+      "update_date": "2026-05-05",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -56271,14 +56271,14 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Rocuronium Bromide Injection",
-      "id": "8fa1c6071bf2ddb6",
+      "id": "d9564f3b09a5994b",
       "initial_posting_date": "2023-02-15",
       "package_ndc": "55150-226-10",
       "package_ndcs": [
         "55150-225-05",
         "55150-226-10"
       ],
-      "presentation": "Injection, 100 mg/10 mL (NDC 55150-226-10)",
+      "presentation": "Rocuronium Bromide, Injection, 100 mg/10 mL (NDC 55150-226-10)",
       "product_ndcs": [
         "55150-226",
         "55150-225"
@@ -56290,7 +56290,7 @@
       "rxcuis": [
         "1234995"
       ],
-      "search_text": "rocuronium bromide injection current injection injection 100 mg 10 ml ndc 55150 226 10 eugia us llc check wholesalers for inventory 55150 226 10 rocuronium bromide 1234995 anesthesia 55150 226 55150 225",
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 100 mg 10 ml ndc 55150 226 10 eugia us llc check wholesalers for inventory 55150 226 10 rocuronium bromide 1234995 anesthesia 55150 226 55150 225",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56299,7 +56299,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57312,7 +57312,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57369,7 +57369,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57426,7 +57426,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57483,7 +57483,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57539,7 +57539,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57594,7 +57594,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -57649,7 +57649,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-04-08",
+      "update_date": "2026-05-05",
       "update_type": "Revised"
     },
     {
@@ -67217,6 +67217,98 @@
     },
     {
       "brand_names": [
+        "CISATRACURIUM BESYLATE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": "2026-05-06",
+      "dosage_form": "Injection",
+      "generic_name": "Cisatracurium Besylate Injection",
+      "id": "0eb8c67f22b156f5",
+      "initial_posting_date": "2026-05-06",
+      "package_ndc": "0409-1103-01",
+      "package_ndcs": [
+        "0409-1098-12",
+        "0409-1098-02",
+        "0409-1103-11",
+        "0409-1103-01",
+        "0409-1208-11",
+        "0409-1208-01"
+      ],
+      "presentation": "Cisatracurium Besylate, Injection, 200 mg/20ml (10 mg/mL) Single Dose Vial (NDC 0409-1103-01)",
+      "product_ndcs": [
+        "0409-1103",
+        "0409-1098",
+        "0409-1208"
+      ],
+      "related_info": "Supply expected to exhaust late June 2026; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "199211",
+        "199212",
+        "1730194"
+      ],
+      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 200 mg 20ml 10 mg ml single dose vial ndc 0409 1103 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1103 01 cisatracurium besylate 199211 199212 1730194 analgesia addiction 0409 1103 0409 1098 0409 1208",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CISATRACURIUM BESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-05-06",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CISATRACURIUM BESYLATE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": "2026-05-06",
+      "dosage_form": "Injection",
+      "generic_name": "Cisatracurium Besylate Injection",
+      "id": "b94d508f75ebe329",
+      "initial_posting_date": "2026-05-06",
+      "package_ndc": "0409-1208-01",
+      "package_ndcs": [
+        "0409-1098-12",
+        "0409-1098-02",
+        "0409-1103-11",
+        "0409-1103-01",
+        "0409-1208-11",
+        "0409-1208-01"
+      ],
+      "presentation": "Cisatracurium Besylate, Injection, 20 mg/10 mL (2 mg/mL) Multidose Vial (NDC 0409-1208-01)",
+      "product_ndcs": [
+        "0409-1208",
+        "0409-1098",
+        "0409-1103"
+      ],
+      "related_info": "Supply expected to exhaust late June 2026; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "199211",
+        "199212",
+        "1730194"
+      ],
+      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 20 mg 10 ml 2 mg ml multidose vial ndc 0409 1208 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1208 01 cisatracurium besylate 199211 199212 1730194 analgesia addiction 0409 1208 0409 1098 0409 1103",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CISATRACURIUM BESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-05-06",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "CLEOCIN HYDROCHLORIDE"
       ],
       "company_name": "Pfizer Inc.",
@@ -67358,43 +67450,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67425,6 +67480,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -85494,7 +85586,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-05-06",
+    "last_updated": "2026-05-07",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -85503,8 +85595,8 @@
     "status_counts": {
       "Current": 1140,
       "Resolved": 29,
-      "To Be Discontinued": 495
+      "To Be Discontinued": 497
     },
-    "total_records": 1664
+    "total_records": 1666
   }
 }
