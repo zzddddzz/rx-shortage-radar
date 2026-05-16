@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T11:30:10+00:00",
+  "generated_at": "2026-05-16T10:37:52+00:00",
   "records": [
     {
       "brand_names": [
@@ -37,7 +37,7 @@
         "Pulmonary/Allergy",
         "Pediatric"
       ],
-      "update_date": "2026-04-20",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1613,7 +1613,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1671,7 +1671,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1729,7 +1729,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1787,7 +1787,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1870,7 +1870,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -1895,7 +1895,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -6190,7 +6190,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -13226,8 +13226,8 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-05-07",
-      "update_type": "New"
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -13268,8 +13268,8 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-05-07",
-      "update_type": "New"
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -15786,7 +15786,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -15834,7 +15834,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -15882,7 +15882,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -19359,9 +19359,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE"
-      ],
+      "brand_names": [],
       "company_name": "Eugia US LLC",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19369,32 +19367,16 @@
       "id": "4e2c7e5231c6f509",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "55150-209-02",
-      "package_ndcs": [
-        "55150-209-02",
-        "55150-296-10",
-        "55150-297-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 100 ug/1 mL (NDC 55150-209-02)",
-      "product_ndcs": [
-        "55150-209",
-        "55150-296",
-        "55150-297"
-      ],
+      "product_ndcs": [],
       "related_info": "Check wholesalers for inventory",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "309710",
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 100 ug 1 ml ndc 55150 209 02 eugia us llc check wholesalers for inventory 55150 209 02 dexmedetomidine 309710 1718906 1718909 anesthesia 55150 209 55150 296 55150 297",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 100 ug 1 ml ndc 55150 209 02 eugia us llc check wholesalers for inventory 55150 209 02 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -19402,9 +19384,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Eugia US LLC",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19412,32 +19392,16 @@
       "id": "393cecd3b53b43ad",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "55150-296-10",
-      "package_ndcs": [
-        "55150-209-02",
-        "55150-296-10",
-        "55150-297-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 4 ug/1 mL (NDC 55150-296-10)",
-      "product_ndcs": [
-        "55150-296",
-        "55150-209",
-        "55150-297"
-      ],
+      "product_ndcs": [],
       "related_info": "Check wholesalers for inventory",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "309710",
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 4 ug 1 ml ndc 55150 296 10 eugia us llc check wholesalers for inventory 55150 296 10 dexmedetomidine hydrochloride 309710 1718906 1718909 anesthesia 55150 296 55150 209 55150 297",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 4 ug 1 ml ndc 55150 296 10 eugia us llc check wholesalers for inventory 55150 296 10 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -19445,9 +19409,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Eugia US LLC",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19455,32 +19417,16 @@
       "id": "5b602d9ed86aafad",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "55150-297-10",
-      "package_ndcs": [
-        "55150-209-02",
-        "55150-296-10",
-        "55150-297-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 4 ug/1 mL (NDC 55150-297-10)",
-      "product_ndcs": [
-        "55150-297",
-        "55150-209",
-        "55150-296"
-      ],
+      "product_ndcs": [],
       "related_info": "Check wholesalers for inventory",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "309710",
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 4 ug 1 ml ndc 55150 297 10 eugia us llc check wholesalers for inventory 55150 297 10 dexmedetomidine hydrochloride 309710 1718906 1718909 anesthesia 55150 297 55150 209 55150 296",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 4 ug 1 ml ndc 55150 297 10 eugia us llc check wholesalers for inventory 55150 297 10 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -32330,31 +32276,6 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
-      "company_name": "Bausch & Lomb Incorporated",
-      "discontinued_date": null,
-      "dosage_form": "Insert",
-      "generic_name": "Hydroxypropyl Cellulose (1600000 Wamw) Insert",
-      "id": "1097b4ebfdb6deb9",
-      "initial_posting_date": "2020-05-01",
-      "package_ndc": "24208-800-60",
-      "package_ndcs": [],
-      "presentation": "Lacrisert, Insert, 5 mg (NDC 24208-800-60)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "hydroxypropyl cellulose 1600000 wamw insert current insert lacrisert insert 5 mg ndc 24208 800 60 bausch lomb incorporated discontinuation of the manufacture of the drug 24208 800 60 ophthalmology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Ophthalmology"
-      ],
-      "update_date": "2026-05-08",
-      "update_type": "Reverified"
-    },
-    {
       "brand_names": [
         "MARPLAN"
       ],
@@ -32942,7 +32863,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2025-09-17",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -32989,7 +32910,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2025-09-17",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -33036,7 +32957,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2025-09-17",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -38274,8 +38195,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-05-07",
-      "update_type": "Revised"
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -40607,7 +40528,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -40662,7 +40583,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -40717,7 +40638,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -40772,7 +40693,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -40827,7 +40748,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -42010,79 +41931,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "cb0835bd9e955a3d",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-04-17",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "bbab88fdb6eb3a99",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -42137,6 +41985,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-04-17",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "cb0835bd9e955a3d",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -48345,7 +48266,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "company_name": "Lannett Company, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -48353,24 +48276,45 @@
       "id": "a9c58cb83dce0faa",
       "initial_posting_date": "2023-07-26",
       "package_ndc": "62175-310-37",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "62175-310-37",
+        "62175-311-37",
+        "62175-312-37",
+        "62175-313-37"
+      ],
       "presentation": "Methylphenidate Hydrochloride, Tablet, Extended Release, 18 mg (NDC 62175-310-37)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "62175-310",
+        "62175-311",
+        "62175-312",
+        "62175-313"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 18 mg ndc 62175 310 37 lannett company inc 62175 310 37 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "2001564",
+        "2001565",
+        "2001566",
+        "2001568"
+      ],
+      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 18 mg ndc 62175 310 37 lannett company inc 62175 310 37 methylphenidate hydrochloride 2001564 2001565 2001566 2001568 psychiatry 62175 310 62175 311 62175 312 62175 313",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "company_name": "Lannett Company, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -48378,24 +48322,45 @@
       "id": "7028df0d9553a78b",
       "initial_posting_date": "2023-07-26",
       "package_ndc": "62175-311-37",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "62175-310-37",
+        "62175-311-37",
+        "62175-312-37",
+        "62175-313-37"
+      ],
       "presentation": "Methylphenidate Hydrochloride, Tablet, Extended Release, 27 mg (NDC 62175-311-37)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "62175-311",
+        "62175-310",
+        "62175-312",
+        "62175-313"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 27 mg ndc 62175 311 37 lannett company inc 62175 311 37 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "2001564",
+        "2001565",
+        "2001566",
+        "2001568"
+      ],
+      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 27 mg ndc 62175 311 37 lannett company inc 62175 311 37 methylphenidate hydrochloride 2001564 2001565 2001566 2001568 psychiatry 62175 311 62175 310 62175 312 62175 313",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "company_name": "Lannett Company, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -48403,16 +48368,35 @@
       "id": "737fc9074dc8cf90",
       "initial_posting_date": "2023-07-26",
       "package_ndc": "62175-312-37",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "62175-310-37",
+        "62175-311-37",
+        "62175-312-37",
+        "62175-313-37"
+      ],
       "presentation": "Methylphenidate Hydrochloride, Tablet, Extended Release, 36 mg (NDC 62175-312-37)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "62175-312",
+        "62175-310",
+        "62175-311",
+        "62175-313"
+      ],
       "related_info": "Estimated recovery: TBD",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 36 mg ndc 62175 312 37 lannett company inc estimated recovery tbd 62175 312 37 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "2001564",
+        "2001565",
+        "2001566",
+        "2001568"
+      ],
+      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 36 mg ndc 62175 312 37 lannett company inc estimated recovery tbd 62175 312 37 methylphenidate hydrochloride 2001564 2001565 2001566 2001568 psychiatry 62175 312 62175 310 62175 311 62175 313",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -48420,7 +48404,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "company_name": "Lannett Company, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -48428,16 +48414,35 @@
       "id": "a753289ebafcb0e3",
       "initial_posting_date": "2023-07-26",
       "package_ndc": "62175-313-37",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "62175-310-37",
+        "62175-311-37",
+        "62175-312-37",
+        "62175-313-37"
+      ],
       "presentation": "Methylphenidate Hydrochloride, Tablet, Extended Release, 54 mg (NDC 62175-313-37)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "62175-313",
+        "62175-310",
+        "62175-311",
+        "62175-312"
+      ],
       "related_info": "Estimated recovery: TBD",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 54 mg ndc 62175 313 37 lannett company inc estimated recovery tbd 62175 313 37 psychiatry",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "2001564",
+        "2001565",
+        "2001566",
+        "2001568"
+      ],
+      "search_text": "methylphenidate hydrochloride tablet extended release current tablet methylphenidate hydrochloride tablet extended release 54 mg ndc 62175 313 37 lannett company inc estimated recovery tbd 62175 313 37 methylphenidate hydrochloride 2001564 2001565 2001566 2001568 psychiatry 62175 313 62175 310 62175 311 62175 312",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -51114,7 +51119,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
       "company_name": "Avet Pharmaceuticals, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51122,16 +51129,26 @@
       "id": "5091a56fa9c52af2",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "23155-600-41",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "23155-600-31",
+        "23155-600-41"
+      ],
       "presentation": "Midazolam Hydrochloride, Injection, 1 mg/1 mL (NDC 23155-600-41)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "23155-600"
+      ],
       "related_info": "",
-      "routes": [],
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 avet pharmaceuticals inc 23155 600 41 anesthesia neurology",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 avet pharmaceuticals inc 23155 600 41 midazolam hydrochloride anesthesia neurology 23155 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -51302,9 +51319,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM IN SODIUM CHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "WG Critical Care",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51312,31 +51327,16 @@
       "id": "f4c326da342c0953",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "44567-610-10",
-      "package_ndcs": [
-        "44567-610-01",
-        "44567-610-10",
-        "44567-611-01",
-        "44567-611-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam In 0.9% Sodium Chloride, Injection, 1 mg/1 mL (NDC 44567-610-10)",
-      "product_ndcs": [
-        "44567-610",
-        "44567-611"
-      ],
+      "product_ndcs": [],
       "related_info": "Please check wholesalers and distributors for inventory.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "2541170",
-        "2541171"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam in 0 9 sodium chloride injection 1 mg 1 ml ndc 44567 610 10 wg critical care please check wholesalers and distributors for inventory 44567 610 10 midazolam in sodium chloride 2541170 2541171 anesthesia neurology 44567 610 44567 611",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam in 0 9 sodium chloride injection 1 mg 1 ml ndc 44567 610 10 wg critical care please check wholesalers and distributors for inventory 44567 610 10 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -51345,9 +51345,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM IN SODIUM CHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "WG Critical Care",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51355,31 +51353,16 @@
       "id": "c4b1d8eeba5b3852",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "44567-611-10",
-      "package_ndcs": [
-        "44567-610-01",
-        "44567-610-10",
-        "44567-611-01",
-        "44567-611-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam In 0.9% Sodium Chloride, Injection, 1 mg/1 mL (NDC 44567-611-10)",
-      "product_ndcs": [
-        "44567-611",
-        "44567-610"
-      ],
+      "product_ndcs": [],
       "related_info": "Please check wholesalers and distributors for inventory.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "2541170",
-        "2541171"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam in 0 9 sodium chloride injection 1 mg 1 ml ndc 44567 611 10 wg critical care please check wholesalers and distributors for inventory 44567 611 10 midazolam in sodium chloride 2541170 2541171 anesthesia neurology 44567 611 44567 610",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam in 0 9 sodium chloride injection 1 mg 1 ml ndc 44567 611 10 wg critical care please check wholesalers and distributors for inventory 44567 611 10 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -55984,8 +55967,8 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-04-20",
-      "update_type": "Revised"
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -56022,7 +56005,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -56060,7 +56043,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -56098,7 +56081,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61314,34 +61297,6 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
-      "company_name": "Milla Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Sodium Acetate Injection",
-      "id": "4ab3491a0bc594e1",
-      "initial_posting_date": "2016-02-03",
-      "package_ndc": "69784-232-01",
-      "package_ndcs": [],
-      "presentation": "Sodium Acetate, Injection, 400 mEq/100mL (4 mEq/mL) (NDC 69784-232-01)",
-      "product_ndcs": [],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "sodium acetate injection current injection sodium acetate injection 400 meq 100ml 4 meq ml ndc 69784 232 01 milla pharmaceuticals estimated recovery tbd 69784 232 01 endocrinology metabolism gastroenterology pediatric total parenteral nutrition",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology",
-        "Pediatric",
-        "Total Parenteral Nutrition"
-      ],
-      "update_date": "2026-05-08",
-      "update_type": "Reverified"
-    },
-    {
       "brand_names": [
         "SODIUM ACETATE"
       ],
@@ -61379,7 +61334,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61424,7 +61379,7 @@
       "therapeutic_categories": [
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61469,7 +61424,55 @@
       "therapeutic_categories": [
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-05-08",
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "SODIUM ACETATE"
+      ],
+      "company_name": "Milla Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Sodium Acetate Injection",
+      "id": "91841a17f5568599",
+      "initial_posting_date": "2016-02-03",
+      "package_ndc": "71357-009-10",
+      "package_ndcs": [
+        "71357-007-01",
+        "71357-007-10",
+        "71357-008-01",
+        "71357-008-10",
+        "71357-009-01",
+        "71357-009-10"
+      ],
+      "presentation": "Sodium Acetate, Injection, 400 mEq/100mL (4 mEq/mL) (NDC 71357-009-10)",
+      "product_ndcs": [
+        "71357-009",
+        "71357-007",
+        "71357-008"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "237371",
+        "312965"
+      ],
+      "search_text": "sodium acetate injection current injection sodium acetate injection 400 meq 100ml 4 meq ml ndc 71357 009 10 milla pharmaceuticals estimated recovery tbd 71357 009 10 sodium acetate 237371 312965 endocrinology metabolism gastroenterology pediatric total parenteral nutrition 71357 009 71357 007 71357 008",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "SODIUM ACETATE"
+      ],
+      "therapeutic_categories": [
+        "Endocrinology/Metabolism",
+        "Gastroenterology",
+        "Pediatric",
+        "Total Parenteral Nutrition"
+      ],
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61811,7 +61814,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61860,7 +61863,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -61909,7 +61912,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -62371,8 +62374,8 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-05-08",
-      "update_type": "Revised"
+      "update_date": "2026-05-15",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -62620,7 +62623,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-05-01",
+      "update_date": "2026-05-15",
       "update_type": "Reverified"
     },
     {
@@ -63726,6 +63729,214 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2025-11-03",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ACTIDOSE"
+      ],
+      "company_name": "Padagis US LLC",
+      "discontinued_date": "2026-05-15",
+      "dosage_form": "Oral Suspension",
+      "generic_name": "Activated Charcoal Oral Suspension",
+      "id": "eb565e6a87a69fd8",
+      "initial_posting_date": "2026-05-15",
+      "package_ndc": "0574-0520-74",
+      "package_ndcs": [
+        "0574-0520-04",
+        "0574-0520-08",
+        "0574-0520-74",
+        "0574-0520-76"
+      ],
+      "presentation": "Actidose, Oral Suspension, 208 mg/1 mL (NDC 0574-0520-74)",
+      "product_ndcs": [
+        "0574-0520"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "309150",
+        "1251411"
+      ],
+      "search_text": "activated charcoal oral suspension to be discontinued oral suspension actidose oral suspension 208 mg 1 ml ndc 0574 0520 74 padagis us llc discontinuation of the manufacture of the drug 0574 0520 74 actidose 309150 1251411 other 0574 0520",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ACTIVATED CHARCOAL"
+      ],
+      "therapeutic_categories": [
+        "Other"
+      ],
+      "update_date": "2026-05-15",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ACTIDOSE"
+      ],
+      "company_name": "Padagis US LLC",
+      "discontinued_date": "2026-05-15",
+      "dosage_form": "Oral Suspension",
+      "generic_name": "Activated Charcoal Oral Suspension",
+      "id": "101f43010d2c063b",
+      "initial_posting_date": "2026-05-15",
+      "package_ndc": "0574-0520-76",
+      "package_ndcs": [
+        "0574-0520-04",
+        "0574-0520-08",
+        "0574-0520-74",
+        "0574-0520-76"
+      ],
+      "presentation": "Actidose, Oral Suspension, 208 mg/1 mL (NDC 0574-0520-76)",
+      "product_ndcs": [
+        "0574-0520"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "309150",
+        "1251411"
+      ],
+      "search_text": "activated charcoal oral suspension to be discontinued oral suspension actidose oral suspension 208 mg 1 ml ndc 0574 0520 76 padagis us llc discontinuation of the manufacture of the drug 0574 0520 76 actidose 309150 1251411 other 0574 0520",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ACTIVATED CHARCOAL"
+      ],
+      "therapeutic_categories": [
+        "Other"
+      ],
+      "update_date": "2026-05-15",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ACTIDOSE AQUA"
+      ],
+      "company_name": "Padagis US LLC",
+      "discontinued_date": "2026-05-15",
+      "dosage_form": "Oral Suspension",
+      "generic_name": "Activated Charcoal Oral Suspension",
+      "id": "52853ddc9450579f",
+      "initial_posting_date": "2026-05-15",
+      "package_ndc": "0574-0521-25",
+      "package_ndcs": [
+        "0574-0521-04",
+        "0574-0521-08",
+        "0574-0521-25",
+        "0574-0521-74",
+        "0574-0521-76"
+      ],
+      "presentation": "Actidose Aqua, Oral Suspension, 208 mg/1 mL (NDC 0574-0521-25)",
+      "product_ndcs": [
+        "0574-0521"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "309150",
+        "1251411"
+      ],
+      "search_text": "activated charcoal oral suspension to be discontinued oral suspension actidose aqua oral suspension 208 mg 1 ml ndc 0574 0521 25 padagis us llc discontinuation of the manufacture of the drug 0574 0521 25 actidose aqua 309150 1251411 other 0574 0521",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ACTIVATED CHARCOAL"
+      ],
+      "therapeutic_categories": [
+        "Other"
+      ],
+      "update_date": "2026-05-15",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ACTIDOSE AQUA"
+      ],
+      "company_name": "Padagis US LLC",
+      "discontinued_date": "2026-05-15",
+      "dosage_form": "Oral Suspension",
+      "generic_name": "Activated Charcoal Oral Suspension",
+      "id": "945541b00f1d632a",
+      "initial_posting_date": "2026-05-15",
+      "package_ndc": "0574-0521-74",
+      "package_ndcs": [
+        "0574-0521-04",
+        "0574-0521-08",
+        "0574-0521-25",
+        "0574-0521-74",
+        "0574-0521-76"
+      ],
+      "presentation": "Actidose Aqua, Oral Suspension, 208 mg/1 mL (NDC 0574-0521-74)",
+      "product_ndcs": [
+        "0574-0521"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "309150",
+        "1251411"
+      ],
+      "search_text": "activated charcoal oral suspension to be discontinued oral suspension actidose aqua oral suspension 208 mg 1 ml ndc 0574 0521 74 padagis us llc discontinuation of the manufacture of the drug 0574 0521 74 actidose aqua 309150 1251411 other 0574 0521",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ACTIVATED CHARCOAL"
+      ],
+      "therapeutic_categories": [
+        "Other"
+      ],
+      "update_date": "2026-05-15",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "ACTIDOSE AQUA"
+      ],
+      "company_name": "Padagis US LLC",
+      "discontinued_date": "2026-05-15",
+      "dosage_form": "Oral Suspension",
+      "generic_name": "Activated Charcoal Oral Suspension",
+      "id": "5687110740ea2b59",
+      "initial_posting_date": "2026-05-15",
+      "package_ndc": "0574-0521-76",
+      "package_ndcs": [
+        "0574-0521-04",
+        "0574-0521-08",
+        "0574-0521-25",
+        "0574-0521-74",
+        "0574-0521-76"
+      ],
+      "presentation": "Actidose Aqua, Oral Suspension, 208 mg/1 mL (NDC 0574-0521-76)",
+      "product_ndcs": [
+        "0574-0521"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "309150",
+        "1251411"
+      ],
+      "search_text": "activated charcoal oral suspension to be discontinued oral suspension actidose aqua oral suspension 208 mg 1 ml ndc 0574 0521 76 padagis us llc discontinuation of the manufacture of the drug 0574 0521 76 actidose aqua 309150 1251411 other 0574 0521",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "ACTIVATED CHARCOAL"
+      ],
+      "therapeutic_categories": [
+        "Other"
+      ],
+      "update_date": "2026-05-15",
       "update_type": "New"
     },
     {
@@ -67771,43 +67982,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67838,6 +68012,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -83513,9 +83724,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CRINONE"
-      ],
+      "brand_names": [],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2026-03-27",
       "dosage_form": "Vaginal Gel",
@@ -83523,31 +83732,16 @@
       "id": "d34fb3ba09e005e5",
       "initial_posting_date": "2026-03-27",
       "package_ndc": "0023-6150-04",
-      "package_ndcs": [
-        "0023-6150-04",
-        "0023-6151-08"
-      ],
+      "package_ndcs": [],
       "presentation": "Crinone, Vaginal Gel, 4% (NDC 0023-6150-04)",
-      "product_ndcs": [
-        "0023-6150",
-        "0023-6151"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "VAGINAL"
-      ],
-      "rxcuis": [
-        "153579",
-        "153580",
-        "312643",
-        "312645"
-      ],
-      "search_text": "progesterone vaginal gel to be discontinued vaginal gel crinone vaginal gel 4 ndc 0023 6150 04 abbvie inc discontinuation of the manufacture of the drug 0023 6150 04 crinone 153579 153580 312643 312645 urology 0023 6150 0023 6151",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "progesterone vaginal gel to be discontinued vaginal gel crinone vaginal gel 4 ndc 0023 6150 04 abbvie inc discontinuation of the manufacture of the drug 0023 6150 04 urology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "PROGESTERONE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Urology"
       ],
@@ -85530,7 +85724,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2025-11-21",
       "dosage_form": "Injection",
@@ -85538,16 +85734,33 @@
       "id": "30a50b3f8cd0dbd5",
       "initial_posting_date": "2025-11-21",
       "package_ndc": "0409-9633-05",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1144-62",
+        "0409-1144-02",
+        "0409-1144-65",
+        "0409-1144-05",
+        "0409-4011-61",
+        "0409-4011-01",
+        "0409-9633-65",
+        "0409-9633-05"
+      ],
       "presentation": "Verapamil Hydrochloride, Injection, 2.5 mg/1 mL (NDC 0409-9633-05)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-9633",
+        "0409-1144",
+        "0409-4011"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
+      "routes": [
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "verapamil hydrochloride injection to be discontinued injection verapamil hydrochloride injection 2 5 mg 1 ml ndc 0409 9633 05 pfizer inc discontinuation of the manufacture of the drug 0409 9633 05 cardiovascular",
+      "search_text": "verapamil hydrochloride injection to be discontinued injection verapamil hydrochloride injection 2 5 mg 1 ml ndc 0409 9633 05 pfizer inc discontinuation of the manufacture of the drug 0409 9633 05 verapamil hydrochloride cardiovascular 0409 9633 0409 1144 0409 4011",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -85686,17 +85899,17 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-16",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
   },
   "summary": {
     "status_counts": {
-      "Current": 1158,
+      "Current": 1157,
       "Resolved": 29,
-      "To Be Discontinued": 493
+      "To Be Discontinued": 498
     },
-    "total_records": 1680
+    "total_records": 1684
   }
 }
