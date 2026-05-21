@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T12:03:52+00:00",
+  "generated_at": "2026-05-21T12:27:15+00:00",
   "records": [
     {
       "brand_names": [
@@ -5585,7 +5585,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ATROPINE SULFATE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -5593,16 +5595,38 @@
       "id": "f145626d4854a8bc",
       "initial_posting_date": "2012-01-01",
       "package_ndc": "0409-1630-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1630-15",
+        "0409-1630-10",
+        "0409-9630-15",
+        "0409-9630-05",
+        "0409-4910-11",
+        "0409-4910-34",
+        "0409-4911-11",
+        "0409-4911-34"
+      ],
       "presentation": "Atropine Sulfate, Injection, 1 mg/10 mL (0.1 mg/mL) Syringes (NDC 0409-1630-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-1630",
+        "0409-9630",
+        "0409-4910",
+        "0409-4911"
+      ],
       "related_info": "Next Delivery: July 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "atropine sulfate injection current injection atropine sulfate injection 1 mg 10 ml 0 1 mg ml syringes ndc 0409 1630 10 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1630 10 anesthesia neurology pediatric",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1190546",
+        "1190551",
+        "1190552"
+      ],
+      "search_text": "atropine sulfate injection current injection atropine sulfate injection 1 mg 10 ml 0 1 mg ml syringes ndc 0409 1630 10 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1630 10 atropine sulfate 1190546 1190551 1190552 anesthesia neurology pediatric 0409 1630 0409 9630 0409 4910 0409 4911",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "ATROPINE SULFATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology",
@@ -5666,7 +5690,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ATROPINE SULFATE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -5674,16 +5700,38 @@
       "id": "2fd7d2535e5ea91a",
       "initial_posting_date": "2012-01-01",
       "package_ndc": "0409-9630-05",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-1630-15",
+        "0409-1630-10",
+        "0409-9630-15",
+        "0409-9630-05",
+        "0409-4910-11",
+        "0409-4910-34",
+        "0409-4911-11",
+        "0409-4911-34"
+      ],
       "presentation": "Atropine Sulfate, Injection, 0.25 mg/5 mL (0.05 mg/mL) Syringes (NDC 0409-9630-05)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-9630",
+        "0409-1630",
+        "0409-4910",
+        "0409-4911"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "atropine sulfate injection current injection atropine sulfate injection 0 25 mg 5 ml 0 05 mg ml syringes ndc 0409 9630 05 hospira inc a pfizer company 0409 9630 05 anesthesia neurology pediatric",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1190546",
+        "1190551",
+        "1190552"
+      ],
+      "search_text": "atropine sulfate injection current injection atropine sulfate injection 0 25 mg 5 ml 0 05 mg ml syringes ndc 0409 9630 05 hospira inc a pfizer company 0409 9630 05 atropine sulfate 1190546 1190551 1190552 anesthesia neurology pediatric 0409 9630 0409 1630 0409 4910 0409 4911",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "ATROPINE SULFATE"
+      ],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology",
@@ -41861,79 +41909,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-04-17",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41988,6 +41963,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-04-17",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51699,9 +51747,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "MORPHINE SULFATE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51709,31 +51755,16 @@
       "id": "95c2c8c8c9073350",
       "initial_posting_date": "2017-10-31",
       "package_ndc": "0409-1134-05",
-      "package_ndcs": [
-        "0409-1134-03",
-        "0409-1134-05",
-        "0409-1135-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Morphine Sulfate, Injection, 50 mg/1 mL (NDC 0409-1134-05)",
-      "product_ndcs": [
-        "0409-1134",
-        "0409-1135"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1731517",
-        "1731537",
-        "1731545"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 50 mg 1 ml ndc 0409 1134 05 hospira inc a pfizer company 0409 1134 05 morphine sulfate 1731517 1731537 1731545 analgesia addiction 0409 1134 0409 1135",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 50 mg 1 ml ndc 0409 1134 05 hospira inc a pfizer company 0409 1134 05 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MORPHINE SULFATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -83848,7 +83879,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "SODIUM CHLORIDE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2025-12-03",
       "dosage_form": "Injection",
@@ -83856,16 +83889,41 @@
       "id": "ecc9da51dcde1e7f",
       "initial_posting_date": "2025-12-03",
       "package_ndc": "0409-7101-02",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-7101-68",
+        "0409-7101-66",
+        "0409-7101-69",
+        "0409-7101-67",
+        "0409-7101-04",
+        "0409-7101-02",
+        "0409-7132-68",
+        "0409-7132-66",
+        "0409-7132-69",
+        "0409-7132-67",
+        "0409-7132-04",
+        "0409-7132-02"
+      ],
       "presentation": "Sodium Chloride 0.9%, Injection, 250 mL  ADD-Vantage\u00ae Flexible Container (NDC 0409-7101-02)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-7101",
+        "0409-7132"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 250 ml add vantage flexible container ndc 0409 7101 02 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 02 gastroenterology other renal",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1807547",
+        "1807631",
+        "1807632",
+        "1807633"
+      ],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 250 ml add vantage flexible container ndc 0409 7101 02 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 02 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "SODIUM CHLORIDE"
+      ],
       "therapeutic_categories": [
         "Gastroenterology",
         "Other",
@@ -83875,7 +83933,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "SODIUM CHLORIDE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2025-12-03",
       "dosage_form": "Injection",
@@ -83883,16 +83943,41 @@
       "id": "7809241e6eb36a2b",
       "initial_posting_date": "2025-12-03",
       "package_ndc": "0409-7101-66",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-7101-68",
+        "0409-7101-66",
+        "0409-7101-69",
+        "0409-7101-67",
+        "0409-7101-04",
+        "0409-7101-02",
+        "0409-7132-68",
+        "0409-7132-66",
+        "0409-7132-69",
+        "0409-7132-67",
+        "0409-7132-04",
+        "0409-7132-02"
+      ],
       "presentation": "Sodium Chloride 0.9%, Injection, 50 mL  ADD-Vantage\u00ae Flexible Container (NDC 0409-7101-66)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-7101",
+        "0409-7132"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 50 ml add vantage flexible container ndc 0409 7101 66 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 66 gastroenterology other renal",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1807547",
+        "1807631",
+        "1807632",
+        "1807633"
+      ],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 50 ml add vantage flexible container ndc 0409 7101 66 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 66 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "SODIUM CHLORIDE"
+      ],
       "therapeutic_categories": [
         "Gastroenterology",
         "Other",
@@ -83902,7 +83987,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "SODIUM CHLORIDE"
+      ],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2025-12-03",
       "dosage_form": "Injection",
@@ -83910,16 +83997,41 @@
       "id": "61f8c45d1d7bac7e",
       "initial_posting_date": "2025-12-03",
       "package_ndc": "0409-7101-67",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0409-7101-68",
+        "0409-7101-66",
+        "0409-7101-69",
+        "0409-7101-67",
+        "0409-7101-04",
+        "0409-7101-02",
+        "0409-7132-68",
+        "0409-7132-66",
+        "0409-7132-69",
+        "0409-7132-67",
+        "0409-7132-04",
+        "0409-7132-02"
+      ],
       "presentation": "Sodium Chloride 0.9%, Injection, 100 mL  ADD-Vantage\u00ae Flexible Container (NDC 0409-7101-67)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0409-7101",
+        "0409-7132"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 100 ml add vantage flexible container ndc 0409 7101 67 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 67 gastroenterology other renal",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1807547",
+        "1807631",
+        "1807632",
+        "1807633"
+      ],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 100 ml add vantage flexible container ndc 0409 7101 67 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 67 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "SODIUM CHLORIDE"
+      ],
       "therapeutic_categories": [
         "Gastroenterology",
         "Other",
@@ -85469,7 +85581,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-05-20",
+    "last_updated": "2026-05-21",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
