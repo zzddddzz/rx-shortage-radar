@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T12:27:15+00:00",
+  "generated_at": "2026-05-22T12:00:54+00:00",
   "records": [
     {
       "brand_names": [
@@ -5616,12 +5616,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1190546",
-        "1190551",
-        "1190552"
-      ],
-      "search_text": "atropine sulfate injection current injection atropine sulfate injection 1 mg 10 ml 0 1 mg ml syringes ndc 0409 1630 10 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1630 10 atropine sulfate 1190546 1190551 1190552 anesthesia neurology pediatric 0409 1630 0409 9630 0409 4910 0409 4911",
+      "rxcuis": [],
+      "search_text": "atropine sulfate injection current injection atropine sulfate injection 1 mg 10 ml 0 1 mg ml syringes ndc 0409 1630 10 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1630 10 atropine sulfate anesthesia neurology pediatric 0409 1630 0409 9630 0409 4910 0409 4911",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -5721,12 +5717,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1190546",
-        "1190551",
-        "1190552"
-      ],
-      "search_text": "atropine sulfate injection current injection atropine sulfate injection 0 25 mg 5 ml 0 05 mg ml syringes ndc 0409 9630 05 hospira inc a pfizer company 0409 9630 05 atropine sulfate 1190546 1190551 1190552 anesthesia neurology pediatric 0409 9630 0409 1630 0409 4910 0409 4911",
+      "rxcuis": [],
+      "search_text": "atropine sulfate injection current injection atropine sulfate injection 0 25 mg 5 ml 0 05 mg ml syringes ndc 0409 9630 05 hospira inc a pfizer company 0409 9630 05 atropine sulfate anesthesia neurology pediatric 0409 9630 0409 1630 0409 4910 0409 4911",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13779,7 +13771,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "CLEOCIN PHOSPHATE"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -13787,16 +13781,32 @@
       "id": "6777ec5df981f500",
       "initial_posting_date": "2023-03-21",
       "package_ndc": "0009-3051-02",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0009-3051-01",
+        "0009-3051-02",
+        "0009-4073-03",
+        "0009-4073-04",
+        "0009-5095-05",
+        "0009-5095-06"
+      ],
       "presentation": "Cleocin Phosphate, Injection, 300 mg/2 mL (150 mg/mL) (NDC 0009-3051-02)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0009-3051",
+        "0009-4073",
+        "0009-5095"
+      ],
       "related_info": "Estimated recovery: TBD",
-      "routes": [],
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 300 mg 2 ml 150 mg ml ndc 0009 3051 02 pfizer inc estimated recovery tbd 0009 3051 02 anti infective",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 300 mg 2 ml 150 mg ml ndc 0009 3051 02 pfizer inc estimated recovery tbd 0009 3051 02 cleocin phosphate anti infective 0009 3051 0009 4073 0009 5095",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -13804,7 +13814,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "CLEOCIN PHOSPHATE"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -13812,16 +13824,32 @@
       "id": "96f0ef538f6a5ca3",
       "initial_posting_date": "2023-03-21",
       "package_ndc": "0009-4073-04",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0009-3051-01",
+        "0009-3051-02",
+        "0009-4073-03",
+        "0009-4073-04",
+        "0009-5095-05",
+        "0009-5095-06"
+      ],
       "presentation": "Cleocin Phosphate, Injection, 600 mg/4 mL (150 mg/mL) (NDC 0009-4073-04)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0009-4073",
+        "0009-3051",
+        "0009-5095"
+      ],
       "related_info": "Estimated recovery: TBD",
-      "routes": [],
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 600 mg 4 ml 150 mg ml ndc 0009 4073 04 pfizer inc estimated recovery tbd 0009 4073 04 anti infective",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 600 mg 4 ml 150 mg ml ndc 0009 4073 04 pfizer inc estimated recovery tbd 0009 4073 04 cleocin phosphate anti infective 0009 4073 0009 3051 0009 5095",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -13829,7 +13857,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "CLEOCIN PHOSPHATE"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -13837,16 +13867,32 @@
       "id": "390735558f1cd929",
       "initial_posting_date": "2023-03-21",
       "package_ndc": "0009-5095-06",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0009-3051-01",
+        "0009-3051-02",
+        "0009-4073-03",
+        "0009-4073-04",
+        "0009-5095-05",
+        "0009-5095-06"
+      ],
       "presentation": "Cleocin Phosphate, Injection, 900 mg/6 mL (150 mg/mL) (NDC 0009-5095-06)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0009-5095",
+        "0009-3051",
+        "0009-4073"
+      ],
       "related_info": "Limited Supply Available. Next Delivery and Estimated Recovery: December 2028; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [],
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 900 mg 6 ml 150 mg ml ndc 0009 5095 06 pfizer inc limited supply available next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 5095 06 anti infective",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection 900 mg 6 ml 150 mg ml ndc 0009 5095 06 pfizer inc limited supply available next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 5095 06 cleocin phosphate anti infective 0009 5095 0009 3051 0009 4073",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -24231,7 +24277,7 @@
       "therapeutic_categories": [
         "Ophthalmology"
       ],
-      "update_date": "2025-09-17",
+      "update_date": "2026-05-21",
       "update_type": "Reverified"
     },
     {
@@ -28338,13 +28384,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735003",
         "1735007",
         "1735008",
         "1735013",
-        "2168270"
+        "2168270",
+        "1735003"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 01 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 01 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 01 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 01 fentanyl citrate 1735007 1735008 1735013 2168270 1735003 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28389,13 +28435,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735003",
         "1735007",
         "1735008",
         "1735013",
-        "2168270"
+        "2168270",
+        "1735003"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 02 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 02 fentanyl citrate 1735007 1735008 1735013 2168270 1735003 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28440,13 +28486,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735003",
         "1735007",
         "1735008",
         "1735013",
-        "2168270"
+        "2168270",
+        "1735003"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 05 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 05 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 05 fresenius kabi usa llc next release may 2026 check wholesalers for inventory 63323 806 05 fentanyl citrate 1735007 1735008 1735013 2168270 1735003 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28491,13 +28537,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735003",
         "1735007",
         "1735008",
         "1735013",
-        "2168270"
+        "2168270",
+        "1735003"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 20 fresenius kabi usa llc next release june 2026 check wholesalers for inventory 63323 806 20 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 20 fresenius kabi usa llc next release june 2026 check wholesalers for inventory 63323 806 20 fentanyl citrate 1735007 1735008 1735013 2168270 1735003 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28542,13 +28588,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735003",
         "1735007",
         "1735008",
         "1735013",
-        "2168270"
+        "2168270",
+        "1735003"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 50 fresenius kabi usa llc next release june 2026 check wholesalers for inventory 63323 806 50 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 50 fresenius kabi usa llc next release june 2026 check wholesalers for inventory 63323 806 50 fentanyl citrate 1735007 1735008 1735013 2168270 1735003 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -30517,50 +30563,6 @@
         "1658692"
       ],
       "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0431 03 baxter healthcare estimated recovery july 2026 0338 0431 03 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0431 0338 0433 0338 0424 0338 0428",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "HEPARIN SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Hematology"
-      ],
-      "update_date": "2026-05-16",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "HEPARIN SODIUM IN SODIUM CHLORIDE"
-      ],
-      "company_name": "Baxter Healthcare",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Heparin Sodium Injection",
-      "id": "3736b58986ff5e2b",
-      "initial_posting_date": "2017-11-14",
-      "package_ndc": "0338-0431-03",
-      "package_ndcs": [
-        "0338-0431-03",
-        "0338-0433-04",
-        "0338-0424-18",
-        "0338-0428-12"
-      ],
-      "presentation": "Heparin Sodium In Sodium Chloride, Injection, 200 [USP'U]/100 mL (NDC 0338-0431-03)",
-      "product_ndcs": [
-        "0338-0431",
-        "0338-0433",
-        "0338-0424",
-        "0338-0428"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1658690",
-        "1658692"
-      ],
-      "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0431 03 baxter healthcare estimated recovery tbd 0338 0431 03 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0431 0338 0433 0338 0424 0338 0428",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56599,10 +56601,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1234995"
-      ],
-      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 50 mg 5 ml ndc 55150 225 05 eugia us llc check wholesalers for inventory 55150 225 05 rocuronium bromide 1234995 anesthesia 55150 225 55150 226",
+      "rxcuis": [],
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 50 mg 5 ml ndc 55150 225 05 eugia us llc check wholesalers for inventory 55150 225 05 rocuronium bromide anesthesia 55150 225 55150 226",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56638,10 +56638,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1234995"
-      ],
-      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 100 mg 10 ml ndc 55150 226 10 eugia us llc check wholesalers for inventory 55150 226 10 rocuronium bromide 1234995 anesthesia 55150 226 55150 225",
+      "rxcuis": [],
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 100 mg 10 ml ndc 55150 226 10 eugia us llc check wholesalers for inventory 55150 226 10 rocuronium bromide anesthesia 55150 226 55150 225",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -64568,6 +64566,46 @@
     },
     {
       "brand_names": [
+        "ACTIVASE"
+      ],
+      "company_name": "Genentech, Inc",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Alteplase Injection",
+      "id": "6256235683c93e0c",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "50242-085-27",
+      "package_ndcs": [
+        "50242-044-13",
+        "50242-085-27"
+      ],
+      "presentation": "Activase, Injection, 1 KIT in 1 CARTON (50242-085-27) * 100 mL in 1 VIAL, SINGLE-USE * 100 mL in 1 VIAL, SINGLE USE (NDC 50242-085-27)",
+      "product_ndcs": [
+        "50242-085",
+        "50242-044"
+      ],
+      "related_info": "Discontinuation of the 100mg vial configuration",
+      "routes": [],
+      "rxcuis": [
+        "1804799",
+        "1804802",
+        "1804804",
+        "1804806"
+      ],
+      "search_text": "alteplase injection to be discontinued injection activase injection 1 kit in 1 carton 50242 085 27 100 ml in 1 vial single use 100 ml in 1 vial single use ndc 50242 085 27 genentech inc discontinuation of the 100mg vial configuration 50242 085 27 activase 1804799 1804802 1804804 1804806 cardiovascular hematology neurology 50242 085 50242 044",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular",
+        "Hematology",
+        "Neurology"
+      ],
+      "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "AMANTADINE HYDROCHLORIDE"
       ],
       "company_name": "Upsher-Smith Laboratories, LLC",
@@ -67951,43 +67989,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -68018,6 +68019,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -73870,6 +73908,55 @@
         "Oncology"
       ],
       "update_date": "2026-02-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IRON SUCROSE"
+      ],
+      "company_name": "Mylan Institutional, a Viatris Company",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Iron Sucrose Injection",
+      "id": "c66842e2c547013f",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "67457-957-99",
+      "package_ndcs": [
+        "67457-957-00",
+        "67457-957-99",
+        "67457-957-25",
+        "67457-638-00",
+        "67457-638-10",
+        "67457-638-25",
+        "67457-639-00",
+        "67457-639-10",
+        "67457-639-99"
+      ],
+      "presentation": "Iron Sucrose, Injection, 50 mg/2.5 mL (NDC 67457-957-99)",
+      "product_ndcs": [
+        "67457-957",
+        "67457-638",
+        "67457-639"
+      ],
+      "related_info": "A business decision has been made to discontinue of 2.5mL presentation only. Continuity of supply is forecasted across all other presentations of Iron Sucrose: 67457-639-10 Iron Sucrose 20mg/mL 10mL SDV 5PK 67457-638-10 Iron Sucrose 20mg/mL 5mL SDV 10PK 67457-638-25 Iron Sucrose 20mg/mL 5mL SDV 25PK.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1741261",
+        "1741267",
+        "1741270"
+      ],
+      "search_text": "iron sucrose injection to be discontinued injection iron sucrose injection 50 mg 2 5 ml ndc 67457 957 99 mylan institutional a viatris company a business decision has been made to discontinue of 2 5ml presentation only continuity of supply is forecasted across all other presentations of iron sucrose 67457 639 10 iron sucrose 20mg ml 10ml sdv 5pk 67457 638 10 iron sucrose 20mg ml 5ml sdv 10pk 67457 638 25 iron sucrose 20mg ml 5ml sdv 25pk 67457 957 99 iron sucrose 1741261 1741267 1741270 hematology 67457 957 67457 638 67457 639",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "IRON SUCROSE"
+      ],
+      "therapeutic_categories": [
+        "Hematology"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -83912,13 +83999,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1807547",
-        "1807631",
-        "1807632",
-        "1807633"
-      ],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 250 ml add vantage flexible container ndc 0409 7101 02 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 02 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
+      "rxcuis": [],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 250 ml add vantage flexible container ndc 0409 7101 02 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 02 sodium chloride gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -83966,13 +84048,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1807547",
-        "1807631",
-        "1807632",
-        "1807633"
-      ],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 50 ml add vantage flexible container ndc 0409 7101 66 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 66 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
+      "rxcuis": [],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 50 ml add vantage flexible container ndc 0409 7101 66 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 66 sodium chloride gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -84020,13 +84097,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1807547",
-        "1807631",
-        "1807632",
-        "1807633"
-      ],
-      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 100 ml add vantage flexible container ndc 0409 7101 67 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 67 sodium chloride 1807547 1807631 1807632 1807633 gastroenterology other renal 0409 7101 0409 7132",
+      "rxcuis": [],
+      "search_text": "sodium chloride 0 9 injection to be discontinued injection sodium chloride 0 9 injection 100 ml add vantage flexible container ndc 0409 7101 67 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 7101 67 sodium chloride gastroenterology other renal 0409 7101 0409 7132",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -85581,17 +85653,17 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-05-21",
+    "last_updated": "2026-05-22",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
   },
   "summary": {
     "status_counts": {
-      "Current": 1157,
+      "Current": 1156,
       "Resolved": 29,
-      "To Be Discontinued": 492
+      "To Be Discontinued": 494
     },
-    "total_records": 1678
+    "total_records": 1679
   }
 }
