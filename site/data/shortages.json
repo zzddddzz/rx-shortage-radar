@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:30:24+00:00",
+  "generated_at": "2026-06-13T11:24:24+00:00",
   "records": [
     {
       "brand_names": [
@@ -21852,14 +21852,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1795607",
-        "1795609",
-        "1795610",
-        "1795612",
-        "1795616"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0062 30 baxter healthcare 0338 0062 30 dextrose 1795607 1795609 1795610 1795612 1795616 endocrinology metabolism gastroenterology other pediatric 0338 0062 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0074 0338 0066 0338 0070 0338 0082",
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0062 30 baxter healthcare 0338 0062 30 dextrose endocrinology metabolism gastroenterology other pediatric 0338 0062 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0074 0338 0066 0338 0070 0338 0082",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -21915,14 +21909,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1795607",
-        "1795609",
-        "1795610",
-        "1795612",
-        "1795616"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0066 20 baxter healthcare 0338 0066 20 dextrose 1795607 1795609 1795610 1795612 1795616 endocrinology metabolism gastroenterology other pediatric 0338 0066 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0062 0338 0074 0338 0070 0338 0082",
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0066 20 baxter healthcare 0338 0066 20 dextrose endocrinology metabolism gastroenterology other pediatric 0338 0066 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0062 0338 0074 0338 0070 0338 0082",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -21978,14 +21966,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1795607",
-        "1795609",
-        "1795610",
-        "1795612",
-        "1795616"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0070 10 baxter healthcare 0338 0070 10 dextrose 1795607 1795609 1795610 1795612 1795616 endocrinology metabolism gastroenterology other pediatric 0338 0070 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0062 0338 0074 0338 0066 0338 0082",
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 0070 10 baxter healthcare 0338 0070 10 dextrose endocrinology metabolism gastroenterology other pediatric 0338 0070 0338 9651 0338 9649 0338 9655 0338 9653 0338 0078 0338 0062 0338 0074 0338 0066 0338 0082",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22085,7 +22067,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "DEXTROSE"
+      ],
       "company_name": "Baxter Healthcare",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -22093,16 +22077,29 @@
       "id": "958685cb4d87f5ca",
       "initial_posting_date": "2022-02-14",
       "package_ndc": "0338-9664-40",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0338-9664-40",
+        "0338-9666-35"
+      ],
       "presentation": "Dextrose 5% In Plastic Container, Injection, 2.5 g/50 mL (NDC 0338-9664-40)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0338-9664",
+        "0338-9666"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 2 5 g 50 ml ndc 0338 9664 40 baxter healthcare 0338 9664 40 endocrinology metabolism gastroenterology other pediatric",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1795609",
+        "1795616"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 2 5 g 50 ml ndc 0338 9664 40 baxter healthcare 0338 9664 40 dextrose 1795609 1795616 endocrinology metabolism gastroenterology other pediatric 0338 9664 0338 9666",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "DEXTROSE MONOHYDRATE"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -22113,7 +22110,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "DEXTROSE"
+      ],
       "company_name": "Baxter Healthcare",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -22121,16 +22120,29 @@
       "id": "fe8cfd273ba3d1a3",
       "initial_posting_date": "2022-02-14",
       "package_ndc": "0338-9666-35",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0338-9664-40",
+        "0338-9666-35"
+      ],
       "presentation": "Dextrose 5% In Plastic Container, Injection, 5 g/100 mL (NDC 0338-9666-35)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0338-9666",
+        "0338-9664"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 9666 35 baxter healthcare 0338 9666 35 endocrinology metabolism gastroenterology other pediatric",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1795609",
+        "1795616"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0338 9666 35 baxter healthcare 0338 9666 35 dextrose 1795609 1795616 endocrinology metabolism gastroenterology other pediatric 0338 9666 0338 9664",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "DEXTROSE MONOHYDRATE"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -23281,10 +23293,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "237656"
-      ],
-      "search_text": "dextrose monohydrate 70 injection current injection dextrose monohydrate 70 injection 70 g 100 ml ndc 0338 0719 06 baxter healthcare estimated recovery june 2026 0338 0719 06 dextrose 237656 endocrinology metabolism gastroenterology other pediatric 0338 0719",
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 70 injection current injection dextrose monohydrate 70 injection 70 g 100 ml ndc 0338 0719 06 baxter healthcare estimated recovery june 2026 0338 0719 06 dextrose endocrinology metabolism gastroenterology other pediatric 0338 0719",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32203,6 +32213,298 @@
     },
     {
       "brand_names": [
+        "IFOSFAMIDE"
+      ],
+      "company_name": "Hikma Pharmaceuticals USA, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "c181354a8b98f844",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "0143-9530-01",
+      "package_ndcs": [
+        "0143-9531-01",
+        "0143-9530-01"
+      ],
+      "presentation": "Ifosfamide, Injection, 50 mg/1 mL (NDC 0143-9530-01)",
+      "product_ndcs": [
+        "0143-9530",
+        "0143-9531"
+      ],
+      "related_info": "Additional lots will be available in the June \u2013 July 2026 timeframe.  Product will be made available as it is released.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791597",
+        "1791599"
+      ],
+      "search_text": "ifosfamide injection current injection ifosfamide injection 50 mg 1 ml ndc 0143 9530 01 hikma pharmaceuticals usa inc additional lots will be available in the june july 2026 timeframe product will be made available as it is released 0143 9530 01 ifosfamide 1791597 1791599 oncology pediatric 0143 9530 0143 9531",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFOSFAMIDE"
+      ],
+      "company_name": "Hikma Pharmaceuticals USA, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "eaa0464379cd4410",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "0143-9531-01",
+      "package_ndcs": [
+        "0143-9531-01",
+        "0143-9530-01"
+      ],
+      "presentation": "Ifosfamide, Injection, 50 mg/1 mL (NDC 0143-9531-01)",
+      "product_ndcs": [
+        "0143-9531",
+        "0143-9530"
+      ],
+      "related_info": "Additional lots will be available in the July 2026 timeframe.  Product will be made available as it is released.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791597",
+        "1791599"
+      ],
+      "search_text": "ifosfamide injection current injection ifosfamide injection 50 mg 1 ml ndc 0143 9531 01 hikma pharmaceuticals usa inc additional lots will be available in the july 2026 timeframe product will be made available as it is released 0143 9531 01 ifosfamide 1791597 1791599 oncology pediatric 0143 9531 0143 9530",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFEX"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "5f3236ef6ca66a91",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "0338-3991-01",
+      "package_ndcs": [
+        "0338-3991-01",
+        "0338-3993-01"
+      ],
+      "presentation": "IFEX, Injection, 1 g/20 mL (NDC 0338-3991-01)",
+      "product_ndcs": [
+        "0338-3991",
+        "0338-3993"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791588",
+        "1791591",
+        "1791593",
+        "1791595"
+      ],
+      "search_text": "ifosfamide injection current injection ifex injection 1 g 20 ml ndc 0338 3991 01 baxter healthcare 0338 3991 01 ifex 1791588 1791591 1791593 1791595 oncology pediatric 0338 3991 0338 3993",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFEX"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "5f7f97f58961b10a",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "0338-3993-01",
+      "package_ndcs": [
+        "0338-3991-01",
+        "0338-3993-01"
+      ],
+      "presentation": "IFEX, Injection, 3 g/60 mL (NDC 0338-3993-01)",
+      "product_ndcs": [
+        "0338-3993",
+        "0338-3991"
+      ],
+      "related_info": "Estimated recovery in October.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791588",
+        "1791591",
+        "1791593",
+        "1791595"
+      ],
+      "search_text": "ifosfamide injection current injection ifex injection 3 g 60 ml ndc 0338 3993 01 baxter healthcare estimated recovery in october 0338 3993 01 ifex 1791588 1791591 1791593 1791595 oncology pediatric 0338 3993 0338 3991",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFOSFAMIDE"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "c7edd91bda4728d5",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "10019-925-01",
+      "package_ndcs": [
+        "10019-925-82",
+        "10019-925-01",
+        "10019-926-16",
+        "10019-926-02"
+      ],
+      "presentation": "Ifosfamide, Injection, 1 g/20 mL (NDC 10019-925-01)",
+      "product_ndcs": [
+        "10019-925",
+        "10019-926"
+      ],
+      "related_info": "Estimated recovery by the end of August.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791588",
+        "1791593"
+      ],
+      "search_text": "ifosfamide injection current injection ifosfamide injection 1 g 20 ml ndc 10019 925 01 baxter healthcare estimated recovery by the end of august 10019 925 01 ifosfamide 1791588 1791593 oncology pediatric 10019 925 10019 926",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFOSFAMIDE"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "befa41a1297d59f0",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "10019-926-02",
+      "package_ndcs": [
+        "10019-925-82",
+        "10019-925-01",
+        "10019-926-16",
+        "10019-926-02"
+      ],
+      "presentation": "Ifosfamide, Injection, 3 g/60 mL (NDC 10019-926-02)",
+      "product_ndcs": [
+        "10019-926",
+        "10019-925"
+      ],
+      "related_info": "Estimated recovery by the end of August.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791588",
+        "1791593"
+      ],
+      "search_text": "ifosfamide injection current injection ifosfamide injection 3 g 60 ml ndc 10019 926 02 baxter healthcare estimated recovery by the end of august 10019 926 02 ifosfamide 1791588 1791593 oncology pediatric 10019 926 10019 925",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "IFOSFAMIDE"
+      ],
+      "company_name": "Fresenius Kabi USA, LLC",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ifosfamide Injection",
+      "id": "5e78fe8a30d6c0b4",
+      "initial_posting_date": "2026-06-12",
+      "package_ndc": "63323-142-10",
+      "package_ndcs": [
+        "63323-142-10"
+      ],
+      "presentation": "Ifosfamide, Injection, 1 g (NDC 63323-142-10)",
+      "product_ndcs": [
+        "63323-142"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1791593"
+      ],
+      "search_text": "ifosfamide injection current injection ifosfamide injection 1 g ndc 63323 142 10 fresenius kabi usa llc 63323 142 10 ifosfamide 1791593 oncology pediatric 63323 142",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "IFOSFAMIDE"
+      ],
+      "therapeutic_categories": [
+        "Oncology",
+        "Pediatric"
+      ],
+      "update_date": "2026-06-12",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "MARPLAN"
       ],
       "company_name": "Lifsa Drugs LLC",
@@ -38230,10 +38532,8 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [
-        "897122"
-      ],
-      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 0143 9144 02 hikma pharmaceuticals usa inc 0143 9144 02 liraglutide 897122 endocrinology metabolism 0143 9144",
+      "rxcuis": [],
+      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 0143 9144 02 hikma pharmaceuticals usa inc 0143 9144 02 liraglutide endocrinology metabolism 0143 9144",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -38269,10 +38569,8 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [
-        "897122"
-      ],
-      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 0143 9144 03 hikma pharmaceuticals usa inc 0143 9144 03 liraglutide 897122 endocrinology metabolism 0143 9144",
+      "rxcuis": [],
+      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 0143 9144 03 hikma pharmaceuticals usa inc 0143 9144 03 liraglutide endocrinology metabolism 0143 9144",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -40852,16 +41150,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 43547 602 10 solco healthcare us llc on allocation 43547 602 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 602 43547 603 43547 604 43547 605 43547 606 43547 607 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 43547 602 10 solco healthcare us llc on allocation 43547 602 10 lisdexamfetamine dimesylate psychiatry 43547 602 43547 603 43547 604 43547 605 43547 606 43547 607 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -40907,16 +41197,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 43547 603 10 solco healthcare us llc on allocation 43547 603 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 603 43547 602 43547 604 43547 605 43547 606 43547 607 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 43547 603 10 solco healthcare us llc on allocation 43547 603 10 lisdexamfetamine dimesylate psychiatry 43547 603 43547 602 43547 604 43547 605 43547 606 43547 607 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -40962,16 +41244,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 43547 604 10 solco healthcare us llc on allocation 43547 604 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 604 43547 602 43547 603 43547 605 43547 606 43547 607 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 43547 604 10 solco healthcare us llc on allocation 43547 604 10 lisdexamfetamine dimesylate psychiatry 43547 604 43547 602 43547 603 43547 605 43547 606 43547 607 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41017,16 +41291,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 43547 605 10 solco healthcare us llc on allocation 43547 605 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 605 43547 602 43547 603 43547 604 43547 606 43547 607 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 43547 605 10 solco healthcare us llc on allocation 43547 605 10 lisdexamfetamine dimesylate psychiatry 43547 605 43547 602 43547 603 43547 604 43547 606 43547 607 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41072,16 +41338,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 43547 606 10 solco healthcare us llc on allocation 43547 606 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 606 43547 602 43547 603 43547 604 43547 605 43547 607 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 43547 606 10 solco healthcare us llc on allocation 43547 606 10 lisdexamfetamine dimesylate psychiatry 43547 606 43547 602 43547 603 43547 604 43547 605 43547 607 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41127,16 +41385,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 43547 607 10 solco healthcare us llc on allocation 43547 607 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 607 43547 602 43547 603 43547 604 43547 605 43547 606 43547 608",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 43547 607 10 solco healthcare us llc on allocation 43547 607 10 lisdexamfetamine dimesylate psychiatry 43547 607 43547 602 43547 603 43547 604 43547 605 43547 606 43547 608",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41182,16 +41432,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 43547 608 10 solco healthcare us llc on allocation 43547 608 10 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 43547 608 43547 602 43547 603 43547 604 43547 605 43547 606 43547 607",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 43547 608 10 solco healthcare us llc on allocation 43547 608 10 lisdexamfetamine dimesylate psychiatry 43547 608 43547 602 43547 603 43547 604 43547 605 43547 606 43547 607",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -77937,9 +78179,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Sun Pharmaceutical Industries, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -77947,29 +78187,16 @@
       "id": "5e8857eb6fe996d8",
       "initial_posting_date": "2024-02-29",
       "package_ndc": "47335-326-08",
-      "package_ndcs": [
-        "47335-326-83",
-        "47335-326-88",
-        "47335-326-08",
-        "47335-326-18"
-      ],
+      "package_ndcs": [],
       "presentation": "Naltrexone Hydrochloride, Tablet, 50 mg (NDC 47335-326-08)",
-      "product_ndcs": [
-        "47335-326"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1483744"
-      ],
-      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 08 sun pharmaceutical industries inc 47335 326 08 naltrexone hydrochloride 1483744 analgesia addiction 47335 326",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 08 sun pharmaceutical industries inc 47335 326 08 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Resolved",
-      "substances": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -77977,9 +78204,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Sun Pharmaceutical Industries, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -77987,29 +78212,16 @@
       "id": "6b9bc3290287f096",
       "initial_posting_date": "2024-02-29",
       "package_ndc": "47335-326-18",
-      "package_ndcs": [
-        "47335-326-83",
-        "47335-326-88",
-        "47335-326-08",
-        "47335-326-18"
-      ],
+      "package_ndcs": [],
       "presentation": "Naltrexone Hydrochloride, Tablet, 50 mg (NDC 47335-326-18)",
-      "product_ndcs": [
-        "47335-326"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1483744"
-      ],
-      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 18 sun pharmaceutical industries inc 47335 326 18 naltrexone hydrochloride 1483744 analgesia addiction 47335 326",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 18 sun pharmaceutical industries inc 47335 326 18 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Resolved",
-      "substances": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -78017,9 +78229,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Sun Pharmaceutical Industries, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -78027,29 +78237,16 @@
       "id": "c24b940a1cc78659",
       "initial_posting_date": "2024-02-29",
       "package_ndc": "47335-326-83",
-      "package_ndcs": [
-        "47335-326-83",
-        "47335-326-88",
-        "47335-326-08",
-        "47335-326-18"
-      ],
+      "package_ndcs": [],
       "presentation": "Naltrexone Hydrochloride, Tablet, 50 mg (NDC 47335-326-83)",
-      "product_ndcs": [
-        "47335-326"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1483744"
-      ],
-      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 83 sun pharmaceutical industries inc 47335 326 83 naltrexone hydrochloride 1483744 analgesia addiction 47335 326",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 83 sun pharmaceutical industries inc 47335 326 83 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Resolved",
-      "substances": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -78057,9 +78254,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Sun Pharmaceutical Industries, Inc.",
       "discontinued_date": null,
       "dosage_form": "Tablet",
@@ -78067,29 +78262,16 @@
       "id": "06e20fd3d8e0df1f",
       "initial_posting_date": "2024-02-29",
       "package_ndc": "47335-326-88",
-      "package_ndcs": [
-        "47335-326-83",
-        "47335-326-88",
-        "47335-326-08",
-        "47335-326-18"
-      ],
+      "package_ndcs": [],
       "presentation": "Naltrexone Hydrochloride, Tablet, 50 mg (NDC 47335-326-88)",
-      "product_ndcs": [
-        "47335-326"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1483744"
-      ],
-      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 88 sun pharmaceutical industries inc 47335 326 88 naltrexone hydrochloride 1483744 analgesia addiction 47335 326",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 47335 326 88 sun pharmaceutical industries inc 47335 326 88 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Resolved",
-      "substances": [
-        "NALTREXONE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -83433,9 +83615,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "PHOTREXA CROSS-LINKING KIT"
-      ],
+      "brand_names": [],
       "company_name": "Glaukos Corporation",
       "discontinued_date": "2026-01-20",
       "dosage_form": "Ophthalmic Solution",
@@ -83443,20 +83623,13 @@
       "id": "c1067ba88ed6fee1",
       "initial_posting_date": "2026-01-20",
       "package_ndc": "25357-025-03",
-      "package_ndcs": [
-        "25357-025-03"
-      ],
+      "package_ndcs": [],
       "presentation": "Photrexa Cross-linking Kit, Ophthalmic Solution, Kit (NDC 25357-025-03)",
-      "product_ndcs": [
-        "25357-025"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuing manufacture of the product as of June 2026.",
       "routes": [],
-      "rxcuis": [
-        "1925825",
-        "1925830"
-      ],
-      "search_text": "riboflavin 5 phosphate ophthalmic solution to be discontinued ophthalmic solution photrexa cross linking kit ophthalmic solution kit ndc 25357 025 03 glaukos corporation discontinuing manufacture of the product as of june 2026 25357 025 03 photrexa cross linking kit 1925825 1925830 ophthalmology 25357 025",
+      "rxcuis": [],
+      "search_text": "riboflavin 5 phosphate ophthalmic solution to be discontinued ophthalmic solution photrexa cross linking kit ophthalmic solution kit ndc 25357 025 03 glaukos corporation discontinuing manufacture of the product as of june 2026 25357 025 03 ophthalmology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [],
@@ -84933,9 +85106,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "HALCION"
-      ],
+      "brand_names": [],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2025-09-29",
       "dosage_form": "Tablet",
@@ -84943,28 +85114,16 @@
       "id": "a69ff9ed8466a100",
       "initial_posting_date": "2025-09-29",
       "package_ndc": "0009-0017-58",
-      "package_ndcs": [
-        "0009-0017-55",
-        "0009-0017-58"
-      ],
+      "package_ndcs": [],
       "presentation": "Halcion, Tablet, .25 mg (NDC 0009-0017-58)",
-      "product_ndcs": [
-        "0009-0017"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198318",
-        "208681"
-      ],
-      "search_text": "triazolam tablet to be discontinued tablet halcion tablet 25 mg ndc 0009 0017 58 pfizer inc discontinuation of the manufacture of the drug 0009 0017 58 halcion 198318 208681 psychiatry 0009 0017",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "triazolam tablet to be discontinued tablet halcion tablet 25 mg ndc 0009 0017 58 pfizer inc discontinuation of the manufacture of the drug 0009 0017 58 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "TRIAZOLAM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -85492,17 +85651,17 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
   },
   "summary": {
     "status_counts": {
-      "Current": 1146,
+      "Current": 1153,
       "Resolved": 29,
       "To Be Discontinued": 496
     },
-    "total_records": 1671
+    "total_records": 1678
   }
 }
