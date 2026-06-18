@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T12:57:13+00:00",
+  "generated_at": "2026-06-18T12:31:37+00:00",
   "records": [
     {
       "brand_names": [
@@ -8545,7 +8545,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8605,7 +8605,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8664,7 +8664,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8723,7 +8723,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8758,7 +8758,7 @@
         "55150-249",
         "55150-250"
       ],
-      "related_info": "On backorder. Recovery: TBD. Check wholesalers for inventory",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "RETROBULBAR"
@@ -8773,7 +8773,7 @@
         "1725078",
         "1725082"
       ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 171 10 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 171 10 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 171 55150 167 55150 168 55150 169 55150 170 55150 172 55150 249 55150 250",
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 171 10 eugia us llc check wholesalers for inventory 55150 171 10 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 171 55150 167 55150 168 55150 169 55150 170 55150 172 55150 249 55150 250",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8782,7 +8782,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8841,7 +8841,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8876,7 +8876,7 @@
         "55150-172",
         "55150-250"
       ],
-      "related_info": "On backorder. Recovery: TBD. Check wholesalers for inventory",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -8891,7 +8891,7 @@
         "1725078",
         "1725082"
       ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 2 5 mg 1 ml ndc 55150 249 50 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 249 50 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 249 55150 167 55150 168 55150 169 55150 170 55150 171 55150 172 55150 250",
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 2 5 mg 1 ml ndc 55150 249 50 eugia us llc check wholesalers for inventory 55150 249 50 bupivacaine hydrochloride 1012396 1012404 1724786 1724787 1724880 1724884 1725078 1725082 anesthesia 55150 249 55150 167 55150 168 55150 169 55150 170 55150 171 55150 172 55150 250",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8900,7 +8900,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -8958,7 +8958,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -13460,7 +13460,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "CEFOTAXIME"
+      ],
       "company_name": "SteriMax, Inc.",
       "discontinued_date": null,
       "dosage_form": "Powder, For Solution",
@@ -13468,16 +13470,32 @@
       "id": "ca6712b9006c83e7",
       "initial_posting_date": "2015-02-17",
       "package_ndc": "21586-011-02",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "21586-011-01",
+        "21586-011-02",
+        "21586-012-01",
+        "21586-012-02"
+      ],
       "presentation": "Cefotaxime Sodium, Powder, for Solution, 1 g (NDC 21586-011-02)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "21586-011",
+        "21586-012"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 1 g ndc 21586 011 02 sterimax inc 21586 011 02 anti infective pediatric",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1656313",
+        "1656318"
+      ],
+      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 1 g ndc 21586 011 02 sterimax inc 21586 011 02 cefotaxime 1656313 1656318 anti infective pediatric 21586 011 21586 012",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "CEFOTAXIME SODIUM"
+      ],
       "therapeutic_categories": [
         "Anti-Infective",
         "Pediatric"
@@ -13486,7 +13504,9 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "CEFOTAXIME"
+      ],
       "company_name": "SteriMax, Inc.",
       "discontinued_date": null,
       "dosage_form": "Powder, For Solution",
@@ -13494,16 +13514,32 @@
       "id": "c63f8d9aba9ebd51",
       "initial_posting_date": "2015-02-17",
       "package_ndc": "21586-012-02",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "21586-011-01",
+        "21586-011-02",
+        "21586-012-01",
+        "21586-012-02"
+      ],
       "presentation": "Cefotaxime Sodium, Powder, for Solution, 2 g (NDC 21586-012-02)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "21586-012",
+        "21586-011"
+      ],
       "related_info": "",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 2 g ndc 21586 012 02 sterimax inc 21586 012 02 anti infective pediatric",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1656313",
+        "1656318"
+      ],
+      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 2 g ndc 21586 012 02 sterimax inc 21586 012 02 cefotaxime 1656313 1656318 anti infective pediatric 21586 012 21586 011",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "CEFOTAXIME SODIUM"
+      ],
       "therapeutic_categories": [
         "Anti-Infective",
         "Pediatric"
@@ -14547,7 +14583,7 @@
         "0093-3212",
         "0093-3213"
       ],
-      "related_info": "Estimated recovery: June 2026",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -14556,7 +14592,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 0093 0832 01 teva pharmaceuticals usa inc estimated recovery june 2026 0093 0832 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 0832 0093 3212 0093 3213",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 0093 0832 01 teva pharmaceuticals usa inc estimated recovery tbd 0093 0832 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 0832 0093 3212 0093 3213",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14567,7 +14603,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-15",
       "update_type": "Reverified"
     },
     {
@@ -14615,7 +14651,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-15",
       "update_type": "Reverified"
     },
     {
@@ -14739,7 +14775,7 @@
         "0093-0832",
         "0093-3212"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -14748,7 +14784,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 0093 3213 01 teva pharmaceuticals usa inc 0093 3213 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 3213 0093 0832 0093 3212",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 0093 3213 01 teva pharmaceuticals usa inc estimated recovery tbd 0093 3213 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 3213 0093 0832 0093 3212",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14759,8 +14795,8 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-06-02",
-      "update_type": "Reverified"
+      "update_date": "2026-06-15",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -14807,7 +14843,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-15",
       "update_type": "Reverified"
     },
     {
@@ -16585,7 +16621,7 @@
       "therapeutic_categories": [
         "Pulmonary/Allergy"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -17155,8 +17191,8 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
-      "update_type": "Reverified"
+      "update_date": "2026-06-17",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -17213,8 +17249,8 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
-      "update_type": "Reverified"
+      "update_date": "2026-06-17",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -17271,8 +17307,8 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
-      "update_type": "Reverified"
+      "update_date": "2026-06-17",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -17327,7 +17363,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Revised"
     },
     {
@@ -17354,7 +17390,7 @@
         "63323-516",
         "63323-506"
       ],
-      "related_info": "Next release not available at this time.",
+      "related_info": "Next release July 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -17363,7 +17399,7 @@
         "309696",
         "1812079"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 63323 516 10 fresenius kabi usa llc next release not available at this time 63323 516 10 dexamethasone sodium phosphate 309696 1812079 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 516 63323 506",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 63323 516 10 fresenius kabi usa llc next release july 2026 check wholesalers for inventory 63323 516 10 dexamethasone sodium phosphate 309696 1812079 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 516 63323 506",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -17381,7 +17417,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Revised"
     },
     {
@@ -17440,7 +17476,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -17502,7 +17538,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -17564,7 +17600,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -17626,7 +17662,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -17685,17 +17721,18 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Dexamethasone Sodium Phosphate Injection",
-      "id": "b8c3df52f5fc456a",
+      "id": "84d34f76a2869b53",
       "initial_posting_date": "2019-02-08",
-      "package_ndc": "76045-106-10",
+      "package_ndc": "76045-210-10",
       "package_ndcs": [
-        "76045-106-10"
+        "76045-210-00",
+        "76045-210-10"
       ],
-      "presentation": "Dexamethasone Sodium Phosphate, Injection, 4 mg/1 mL (NDC 76045-106-10)",
+      "presentation": "Dexamethasone Sodium Phosphate, Injection, 4 mg/1 mL (NDC 76045-210-10)",
       "product_ndcs": [
-        "76045-106"
+        "76045-210"
       ],
-      "related_info": "New NDC 76045-0210-10 (RFID)",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "INTRA-ARTICULAR",
         "INTRALESIONAL",
@@ -17706,7 +17743,7 @@
       "rxcuis": [
         "1812095"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 76045 106 10 fresenius kabi usa llc new ndc 76045 0210 10 rfid 76045 106 10 dexamethasone sodium phosphate 1812095 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 106",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 76045 210 10 fresenius kabi usa llc estimated recovery tbd 76045 210 10 dexamethasone sodium phosphate 1812095 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 210",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -17724,7 +17761,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Revised"
     },
     {
@@ -17735,21 +17772,21 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Dexamethasone Sodium Phosphate Injection",
-      "id": "593ee2de8ad12191",
+      "id": "1e2a5e22b37806fe",
       "initial_posting_date": "2019-02-08",
-      "package_ndc": "76045-109-10",
+      "package_ndc": "76045-212-10",
       "package_ndcs": [
         "76045-109-01",
         "76045-109-10",
         "76045-212-00",
         "76045-212-10"
       ],
-      "presentation": "Dexamethasone Sodium Phosphate, Injection, 10 mg/1 mL (NDC 76045-109-10)",
+      "presentation": "Dexamethasone Sodium Phosphate, Injection, 10 mg/1 mL (NDC 76045-212-10)",
       "product_ndcs": [
-        "76045-109",
-        "76045-212"
+        "76045-212",
+        "76045-109"
       ],
-      "related_info": "New NDC 76045-0212-10 (RFID)",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -17757,7 +17794,7 @@
       "rxcuis": [
         "2099700"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 109 10 fresenius kabi usa llc new ndc 76045 0212 10 rfid 76045 109 10 dexamethasone sodium phosphate 2099700 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 109 76045 212",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 212 10 fresenius kabi usa llc estimated recovery tbd 76045 212 10 dexamethasone sodium phosphate 2099700 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 212 76045 109",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -17775,7 +17812,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Revised"
     },
     {
@@ -18936,7 +18973,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-03",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -18979,8 +19016,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-03",
-      "update_type": "Revised"
+      "update_date": "2026-06-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19022,8 +19059,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-03",
-      "update_type": "Revised"
+      "update_date": "2026-06-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19825,7 +19862,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -19867,7 +19904,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -19909,7 +19946,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -27077,7 +27114,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Reverified"
     },
     {
@@ -27117,8 +27154,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
-      "update_type": "Revised"
+      "update_date": "2026-06-16",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -27245,7 +27282,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -27287,7 +27324,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -30364,7 +30401,7 @@
         "0338-0424",
         "0338-0428"
       ],
-      "related_info": "Estimated recovery: June 2026",
+      "related_info": "Estimated recovery: July 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -30372,7 +30409,7 @@
         "1658690",
         "1658692"
       ],
-      "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0431 03 baxter healthcare estimated recovery june 2026 0338 0431 03 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0431 0338 0433 0338 0424 0338 0428",
+      "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0431 03 baxter healthcare estimated recovery july 2026 0338 0431 03 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0431 0338 0433 0338 0424 0338 0428",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -30381,7 +30418,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -30408,7 +30445,7 @@
         "0338-0424",
         "0338-0428"
       ],
-      "related_info": "Estimated recovery: July 2026",
+      "related_info": "Estimated recovery: August 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -30416,7 +30453,7 @@
         "1658690",
         "1658692"
       ],
-      "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0433 04 baxter healthcare estimated recovery july 2026 0338 0433 04 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0433 0338 0431 0338 0424 0338 0428",
+      "search_text": "heparin sodium injection current injection heparin sodium in sodium chloride injection 200 usp u 100 ml ndc 0338 0433 04 baxter healthcare estimated recovery august 2026 0338 0433 04 heparin sodium in sodium chloride 1658690 1658692 hematology 0338 0433 0338 0431 0338 0424 0338 0428",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -30425,7 +30462,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35242,7 +35279,7 @@
         "55150-158",
         "55150-160"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35254,7 +35291,7 @@
         "1737568",
         "1737757"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 159 74 eugia us llc 55150 159 74 lidocaine hydrochloride 1737566 1737568 1737757 anesthesia 55150 159 55150 158 55150 160",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 159 74 eugia us llc estimated recovery tbd 55150 159 74 lidocaine hydrochloride 1737566 1737568 1737757 anesthesia 55150 159 55150 158 55150 160",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35263,7 +35300,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35299,7 +35336,7 @@
         "55150-164",
         "55150-165"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "On backorder. Recovery: TBD. Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35313,7 +35350,7 @@
         "1737757",
         "1737761"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 161 02 eugia us llc check wholesalers for inventory 55150 161 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 161 55150 162 55150 163 55150 164 55150 165",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 10 mg 1 ml ndc 55150 161 02 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 161 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 161 55150 162 55150 163 55150 164 55150 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35322,7 +35359,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35381,7 +35418,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35440,7 +35477,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35476,7 +35513,7 @@
         "55150-163",
         "55150-165"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "On backorder. Recovery: TBD. Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -35490,7 +35527,7 @@
         "1737757",
         "1737761"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 20 mg ml ndc 55150 164 02 eugia us llc check wholesalers for inventory 55150 164 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 164 55150 161 55150 162 55150 163 55150 165",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride injection 20 mg ml ndc 55150 164 02 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 164 02 lidocaine hydrochloride 1737562 1737566 1737568 1737757 1737761 anesthesia 55150 164 55150 161 55150 162 55150 163 55150 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35499,7 +35536,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35558,7 +35595,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35611,7 +35648,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35664,7 +35701,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35717,7 +35754,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35770,7 +35807,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -35819,7 +35856,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -39110,7 +39147,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39165,7 +39202,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39220,7 +39257,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39275,7 +39312,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39330,7 +39367,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39385,7 +39422,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -39440,7 +39477,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -49812,7 +49849,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-06-03",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -50180,14 +50217,14 @@
       "product_ndcs": [
         "25021-131"
       ],
-      "related_info": "Estimated recovery: June 2026; Labeler: Sagent Pharmaceuticals",
+      "related_info": "Marketed by Sagent Pharmaceuticals",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "311683"
       ],
-      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa estimated recovery june 2026 labeler sagent pharmaceuticals 25021 131 82 metronidazole 311683 anti infective 25021 131",
+      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa marketed by sagent pharmaceuticals 25021 131 82 metronidazole 311683 anti infective 25021 131",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -50196,7 +50233,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-06-01",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -55092,7 +55129,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -55141,7 +55178,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -55190,7 +55227,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -55695,7 +55732,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -56448,7 +56485,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -56487,7 +56524,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -56827,7 +56864,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -56867,7 +56904,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-04",
+      "update_date": "2026-06-17",
       "update_type": "Reverified"
     },
     {
@@ -57500,7 +57537,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57557,7 +57594,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57614,7 +57651,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57671,7 +57708,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57727,7 +57764,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57782,7 +57819,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -57837,7 +57874,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-02",
+      "update_date": "2026-06-16",
       "update_type": "Revised"
     },
     {
@@ -67046,43 +67083,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67113,6 +67113,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -72468,7 +72505,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN ASPART"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72476,16 +72515,35 @@
       "id": "e0e7cde4da3e1710",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-100-11",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-100-11",
+        "73070-102-10",
+        "73070-102-15",
+        "73070-103-10",
+        "73070-103-15"
+      ],
       "presentation": "Insulin Aspart, Injection, 10 mL Insulin Aspart vial (NDC 73070-100-11)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-100",
+        "73070-102",
+        "73070-103"
+      ],
       "related_info": "Unbranded Insulin Aspart 10 mL vial will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 10 ml insulin aspart vial ndc 73070 100 11 novo nordisk inc unbranded insulin aspart 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 100 11 endocrinology metabolism",
+      "routes": [
+        "INTRAVENOUS",
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 10 ml insulin aspart vial ndc 73070 100 11 novo nordisk inc unbranded insulin aspart 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 100 11 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 100 73070 102 73070 103",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN ASPART"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72493,7 +72551,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN ASPART"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72501,16 +72561,35 @@
       "id": "a813e517fddfd654",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-102-15",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-100-11",
+        "73070-102-10",
+        "73070-102-15",
+        "73070-103-10",
+        "73070-103-15"
+      ],
       "presentation": "Insulin Aspart, Injection, 3 mL Insulin Aspart PenFill\u00ae cartridge (NDC 73070-102-15)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-102",
+        "73070-100",
+        "73070-103"
+      ],
       "related_info": "Unbranded Insulin Aspart 3 mL PenFill\u00ae cartridge will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart penfill cartridge ndc 73070 102 15 novo nordisk inc unbranded insulin aspart 3 ml penfill cartridge will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 102 15 endocrinology metabolism",
+      "routes": [
+        "INTRAVENOUS",
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart penfill cartridge ndc 73070 102 15 novo nordisk inc unbranded insulin aspart 3 ml penfill cartridge will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 102 15 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 102 73070 100 73070 103",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN ASPART"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72518,7 +72597,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN ASPART"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72526,16 +72607,35 @@
       "id": "5a7c0480b1af8e10",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-103-15",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-100-11",
+        "73070-102-10",
+        "73070-102-15",
+        "73070-103-10",
+        "73070-103-15"
+      ],
       "presentation": "Insulin Aspart, Injection, 3 mL Insulin Aspart FlexPen\u00ae (NDC 73070-103-15)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-103",
+        "73070-100",
+        "73070-102"
+      ],
       "related_info": "Unbranded Insulin Aspart 3 mL FlexPen\u00ae will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart flexpen ndc 73070 103 15 novo nordisk inc unbranded insulin aspart 3 ml flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 103 15 endocrinology metabolism",
+      "routes": [
+        "INTRAVENOUS",
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart flexpen ndc 73070 103 15 novo nordisk inc unbranded insulin aspart 3 ml flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 103 15 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 103 73070 100 73070 102",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN ASPART"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72543,7 +72643,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN ASPART PROTAMINE AND INSULIN ASPART MIX 70/30"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injectable Suspension",
@@ -72551,16 +72653,30 @@
       "id": "1439a7dfc2527440",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-200-11",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-200-11",
+        "73070-203-10",
+        "73070-203-15"
+      ],
       "presentation": "Insulin Aspart Protamine and Insulin Aspart Mix 70/30, Injectable Suspension, 10 mL Insulin aspart protamine and insulin aspart Mix 70/30 vial (NDC 73070-200-11)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-200",
+        "73070-203"
+      ],
       "related_info": "Unbranded Insulin Aspart Protamine and Insulin Aspart Mix 70/30 10 mL vial will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 10 ml insulin aspart protamine and insulin aspart mix 70 30 vial ndc 73070 200 11 novo nordisk inc unbranded insulin aspart protamine and insulin aspart mix 70 30 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 200 11 endocrinology metabolism",
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "351297",
+        "847191"
+      ],
+      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 10 ml insulin aspart protamine and insulin aspart mix 70 30 vial ndc 73070 200 11 novo nordisk inc unbranded insulin aspart protamine and insulin aspart mix 70 30 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 200 11 insulin aspart protamine and insulin aspart mix 70 30 351297 847191 endocrinology metabolism 73070 200 73070 203",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN ASPART"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72568,7 +72684,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN ASPART PROTAMINE AND INSULIN ASPART MIX 70/30"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injectable Suspension",
@@ -72576,16 +72694,30 @@
       "id": "7b8cd791a2c1f5d1",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-203-15",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-200-11",
+        "73070-203-10",
+        "73070-203-15"
+      ],
       "presentation": "Insulin Aspart Protamine and Insulin Aspart Mix 70/30, Injectable Suspension, 3 mL vial Insulin aspart protamine and insulin aspart Mix 70/30 FlexPen\u00ae (NDC 73070-203-15)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-203",
+        "73070-200"
+      ],
       "related_info": "Unbranded Insulin aspart protamine and insulin aspart FlexPen\u00ae will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 3 ml vial insulin aspart protamine and insulin aspart mix 70 30 flexpen ndc 73070 203 15 novo nordisk inc unbranded insulin aspart protamine and insulin aspart flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 203 15 endocrinology metabolism",
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "351297",
+        "847191"
+      ],
+      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 3 ml vial insulin aspart protamine and insulin aspart mix 70 30 flexpen ndc 73070 203 15 novo nordisk inc unbranded insulin aspart protamine and insulin aspart flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 203 15 insulin aspart protamine and insulin aspart mix 70 30 351297 847191 endocrinology metabolism 73070 203 73070 200",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN ASPART"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72593,7 +72725,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN DEGLUDEC"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72601,16 +72735,32 @@
       "id": "9cee686997f6b45b",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-400-11",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-403-15",
+        "73070-503-15",
+        "73070-400-11"
+      ],
       "presentation": "Insulin Degludec, Injection, 10 mL Insulin Degludec vial (NDC 73070-400-11)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-400",
+        "73070-403",
+        "73070-503"
+      ],
       "related_info": "Unbranded Insulin Degludec 10 mL vial will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 10 ml insulin degludec vial ndc 73070 400 11 novo nordisk inc unbranded insulin degludec 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 400 11 endocrinology metabolism",
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 10 ml insulin degludec vial ndc 73070 400 11 novo nordisk inc unbranded insulin degludec 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 400 11 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 400 73070 403 73070 503",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN DEGLUDEC"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72618,7 +72768,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN DEGLUDEC"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72626,16 +72778,32 @@
       "id": "3d9f4cfb5d70c6e4",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-403-15",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-403-15",
+        "73070-503-15",
+        "73070-400-11"
+      ],
       "presentation": "Insulin Degludec, Injection, 3 mL Insulin Degludec 100 units/mL (U-100) FlexTouch\u00ae (NDC 73070-403-15)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-403",
+        "73070-503",
+        "73070-400"
+      ],
       "related_info": "Unbranded Insulin Degludec 3 mL U-100 FlexTouch\u00ae will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 100 units ml u 100 flextouch ndc 73070 403 15 novo nordisk inc unbranded insulin degludec 3 ml u 100 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 403 15 endocrinology metabolism",
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 100 units ml u 100 flextouch ndc 73070 403 15 novo nordisk inc unbranded insulin degludec 3 ml u 100 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 403 15 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 403 73070 503 73070 400",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN DEGLUDEC"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -72643,7 +72811,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "INSULIN DEGLUDEC"
+      ],
       "company_name": "Novo Nordisk, Inc.",
       "discontinued_date": "2025-07-21",
       "dosage_form": "Injection",
@@ -72651,16 +72821,32 @@
       "id": "fe0c0b537834b1cb",
       "initial_posting_date": "2025-07-21",
       "package_ndc": "73070-503-15",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "73070-403-15",
+        "73070-503-15",
+        "73070-400-11"
+      ],
       "presentation": "Insulin Degludec, Injection, 3 mL Insulin Degludec 200 units/mL (U-200) FlexTouch\u00ae (NDC 73070-503-15)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "73070-503",
+        "73070-403",
+        "73070-400"
+      ],
       "related_info": "Unbranded Insulin Degludec 3 mL U-200 FlexTouch\u00ae will continue to be shipped to wholesalers while supplies last, up until the discontinuation dates. Full discontinuation will occur on December 31, 2025.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 200 units ml u 200 flextouch ndc 73070 503 15 novo nordisk inc unbranded insulin degludec 3 ml u 200 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 503 15 endocrinology metabolism",
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 200 units ml u 200 flextouch ndc 73070 503 15 novo nordisk inc unbranded insulin degludec 3 ml u 200 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 503 15 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 503 73070 403 73070 400",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "INSULIN DEGLUDEC"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -79240,7 +79426,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ZEMPLAR"
+      ],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2025-10-07",
       "dosage_form": "Capsule",
@@ -79248,16 +79436,36 @@
       "id": "336d6ad3475a3a36",
       "initial_posting_date": "2025-10-07",
       "package_ndc": "0074-9036-30",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0074-4314-30",
+        "0074-4317-30",
+        "0074-4317-73",
+        "0074-9036-30",
+        "0074-9037-30"
+      ],
       "presentation": "Zemplar, Capsule, 1 ug (NDC 0074-9036-30)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0074-9036",
+        "0074-4314",
+        "0074-4317",
+        "0074-9037"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 1 ug ndc 0074 9036 30 abbvie inc discontinuation of the manufacture of the drug 0074 9036 30 endocrinology metabolism",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "577315",
+        "577317",
+        "606854",
+        "606859"
+      ],
+      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 1 ug ndc 0074 9036 30 abbvie inc discontinuation of the manufacture of the drug 0074 9036 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9036 0074 4314 0074 4317 0074 9037",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "PARICALCITOL"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
@@ -79265,7 +79473,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ZEMPLAR"
+      ],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2025-10-07",
       "dosage_form": "Capsule",
@@ -79273,16 +79483,36 @@
       "id": "a83e920931e7af8e",
       "initial_posting_date": "2025-10-07",
       "package_ndc": "0074-9037-30",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0074-4314-30",
+        "0074-4317-30",
+        "0074-4317-73",
+        "0074-9036-30",
+        "0074-9037-30"
+      ],
       "presentation": "Zemplar, Capsule, 2 ug (NDC 0074-9037-30)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0074-9037",
+        "0074-4314",
+        "0074-4317",
+        "0074-9036"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 2 ug ndc 0074 9037 30 abbvie inc discontinuation of the manufacture of the drug 0074 9037 30 endocrinology metabolism",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "577315",
+        "577317",
+        "606854",
+        "606859"
+      ],
+      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 2 ug ndc 0074 9037 30 abbvie inc discontinuation of the manufacture of the drug 0074 9037 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9037 0074 4314 0074 4317 0074 9036",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "PARICALCITOL"
+      ],
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
