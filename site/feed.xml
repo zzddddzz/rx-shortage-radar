@@ -5,41 +5,8 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 12:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:25:51 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
-    <item>
-      <title>To Be Discontinued: Methylphenidate Hydrochloride Tablet, Extended Release (0406-0127-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0406-0127-01</link>
-      <guid isPermaLink="false">335b73b590907991</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Methylphenidate Hydrochloride, Tablet, Extended Release, 27 mg (NDC 0406-0127-01)
-Status: To Be Discontinued
-Updated: 2026-06-18
-Company: SpecGx LLC
-Discontinuation of the manufacture of the drug</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Methylphenidate Hydrochloride Tablet, Extended Release (0406-0136-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0406-0136-01</link>
-      <guid isPermaLink="false">5decefc9311f334b</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Methylphenidate Hydrochloride, Tablet, Extended Release, 36 mg (NDC 0406-0136-01)
-Status: To Be Discontinued
-Updated: 2026-06-18
-Company: SpecGx LLC
-Discontinuation of the manufacture of the drug</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Methylphenidate Hydrochloride Tablet, Extended Release (0406-0154-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0406-0154-01</link>
-      <guid isPermaLink="false">5711c10412f35940</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Methylphenidate Hydrochloride, Tablet, Extended Release, 54 mg (NDC 0406-0154-01)
-Status: To Be Discontinued
-Updated: 2026-06-18
-Company: SpecGx LLC
-Discontinuation of the manufacture of the drug</description>
-    </item>
     <item>
       <title>Current: Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet (42806-343-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=42806-343-01</link>
@@ -1093,6 +1060,39 @@ Status: Current
 Updated: 2026-06-17
 Company: Fresenius Kabi USA, LLC
 Check wholesalers for inventory</description>
+    </item>
+    <item>
+      <title>Current: Ketorolac Tromethamine Injection (63323-162-01)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=63323-162-01</link>
+      <guid isPermaLink="false">e3b23a9194a5ee69</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 63323-162-01)
+Status: Current
+Updated: 2026-06-17
+Company: Fresenius Kabi USA, LLC
+Next release July 2026. Check wholesalers for inventory.</description>
+    </item>
+    <item>
+      <title>Current: Ketorolac Tromethamine Injection (63323-162-02)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=63323-162-02</link>
+      <guid isPermaLink="false">7f72c3889bee5396</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 63323-162-02)
+Status: Current
+Updated: 2026-06-17
+Company: Fresenius Kabi USA, LLC
+Next release August 2026. Check wholesalers for inventory.</description>
+    </item>
+    <item>
+      <title>Current: Ketorolac Tromethamine Injection (76045-104-10)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=76045-104-10</link>
+      <guid isPermaLink="false">723cdaa1652a60e4</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 76045-104-10)
+Status: Current
+Updated: 2026-06-17
+Company: Fresenius Kabi USA, LLC
+Estimated recovery: TBD</description>
     </item>
   </channel>
 </rss>
