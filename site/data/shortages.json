@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:49:35+00:00",
+  "generated_at": "2026-06-27T11:03:47+00:00",
   "records": [
     {
       "brand_names": [
@@ -818,8 +818,11 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "amino acid injection current injection aminosyn pf 7 injection 0 07 ndc 0990 4178 03 otsuka icu medical llc estimated recovery tbd this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 4178 03 aminosyn pf gastroenterology 0990 4178",
+      "rxcuis": [
+        "831426",
+        "831430"
+      ],
+      "search_text": "amino acid injection current injection aminosyn pf 7 injection 0 07 ndc 0990 4178 03 otsuka icu medical llc estimated recovery tbd this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 4178 03 aminosyn pf 831426 831430 gastroenterology 0990 4178",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -870,8 +873,11 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "amino acid injection current injection aminosyn pf 10 injection 0 1 ndc 0990 4179 05 otsuka icu medical llc estimated recovery tbd this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 4179 05 aminosyn pf gastroenterology 0990 4179",
+      "rxcuis": [
+        "800341",
+        "800345"
+      ],
+      "search_text": "amino acid injection current injection aminosyn pf 10 injection 0 1 ndc 0990 4179 05 otsuka icu medical llc estimated recovery tbd this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 4179 05 aminosyn pf 800341 800345 gastroenterology 0990 4179",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -924,8 +930,13 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "amino acid injection current injection aminosyn ii 15 in plastic container injection 0 15 ndc 0990 7171 17 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7171 17 aminosyn ii gastroenterology 0990 7171 0990 7172",
+      "rxcuis": [
+        "800188",
+        "800192",
+        "800237",
+        "800241"
+      ],
+      "search_text": "amino acid injection current injection aminosyn ii 15 in plastic container injection 0 15 ndc 0990 7171 17 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7171 17 aminosyn ii 800188 800192 800237 800241 gastroenterology 0990 7171 0990 7172",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -977,8 +988,13 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "amino acid injection current injection aminosyn ii 10 in plastic container injection 0 1 ndc 0990 7172 17 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7172 17 aminosyn ii gastroenterology 0990 7172 0990 7171",
+      "rxcuis": [
+        "800188",
+        "800192",
+        "800237",
+        "800241"
+      ],
+      "search_text": "amino acid injection current injection aminosyn ii 10 in plastic container injection 0 1 ndc 0990 7172 17 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7172 17 aminosyn ii 800188 800192 800237 800241 gastroenterology 0990 7172 0990 7171",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13464,8 +13480,11 @@
         "INTRAMUSCULAR",
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 1 g ndc 21586 011 02 sterimax inc 21586 011 02 cefotaxime anti infective pediatric 21586 011 21586 012",
+      "rxcuis": [
+        "1656313",
+        "1656318"
+      ],
+      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 1 g ndc 21586 011 02 sterimax inc 21586 011 02 cefotaxime 1656313 1656318 anti infective pediatric 21586 011 21586 012",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13505,8 +13524,11 @@
         "INTRAMUSCULAR",
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 2 g ndc 21586 012 02 sterimax inc 21586 012 02 cefotaxime anti infective pediatric 21586 012 21586 011",
+      "rxcuis": [
+        "1656313",
+        "1656318"
+      ],
+      "search_text": "cefotaxime sodium powder for solution current powder for solution cefotaxime sodium powder for solution 2 g ndc 21586 012 02 sterimax inc 21586 012 02 cefotaxime 1656313 1656318 anti infective pediatric 21586 012 21586 011",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -15950,6 +15972,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-152-00",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -15966,6 +15992,7 @@
       "presentation": "Clonazepam, Tablet, .5 mg (NDC 72888-152-00)",
       "product_ndcs": [
         "72888-152",
+        "72888-497",
         "72888-153",
         "72888-154"
       ],
@@ -15978,7 +16005,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 00 rubicon research private limited marketed by advagen pharma ltd 72888 152 00 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 153 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 00 rubicon research private limited marketed by advagen pharma ltd 72888 152 00 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 497 72888 153 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16004,6 +16031,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-152-01",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16020,6 +16051,7 @@
       "presentation": "Clonazepam, Tablet, .5 mg (NDC 72888-152-01)",
       "product_ndcs": [
         "72888-152",
+        "72888-497",
         "72888-153",
         "72888-154"
       ],
@@ -16032,7 +16064,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 01 rubicon research private limited marketed by advagen pharma ltd 72888 152 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 153 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 01 rubicon research private limited marketed by advagen pharma ltd 72888 152 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 497 72888 153 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16058,6 +16090,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-152-05",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16074,6 +16110,7 @@
       "presentation": "Clonazepam, Tablet, .5 mg (NDC 72888-152-05)",
       "product_ndcs": [
         "72888-152",
+        "72888-497",
         "72888-153",
         "72888-154"
       ],
@@ -16086,7 +16123,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 05 rubicon research private limited marketed by advagen pharma ltd 72888 152 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 153 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 05 rubicon research private limited marketed by advagen pharma ltd 72888 152 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 497 72888 153 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16112,6 +16149,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-152-30",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16128,6 +16169,7 @@
       "presentation": "Clonazepam, Tablet, .5 mg (NDC 72888-152-30)",
       "product_ndcs": [
         "72888-152",
+        "72888-497",
         "72888-153",
         "72888-154"
       ],
@@ -16140,7 +16182,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 30 rubicon research private limited marketed by advagen pharma ltd 72888 152 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 153 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 5 mg ndc 72888 152 30 rubicon research private limited marketed by advagen pharma ltd 72888 152 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 152 72888 497 72888 153 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16166,6 +16208,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-153-00",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16182,6 +16228,7 @@
       "presentation": "Clonazepam, Tablet, 1 mg (NDC 72888-153-00)",
       "product_ndcs": [
         "72888-153",
+        "72888-497",
         "72888-152",
         "72888-154"
       ],
@@ -16194,7 +16241,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 00 rubicon research private limited marketed by advagen pharma ltd 72888 153 00 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 152 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 00 rubicon research private limited marketed by advagen pharma ltd 72888 153 00 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 497 72888 152 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16220,6 +16267,10 @@
       "initial_posting_date": "2023-03-27",
       "package_ndc": "72888-153-01",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16236,6 +16287,7 @@
       "presentation": "Clonazepam, Tablet, 1 mg (NDC 72888-153-01)",
       "product_ndcs": [
         "72888-153",
+        "72888-497",
         "72888-152",
         "72888-154"
       ],
@@ -16248,7 +16300,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 01 rubicon research private limited marketed by advagen pharma ltd 72888 153 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 152 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 01 rubicon research private limited marketed by advagen pharma ltd 72888 153 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 497 72888 152 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16274,6 +16326,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-153-05",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16290,6 +16346,7 @@
       "presentation": "Clonazepam, Tablet, 1 mg (NDC 72888-153-05)",
       "product_ndcs": [
         "72888-153",
+        "72888-497",
         "72888-152",
         "72888-154"
       ],
@@ -16302,7 +16359,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 05 rubicon research private limited marketed by advagen pharma ltd 72888 153 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 152 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 05 rubicon research private limited marketed by advagen pharma ltd 72888 153 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 497 72888 152 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16328,6 +16385,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-153-30",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16344,6 +16405,7 @@
       "presentation": "Clonazepam, Tablet, 1 mg (NDC 72888-153-30)",
       "product_ndcs": [
         "72888-153",
+        "72888-497",
         "72888-152",
         "72888-154"
       ],
@@ -16356,7 +16418,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 30 rubicon research private limited marketed by advagen pharma ltd 72888 153 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 152 72888 154",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 72888 153 30 rubicon research private limited marketed by advagen pharma ltd 72888 153 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 153 72888 497 72888 152 72888 154",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16382,6 +16444,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-154-01",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16398,6 +16464,7 @@
       "presentation": "Clonazepam, Tablet, 2 mg (NDC 72888-154-01)",
       "product_ndcs": [
         "72888-154",
+        "72888-497",
         "72888-152",
         "72888-153"
       ],
@@ -16410,7 +16477,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 01 rubicon research private limited marketed by advagen pharma ltd 72888 154 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 152 72888 153",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 01 rubicon research private limited marketed by advagen pharma ltd 72888 154 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 497 72888 152 72888 153",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16436,6 +16503,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-154-05",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16452,6 +16523,7 @@
       "presentation": "Clonazepam, Tablet, 2 mg (NDC 72888-154-05)",
       "product_ndcs": [
         "72888-154",
+        "72888-497",
         "72888-152",
         "72888-153"
       ],
@@ -16464,7 +16536,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 05 rubicon research private limited marketed by advagen pharma ltd 72888 154 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 152 72888 153",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 05 rubicon research private limited marketed by advagen pharma ltd 72888 154 05 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 497 72888 152 72888 153",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -16490,6 +16562,10 @@
       "initial_posting_date": "2023-03-10",
       "package_ndc": "72888-154-30",
       "package_ndcs": [
+        "72888-497-01",
+        "72888-497-02",
+        "72888-497-03",
+        "72888-497-04",
         "72888-152-30",
         "72888-152-01",
         "72888-152-05",
@@ -16506,6 +16582,7 @@
       "presentation": "Clonazepam, Tablet, 2 mg (NDC 72888-154-30)",
       "product_ndcs": [
         "72888-154",
+        "72888-497",
         "72888-152",
         "72888-153"
       ],
@@ -16518,7 +16595,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 30 rubicon research private limited marketed by advagen pharma ltd 72888 154 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 152 72888 153",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 2 mg ndc 72888 154 30 rubicon research private limited marketed by advagen pharma ltd 72888 154 30 clonazepam 197527 197528 197529 neurology pediatric psychiatry 72888 154 72888 497 72888 152 72888 153",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -18032,8 +18109,13 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dexmedetomidine hydrochloride injection current injection precedex injection 400 mcg 100 ml 4 mcg ml ndc 0409 0155 02 pfizer inc 0409 0155 02 precedex anesthesia 0409 0155 0409 4596",
+      "rxcuis": [
+        "1718906",
+        "1718907",
+        "1718909",
+        "1718910"
+      ],
+      "search_text": "dexmedetomidine hydrochloride injection current injection precedex injection 400 mcg 100 ml 4 mcg ml ndc 0409 0155 02 pfizer inc 0409 0155 02 precedex 1718906 1718907 1718909 1718910 anesthesia 0409 0155 0409 4596",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -18623,8 +18705,13 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dexmedetomidine hydrochloride injection current injection precedex injection 200 mcg 50 ml 4 mcg ml ndc 0409 4596 20 pfizer inc 0409 4596 20 precedex anesthesia 0409 4596 0409 0155",
+      "rxcuis": [
+        "1718906",
+        "1718907",
+        "1718909",
+        "1718910"
+      ],
+      "search_text": "dexmedetomidine hydrochloride injection current injection precedex injection 200 mcg 50 ml 4 mcg ml ndc 0409 4596 20 pfizer inc 0409 4596 20 precedex 1718906 1718907 1718909 1718910 anesthesia 0409 4596 0409 0155",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -20749,8 +20836,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 02 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 02 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 02 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 02 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -20802,8 +20900,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 03 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 03 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 03 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 03 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -20855,8 +20964,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 09 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 09 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7930 09 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7930 09 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7930 0990 7923 0990 7922",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -20893,8 +21013,10 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7938 19 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7938 19 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7938",
+      "rxcuis": [
+        "1795477"
+      ],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose 10 in plastic container injection 10 g 100 ml ndc 0990 7938 19 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7938 19 dextrose 1795477 endocrinology metabolism gastroenterology other pediatric 0990 7938",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22236,8 +22358,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 02 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 02 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 02 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 02 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22289,8 +22422,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 03 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 03 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 03 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 03 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22342,8 +22486,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 09 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 09 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 09 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 09 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22395,8 +22550,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 55 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 55 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 55 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 55 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22448,8 +22614,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 61 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 61 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7922 61 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7922 61 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7922 0990 7923 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22501,8 +22678,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 13 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 13 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 13 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 13 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22554,8 +22742,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 20 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 20 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 20 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 20 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22607,8 +22806,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 23 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 23 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 23 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 23 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22660,8 +22870,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 36 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 36 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 36 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 36 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -22713,8 +22934,19 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 37 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 37 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
+      "rxcuis": [
+        "1795477",
+        "1795480",
+        "1795481",
+        "1795607",
+        "1795609",
+        "1795610",
+        "1795612",
+        "1795616",
+        "1795618",
+        "1795621"
+      ],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose 5 in plastic container injection 5 g 100 ml ndc 0990 7923 37 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7923 37 dextrose 1795477 1795480 1795481 1795607 1795609 1795610 1795612 1795616 1795618 1795621 endocrinology metabolism gastroenterology other pediatric 0990 7923 0990 7922 0990 7930",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23270,8 +23502,10 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 70 injection current injection dextrose 70 in plastic container injection 70 g 100 ml ndc 0990 7120 07 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7120 07 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7120",
+      "rxcuis": [
+        "237656"
+      ],
+      "search_text": "dextrose monohydrate 70 injection current injection dextrose 70 in plastic container injection 70 g 100 ml ndc 0990 7120 07 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7120 07 dextrose 237656 endocrinology metabolism gastroenterology other pediatric 0990 7120",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23316,8 +23550,14 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "dextrose monohydrate 70 injection current injection dextrose 70 in plastic container injection 70 g 100 ml ndc 0990 7918 19 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7918 19 dextrose endocrinology metabolism gastroenterology other pediatric 0990 7918 0990 7935 0990 7936 0990 7937 0990 8004",
+      "rxcuis": [
+        "237649",
+        "237650",
+        "237656",
+        "242694",
+        "1795518"
+      ],
+      "search_text": "dextrose monohydrate 70 injection current injection dextrose 70 in plastic container injection 70 g 100 ml ndc 0990 7918 19 otsuka icu medical llc this product is distributed by icu medical for questions regarding this product please contact icu medical 0990 7918 19 dextrose 237649 237650 237656 242694 1795518 endocrinology metabolism gastroenterology other pediatric 0990 7918 0990 7935 0990 7936 0990 7937 0990 8004",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41488,8 +41728,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 47781 562 01 alvogen 47781 562 01 lisdexamfetamine dimesylate psychiatry 47781 562 47781 563 47781 564 47781 565 47781 566 47781 567 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 47781 562 01 alvogen 47781 562 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 562 47781 563 47781 564 47781 565 47781 566 47781 567 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41535,8 +41783,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 47781 563 01 alvogen 47781 563 01 lisdexamfetamine dimesylate psychiatry 47781 563 47781 562 47781 564 47781 565 47781 566 47781 567 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 47781 563 01 alvogen 47781 563 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 563 47781 562 47781 564 47781 565 47781 566 47781 567 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41582,8 +41838,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 47781 564 01 alvogen 47781 564 01 lisdexamfetamine dimesylate psychiatry 47781 564 47781 562 47781 563 47781 565 47781 566 47781 567 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 47781 564 01 alvogen 47781 564 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 564 47781 562 47781 563 47781 565 47781 566 47781 567 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41629,8 +41893,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 47781 565 01 alvogen 47781 565 01 lisdexamfetamine dimesylate psychiatry 47781 565 47781 562 47781 563 47781 564 47781 566 47781 567 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 47781 565 01 alvogen 47781 565 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 565 47781 562 47781 563 47781 564 47781 566 47781 567 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41676,8 +41948,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 47781 566 01 alvogen 47781 566 01 lisdexamfetamine dimesylate psychiatry 47781 566 47781 562 47781 563 47781 564 47781 565 47781 567 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 47781 566 01 alvogen 47781 566 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 566 47781 562 47781 563 47781 564 47781 565 47781 567 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41723,8 +42003,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 47781 567 01 alvogen 47781 567 01 lisdexamfetamine dimesylate psychiatry 47781 567 47781 562 47781 563 47781 564 47781 565 47781 566 47781 568",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 47781 567 01 alvogen 47781 567 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 567 47781 562 47781 563 47781 564 47781 565 47781 566 47781 568",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41770,8 +42058,16 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 47781 568 01 alvogen 47781 568 01 lisdexamfetamine dimesylate psychiatry 47781 568 47781 562 47781 563 47781 564 47781 565 47781 566 47781 567",
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 47781 568 01 alvogen 47781 568 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 47781 568 47781 562 47781 563 47781 564 47781 565 47781 566 47781 567",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41864,79 +42160,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "da859d7c14cd90e6",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-048-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
-      "product_ndcs": [
-        "57664-048",
-        "57664-047",
-        "57664-046",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-06-10",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "3a979204f5856004",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-048-88",
@@ -41991,6 +42214,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-06-10",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "da859d7c14cd90e6",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-048-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
+      "product_ndcs": [
+        "57664-048",
+        "57664-047",
+        "57664-046",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -50141,8 +50437,10 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa marketed by sagent pharmaceuticals 25021 131 82 metronidazole anti infective 25021 131",
+      "rxcuis": [
+        "311683"
+      ],
+      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa marketed by sagent pharmaceuticals 25021 131 82 metronidazole 311683 anti infective 25021 131",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -50884,8 +51182,10 @@
         "INTRAMUSCULAR",
         "INTRAVENOUS"
       ],
-      "rxcuis": [],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 avet pharmaceuticals inc estimated recovery 6 30 2026 23155 600 41 midazolam hydrochloride anesthesia neurology 23155 600",
+      "rxcuis": [
+        "1666798"
+      ],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride injection 1 mg 1 ml ndc 23155 600 41 avet pharmaceuticals inc estimated recovery 6 30 2026 23155 600 41 midazolam hydrochloride 1666798 anesthesia neurology 23155 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57438,15 +57738,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 195 20 eugia us llc check wholesalers for inventory 55150 195 20 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 195 20 eugia us llc check wholesalers for inventory 55150 195 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57495,15 +57795,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 196 99 eugia us llc check wholesalers for inventory 55150 196 99 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 196 55150 195 55150 197 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 196 99 eugia us llc check wholesalers for inventory 55150 196 99 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 196 55150 195 55150 197 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57552,15 +57852,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 197 20 eugia us llc check wholesalers for inventory 55150 197 20 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 197 55150 195 55150 196 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 197 20 eugia us llc check wholesalers for inventory 55150 197 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 197 55150 195 55150 196 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57609,15 +57909,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 198 30 eugia us llc check wholesalers for inventory 55150 198 30 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 198 55150 195 55150 196 55150 197 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 198 30 eugia us llc check wholesalers for inventory 55150 198 30 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 198 55150 195 55150 196 55150 197 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57665,15 +57965,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 199 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 199 20 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 199 55150 195 55150 196 55150 197 55150 198 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 199 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 199 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 199 55150 195 55150 196 55150 197 55150 198 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57720,15 +58020,15 @@
         "EPIDURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 200 10 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 200 10 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 200 55150 195 55150 196 55150 197 55150 198 55150 199 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 200 10 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 200 10 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 200 55150 195 55150 196 55150 197 55150 198 55150 199 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -57775,15 +58075,15 @@
         "EPIDURAL"
       ],
       "rxcuis": [
-        "1734347",
-        "1734475",
-        "1734483",
         "905189",
         "1734084",
         "1734090",
-        "1734207"
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 201 20 eugia us llc check wholesalers for inventory 55150 201 20 ropivacaine hydrochloride 1734347 1734475 1734483 905189 1734084 1734090 1734207 anesthesia 55150 201 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 201 20 eugia us llc check wholesalers for inventory 55150 201 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 201 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -66802,43 +67102,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -66869,6 +67132,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -67414,15 +67714,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "2058915",
-        "2058922",
-        "2058924",
-        "2058926",
-        "2058930",
-        "2058932"
-      ],
-      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 15 mg ndc 0069 0197 30 pfizer inc discontinuation of the manufacture of the drug 0069 0197 30 vizimpro 2058915 2058922 2058924 2058926 2058930 2058932 oncology 0069 0197 0069 1198 0069 2299",
+      "rxcuis": [],
+      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 15 mg ndc 0069 0197 30 pfizer inc discontinuation of the manufacture of the drug 0069 0197 30 vizimpro oncology 0069 0197 0069 1198 0069 2299",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -67460,15 +67753,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "2058915",
-        "2058922",
-        "2058924",
-        "2058926",
-        "2058930",
-        "2058932"
-      ],
-      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 30 mg ndc 0069 1198 30 pfizer inc discontinuation of the manufacture of the drug 0069 1198 30 vizimpro 2058915 2058922 2058924 2058926 2058930 2058932 oncology 0069 1198 0069 0197 0069 2299",
+      "rxcuis": [],
+      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 30 mg ndc 0069 1198 30 pfizer inc discontinuation of the manufacture of the drug 0069 1198 30 vizimpro oncology 0069 1198 0069 0197 0069 2299",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -67506,15 +67792,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "2058915",
-        "2058922",
-        "2058924",
-        "2058926",
-        "2058930",
-        "2058932"
-      ],
-      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 45 mg ndc 0069 2299 30 pfizer inc discontinuation of the manufacture of the drug 0069 2299 30 vizimpro 2058915 2058922 2058924 2058926 2058930 2058932 oncology 0069 2299 0069 0197 0069 1198",
+      "rxcuis": [],
+      "search_text": "dacomitinib tablet to be discontinued tablet vizimpro tablet 45 mg ndc 0069 2299 30 pfizer inc discontinuation of the manufacture of the drug 0069 2299 30 vizimpro oncology 0069 2299 0069 0197 0069 1198",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -68926,135 +69205,6 @@
         "Endocrinology/Metabolism"
       ],
       "update_date": "2025-07-29",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ESZOPICLONE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-26",
-      "dosage_form": "Tablet",
-      "generic_name": "Eszopiclone Tablet",
-      "id": "a0cac6ec86a63f5b",
-      "initial_posting_date": "2025-06-26",
-      "package_ndc": "0093-5537-56",
-      "package_ndcs": [
-        "0093-5537-56",
-        "0093-5538-01",
-        "0093-5539-01"
-      ],
-      "presentation": "Eszopiclone, Tablet, 1 mg (NDC 0093-5537-56)",
-      "product_ndcs": [
-        "0093-5537",
-        "0093-5538",
-        "0093-5539"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "485440",
-        "485442",
-        "485465"
-      ],
-      "search_text": "eszopiclone tablet to be discontinued tablet eszopiclone tablet 1 mg ndc 0093 5537 56 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0093 5537 56 eszopiclone 485440 485442 485465 neurology 0093 5537 0093 5538 0093 5539",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "ESZOPICLONE"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-06-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ESZOPICLONE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-26",
-      "dosage_form": "Tablet",
-      "generic_name": "Eszopiclone Tablet",
-      "id": "e80c95aa215de5db",
-      "initial_posting_date": "2025-06-26",
-      "package_ndc": "0093-5538-01",
-      "package_ndcs": [
-        "0093-5537-56",
-        "0093-5538-01",
-        "0093-5539-01"
-      ],
-      "presentation": "Eszopiclone, Tablet, 2 mg (NDC 0093-5538-01)",
-      "product_ndcs": [
-        "0093-5538",
-        "0093-5537",
-        "0093-5539"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "485440",
-        "485442",
-        "485465"
-      ],
-      "search_text": "eszopiclone tablet to be discontinued tablet eszopiclone tablet 2 mg ndc 0093 5538 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0093 5538 01 eszopiclone 485440 485442 485465 neurology 0093 5538 0093 5537 0093 5539",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "ESZOPICLONE"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-06-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ESZOPICLONE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-06-26",
-      "dosage_form": "Tablet",
-      "generic_name": "Eszopiclone Tablet",
-      "id": "231897799e750076",
-      "initial_posting_date": "2025-06-26",
-      "package_ndc": "0093-5539-01",
-      "package_ndcs": [
-        "0093-5537-56",
-        "0093-5538-01",
-        "0093-5539-01"
-      ],
-      "presentation": "Eszopiclone, Tablet, 3 mg (NDC 0093-5539-01)",
-      "product_ndcs": [
-        "0093-5539",
-        "0093-5537",
-        "0093-5538"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "485440",
-        "485442",
-        "485465"
-      ],
-      "search_text": "eszopiclone tablet to be discontinued tablet eszopiclone tablet 3 mg ndc 0093 5539 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0093 5539 01 eszopiclone 485440 485442 485465 neurology 0093 5539 0093 5537 0093 5538",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "ESZOPICLONE"
-      ],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-06-26",
       "update_type": "New"
     },
     {
@@ -72256,8 +72406,12 @@
         "INTRAVENOUS",
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 10 ml insulin aspart vial ndc 73070 100 11 novo nordisk inc unbranded insulin aspart 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 100 11 insulin aspart endocrinology metabolism 73070 100 73070 102 73070 103",
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 10 ml insulin aspart vial ndc 73070 100 11 novo nordisk inc unbranded insulin aspart 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 100 11 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 100 73070 102 73070 103",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72298,8 +72452,12 @@
         "INTRAVENOUS",
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart penfill cartridge ndc 73070 102 15 novo nordisk inc unbranded insulin aspart 3 ml penfill cartridge will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 102 15 insulin aspart endocrinology metabolism 73070 102 73070 100 73070 103",
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart penfill cartridge ndc 73070 102 15 novo nordisk inc unbranded insulin aspart 3 ml penfill cartridge will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 102 15 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 102 73070 100 73070 103",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72340,8 +72498,12 @@
         "INTRAVENOUS",
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart flexpen ndc 73070 103 15 novo nordisk inc unbranded insulin aspart 3 ml flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 103 15 insulin aspart endocrinology metabolism 73070 103 73070 100 73070 102",
+      "rxcuis": [
+        "311040",
+        "1653196",
+        "1653202"
+      ],
+      "search_text": "insulin aspart injection to be discontinued injection insulin aspart injection 3 ml insulin aspart flexpen ndc 73070 103 15 novo nordisk inc unbranded insulin aspart 3 ml flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 103 15 insulin aspart 311040 1653196 1653202 endocrinology metabolism 73070 103 73070 100 73070 102",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72378,8 +72540,11 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 10 ml insulin aspart protamine and insulin aspart mix 70 30 vial ndc 73070 200 11 novo nordisk inc unbranded insulin aspart protamine and insulin aspart mix 70 30 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 200 11 insulin aspart protamine and insulin aspart mix 70 30 endocrinology metabolism 73070 200 73070 203",
+      "rxcuis": [
+        "351297",
+        "847191"
+      ],
+      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 10 ml insulin aspart protamine and insulin aspart mix 70 30 vial ndc 73070 200 11 novo nordisk inc unbranded insulin aspart protamine and insulin aspart mix 70 30 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 200 11 insulin aspart protamine and insulin aspart mix 70 30 351297 847191 endocrinology metabolism 73070 200 73070 203",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72416,8 +72581,11 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 3 ml vial insulin aspart protamine and insulin aspart mix 70 30 flexpen ndc 73070 203 15 novo nordisk inc unbranded insulin aspart protamine and insulin aspart flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 203 15 insulin aspart protamine and insulin aspart mix 70 30 endocrinology metabolism 73070 203 73070 200",
+      "rxcuis": [
+        "351297",
+        "847191"
+      ],
+      "search_text": "insulin aspart protamine and insulin aspart mix 70 30 injectable suspension to be discontinued injectable suspension insulin aspart protamine and insulin aspart mix 70 30 injectable suspension 3 ml vial insulin aspart protamine and insulin aspart mix 70 30 flexpen ndc 73070 203 15 novo nordisk inc unbranded insulin aspart protamine and insulin aspart flexpen will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 203 15 insulin aspart protamine and insulin aspart mix 70 30 351297 847191 endocrinology metabolism 73070 203 73070 200",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72455,8 +72623,12 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 10 ml insulin degludec vial ndc 73070 400 11 novo nordisk inc unbranded insulin degludec 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 400 11 insulin degludec endocrinology metabolism 73070 400 73070 403 73070 503",
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 10 ml insulin degludec vial ndc 73070 400 11 novo nordisk inc unbranded insulin degludec 10 ml vial will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 400 11 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 400 73070 403 73070 503",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72494,8 +72666,12 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 100 units ml u 100 flextouch ndc 73070 403 15 novo nordisk inc unbranded insulin degludec 3 ml u 100 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 403 15 insulin degludec endocrinology metabolism 73070 403 73070 503 73070 400",
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 100 units ml u 100 flextouch ndc 73070 403 15 novo nordisk inc unbranded insulin degludec 3 ml u 100 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 403 15 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 403 73070 503 73070 400",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72533,8 +72709,12 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [],
-      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 200 units ml u 200 flextouch ndc 73070 503 15 novo nordisk inc unbranded insulin degludec 3 ml u 200 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 503 15 insulin degludec endocrinology metabolism 73070 503 73070 403 73070 400",
+      "rxcuis": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "search_text": "insulin degludec injection to be discontinued injection insulin degludec injection 3 ml insulin degludec 200 units ml u 200 flextouch ndc 73070 503 15 novo nordisk inc unbranded insulin degludec 3 ml u 200 flextouch will continue to be shipped to wholesalers while supplies last up until the discontinuation dates full discontinuation will occur on december 31 2025 73070 503 15 insulin degludec 1670011 1670021 2107520 endocrinology metabolism 73070 503 73070 403 73070 400",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -73492,8 +73672,10 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "ketorolac tromethamine tablet to be discontinued tablet ketorolac tromethamine tablet 10 mg ndc 0378 1134 01 mylan pharmaceuticals inc a viatris company discontinuation of the manufacture of the drug 0378 1134 01 ketorolac tromethamine analgesia addiction 0378 1134",
+      "rxcuis": [
+        "834022"
+      ],
+      "search_text": "ketorolac tromethamine tablet to be discontinued tablet ketorolac tromethamine tablet 10 mg ndc 0378 1134 01 mylan pharmaceuticals inc a viatris company discontinuation of the manufacture of the drug 0378 1134 01 ketorolac tromethamine 834022 analgesia addiction 0378 1134",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -77379,8 +77561,10 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 62135 242 60 chartwell molecular holdings llc 62135 242 60 naltrexone hydrochloride analgesia addiction 62135 242",
+      "rxcuis": [
+        "1483744"
+      ],
+      "search_text": "naltrexone hydrochloride tablet resolved tablet naltrexone hydrochloride tablet 50 mg ndc 62135 242 60 chartwell molecular holdings llc 62135 242 60 naltrexone hydrochloride 1483744 analgesia addiction 62135 242",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Resolved",
       "substances": [
@@ -79130,8 +79314,13 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 1 ug ndc 0074 9036 30 abbvie inc discontinuation of the manufacture of the drug 0074 9036 30 zemplar endocrinology metabolism 0074 9036 0074 4314 0074 4317 0074 9037",
+      "rxcuis": [
+        "577315",
+        "577317",
+        "606854",
+        "606859"
+      ],
+      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 1 ug ndc 0074 9036 30 abbvie inc discontinuation of the manufacture of the drug 0074 9036 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9036 0074 4314 0074 4317 0074 9037",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -79172,8 +79361,13 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 2 ug ndc 0074 9037 30 abbvie inc discontinuation of the manufacture of the drug 0074 9037 30 zemplar endocrinology metabolism 0074 9037 0074 4314 0074 4317 0074 9036",
+      "rxcuis": [
+        "577315",
+        "577317",
+        "606854",
+        "606859"
+      ],
+      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 2 ug ndc 0074 9037 30 abbvie inc discontinuation of the manufacture of the drug 0074 9037 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9037 0074 4314 0074 4317 0074 9036",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -83886,7 +84080,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-27",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83895,8 +84089,8 @@
     "status_counts": {
       "Current": 1151,
       "Resolved": 25,
-      "To Be Discontinued": 455
+      "To Be Discontinued": 452
     },
-    "total_records": 1631
+    "total_records": 1628
   }
 }
