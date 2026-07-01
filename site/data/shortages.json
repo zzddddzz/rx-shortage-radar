@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:50:06+00:00",
+  "generated_at": "2026-07-01T12:16:47+00:00",
   "records": [
     {
       "brand_names": [
@@ -7395,92 +7395,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "234ec8f5c0c5772f",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "Next Delivery and Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay. Historical NDC: 0409-1587-50",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company next delivery and estimated recovery june 2026 shortage per manufacturer manufacturing delay historical ndc 0409 1587 50 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-06-25",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7558,6 +7472,92 @@
       ],
       "update_date": "2026-06-25",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "234ec8f5c0c5772f",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "Next Delivery and Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay. Historical NDC: 0409-1587-50",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company next delivery and estimated recovery june 2026 shortage per manufacturer manufacturing delay historical ndc 0409 1587 50 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-06-25",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -7826,92 +7826,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "efbc78b31dd9b430",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1165-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
-      "product_ndcs": [
-        "0409-1165",
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "EPIDURAL",
-        "RETROBULBAR"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-06-25",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "ac58831c6b843752",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1165-01",
@@ -7989,6 +7903,92 @@
       ],
       "update_date": "2026-06-25",
       "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "efbc78b31dd9b430",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1165-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
+      "product_ndcs": [
+        "0409-1165",
+        "0409-1159",
+        "0409-1160",
+        "0409-1162",
+        "0409-1163",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-06-25",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -41844,79 +41844,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-06-26",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41971,6 +41898,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-06-26",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -65963,6 +65963,90 @@
       "brand_names": [
         "CASPOFUNGIN ACETATE"
       ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Caspofungin Acetate Injection",
+      "id": "b23cbf3fcf3d76f2",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "0781-3421-94",
+      "package_ndcs": [
+        "0781-3421-01",
+        "0781-3421-94",
+        "0781-3423-01",
+        "0781-3423-94"
+      ],
+      "presentation": "Caspofungin Acetate, Injection, 5 mg/1 mL (NDC 0781-3421-94)",
+      "product_ndcs": [
+        "0781-3421",
+        "0781-3423"
+      ],
+      "related_info": "Marketed by Sandoz, Inc.; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "828539",
+        "828755"
+      ],
+      "search_text": "caspofungin acetate injection to be discontinued injection caspofungin acetate injection 5 mg 1 ml ndc 0781 3421 94 jiangsu hengrui pharmaceuticals co us agent evenus pharmaceutical laboratories inc marketed by sandoz inc discontinuation of the manufacture of the drug 0781 3421 94 caspofungin acetate 828539 828755 anti infective 0781 3421 0781 3423",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CASPOFUNGIN ACETATE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CASPOFUNGIN ACETATE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Caspofungin Acetate Injection",
+      "id": "65f191615ab08958",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "0781-3423-94",
+      "package_ndcs": [
+        "0781-3421-01",
+        "0781-3421-94",
+        "0781-3423-01",
+        "0781-3423-94"
+      ],
+      "presentation": "Caspofungin Acetate, Injection, 7 mg/1 mL (NDC 0781-3423-94)",
+      "product_ndcs": [
+        "0781-3423",
+        "0781-3421"
+      ],
+      "related_info": "Marketed by Sandoz, Inc.; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "828539",
+        "828755"
+      ],
+      "search_text": "caspofungin acetate injection to be discontinued injection caspofungin acetate injection 7 mg 1 ml ndc 0781 3423 94 jiangsu hengrui pharmaceuticals co us agent evenus pharmaceutical laboratories inc marketed by sandoz inc discontinuation of the manufacture of the drug 0781 3423 94 caspofungin acetate 828539 828755 anti infective 0781 3423 0781 3421",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CASPOFUNGIN ACETATE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CASPOFUNGIN ACETATE"
+      ],
       "company_name": "Fresenius Kabi USA, LLC",
       "discontinued_date": "2026-01-12",
       "dosage_form": "Injection",
@@ -67469,6 +67553,68 @@
         "Dermatology"
       ],
       "update_date": "2026-03-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DAPTOMYCIN"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Daptomycin Injection",
+      "id": "a3accdf822ba2850",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "0143-9378-01",
+      "package_ndcs": [
+        "0143-9378-01"
+      ],
+      "presentation": "Daptomycin, Injection, 500 mg/10 mL (NDC 0143-9378-01)",
+      "product_ndcs": [
+        "0143-9378"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug; Marketed by Hikma Pharmaceuticals USA, Inc.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "403920"
+      ],
+      "search_text": "daptomycin injection to be discontinued injection daptomycin injection 500 mg 10 ml ndc 0143 9378 01 jiangsu hengrui pharmaceuticals co us agent evenus pharmaceutical laboratories inc discontinuation of the manufacture of the drug marketed by hikma pharmaceuticals usa inc 0143 9378 01 daptomycin 403920 anti infective 0143 9378",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DAPTOMYCIN"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Daptomycin Injection",
+      "id": "bc863c6182858a24",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "57884-3151-1",
+      "package_ndcs": [],
+      "presentation": "Daptomycin, Injection, 500 mg/10 mL (NDC 57884-3151-1)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "daptomycin injection to be discontinued injection daptomycin injection 500 mg 10 ml ndc 57884 3151 1 jiangsu hengrui pharmaceuticals co us agent evenus pharmaceutical laboratories inc discontinuation of the manufacture of the drug 57884 3151 1 anti infective",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -70247,6 +70393,219 @@
     },
     {
       "brand_names": [
+        "GADOBUTROL"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadobutrol Injection",
+      "id": "c444f3a5c9d98627",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-281-02",
+      "package_ndcs": [
+        "65219-281-00",
+        "65219-281-02",
+        "65219-281-03",
+        "65219-281-07",
+        "65219-281-08",
+        "65219-281-10",
+        "65219-281-05",
+        "65219-281-15"
+      ],
+      "presentation": "Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-02)",
+      "product_ndcs": [
+        "65219-281"
+      ],
+      "related_info": "Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadobutrol injection to be discontinued injection gadobutrol injection 604 72 mg ml ndc 65219 281 02 jiangsu hengrui pharmaceuticals co ltd discontinuance of single dose vials the other two imaging bulk package ibp strengths are to remain in supply the ibp strengths 18 1416 g 30 ml and 39 3068 g 65 ml marketed by fresenius kabi usa 65219 281 02 gadobutrol medical imaging 65219 281",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOBUTROL"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOBUTROL"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadobutrol Injection",
+      "id": "f1b801147dc9feff",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-281-07",
+      "package_ndcs": [
+        "65219-281-00",
+        "65219-281-02",
+        "65219-281-03",
+        "65219-281-07",
+        "65219-281-08",
+        "65219-281-10",
+        "65219-281-05",
+        "65219-281-15"
+      ],
+      "presentation": "Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-07)",
+      "product_ndcs": [
+        "65219-281"
+      ],
+      "related_info": "Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadobutrol injection to be discontinued injection gadobutrol injection 604 72 mg ml ndc 65219 281 07 jiangsu hengrui pharmaceuticals co ltd discontinuance of single dose vials the other two imaging bulk package ibp strengths are to remain in supply the ibp strengths 18 1416 g 30 ml and 39 3068 g 65 ml marketed by fresenius kabi usa 65219 281 07 gadobutrol medical imaging 65219 281",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOBUTROL"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOBUTROL"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadobutrol Injection",
+      "id": "e7b459600d4ff3f9",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-281-10",
+      "package_ndcs": [
+        "65219-281-00",
+        "65219-281-02",
+        "65219-281-03",
+        "65219-281-07",
+        "65219-281-08",
+        "65219-281-10",
+        "65219-281-05",
+        "65219-281-15"
+      ],
+      "presentation": "Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-10)",
+      "product_ndcs": [
+        "65219-281"
+      ],
+      "related_info": "Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadobutrol injection to be discontinued injection gadobutrol injection 604 72 mg ml ndc 65219 281 10 jiangsu hengrui pharmaceuticals co ltd discontinuance of single dose vials the other two imaging bulk package ibp strengths are to remain in supply the ibp strengths 18 1416 g 30 ml and 39 3068 g 65 ml marketed by fresenius kabi usa 65219 281 10 gadobutrol medical imaging 65219 281",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOBUTROL"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOBUTROL"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadobutrol Injection",
+      "id": "dc96e3a7e7d2e1ae",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-281-15",
+      "package_ndcs": [
+        "65219-281-00",
+        "65219-281-02",
+        "65219-281-03",
+        "65219-281-07",
+        "65219-281-08",
+        "65219-281-10",
+        "65219-281-05",
+        "65219-281-15"
+      ],
+      "presentation": "Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-15)",
+      "product_ndcs": [
+        "65219-281"
+      ],
+      "related_info": "Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadobutrol injection to be discontinued injection gadobutrol injection 604 72 mg ml ndc 65219 281 15 jiangsu hengrui pharmaceuticals co ltd discontinuance of single dose vials the other two imaging bulk package ibp strengths are to remain in supply the ibp strengths 18 1416 g 30 ml and 39 3068 g 65 ml marketed by fresenius kabi usa 65219 281 15 gadobutrol medical imaging 65219 281",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOBUTROL"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "6badc61034de9e8e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-080-05",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
+      "product_ndcs": [
+        "65219-080",
+        "65219-082",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
@@ -70340,6 +70699,51 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "ee95d38fe9db694e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70378,6 +70782,96 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "03231b60c365d47e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-084-15",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "product_ndcs": [
+        "65219-084",
+        "65219-080",
+        "65219-082",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "3136280ceb152b3c",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -83664,7 +84158,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-06-30",
+    "last_updated": "2026-07-01",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83673,8 +84167,8 @@
     "status_counts": {
       "Current": 1151,
       "Resolved": 25,
-      "To Be Discontinued": 451
+      "To Be Discontinued": 463
     },
-    "total_records": 1627
+    "total_records": 1639
   }
 }
