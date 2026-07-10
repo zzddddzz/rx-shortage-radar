@@ -5,7 +5,7 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:08:15 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
     <item>
       <title>Current: Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet (0406-8884-01)</title>
@@ -404,6 +404,17 @@ Company: Teva Pharmaceuticals USA, Inc.</description>
 Status: Current
 Updated: 2026-07-06
 Company: Teva Pharmaceuticals USA, Inc.</description>
+    </item>
+    <item>
+      <title>Current: Azacitidine Injection (68001-313-56)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=68001-313-56</link>
+      <guid isPermaLink="false">cdc459a60f491c81</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Azacitidine, Injection, 100 mg (NDC 68001-313-56)
+Status: Current
+Updated: 2026-07-06
+Company: Teva Pharmaceuticals USA, Inc.
+Estimated recovery: TBD</description>
     </item>
     <item>
       <title>Current: Clonazepam Tablet (0093-0832-01)</title>
@@ -1044,16 +1055,6 @@ Company: Alvogen</description>
       <guid isPermaLink="false">9a4d4c64c683e56e</guid>
       <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
       <description>Lisdexamfetamine Dimesylate, Capsule, 60 mg (NDC 47781-567-01)
-Status: Current
-Updated: 2026-07-04
-Company: Alvogen</description>
-    </item>
-    <item>
-      <title>Current: Lisdexamfetamine Dimesylate Capsule (47781-568-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=47781-568-01</link>
-      <guid isPermaLink="false">056821d80beae3bd</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Lisdexamfetamine Dimesylate, Capsule, 70 mg (NDC 47781-568-01)
 Status: Current
 Updated: 2026-07-04
 Company: Alvogen</description>
