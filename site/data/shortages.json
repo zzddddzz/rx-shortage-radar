@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T12:08:15+00:00",
+  "generated_at": "2026-07-11T10:34:14+00:00",
   "records": [
     {
       "brand_names": [
@@ -7395,92 +7395,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "234ec8f5c0c5772f",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "Next Delivery and Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay. Historical NDC: 0409-1587-50",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company next delivery and estimated recovery june 2026 shortage per manufacturer manufacturing delay historical ndc 0409 1587 50 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-06-25",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7558,6 +7472,92 @@
       ],
       "update_date": "2026-06-25",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "234ec8f5c0c5772f",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "Next Delivery and Estimated Recovery: June 2026; Shortage per Manufacturer: Manufacturing Delay. Historical NDC: 0409-1587-50",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company next delivery and estimated recovery june 2026 shortage per manufacturer manufacturing delay historical ndc 0409 1587 50 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-06-25",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -7826,92 +7826,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "efbc78b31dd9b430",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1165-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
-      "product_ndcs": [
-        "0409-1165",
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "EPIDURAL",
-        "RETROBULBAR"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-06-25",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "ac58831c6b843752",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1165-01",
@@ -7989,6 +7903,92 @@
       ],
       "update_date": "2026-06-25",
       "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "efbc78b31dd9b430",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1165-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
+      "product_ndcs": [
+        "0409-1165",
+        "0409-1159",
+        "0409-1160",
+        "0409-1162",
+        "0409-1163",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-06-25",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -14448,9 +14448,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "CLINDAMYCIN IN 5 PERCENT DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Sandoz Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -14458,31 +14456,16 @@
       "id": "28441375f1a5fbe0",
       "initial_posting_date": "2023-03-21",
       "package_ndc": "72572-074-24",
-      "package_ndcs": [
-        "72572-074-01",
-        "72572-074-24",
-        "72572-076-01",
-        "72572-076-24"
-      ],
+      "package_ndcs": [],
       "presentation": "Clindamycin Phosphate In 5% Dextrose In Plastic Container, Injection, 12 mg/1 mL (NDC 72572-074-24)",
-      "product_ndcs": [
-        "72572-074",
-        "72572-076"
-      ],
+      "product_ndcs": [],
       "related_info": "Civica Label",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "309335",
-        "309336"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 72572 074 24 sandoz inc civica label 72572 074 24 clindamycin in 5 percent dextrose 309335 309336 anti infective 72572 074 72572 076",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 72572 074 24 sandoz inc civica label 72572 074 24 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "CLINDAMYCIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -14490,9 +14473,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "CLINDAMYCIN IN 5 PERCENT DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Sandoz Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -14500,31 +14481,16 @@
       "id": "637be624a5e761b0",
       "initial_posting_date": "2023-03-21",
       "package_ndc": "72572-076-24",
-      "package_ndcs": [
-        "72572-074-01",
-        "72572-074-24",
-        "72572-076-01",
-        "72572-076-24"
-      ],
+      "package_ndcs": [],
       "presentation": "Clindamycin Phosphate In 5% Dextrose In Plastic Container, Injection, 18 mg/1 mL (NDC 72572-076-24)",
-      "product_ndcs": [
-        "72572-076",
-        "72572-074"
-      ],
+      "product_ndcs": [],
       "related_info": "Civica Label",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "309335",
-        "309336"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 72572 076 24 sandoz inc civica label 72572 076 24 clindamycin in 5 percent dextrose 309335 309336 anti infective 72572 076 72572 074",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 72572 076 24 sandoz inc civica label 72572 076 24 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "CLINDAMYCIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -19985,7 +19951,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
       "company_name": "Mylan Institutional, a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19993,16 +19961,28 @@
       "id": "2a8642110720c2ee",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "67457-924-50",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "67457-924-00",
+        "67457-924-50",
+        "67457-925-00",
+        "67457-925-10"
+      ],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 200 ug/50 mL (NDC 67457-924-50)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "67457-924",
+        "67457-925"
+      ],
       "related_info": "",
-      "routes": [],
+      "routes": [
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 ug 50 ml ndc 67457 924 50 mylan institutional a viatris company 67457 924 50 anesthesia",
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 ug 50 ml ndc 67457 924 50 mylan institutional a viatris company 67457 924 50 dexmedetomidine hydrochloride anesthesia 67457 924 67457 925",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -20010,7 +19990,9 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
       "company_name": "Mylan Institutional, a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -20018,16 +20000,28 @@
       "id": "069a84158de3d1df",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "67457-925-10",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "67457-924-00",
+        "67457-924-50",
+        "67457-925-00",
+        "67457-925-10"
+      ],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 400 ug/100 mL (NDC 67457-925-10)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "67457-925",
+        "67457-924"
+      ],
       "related_info": "",
-      "routes": [],
+      "routes": [
+        "INTRAVENOUS"
+      ],
       "rxcuis": [],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 ug 100 ml ndc 67457 925 10 mylan institutional a viatris company 67457 925 10 anesthesia",
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 ug 100 ml ndc 67457 925 10 mylan institutional a viatris company 67457 925 10 dexmedetomidine hydrochloride anesthesia 67457 925 67457 924",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [],
+      "substances": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -67066,43 +67060,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67133,6 +67090,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -70952,51 +70946,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -71035,6 +70984,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "32b433e925aa33b2",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -74637,1708 +74631,6 @@
         "Rheumatology"
       ],
       "update_date": "2026-06-08",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "2809a2818ff824dc",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-025-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 25 ug (NDC 72305-025-30)",
-      "product_ndcs": [
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 25 ug ndc 72305 025 30 emd serono inc discontinuation of the manufacture of the drug 72305 025 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "381357ed117f73bd",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-025-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 25 ug (NDC 72305-025-90)",
-      "product_ndcs": [
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 25 ug ndc 72305 025 90 emd serono inc discontinuation of the manufacture of the drug 72305 025 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "bdfa7246f1cb75f1",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-050-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 50 ug (NDC 72305-050-30)",
-      "product_ndcs": [
-        "72305-050",
-        "72305-025",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 50 ug ndc 72305 050 30 emd serono inc discontinuation of the manufacture of the drug 72305 050 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 050 72305 025 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "cbbb1120751a7d0c",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-050-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 50 ug (NDC 72305-050-90)",
-      "product_ndcs": [
-        "72305-050",
-        "72305-025",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 50 ug ndc 72305 050 90 emd serono inc discontinuation of the manufacture of the drug 72305 050 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 050 72305 025 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "779bc93673ba789d",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-075-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 75 ug (NDC 72305-075-30)",
-      "product_ndcs": [
-        "72305-075",
-        "72305-025",
-        "72305-050",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 75 ug ndc 72305 075 30 emd serono inc discontinuation of the manufacture of the drug 72305 075 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 075 72305 025 72305 050 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "1b2dc33898ba2139",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-075-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 75 ug (NDC 72305-075-90)",
-      "product_ndcs": [
-        "72305-075",
-        "72305-025",
-        "72305-050",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 75 ug ndc 72305 075 90 emd serono inc discontinuation of the manufacture of the drug 72305 075 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 075 72305 025 72305 050 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "96640d3e25a98068",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-088-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 88 ug (NDC 72305-088-30)",
-      "product_ndcs": [
-        "72305-088",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 88 ug ndc 72305 088 30 emd serono inc discontinuation of the manufacture of the drug 72305 088 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 088 72305 025 72305 050 72305 075 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "e959ee8c5827c6bf",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-088-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 88 ug (NDC 72305-088-90)",
-      "product_ndcs": [
-        "72305-088",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 88 ug ndc 72305 088 90 emd serono inc discontinuation of the manufacture of the drug 72305 088 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 088 72305 025 72305 050 72305 075 72305 100 72305 112 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "6bdfcee40e6b6e3a",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-100-30",
-      "package_ndcs": [],
-      "presentation": "Euthyrox, Tablet, 100 ug (NDC 72305-100-30)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 100 ug ndc 72305 100 30 emd serono inc discontinuation of the manufacture of the drug 72305 100 30 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "a1ea0ab2e74e2eef",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-100-90",
-      "package_ndcs": [],
-      "presentation": "Euthyrox, Tablet, 100 ug (NDC 72305-100-90)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 100 ug ndc 72305 100 90 emd serono inc discontinuation of the manufacture of the drug 72305 100 90 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "af1b5a21f2e34661",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-112-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 112 ug (NDC 72305-112-30)",
-      "product_ndcs": [
-        "72305-112",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 112 ug ndc 72305 112 30 emd serono inc discontinuation of the manufacture of the drug 72305 112 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 112 72305 025 72305 050 72305 075 72305 088 72305 100 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "c38d46f901c49aca",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-112-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 112 ug (NDC 72305-112-90)",
-      "product_ndcs": [
-        "72305-112",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 112 ug ndc 72305 112 90 emd serono inc discontinuation of the manufacture of the drug 72305 112 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 112 72305 025 72305 050 72305 075 72305 088 72305 100 72305 125 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "00f32fd513704f81",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-125-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 125 ug (NDC 72305-125-30)",
-      "product_ndcs": [
-        "72305-125",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 125 ug ndc 72305 125 30 emd serono inc discontinuation of the manufacture of the drug 72305 125 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 125 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "121ac2c45b3856c4",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-125-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 125 ug (NDC 72305-125-90)",
-      "product_ndcs": [
-        "72305-125",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-137",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 125 ug ndc 72305 125 90 emd serono inc discontinuation of the manufacture of the drug 72305 125 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 125 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 137 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "d56e442db6f76890",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-137-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 137 ug (NDC 72305-137-30)",
-      "product_ndcs": [
-        "72305-137",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 137 ug ndc 72305 137 30 emd serono inc discontinuation of the manufacture of the drug 72305 137 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 137 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "6c74d7a6b2912a45",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-137-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 137 ug (NDC 72305-137-90)",
-      "product_ndcs": [
-        "72305-137",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-150",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 137 ug ndc 72305 137 90 emd serono inc discontinuation of the manufacture of the drug 72305 137 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 137 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 150 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "14e1af0035967b9f",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-150-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 150 ug (NDC 72305-150-30)",
-      "product_ndcs": [
-        "72305-150",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 150 ug ndc 72305 150 30 emd serono inc discontinuation of the manufacture of the drug 72305 150 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 150 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "3da97d5719cb1e85",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-150-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 150 ug (NDC 72305-150-90)",
-      "product_ndcs": [
-        "72305-150",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-175",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 150 ug ndc 72305 150 90 emd serono inc discontinuation of the manufacture of the drug 72305 150 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 150 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 175 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "e5ec97ba50cfd57f",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-175-30",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 175 ug (NDC 72305-175-30)",
-      "product_ndcs": [
-        "72305-175",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 175 ug ndc 72305 175 30 emd serono inc discontinuation of the manufacture of the drug 72305 175 30 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 175 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "EUTHYROX"
-      ],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "7425a2755e1f8b75",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-175-90",
-      "package_ndcs": [
-        "72305-025-30",
-        "72305-025-90",
-        "72305-050-30",
-        "72305-050-90",
-        "72305-075-30",
-        "72305-075-90",
-        "72305-088-30",
-        "72305-088-90",
-        "72305-100-30",
-        "72305-100-90",
-        "72305-112-30",
-        "72305-112-90",
-        "72305-125-30",
-        "72305-125-90",
-        "72305-137-30",
-        "72305-137-90",
-        "72305-150-30",
-        "72305-150-90",
-        "72305-175-30",
-        "72305-175-90",
-        "72305-200-30",
-        "72305-200-90"
-      ],
-      "presentation": "Euthyrox, Tablet, 175 ug (NDC 72305-175-90)",
-      "product_ndcs": [
-        "72305-175",
-        "72305-025",
-        "72305-050",
-        "72305-075",
-        "72305-088",
-        "72305-100",
-        "72305-112",
-        "72305-125",
-        "72305-137",
-        "72305-150",
-        "72305-200"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "892246",
-        "892251",
-        "966153",
-        "966160",
-        "966166",
-        "966173",
-        "966177",
-        "966182",
-        "966187",
-        "966196",
-        "966202",
-        "966207",
-        "966220",
-        "966221",
-        "966222",
-        "966224",
-        "966225",
-        "966248",
-        "966249",
-        "966253",
-        "966270",
-        "2104866"
-      ],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 175 ug ndc 72305 175 90 emd serono inc discontinuation of the manufacture of the drug 72305 175 90 euthyrox 892246 892251 966153 966160 966166 966173 966177 966182 966187 966196 966202 966207 966220 966221 966222 966224 966225 966248 966249 966253 966270 2104866 endocrinology metabolism 72305 175 72305 025 72305 050 72305 075 72305 088 72305 100 72305 112 72305 125 72305 137 72305 150 72305 200",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "LEVOTHYROXINE SODIUM"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "1793b82c7ce8cecd",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-200-30",
-      "package_ndcs": [],
-      "presentation": "Euthyrox, Tablet, 200 ug (NDC 72305-200-30)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 200 ug ndc 72305 200 30 emd serono inc discontinuation of the manufacture of the drug 72305 200 30 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "EMD Serono, Inc.",
-      "discontinued_date": "2025-07-10",
-      "dosage_form": "Tablet",
-      "generic_name": "Levothyroxine Sodium Tablet",
-      "id": "bf557eb048bc2e06",
-      "initial_posting_date": "2025-07-10",
-      "package_ndc": "72305-200-90",
-      "package_ndcs": [],
-      "presentation": "Euthyrox, Tablet, 200 ug (NDC 72305-200-90)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "levothyroxine sodium tablet to be discontinued tablet euthyrox tablet 200 ug ndc 72305 200 90 emd serono inc discontinuation of the manufacture of the drug 72305 200 90 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-10",
       "update_type": "New"
     },
     {
@@ -84217,7 +82509,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-07-10",
+    "last_updated": "2026-07-11",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -84226,8 +82518,8 @@
     "status_counts": {
       "Current": 1152,
       "Resolved": 25,
-      "To Be Discontinued": 460
+      "To Be Discontinued": 438
     },
-    "total_records": 1637
+    "total_records": 1615
   }
 }
