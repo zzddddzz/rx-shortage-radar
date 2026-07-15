@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:55:55+00:00",
+  "generated_at": "2026-07-15T11:01:33+00:00",
   "records": [
     {
       "brand_names": [
@@ -14473,11 +14473,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "309335",
-        "309336"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 72572 074 24 sandoz inc civica label 72572 074 24 clindamycin in 5 percent dextrose 309335 309336 anti infective 72572 074 72572 076",
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 12 mg 1 ml ndc 72572 074 24 sandoz inc civica label 72572 074 24 clindamycin in 5 percent dextrose anti infective 72572 074 72572 076",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14515,11 +14512,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "309335",
-        "309336"
-      ],
-      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 72572 076 24 sandoz inc civica label 72572 076 24 clindamycin in 5 percent dextrose 309335 309336 anti infective 72572 076 72572 074",
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection current injection clindamycin phosphate in 5 dextrose in plastic container injection 18 mg 1 ml ndc 72572 076 24 sandoz inc civica label 72572 076 24 clindamycin in 5 percent dextrose anti infective 72572 076 72572 074",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23204,9 +23198,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -23214,31 +23206,16 @@
       "id": "35d8663b6fc22f43",
       "initial_posting_date": "2022-01-13",
       "package_ndc": "0409-6648-02",
-      "package_ndcs": [
-        "0409-7517-66",
-        "0409-7517-16",
-        "0409-6648-16",
-        "0409-6648-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 50%, Injection, 25 g/50 mL (NDC 0409-6648-02)",
-      "product_ndcs": [
-        "0409-6648",
-        "0409-7517"
-      ],
+      "product_ndcs": [],
       "related_info": "Next Delivery and Estimated Recovery: September 2026. Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "727517",
-        "1795514"
-      ],
-      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 6648 02 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 6648 02 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 6648 0409 7517",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 6648 02 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 6648 02 endocrinology metabolism gastroenterology pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE MONOHYDRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -23248,9 +23225,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -23258,31 +23233,16 @@
       "id": "5f1df4ba4ad69d84",
       "initial_posting_date": "2022-01-13",
       "package_ndc": "0409-7517-16",
-      "package_ndcs": [
-        "0409-7517-66",
-        "0409-7517-16",
-        "0409-6648-16",
-        "0409-6648-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 50%, Injection, 25 g/50 mL (NDC 0409-7517-16)",
-      "product_ndcs": [
-        "0409-7517",
-        "0409-6648"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "727517",
-        "1795514"
-      ],
-      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company 0409 7517 16 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 7517 0409 6648",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company 0409 7517 16 endocrinology metabolism gastroenterology pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE MONOHYDRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -32578,7 +32538,7 @@
       "product_ndcs": [
         "72336-032"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -32586,7 +32546,7 @@
         "104837",
         "201708"
       ],
-      "search_text": "isocarboxazid tablet current tablet marplan tablet 10 mg 100 count bottle ndc 72336 032 01 lifsa drugs llc 72336 032 01 marplan 104837 201708 psychiatry 72336 032",
+      "search_text": "isocarboxazid tablet current tablet marplan tablet 10 mg 100 count bottle ndc 72336 032 01 lifsa drugs llc estimated recovery tbd 72336 032 01 marplan 104837 201708 psychiatry 72336 032",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32595,7 +32555,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-03",
+      "update_date": "2026-07-14",
       "update_type": "Revised"
     },
     {
@@ -39315,9 +39275,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39325,44 +39283,16 @@
       "id": "cd534a89cfcfb2c1",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6854-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 10 mg (NDC 0378-6854-77)",
-      "product_ndcs": [
-        "0378-6854",
-        "0378-6855",
-        "0378-6856",
-        "0378-6857",
-        "0378-6858",
-        "0378-6859",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 0378 6854 77 mylan pharmaceuticals inc a viatris company 0378 6854 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6854 0378 6855 0378 6856 0378 6857 0378 6858 0378 6859 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 0378 6854 77 mylan pharmaceuticals inc a viatris company 0378 6854 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39370,9 +39300,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39380,44 +39308,16 @@
       "id": "8d3285b2276dc9f1",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6855-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 0378-6855-77)",
-      "product_ndcs": [
-        "0378-6855",
-        "0378-6854",
-        "0378-6856",
-        "0378-6857",
-        "0378-6858",
-        "0378-6859",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 0378 6855 77 mylan pharmaceuticals inc a viatris company 0378 6855 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6855 0378 6854 0378 6856 0378 6857 0378 6858 0378 6859 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 0378 6855 77 mylan pharmaceuticals inc a viatris company 0378 6855 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39425,9 +39325,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39435,44 +39333,16 @@
       "id": "53d101ad0748b2f2",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6856-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 0378-6856-77)",
-      "product_ndcs": [
-        "0378-6856",
-        "0378-6854",
-        "0378-6855",
-        "0378-6857",
-        "0378-6858",
-        "0378-6859",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 0378 6856 77 mylan pharmaceuticals inc a viatris company 0378 6856 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6856 0378 6854 0378 6855 0378 6857 0378 6858 0378 6859 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 0378 6856 77 mylan pharmaceuticals inc a viatris company 0378 6856 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39480,9 +39350,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39490,44 +39358,16 @@
       "id": "5024ad222ed1adc0",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6857-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 40 mg (NDC 0378-6857-77)",
-      "product_ndcs": [
-        "0378-6857",
-        "0378-6854",
-        "0378-6855",
-        "0378-6856",
-        "0378-6858",
-        "0378-6859",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 0378 6857 77 mylan pharmaceuticals inc a viatris company 0378 6857 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6857 0378 6854 0378 6855 0378 6856 0378 6858 0378 6859 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 0378 6857 77 mylan pharmaceuticals inc a viatris company 0378 6857 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39535,9 +39375,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39545,44 +39383,16 @@
       "id": "3f3245c532c2e815",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6858-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 50 mg (NDC 0378-6858-77)",
-      "product_ndcs": [
-        "0378-6858",
-        "0378-6854",
-        "0378-6855",
-        "0378-6856",
-        "0378-6857",
-        "0378-6859",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 0378 6858 77 mylan pharmaceuticals inc a viatris company 0378 6858 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6858 0378 6854 0378 6855 0378 6856 0378 6857 0378 6859 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 0378 6858 77 mylan pharmaceuticals inc a viatris company 0378 6858 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39590,9 +39400,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39600,44 +39408,16 @@
       "id": "ed9e667b4c593ac4",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6859-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 60 mg (NDC 0378-6859-77)",
-      "product_ndcs": [
-        "0378-6859",
-        "0378-6854",
-        "0378-6855",
-        "0378-6856",
-        "0378-6857",
-        "0378-6858",
-        "0378-6860"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 0378 6859 77 mylan pharmaceuticals inc a viatris company 0378 6859 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6859 0378 6854 0378 6855 0378 6856 0378 6857 0378 6858 0378 6860",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 0378 6859 77 mylan pharmaceuticals inc a viatris company 0378 6859 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -39645,9 +39425,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
       "discontinued_date": null,
       "dosage_form": "Capsule",
@@ -39655,44 +39433,16 @@
       "id": "9c3ebbac5c15ee53",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "0378-6860-77",
-      "package_ndcs": [
-        "0378-6854-77",
-        "0378-6855-77",
-        "0378-6856-77",
-        "0378-6857-77",
-        "0378-6858-77",
-        "0378-6859-77",
-        "0378-6860-77"
-      ],
+      "package_ndcs": [],
       "presentation": "Lisdexamfetamine Dimesylate, Capsule, 70 mg (NDC 0378-6860-77)",
-      "product_ndcs": [
-        "0378-6860",
-        "0378-6854",
-        "0378-6855",
-        "0378-6856",
-        "0378-6857",
-        "0378-6858",
-        "0378-6859"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 0378 6860 77 mylan pharmaceuticals inc a viatris company 0378 6860 77 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0378 6860 0378 6854 0378 6855 0378 6856 0378 6857 0378 6858 0378 6859",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 0378 6860 77 mylan pharmaceuticals inc a viatris company 0378 6860 77 psychiatry",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Psychiatry"
       ],
@@ -45497,11 +45247,8 @@
         "INTRAMUSCULAR",
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "763028",
-        "763029"
-      ],
-      "search_text": "lorazepam injection current injection lorazepam injection 2 mg 1 ml syringes ndc 0409 1985 30 hospira inc a pfizer company limited supply available next delivery and estimated recovery september 2026 0409 1985 30 lorazepam 763028 763029 neurology 0409 1985 0409 1539",
+      "rxcuis": [],
+      "search_text": "lorazepam injection current injection lorazepam injection 2 mg 1 ml syringes ndc 0409 1985 30 hospira inc a pfizer company limited supply available next delivery and estimated recovery september 2026 0409 1985 30 lorazepam neurology 0409 1985 0409 1539",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -67111,10 +66858,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "rxcuis": [],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric anti infective 53746 468",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -67148,10 +66893,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "rxcuis": [],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric anti infective 53746 468",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -70980,51 +70723,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -71073,9 +70771,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "d9f7c2f5b4111faf",
+      "id": "32b433e925aa33b2",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-084-15",
+      "package_ndc": "65219-082-10",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -71086,11 +70784,11 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
       "product_ndcs": [
-        "65219-084",
-        "65219-080",
         "65219-082",
+        "65219-080",
+        "65219-084",
         "65219-086"
       ],
       "related_info": "Discontinuation of the manufacture of the drug",
@@ -71098,7 +70796,7 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -71163,9 +70861,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
+      "id": "d9f7c2f5b4111faf",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
+      "package_ndc": "65219-084-15",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -71176,19 +70874,19 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
       "product_ndcs": [
-        "65219-086",
+        "65219-084",
         "65219-080",
         "65219-082",
-        "65219-084"
+        "65219-086"
       ],
       "related_info": "Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -71243,6 +70941,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -82543,7 +82286,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-07-14",
+    "last_updated": "2026-07-15",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
