@@ -5,8 +5,29 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status Current from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:12:24 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>Current: Peginterferon alfa-2a Injection (82154-0449-1)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=82154-0449-1</link>
+      <guid isPermaLink="false">c470c0fe2f5af709</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Pegasys, Injection, 180 ug/1 mL (NDC 82154-0449-1)
+Status: Current
+Updated: 2026-07-15
+Company: pharmaand GmbH (pharma&amp;)
+Product replenishment timeline to be confirmed sometime in Q1 2027 or earlier.</description>
+    </item>
+    <item>
+      <title>Current: Peginterferon alfa-2a Injection (82154-0451-4)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=82154-0451-4</link>
+      <guid isPermaLink="false">234b1a258fd949b0</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Pegasys, Injection, 180 ug/.5 mL (NDC 82154-0451-4)
+Status: Current
+Updated: 2026-07-15
+Company: pharmaand GmbH (pharma&amp;)</description>
+    </item>
     <item>
       <title>Current: Isocarboxazid Tablet (72336-032-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=72336-032-01</link>
@@ -1079,26 +1100,6 @@ Status: Current
 Updated: 2026-07-13
 Company: Hikma Pharmaceuticals USA, Inc.
 Additional lots will be available.  Product will be made available as it is released.</description>
-    </item>
-    <item>
-      <title>Current: Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet (0185-0842-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0185-0842-01</link>
-      <guid isPermaLink="false">b04372e1afb8d4f3</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 0185-0842-01)
-Status: Current
-Updated: 2026-07-10
-Company: Sandoz Inc.</description>
-    </item>
-    <item>
-      <title>Current: Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet (0185-0853-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0185-0853-01</link>
-      <guid isPermaLink="false">9917f971fa234a93</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 0185-0853-01)
-Status: Current
-Updated: 2026-07-10
-Company: Sandoz Inc.</description>
     </item>
   </channel>
 </rss>
