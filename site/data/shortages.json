@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:12:18+00:00",
+  "generated_at": "2026-07-25T10:43:47+00:00",
   "records": [
     {
       "brand_names": [
@@ -7958,92 +7958,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "efbc78b31dd9b430",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1165-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
-      "product_ndcs": [
-        "0409-1165",
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "EPIDURAL",
-        "RETROBULBAR"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-07-23",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "ac58831c6b843752",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1165-01",
@@ -8111,6 +8025,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-07-23",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "efbc78b31dd9b430",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1165-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
+      "product_ndcs": [
+        "0409-1165",
+        "0409-1159",
+        "0409-1160",
+        "0409-1162",
+        "0409-1163",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -24598,7 +24598,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -25151,7 +25151,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -28785,7 +28785,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -31700,7 +31700,7 @@
         "0409-3365",
         "0409-1304"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: October 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31718,7 +31718,7 @@
         "897758",
         "1724276"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 1 mg 1 ml ndc 0409 1283 37 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1283 37 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 897653 897753 897758 1724276 analgesia addiction 0409 1283 0409 1312 0409 4264 0409 1805 0409 2552 0409 3356 0409 2540 0409 3365 0409 1304",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 1 mg 1 ml ndc 0409 1283 37 hospira inc a pfizer company next delivery october 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 1283 37 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 897653 897753 897758 1724276 analgesia addiction 0409 1283 0409 1312 0409 4264 0409 1805 0409 2552 0409 3356 0409 2540 0409 3365 0409 1304",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31727,7 +31727,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -31980,7 +31980,7 @@
         "0409-1312",
         "0409-4264"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: August 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31994,7 +31994,7 @@
         "1724644",
         "2675350"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 0 25 mg 0 5 ml nexject single dose syringe luer lock no needle ndc 0409 1805 01 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1805 01 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 analgesia addiction 0409 1805 0409 1283 0409 1312 0409 4264",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 0 25 mg 0 5 ml nexject single dose syringe luer lock no needle ndc 0409 1805 01 hospira inc a pfizer company next delivery august 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 1805 01 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 analgesia addiction 0409 1805 0409 1283 0409 1312 0409 4264",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32003,7 +32003,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -32179,7 +32179,7 @@
         "0409-1312",
         "0409-1304"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: July 2026; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Limited Supply Available. Next Delivery: July 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -32195,7 +32195,7 @@
         "1724383",
         "1724644"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 2 mg 1 ml ndc 0409 3365 10 hospira inc a pfizer company limited supply available next delivery july 2026 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 3365 10 hydromorphone hydrochloride 897653 897753 897756 897757 897758 1724276 1724383 1724644 analgesia addiction 0409 3365 0409 2552 0409 3356 0409 2540 0409 1283 0409 1312 0409 1304",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 2 mg 1 ml ndc 0409 3365 10 hospira inc a pfizer company limited supply available next delivery july 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 3365 10 hydromorphone hydrochloride 897653 897753 897756 897757 897758 1724276 1724383 1724644 analgesia addiction 0409 3365 0409 2552 0409 3356 0409 2540 0409 1283 0409 1312 0409 1304",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32204,7 +32204,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -32235,7 +32235,7 @@
         "0409-1312",
         "0409-1805"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: August 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Limited Supply Available. Next Delivery: September 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -32249,7 +32249,7 @@
         "1724644",
         "2675350"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 0 5 mg 0 5 ml nexject single dose syringe luer lock no needle ndc 0409 4264 01 hospira inc a pfizer company limited supply available next delivery august 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 4264 01 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 analgesia addiction 0409 4264 0409 1283 0409 1312 0409 1805",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 0 5 mg 0 5 ml nexject single dose syringe luer lock no needle ndc 0409 4264 01 hospira inc a pfizer company limited supply available next delivery september 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 4264 01 hydromorphone hydrochloride 897756 897757 1433251 1724383 1724644 2675350 analgesia addiction 0409 4264 0409 1283 0409 1312 0409 1805",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32258,7 +32258,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -33986,49 +33986,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "7a4bf58e2f43f991",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -34066,6 +34023,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-07-02",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "7a4bf58e2f43f991",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-07-22",
       "update_type": "Reverified"
     },
     {
@@ -42968,80 +42968,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "cb0835bd9e955a3d",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -43114,7 +43041,80 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "cb0835bd9e955a3d",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -43187,7 +43187,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -43260,7 +43260,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -43333,7 +43333,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -43406,7 +43406,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45163,7 +45163,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45236,7 +45236,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45309,7 +45309,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45382,7 +45382,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45455,7 +45455,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -45528,7 +45528,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -46399,7 +46399,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -46957,7 +46957,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -48709,7 +48709,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -48755,7 +48755,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -48801,7 +48801,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -48847,7 +48847,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -51274,7 +51274,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -51392,7 +51392,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -51451,7 +51451,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -62654,14 +62654,14 @@
       "product_ndcs": [
         "0409-5555"
       ],
-      "related_info": "Discontinuation of the manufacture of the drug",
+      "related_info": "Next Delivery and Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "1868469"
       ],
-      "search_text": "sodium bicarbonate injection current injection sodium bicarbonate injection 2 5 meq 5 ml 4 2 0 5 meq ml ndc 0409 5555 01 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 5555 01 sodium bicarbonate 1868469 endocrinology metabolism gastroenterology pediatric 0409 5555",
+      "search_text": "sodium bicarbonate injection current injection sodium bicarbonate injection 2 5 meq 5 ml 4 2 0 5 meq ml ndc 0409 5555 01 hospira inc a pfizer company next delivery and estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 5555 01 sodium bicarbonate 1868469 endocrinology metabolism gastroenterology pediatric 0409 5555",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -62672,8 +62672,8 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-07-10",
-      "update_type": "Reverified"
+      "update_date": "2026-07-23",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -62780,14 +62780,14 @@
       "product_ndcs": [
         "0409-6625"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: January 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "1868486"
       ],
-      "search_text": "sodium bicarbonate injection current injection sodium bicarbonate injection 50 meq 50 ml 8 4 1 meq ml ndc 0409 6625 35 hospira inc a pfizer company next delivery and estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 6625 35 sodium bicarbonate 1868486 endocrinology metabolism gastroenterology pediatric 0409 6625",
+      "search_text": "sodium bicarbonate injection current injection sodium bicarbonate injection 50 meq 50 ml 8 4 1 meq ml ndc 0409 6625 35 hospira inc a pfizer company next delivery january 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 6625 35 sodium bicarbonate 1868486 endocrinology metabolism gastroenterology pediatric 0409 6625",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -62798,7 +62798,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -63197,7 +63197,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -64108,7 +64108,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-07-10",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -64208,12 +64208,12 @@
       "product_ndcs": [
         "45567-0060"
       ],
-      "related_info": "New supply anticipated Q3 2026",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "technetium tc 99m pyrophosphate kit injection current injection cis pyro injection 12 mg 10 ml ndc 45567 0060 1 sun pharmaceutical industries inc new supply anticipated q3 2026 45567 0060 1 kit for the preparation of technetium tc99m pyrophosphate medical imaging 45567 0060",
+      "search_text": "technetium tc 99m pyrophosphate kit injection current injection cis pyro injection 12 mg 10 ml ndc 45567 0060 1 sun pharmaceutical industries inc estimated recovery tbd 45567 0060 1 kit for the preparation of technetium tc99m pyrophosphate medical imaging 45567 0060",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -64222,7 +64222,7 @@
       "therapeutic_categories": [
         "Medical Imaging"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -64244,12 +64244,12 @@
       "product_ndcs": [
         "45567-0060"
       ],
-      "related_info": "New supply anticipated Q3 2026",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "technetium tc 99m pyrophosphate kit injection current injection cis pyro injection 12 mg 10 ml ndc 45567 0060 2 sun pharmaceutical industries inc new supply anticipated q3 2026 45567 0060 2 kit for the preparation of technetium tc99m pyrophosphate medical imaging 45567 0060",
+      "search_text": "technetium tc 99m pyrophosphate kit injection current injection cis pyro injection 12 mg 10 ml ndc 45567 0060 2 sun pharmaceutical industries inc estimated recovery tbd 45567 0060 2 kit for the preparation of technetium tc99m pyrophosphate medical imaging 45567 0060",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -64258,7 +64258,7 @@
       "therapeutic_categories": [
         "Medical Imaging"
       ],
-      "update_date": "2026-06-26",
+      "update_date": "2026-07-23",
       "update_type": "Revised"
     },
     {
@@ -71922,51 +71922,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "e973040d79b16682",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -72015,9 +71970,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
+      "id": "e973040d79b16682",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
+      "package_ndc": "65219-080-05",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -72028,10 +71983,10 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
       "product_ndcs": [
-        "65219-082",
         "65219-080",
+        "65219-082",
         "65219-084",
         "65219-086"
       ],
@@ -72040,7 +71995,7 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -72095,6 +72050,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "32b433e925aa33b2",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -72192,51 +72192,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
-      "product_ndcs": [
-        "65219-086",
-        "65219-080",
-        "65219-082",
-        "65219-084"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -72275,6 +72230,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -72452,31 +72452,6 @@
         "Endocrinology/Metabolism"
       ],
       "update_date": "2026-02-10",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-07-24",
-      "dosage_form": "Tablet",
-      "generic_name": "Glipizide Tablet, Extended Release",
-      "id": "962bcf41e9e66e8d",
-      "initial_posting_date": "2025-07-24",
-      "package_ndc": "0049-0178-08",
-      "package_ndcs": [],
-      "presentation": "Glucatrol XL, Tablet, Extended Release, 10 mg tablets; bottle of 500 (NDC 0049-0178-08)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "glipizide tablet extended release to be discontinued tablet glucatrol xl tablet extended release 10 mg tablets bottle of 500 ndc 0049 0178 08 pfizer inc discontinuation of the manufacture of the drug 0049 0178 08 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-24",
       "update_type": "New"
     },
     {
@@ -75630,6 +75605,286 @@
         "Endocrinology/Metabolism"
       ],
       "update_date": "2026-05-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "KALETRA"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Oral Solution",
+      "generic_name": "Lopinavir and Ritonavir Oral Solution",
+      "id": "7d959c389fbc3731",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-3956-46",
+      "package_ndcs": [
+        "0074-0522-60",
+        "0074-3956-46",
+        "0074-6799-22",
+        "0074-6799-30",
+        "0074-4014-12",
+        "0074-3008-60",
+        "0074-2605-21",
+        "0074-1575-21"
+      ],
+      "presentation": "Kaletra, Oral Solution, 80 mg/1 mL; 20 mg/1 mL (NDC 0074-3956-46)",
+      "product_ndcs": [
+        "0074-3956",
+        "0074-0522",
+        "0074-6799",
+        "0074-4014",
+        "0074-3008",
+        "0074-2605",
+        "0074-1575"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "search_text": "lopinavir and ritonavir oral solution to be discontinued oral solution kaletra oral solution 80 mg 1 ml 20 mg 1 ml ndc 0074 3956 46 abbvie inc discontinuation of the manufacture of the drug 0074 3956 46 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 3956 0074 0522 0074 6799 0074 4014 0074 3008 0074 2605 0074 1575",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "KALETRA"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Tablet",
+      "generic_name": "Lopinavir and Ritonavir Tablet",
+      "id": "f607552a7dc872c9",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-0522-60",
+      "package_ndcs": [
+        "0074-0522-60",
+        "0074-3956-46",
+        "0074-6799-22",
+        "0074-6799-30",
+        "0074-4014-12",
+        "0074-3008-60",
+        "0074-2605-21",
+        "0074-1575-21"
+      ],
+      "presentation": "Kaletra, Tablet, 100 mg; 25 mg (NDC 0074-0522-60)",
+      "product_ndcs": [
+        "0074-0522",
+        "0074-3956",
+        "0074-6799",
+        "0074-4014",
+        "0074-3008",
+        "0074-2605",
+        "0074-1575"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 100 mg 25 mg ndc 0074 0522 60 abbvie inc discontinuation of the manufacture of the drug 0074 0522 60 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 0522 0074 3956 0074 6799 0074 4014 0074 3008 0074 2605 0074 1575",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "KALETRA"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Tablet",
+      "generic_name": "Lopinavir and Ritonavir Tablet",
+      "id": "4d7bc44a4f24c2f4",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-3008-60",
+      "package_ndcs": [
+        "0074-0522-60",
+        "0074-3956-46",
+        "0074-6799-22",
+        "0074-6799-30",
+        "0074-4014-12",
+        "0074-3008-60",
+        "0074-2605-21",
+        "0074-1575-21"
+      ],
+      "presentation": "Kaletra, Tablet, 100 mg; 25 mg (NDC 0074-3008-60)",
+      "product_ndcs": [
+        "0074-3008",
+        "0074-0522",
+        "0074-3956",
+        "0074-6799",
+        "0074-4014",
+        "0074-2605",
+        "0074-1575"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 100 mg 25 mg ndc 0074 3008 60 abbvie inc discontinuation of the manufacture of the drug 0074 3008 60 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 3008 0074 0522 0074 3956 0074 6799 0074 4014 0074 2605 0074 1575",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "KALETRA"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Tablet",
+      "generic_name": "Lopinavir and Ritonavir Tablet",
+      "id": "3935424a1d1b24f8",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-4014-12",
+      "package_ndcs": [
+        "0074-0522-60",
+        "0074-3956-46",
+        "0074-6799-22",
+        "0074-6799-30",
+        "0074-4014-12",
+        "0074-3008-60",
+        "0074-2605-21",
+        "0074-1575-21"
+      ],
+      "presentation": "Kaletra, Tablet, 200 mg; 50 mg (NDC 0074-4014-12)",
+      "product_ndcs": [
+        "0074-4014",
+        "0074-0522",
+        "0074-3956",
+        "0074-6799",
+        "0074-3008",
+        "0074-2605",
+        "0074-1575"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 200 mg 50 mg ndc 0074 4014 12 abbvie inc discontinuation of the manufacture of the drug 0074 4014 12 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 4014 0074 0522 0074 3956 0074 6799 0074 3008 0074 2605 0074 1575",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "KALETRA"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Tablet",
+      "generic_name": "Lopinavir and Ritonavir Tablet",
+      "id": "792099957049eec0",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-6799-22",
+      "package_ndcs": [
+        "0074-0522-60",
+        "0074-3956-46",
+        "0074-6799-22",
+        "0074-6799-30",
+        "0074-4014-12",
+        "0074-3008-60",
+        "0074-2605-21",
+        "0074-1575-21"
+      ],
+      "presentation": "Kaletra, Tablet, 200 mg; 50 mg (NDC 0074-6799-22)",
+      "product_ndcs": [
+        "0074-6799",
+        "0074-0522",
+        "0074-3956",
+        "0074-4014",
+        "0074-3008",
+        "0074-2605",
+        "0074-1575"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 200 mg 50 mg ndc 0074 6799 22 abbvie inc discontinuation of the manufacture of the drug 0074 6799 22 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 6799 0074 0522 0074 3956 0074 4014 0074 3008 0074 2605 0074 1575",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
       "update_type": "New"
     },
     {
@@ -80990,6 +81245,102 @@
     },
     {
       "brand_names": [
+        "NORVIR"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Oral Powder",
+      "generic_name": "Ritonavir Oral Powder",
+      "id": "88ced91983cc129c",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-3399-30",
+      "package_ndcs": [
+        "0074-3333-30",
+        "0074-1940-63",
+        "0074-3399-30",
+        "0074-2340-30"
+      ],
+      "presentation": "Norvir, Oral Powder, 100 mg (NDC 0074-3399-30)",
+      "product_ndcs": [
+        "0074-3399",
+        "0074-3333",
+        "0074-1940",
+        "0074-2340"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "152971",
+        "199249",
+        "900575",
+        "900577",
+        "1926066",
+        "1926069"
+      ],
+      "search_text": "ritonavir oral powder to be discontinued oral powder norvir oral powder 100 mg ndc 0074 3399 30 abbvie inc discontinuation of the manufacture of the drug 0074 3399 30 norvir 152971 199249 900575 900577 1926066 1926069 antiviral 0074 3399 0074 3333 0074 1940 0074 2340",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "NORVIR"
+      ],
+      "company_name": "AbbVie Inc.",
+      "discontinued_date": "2026-07-24",
+      "dosage_form": "Tablet",
+      "generic_name": "Ritonavir Tablet",
+      "id": "2b9cbe613a7598fc",
+      "initial_posting_date": "2026-07-24",
+      "package_ndc": "0074-2340-30",
+      "package_ndcs": [
+        "0074-3333-30",
+        "0074-1940-63",
+        "0074-3399-30",
+        "0074-2340-30"
+      ],
+      "presentation": "Norvir, Tablet, 100 mg (NDC 0074-2340-30)",
+      "product_ndcs": [
+        "0074-2340",
+        "0074-3333",
+        "0074-1940",
+        "0074-3399"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "152971",
+        "199249",
+        "900575",
+        "900577",
+        "1926066",
+        "1926069"
+      ],
+      "search_text": "ritonavir tablet to be discontinued tablet norvir tablet 100 mg ndc 0074 2340 30 abbvie inc discontinuation of the manufacture of the drug 0074 2340 30 norvir 152971 199249 900575 900577 1926066 1926069 antiviral 0074 2340 0074 3333 0074 1940 0074 3399",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "RITONAVIR"
+      ],
+      "therapeutic_categories": [
+        "Antiviral"
+      ],
+      "update_date": "2026-07-24",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "SCOPOLAMINE TRANSDERMAL SYSTEM"
       ],
       "company_name": "Padagis US LLC",
@@ -82882,7 +83233,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -82891,8 +83242,8 @@
     "status_counts": {
       "Current": 1175,
       "Resolved": 25,
-      "To Be Discontinued": 423
+      "To Be Discontinued": 429
     },
-    "total_records": 1623
+    "total_records": 1629
   }
 }
