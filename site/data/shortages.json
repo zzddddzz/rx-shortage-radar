@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:33:34+00:00",
+  "generated_at": "2026-07-30T11:20:42+00:00",
   "records": [
     {
       "brand_names": [
@@ -41,9 +41,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "ALBUTEROL SULFATE"
-      ],
+      "brand_names": [],
       "company_name": "Rising Pharma Holdings, Inc.",
       "discontinued_date": null,
       "dosage_form": "Solution",
@@ -51,26 +49,16 @@
       "id": "e71a7efe213f9bbe",
       "initial_posting_date": "2022-10-25",
       "package_ndc": "64980-642-03",
-      "package_ndcs": [
-        "64980-642-03"
-      ],
+      "package_ndcs": [],
       "presentation": "Albuterol Sulfate, Solution, 2.5 mg/.5 mL (NDC 64980-642-03)",
-      "product_ndcs": [
-        "64980-642"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "RESPIRATORY (INHALATION)"
-      ],
-      "rxcuis": [
-        "245314"
-      ],
-      "search_text": "albuterol sulfate solution current solution albuterol sulfate solution 2 5 mg 5 ml ndc 64980 642 03 rising pharma holdings inc 64980 642 03 albuterol sulfate 245314 pediatric pulmonary allergy 64980 642",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "albuterol sulfate solution current solution albuterol sulfate solution 2 5 mg 5 ml ndc 64980 642 03 rising pharma holdings inc 64980 642 03 pediatric pulmonary allergy",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "ALBUTEROL SULFATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Pediatric",
         "Pulmonary/Allergy"
@@ -29248,13 +29236,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735008",
         "1735013",
         "2168270",
         "1735003",
-        "1735007"
+        "1735007",
+        "1735008"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 01 fresenius kabi usa llc check wholesalers for inventory 63323 806 01 fentanyl citrate 1735008 1735013 2168270 1735003 1735007 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 01 fresenius kabi usa llc check wholesalers for inventory 63323 806 01 fentanyl citrate 1735013 2168270 1735003 1735007 1735008 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29299,13 +29287,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735008",
         "1735013",
         "2168270",
         "1735003",
-        "1735007"
+        "1735007",
+        "1735008"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc check wholesalers for inventory 63323 806 02 fentanyl citrate 1735008 1735013 2168270 1735003 1735007 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc check wholesalers for inventory 63323 806 02 fentanyl citrate 1735013 2168270 1735003 1735007 1735008 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29350,13 +29338,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735008",
         "1735013",
         "2168270",
         "1735003",
-        "1735007"
+        "1735007",
+        "1735008"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 05 fresenius kabi usa llc check wholesalers for inventory 63323 806 05 fentanyl citrate 1735008 1735013 2168270 1735003 1735007 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 05 fresenius kabi usa llc check wholesalers for inventory 63323 806 05 fentanyl citrate 1735013 2168270 1735003 1735007 1735008 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29401,13 +29389,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735008",
         "1735013",
         "2168270",
         "1735003",
-        "1735007"
+        "1735007",
+        "1735008"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 20 fresenius kabi usa llc check wholesalers for inventory 63323 806 20 fentanyl citrate 1735008 1735013 2168270 1735003 1735007 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 20 fresenius kabi usa llc check wholesalers for inventory 63323 806 20 fentanyl citrate 1735013 2168270 1735003 1735007 1735008 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -29452,13 +29440,13 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "1735008",
         "1735013",
         "2168270",
         "1735003",
-        "1735007"
+        "1735007",
+        "1735008"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 50 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 806 50 fentanyl citrate 1735008 1735013 2168270 1735003 1735007 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 50 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 806 50 fentanyl citrate 1735013 2168270 1735003 1735007 1735008 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -39694,10 +39682,8 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [
-        "897122"
-      ],
-      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 71288 563 84 meitheal pharmaceuticals inc 71288 563 84 liraglutide 897122 endocrinology metabolism 71288 563",
+      "rxcuis": [],
+      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 71288 563 84 meitheal pharmaceuticals inc 71288 563 84 liraglutide endocrinology metabolism 71288 563",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -39732,10 +39718,8 @@
       "routes": [
         "SUBCUTANEOUS"
       ],
-      "rxcuis": [
-        "897122"
-      ],
-      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 71288 563 85 meitheal pharmaceuticals inc estimated recovery july 2026 71288 563 85 liraglutide 897122 endocrinology metabolism 71288 563",
+      "rxcuis": [],
+      "search_text": "liraglutide injection current injection liraglutide injection 6 mg 1 ml ndc 71288 563 85 meitheal pharmaceuticals inc estimated recovery july 2026 71288 563 85 liraglutide endocrinology metabolism 71288 563",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -40936,16 +40920,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 0480 3564 01 teva pharmaceuticals usa inc 0480 3564 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3564 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3570",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 70 mg ndc 0480 3564 01 teva pharmaceuticals usa inc 0480 3564 01 lisdexamfetamine dimesylate psychiatry 0480 3564 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3570",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -40991,16 +40967,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 0480 3565 01 teva pharmaceuticals usa inc 0480 3565 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3570 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 10 mg ndc 0480 3565 01 teva pharmaceuticals usa inc 0480 3565 01 lisdexamfetamine dimesylate psychiatry 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3570 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41046,16 +41014,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 0480 3566 01 teva pharmaceuticals usa inc 0480 3566 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3566 0480 3565 0480 3567 0480 3568 0480 3569 0480 3570 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 0480 3566 01 teva pharmaceuticals usa inc 0480 3566 01 lisdexamfetamine dimesylate psychiatry 0480 3566 0480 3565 0480 3567 0480 3568 0480 3569 0480 3570 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41101,16 +41061,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 0480 3567 01 teva pharmaceuticals usa inc 0480 3567 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3567 0480 3565 0480 3566 0480 3568 0480 3569 0480 3570 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 0480 3567 01 teva pharmaceuticals usa inc 0480 3567 01 lisdexamfetamine dimesylate psychiatry 0480 3567 0480 3565 0480 3566 0480 3568 0480 3569 0480 3570 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41156,16 +41108,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 0480 3568 01 teva pharmaceuticals usa inc 0480 3568 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3568 0480 3565 0480 3566 0480 3567 0480 3569 0480 3570 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 40 mg ndc 0480 3568 01 teva pharmaceuticals usa inc 0480 3568 01 lisdexamfetamine dimesylate psychiatry 0480 3568 0480 3565 0480 3566 0480 3567 0480 3569 0480 3570 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41211,16 +41155,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 0480 3569 01 teva pharmaceuticals usa inc 0480 3569 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3569 0480 3565 0480 3566 0480 3567 0480 3568 0480 3570 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 50 mg ndc 0480 3569 01 teva pharmaceuticals usa inc 0480 3569 01 lisdexamfetamine dimesylate psychiatry 0480 3569 0480 3565 0480 3566 0480 3567 0480 3568 0480 3570 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41266,16 +41202,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 0480 3570 01 teva pharmaceuticals usa inc 0480 3570 01 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 psychiatry 0480 3570 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3564",
+      "rxcuis": [],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 60 mg ndc 0480 3570 01 teva pharmaceuticals usa inc 0480 3570 01 lisdexamfetamine dimesylate psychiatry 0480 3570 0480 3565 0480 3566 0480 3567 0480 3568 0480 3569 0480 3564",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -42908,79 +42836,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-07-23",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -43035,6 +42890,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-07-23",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56568,11 +56496,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "2058147",
-        "2059266"
-      ],
-      "search_text": "riluzole oral suspension current oral suspension tiglutik oral suspension 50 mg 10 ml ndc 70726 0303 1 edw pharma inc formerly italfarmaco pharma inc next release not available at this time shortage per manufacturer product manufacturing interrupted due to testing 70726 0303 1 tiglutik 2058147 2059266 neurology 70726 0303",
+      "rxcuis": [],
+      "search_text": "riluzole oral suspension current oral suspension tiglutik oral suspension 50 mg 10 ml ndc 70726 0303 1 edw pharma inc formerly italfarmaco pharma inc next release not available at this time shortage per manufacturer product manufacturing interrupted due to testing 70726 0303 1 tiglutik neurology 70726 0303",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -63858,9 +63783,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "ZANOSAR"
-      ],
+      "brand_names": [],
       "company_name": "ESTEVE PHARMACEUTICALS, S.A.",
       "discontinued_date": null,
       "dosage_form": "Powder, For Solution",
@@ -63868,27 +63791,16 @@
       "id": "6fd6481e2cecb999",
       "initial_posting_date": "2022-07-12",
       "package_ndc": "68118-100-01",
-      "package_ndcs": [
-        "68118-100-01"
-      ],
+      "package_ndcs": [],
       "presentation": "Zanosar, Powder, For Solution, 1 g/10 mL (NDC 68118-100-01)",
-      "product_ndcs": [
-        "68118-100"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "207948",
-        "239180"
-      ],
-      "search_text": "streptozocin powder for solution current powder for solution zanosar powder for solution 1 g 10 ml ndc 68118 100 01 esteve pharmaceuticals s a 68118 100 01 zanosar 207948 239180 oncology 68118 100",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "streptozocin powder for solution current powder for solution zanosar powder for solution 1 g 10 ml ndc 68118 100 01 esteve pharmaceuticals s a 68118 100 01 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "STREPTOZOCIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -64573,8 +64485,6 @@
       "initial_posting_date": "2026-05-15",
       "package_ndc": "0574-0520-74",
       "package_ndcs": [
-        "0574-0520-04",
-        "0574-0520-08",
         "0574-0520-74",
         "0574-0520-76"
       ],
@@ -64614,8 +64524,6 @@
       "initial_posting_date": "2026-05-15",
       "package_ndc": "0574-0520-76",
       "package_ndcs": [
-        "0574-0520-04",
-        "0574-0520-08",
         "0574-0520-74",
         "0574-0520-76"
       ],
@@ -64655,8 +64563,6 @@
       "initial_posting_date": "2026-05-15",
       "package_ndc": "0574-0521-25",
       "package_ndcs": [
-        "0574-0521-04",
-        "0574-0521-08",
         "0574-0521-25",
         "0574-0521-74",
         "0574-0521-76"
@@ -64697,8 +64603,6 @@
       "initial_posting_date": "2026-05-15",
       "package_ndc": "0574-0521-74",
       "package_ndcs": [
-        "0574-0521-04",
-        "0574-0521-08",
         "0574-0521-25",
         "0574-0521-74",
         "0574-0521-76"
@@ -64739,8 +64643,6 @@
       "initial_posting_date": "2026-05-15",
       "package_ndc": "0574-0521-76",
       "package_ndcs": [
-        "0574-0521-04",
-        "0574-0521-08",
         "0574-0521-25",
         "0574-0521-74",
         "0574-0521-76"
@@ -65213,43 +65115,6 @@
         "Rheumatology"
       ],
       "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ADEFOVIR DIPIVOXIL"
-      ],
-      "company_name": "Apotex Corp.",
-      "discontinued_date": "2025-07-29",
-      "dosage_form": "Tablet",
-      "generic_name": "Adefovir Dipivoxil Tablet",
-      "id": "2c02648dd5c2b9de",
-      "initial_posting_date": "2025-07-29",
-      "package_ndc": "60505-3947-3",
-      "package_ndcs": [
-        "60505-3947-3"
-      ],
-      "presentation": "Adefovir Dipivoxil, Tablet, 10 mg (NDC 60505-3947-3)",
-      "product_ndcs": [
-        "60505-3947"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "881341"
-      ],
-      "search_text": "adefovir dipivoxil tablet to be discontinued tablet adefovir dipivoxil tablet 10 mg ndc 60505 3947 3 apotex corp discontinuation of the manufacture of the drug 60505 3947 3 adefovir dipivoxil 881341 antiviral 60505 3947",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "ADEFOVIR DIPIVOXIL"
-      ],
-      "therapeutic_categories": [
-        "Antiviral"
-      ],
-      "update_date": "2025-07-29",
       "update_type": "New"
     },
     {
@@ -66044,7 +65909,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ZITHROMAX"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2026-01-20",
       "dosage_form": "Injection",
@@ -66052,16 +65919,28 @@
       "id": "d9dfbf19ec781606",
       "initial_posting_date": "2026-01-20",
       "package_ndc": "0069-3150-83",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0069-3150-84",
+        "0069-3150-83"
+      ],
       "presentation": "Zithromax IV, Injection, 500 mg/5 mL (NDC 0069-3150-83)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0069-3150"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "azithromycin injection to be discontinued injection zithromax iv injection 500 mg 5 ml ndc 0069 3150 83 pfizer inc discontinuation of the manufacture of the drug 0069 3150 83 anti infective",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1668238",
+        "1668240"
+      ],
+      "search_text": "azithromycin injection to be discontinued injection zithromax iv injection 500 mg 5 ml ndc 0069 3150 83 pfizer inc discontinuation of the manufacture of the drug 0069 3150 83 zithromax 1668238 1668240 anti infective 0069 3150",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "AZITHROMYCIN DIHYDRATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -66094,7 +65973,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ZITHROMAX"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2026-04-09",
       "dosage_form": "Tablet",
@@ -66102,16 +65983,54 @@
       "id": "829563bb645d4fb5",
       "initial_posting_date": "2026-04-09",
       "package_ndc": "0069-3070-30",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0069-3060-30",
+        "0069-3060-75",
+        "0069-3060-86",
+        "0069-3070-30",
+        "0069-3070-75",
+        "0069-3110-19",
+        "0069-3120-19",
+        "0069-3130-19",
+        "0069-3140-19",
+        "0069-4061-01",
+        "0069-4061-75",
+        "0069-4061-89"
+      ],
       "presentation": "Zithromax, Tablet, 500 mg (NDC 0069-3070-30)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0069-3070",
+        "0069-3060",
+        "0069-3110",
+        "0069-3120",
+        "0069-3130",
+        "0069-3140",
+        "0069-4061"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "azithromycin tablet to be discontinued tablet zithromax tablet 500 mg ndc 0069 3070 30 pfizer inc discontinuation of the manufacture of the drug 0069 3070 30 anti infective",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "105260",
+        "141963",
+        "211307",
+        "212446",
+        "226827",
+        "248656",
+        "308459",
+        "308460",
+        "749780",
+        "749783",
+        "750149",
+        "750157"
+      ],
+      "search_text": "azithromycin tablet to be discontinued tablet zithromax tablet 500 mg ndc 0069 3070 30 pfizer inc discontinuation of the manufacture of the drug 0069 3070 30 zithromax 105260 141963 211307 212446 226827 248656 308459 308460 749780 749783 750149 750157 anti infective 0069 3070 0069 3060 0069 3110 0069 3120 0069 3130 0069 3140 0069 4061",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "AZITHROMYCIN DIHYDRATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -66119,7 +66038,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "ZITHROMAX"
+      ],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2026-04-09",
       "dosage_form": "Tablet",
@@ -66127,16 +66048,54 @@
       "id": "9f734a327200e566",
       "initial_posting_date": "2026-04-09",
       "package_ndc": "0069-4061-01",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0069-3060-30",
+        "0069-3060-75",
+        "0069-3060-86",
+        "0069-3070-30",
+        "0069-3070-75",
+        "0069-3110-19",
+        "0069-3120-19",
+        "0069-3130-19",
+        "0069-3140-19",
+        "0069-4061-01",
+        "0069-4061-75",
+        "0069-4061-89"
+      ],
       "presentation": "Zithromax, Tablet, 250 mg (NDC 0069-4061-01)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0069-4061",
+        "0069-3060",
+        "0069-3070",
+        "0069-3110",
+        "0069-3120",
+        "0069-3130",
+        "0069-3140"
+      ],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "azithromycin tablet to be discontinued tablet zithromax tablet 250 mg ndc 0069 4061 01 pfizer inc discontinuation of the manufacture of the drug 0069 4061 01 anti infective",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "105260",
+        "141963",
+        "211307",
+        "212446",
+        "226827",
+        "248656",
+        "308459",
+        "308460",
+        "749780",
+        "749783",
+        "750149",
+        "750157"
+      ],
+      "search_text": "azithromycin tablet to be discontinued tablet zithromax tablet 250 mg ndc 0069 4061 01 pfizer inc discontinuation of the manufacture of the drug 0069 4061 01 zithromax 105260 141963 211307 212446 226827 248656 308459 308460 749780 749783 750149 750157 anti infective 0069 4061 0069 3060 0069 3070 0069 3110 0069 3120 0069 3130 0069 3140",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "AZITHROMYCIN DIHYDRATE"
+      ],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -67881,43 +67840,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -67948,6 +67870,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -69995,106 +69954,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-07-29",
-      "dosage_form": "Tablet",
-      "generic_name": "Esterified Estrogens Tablet",
-      "id": "3912773a610b722a",
-      "initial_posting_date": "2025-07-29",
-      "package_ndc": "61570-072-01",
-      "package_ndcs": [],
-      "presentation": "Menest, Tablet, .3 mg (NDC 61570-072-01)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 3 mg ndc 61570 072 01 pfizer inc discontinuation of the manufacture of the drug 61570 072 01 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-29",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-07-29",
-      "dosage_form": "Tablet",
-      "generic_name": "Esterified Estrogens Tablet",
-      "id": "b00a2501eb22782c",
-      "initial_posting_date": "2025-07-29",
-      "package_ndc": "61570-073-01",
-      "package_ndcs": [],
-      "presentation": "Menest, Tablet, .625 mg (NDC 61570-073-01)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 625 mg ndc 61570 073 01 pfizer inc discontinuation of the manufacture of the drug 61570 073 01 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-29",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-07-29",
-      "dosage_form": "Tablet",
-      "generic_name": "Esterified Estrogens Tablet",
-      "id": "86e0bf52b6fba148",
-      "initial_posting_date": "2025-07-29",
-      "package_ndc": "61570-074-01",
-      "package_ndcs": [],
-      "presentation": "Menest, Tablet, 1.25 mg (NDC 61570-074-01)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 1 25 mg ndc 61570 074 01 pfizer inc discontinuation of the manufacture of the drug 61570 074 01 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-29",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-07-29",
-      "dosage_form": "Tablet",
-      "generic_name": "Esterified Estrogens Tablet",
-      "id": "de1e86186d925441",
-      "initial_posting_date": "2025-07-29",
-      "package_ndc": "61570-075-50",
-      "package_ndcs": [],
-      "presentation": "Menest, Tablet, 2.5 mg (NDC 61570-075-50)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "esterified estrogens tablet to be discontinued tablet menest tablet 2 5 mg ndc 61570 075 50 pfizer inc discontinuation of the manufacture of the drug 61570 075 50 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-07-29",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "ETRAVIRINE"
       ],
@@ -71910,51 +71769,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "ee95d38fe9db694e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -71993,6 +71807,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "ee95d38fe9db694e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -78345,9 +78204,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "OXALIPLATIN"
-      ],
+      "brand_names": [],
       "company_name": "Fresenius Kabi USA, LLC",
       "discontinued_date": "2026-02-25",
       "dosage_form": "Injection",
@@ -78355,28 +78212,16 @@
       "id": "78821727bf836ce5",
       "initial_posting_date": "2026-02-25",
       "package_ndc": "63323-750-10",
-      "package_ndcs": [
-        "63323-750-10",
-        "63323-750-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Oxaliplatin, Injection, 5 mg/mL (NDC 63323-750-10)",
-      "product_ndcs": [
-        "63323-750"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1736776",
-        "1736781"
-      ],
-      "search_text": "oxaliplatin injection to be discontinued injection oxaliplatin injection 5 mg ml ndc 63323 750 10 fresenius kabi usa llc a business decision was made to discontinue manufacture of the drug 63323 750 10 oxaliplatin 1736776 1736781 oncology 63323 750",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "oxaliplatin injection to be discontinued injection oxaliplatin injection 5 mg ml ndc 63323 750 10 fresenius kabi usa llc a business decision was made to discontinue manufacture of the drug 63323 750 10 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "OXALIPLATIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -78384,9 +78229,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "OXALIPLATIN"
-      ],
+      "brand_names": [],
       "company_name": "Fresenius Kabi USA, LLC",
       "discontinued_date": "2026-02-25",
       "dosage_form": "Injection",
@@ -78394,28 +78237,16 @@
       "id": "c32ed195e06b85a4",
       "initial_posting_date": "2026-02-25",
       "package_ndc": "63323-750-20",
-      "package_ndcs": [
-        "63323-750-10",
-        "63323-750-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Oxaliplatin, Injection, 5 mg/mL (NDC 63323-750-20)",
-      "product_ndcs": [
-        "63323-750"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1736776",
-        "1736781"
-      ],
-      "search_text": "oxaliplatin injection to be discontinued injection oxaliplatin injection 5 mg ml ndc 63323 750 20 fresenius kabi usa llc a business decision was made to discontinue manufacture of the drug 63323 750 20 oxaliplatin 1736776 1736781 oncology 63323 750",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "oxaliplatin injection to be discontinued injection oxaliplatin injection 5 mg ml ndc 63323 750 20 fresenius kabi usa llc a business decision was made to discontinue manufacture of the drug 63323 750 20 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "OXALIPLATIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -82999,7 +82830,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83008,8 +82839,8 @@
     "status_counts": {
       "Current": 1175,
       "Resolved": 23,
-      "To Be Discontinued": 431
+      "To Be Discontinued": 426
     },
-    "total_records": 1629
+    "total_records": 1624
   }
 }
