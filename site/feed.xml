@@ -5,8 +5,18 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:48:18 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>Resolved: Triamcinolone Acetonide Injection (82667-800-01)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=82667-800-01</link>
+      <guid isPermaLink="false">107bae150453a2f0</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Triesence, Injection, 40 mg/1 mL (NDC 82667-800-01)
+Status: Resolved
+Updated: 2026-07-31
+Company: Harrow Eye, LLC</description>
+    </item>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (73293-0002-2)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=73293-0002-2</link>
@@ -468,9 +478,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
+      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -478,9 +488,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
+      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -518,9 +528,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">ac58831c6b843752</guid>
+      <guid isPermaLink="false">efbc78b31dd9b430</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
+      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -528,9 +538,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">efbc78b31dd9b430</guid>
+      <guid isPermaLink="false">ac58831c6b843752</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
+      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -1065,17 +1075,6 @@ Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company
 Next Delivery and Estimated Recovery: December 2028; Shortage per Manufacturer: Manufacturing Delay</description>
-    </item>
-    <item>
-      <title>Current: Epinephrine Bitartrate, Lidocaine Hydrochloride Injection (0409-3182-02)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-3182-02</link>
-      <guid isPermaLink="false">c73ae42499df34cc</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Lidocaine Hydrochloride and Epinephrine, Injection, 600 mg/30 mL (2%; 1:100,000) (NDC 0409-3182-02)
-Status: Current
-Updated: 2026-07-23
-Company: Hospira, Inc., a Pfizer Company
-Limited Supply Available. Next Delivery: January 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay</description>
     </item>
   </channel>
 </rss>
