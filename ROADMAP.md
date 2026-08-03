@@ -4,22 +4,29 @@ This roadmap keeps the project easy to contribute to while staying public-safe. 
 
 ## Good First Issues
 
-- Add keyboard shortcuts for focusing search and clearing filters.
-- Add small UI tests for search filtering and RxNorm candidate selection.
+- [Add a data freshness badge](https://github.com/zzddddzz/rx-shortage-radar/issues/9).
+- [Add a shareable permalink for selected medication groups](https://github.com/zzddddzz/rx-shortage-radar/issues/15).
 
 ## Near-Term Features
 
-- Add a compact drug-detail permalink mode.
-- Add trend summaries by therapeutic category.
-- Add duplicate grouping so package-level records can be viewed by medication.
+- [Add a therapeutic-category summary for filtered results](https://github.com/zzddddzz/rx-shortage-radar/issues/17).
 - Add optional RxNorm concept detail lookup from selected RxCUIs.
+
+## Quality and Accessibility
+
+- [Add a browser regression test for medication grouping](https://github.com/zzddddzz/rx-shortage-radar/issues/16).
+- Add an accessibility audit workflow for the dashboard.
 
 ## Larger Ideas
 
 - Publish a small Python API for downstream users.
-- Add a lightweight browser test workflow for the static dashboard.
 - Add historical snapshots so users can see which records changed over time.
-- Add an accessibility audit workflow for the dashboard.
+
+## Completed
+
+- Added keyboard shortcuts for focusing search and clearing filters.
+- Added dashboard wiring tests for search filtering and RxNorm interactions.
+- Grouped package-level records by medication, manufacturer, and status in `v0.2.0`.
 
 ## Out of Scope
 
