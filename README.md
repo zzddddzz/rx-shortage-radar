@@ -108,6 +108,17 @@ Terminology is explained in [docs/glossary.md](docs/glossary.md).
 
 Practical consumption examples are in [docs/usage-examples.md](docs/usage-examples.md).
 
+## Community
+
+Rx Shortage Radar is maintained by [Di Zhang](https://github.com/zzddddzz) and improved through community contributions. External contributors have shipped usage documentation, dashboard tests, and medication-grouping improvements.
+
+Thank you to:
+
+- [CrepuscularIRIS](https://github.com/CrepuscularIRIS) for the CSV and JSON usage examples.
+- [Dibyanshu Mishra](https://github.com/dibyanshumishra) for dashboard tests and medication/manufacturer grouping.
+
+New contributors can start with the [roadmap](ROADMAP.md) or an open [`good first issue`](https://github.com/zzddddzz/rx-shortage-radar/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22). See the full [contributors history](https://github.com/zzddddzz/rx-shortage-radar/graphs/contributors).
+
 ## Medical Disclaimer
 
 Rx Shortage Radar is for public data exploration and software demonstration only. Do not use it to make medical decisions, clinical decisions, procurement decisions, or patient-care decisions. Confirm all shortage information with authoritative FDA sources, manufacturers, pharmacists, prescribers, and local policies.
