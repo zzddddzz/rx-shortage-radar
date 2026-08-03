@@ -92,7 +92,7 @@ function allStatuses() {
 function filteredRecords() {
   const terms = normalizeText(state.query).split(" ").filter(Boolean);
   let records = state.payload?.records || [];
-  
+
   if (state.status !== "All") {
     records = records.filter((record) => record.status === state.status);
   }
@@ -100,17 +100,16 @@ function filteredRecords() {
     records = records.filter((record) => terms.every((term) => record.search_text?.includes(term)));
   }
 
-
   const groups = new Map();
   for (const record of records) {
     const company = record.company_name || "Unknown Company";
     const key = `${record.generic_name || "Unnamed"}|${company}|${record.status}`;
-    
+
     if (!groups.has(key)) {
       groups.set(key, {
         ...record,
-        id: key, 
-        _packageCount: 1,
+        id: key,
+        _recordCount: 1,
         _brands: new Set(record.brand_names || []),
         _rxcuis: new Set(record.rxcuis || []),
         _pkgNdcs: new Set(record.package_ndc ? [record.package_ndc] : []),
@@ -122,8 +121,8 @@ function filteredRecords() {
       });
     } else {
       const group = groups.get(key);
-      group._packageCount++;
-      
+      group._recordCount++;
+
       if (record.brand_names) record.brand_names.forEach(v => group._brands.add(v));
       if (record.rxcuis) record.rxcuis.forEach(v => group._rxcuis.add(v));
       if (record.package_ndc) group._pkgNdcs.add(record.package_ndc);
@@ -132,25 +131,40 @@ function filteredRecords() {
       if (record.dosage_form) group._dosage.add(record.dosage_form);
       if (record.routes) record.routes.forEach(v => group._routes.add(v));
       if (record.related_info) group._related.add(record.related_info);
-      
+
       if (record.update_date && (!group.update_date || record.update_date > group.update_date)) {
         group.update_date = record.update_date;
+      }
+      if (
+        record.initial_posting_date
+        && (!group.initial_posting_date || record.initial_posting_date < group.initial_posting_date)
+      ) {
+        group.initial_posting_date = record.initial_posting_date;
       }
     }
   }
 
-  const groupedRecords = Array.from(groups.values()).map(g => ({
-    ...g,
-    brand_names: Array.from(g._brands),
-    rxcuis: Array.from(g._rxcuis),
-    package_ndc: Array.from(g._pkgNdcs),
-    product_ndcs: Array.from(g._prodNdcs),
-    therapeutic_categories: Array.from(g._categories),
-    dosage_form: Array.from(g._dosage),
-    routes: Array.from(g._routes),
-    related_info: Array.from(g._related).filter(Boolean), 
-    presentation: `Multiple presentations (${g._packageCount} packages)`
-  }));
+  const groupedRecords = Array.from(groups.values()).map((group) => {
+    const packageCount = group._pkgNdcs.size;
+    const packageSummary = packageCount
+      ? `${packageCount} unique package${packageCount === 1 ? "" : "s"}`
+      : "No package NDCs";
+    const recordSummary = `${group._recordCount} FDA record${group._recordCount === 1 ? "" : "s"}`;
+
+    return {
+      ...group,
+      _packageCount: packageCount,
+      brand_names: Array.from(group._brands),
+      rxcuis: Array.from(group._rxcuis),
+      package_ndc: Array.from(group._pkgNdcs),
+      product_ndcs: Array.from(group._prodNdcs),
+      therapeutic_categories: Array.from(group._categories),
+      dosage_form: Array.from(group._dosage),
+      routes: Array.from(group._routes),
+      related_info: Array.from(group._related).filter(Boolean),
+      presentation: `${packageSummary} across ${recordSummary}`,
+    };
+  });
 
   const sorted = [...groupedRecords];
   sorted.sort((a, b) => {
@@ -363,7 +377,7 @@ function renderResults(records) {
       makeElement(
         "div",
         "result-meta",
-        `${record.company_name || "Unknown Company"} · ${record._packageCount} package(s) · Updated ${formatDate(record.update_date)}`,
+        `${record.company_name || "Unknown Company"} · ${record._packageCount} package${record._packageCount === 1 ? "" : "s"} / ${record._recordCount} FDA record${record._recordCount === 1 ? "" : "s"} · Updated ${formatDate(record.update_date)}`,
       ),
     );
     button.append(body, makeElement("span", pillClass(record.status), record.status || "Unknown"));
