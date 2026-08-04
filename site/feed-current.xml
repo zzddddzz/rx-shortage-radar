@@ -5,8 +5,18 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status Current from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:33:27 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>Current: Rifapentine Tablet, Film Coated (0088-2102-24)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0088-2102-24</link>
+      <guid isPermaLink="false">6ba984e2d781d3e1</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Priftin, Tablet, Film Coated, 150 mg (NDC 0088-2102-24)
+Status: Current
+Updated: 2026-08-03
+Company: Sanofi-Aventis U.S. LLC</description>
+    </item>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (73293-0002-2)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=73293-0002-2</link>
@@ -292,9 +302,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
+      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -302,9 +312,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
+      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -342,9 +352,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">efbc78b31dd9b430</guid>
+      <guid isPermaLink="false">ac58831c6b843752</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
+      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -352,9 +362,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">ac58831c6b843752</guid>
+      <guid isPermaLink="false">efbc78b31dd9b430</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
+      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -1056,16 +1066,6 @@ Status: Current
 Updated: 2026-07-23
 Company: Hospira, Inc., a Pfizer Company
 Next Delivery and Estimated Recovery: December 2028; Shortage per Manufacturer: Manufacturing Delay</description>
-    </item>
-    <item>
-      <title>Current: Heparin Sodium Injection (0409-7620-03)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-7620-03</link>
-      <guid isPermaLink="false">49ba4a926c788c2a</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Heparin Sodium, Injection, 1,000 Units/500 mL (2 Units/mL) (NDC 0409-7620-03)
-Status: Current
-Updated: 2026-07-23
-Company: Hospira, Inc., a Pfizer Company</description>
     </item>
   </channel>
 </rss>
