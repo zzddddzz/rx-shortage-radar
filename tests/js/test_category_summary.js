@@ -20,7 +20,7 @@ test("counts a multi-category group once in every listed category", () => {
   assert.notEqual(
     summary.categories.reduce((total, category) => total + category.count, 0),
     summary.groupCount,
-    "category assignments are non-additive and must not be treated as the displayed group total",
+    "category assignments are non-additive and must not be treated as the matching group total",
   );
 });
 
