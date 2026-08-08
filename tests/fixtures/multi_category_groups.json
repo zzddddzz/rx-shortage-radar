@@ -1,0 +1,17 @@
+[
+  {
+    "id": "albuterol|example-a|Current",
+    "therapeutic_categories": ["Pulmonary/Allergy", "Pediatric", "Pediatric"]
+  },
+  {
+    "id": "amoxicillin|example-b|Current",
+    "therapeutic_categories": ["Pediatric"]
+  },
+  {
+    "id": "example-missing-a|example-c|Resolved",
+    "therapeutic_categories": []
+  },
+  {
+    "id": "example-missing-b|example-d|Resolved"
+  }
+]
