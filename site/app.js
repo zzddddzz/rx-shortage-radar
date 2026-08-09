@@ -36,6 +36,9 @@ const elements = {
   rxnormResults: document.querySelector("#rxnorm-results"),
   searchInput: document.querySelector("#search-input"),
   sortSelect: document.querySelector("#sort-select"),
+  categoryGroupCount: document.querySelector("#category-group-count"),
+  categorySummaryList: document.querySelector("#category-summary-list"),
+  categorySummaryEmpty: document.querySelector("#category-summary-empty"),
   resultCount: document.querySelector("#result-count"),
   resultsList: document.querySelector("#results-list"),
   detailContent: document.querySelector("#detail-content"),
@@ -260,7 +263,9 @@ function renderSummary() {
 function renderTabs() {
   const counts = state.payload.summary?.status_counts || {};
   const tabs = allStatuses().map((status) => {
-    const label = status === "All" ? `All (${state.payload.summary.total_records})` : `${status} (${counts[status] || 0})`;
+    const count = status === "All" ? state.payload.summary.total_records : counts[status] || 0;
+    const recordLabel = count === 1 ? "FDA record" : "FDA records";
+    const label = `${status} (${new Intl.NumberFormat().format(count)} ${recordLabel})`;
     const button = makeElement("button", "status-tab", label);
     button.type = "button";
     button.setAttribute("role", "tab");
@@ -311,6 +316,42 @@ function renderRxNormPanel(records) {
   elements.rxnormResults.replaceChildren(...candidateNodes);
 }
 
+function renderCategorySummary(records) {
+  const summary = CategorySummary.summarizeTherapeuticCategories(records);
+  const groupLabel = summary.groupCount === 1 ? "group" : "groups";
+  elements.categoryGroupCount.textContent = `${new Intl.NumberFormat().format(summary.groupCount)} matching ${groupLabel}`;
+
+  const categoryItems = summary.categories.map(({ name, count }) => {
+    const item = makeElement("li", "category-item");
+    const countLabel = count === 1 ? "group" : "groups";
+    item.append(
+      makeElement("span", "category-name", name),
+      makeElement("strong", "category-count", `${new Intl.NumberFormat().format(count)} ${countLabel}`),
+    );
+    return item;
+  });
+
+  if (summary.missingCategoryGroups) {
+    const count = summary.missingCategoryGroups;
+    const countLabel = count === 1 ? "group" : "groups";
+    const missingItem = makeElement("li", "category-item category-missing");
+    missingItem.append(
+      makeElement("span", "category-name", "No category listed"),
+      makeElement("strong", "category-count", `${new Intl.NumberFormat().format(count)} ${countLabel}`),
+    );
+    categoryItems.push(missingItem);
+  }
+
+  elements.categorySummaryList.replaceChildren(...categoryItems);
+  if (!summary.groupCount) {
+    elements.categorySummaryEmpty.textContent = "No shortage groups match the active search and status filters.";
+  } else if (!summary.categories.length) {
+    elements.categorySummaryEmpty.textContent = "No therapeutic categories are listed for the matching shortage groups.";
+  } else {
+    elements.categorySummaryEmpty.textContent = "";
+  }
+}
+
 async function resolveRxNorm() {
   const query = state.query.trim();
   if (query.length < 3 || state.rxnorm.loading) return;
@@ -351,9 +392,10 @@ async function resolveRxNorm() {
 }
 
 function renderResults(records) {
-  elements.resultCount.textContent = `${new Intl.NumberFormat().format(records.length)} shown`;
+  const groupLabel = records.length === 1 ? "group" : "groups";
+  elements.resultCount.textContent = `${new Intl.NumberFormat().format(records.length)} matching ${groupLabel}`;
   if (!records.length) {
-    elements.resultsList.replaceChildren(makeElement("div", "empty-state", "No records match this search."));
+    elements.resultsList.replaceChildren(makeElement("div", "empty-state", "No shortage groups match the active search and status filters."));
     renderDetail(null);
     return;
   }
@@ -436,6 +478,7 @@ function render() {
   const records = filteredRecords();
   renderSummary();
   renderTabs();
+  renderCategorySummary(records);
   renderRxNormPanel(records);
   renderResults(records);
 }
@@ -467,6 +510,9 @@ async function init() {
     elements.totalRecords.textContent = "Unavailable";
     elements.sourceUpdated.textContent = "Unavailable";
     elements.generatedAt.textContent = "Unavailable";
+    elements.categoryGroupCount.textContent = "Unavailable";
+    elements.categorySummaryList.replaceChildren();
+    elements.categorySummaryEmpty.textContent = "Therapeutic categories could not be loaded.";
     elements.resultCount.textContent = "Could not load data";
     elements.resultsList.replaceChildren(makeElement("div", "empty-state", `Could not load data/shortages.json: ${error.message}`));
   }

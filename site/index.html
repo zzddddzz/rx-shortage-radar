@@ -75,6 +75,30 @@
 
         <div class="status-tabs" id="status-tabs" role="tablist" aria-label="Status filter"></div>
 
+        <section class="category-summary" aria-labelledby="category-summary-title">
+          <div class="category-summary-head">
+            <div>
+              <p class="category-summary-label">Matching shortage groups</p>
+              <h2 id="category-summary-title">Therapeutic categories</h2>
+            </div>
+            <strong id="category-group-count">Loading</strong>
+          </div>
+          <div class="category-summary-results" aria-live="polite">
+            <ul
+              class="category-list"
+              id="category-summary-list"
+              aria-label="Therapeutic category counts for matching shortage groups"
+            ></ul>
+            <p class="category-summary-empty" id="category-summary-empty"></p>
+          </div>
+          <p class="category-summary-note">
+            A group in multiple categories is counted once in each category; category totals
+            are non-additive and are not expected to sum to the matching group total. Category
+            membership does not imply therapeutic interchangeability. These counts do not
+            indicate severity or criticality.
+          </p>
+        </section>
+
         <div class="rxnorm-panel" id="rxnorm-panel" hidden>
           <div>
             <strong>RxNorm match</strong>
@@ -87,7 +111,7 @@
         <div class="content-grid">
           <section class="results-pane" aria-label="Search results">
             <div class="results-head">
-              <h2>Shortage Records</h2>
+              <h2>Shortage Groups</h2>
               <span id="result-count">Loading</span>
             </div>
             <div class="results-list" id="results-list"></div>
@@ -110,6 +134,7 @@
       </section>
     </main>
 
+    <script src="category-summary.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
