@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:19:30+00:00",
+  "generated_at": "2026-08-13T10:27:40+00:00",
   "records": [
     {
       "brand_names": [
@@ -5432,8 +5432,8 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-07-23",
-      "update_type": "Revised"
+      "update_date": "2026-08-07",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [],
@@ -7315,92 +7315,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "234ec8f5c0c5772f",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-08-07",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7468,6 +7382,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-08-07",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "234ec8f5c0c5772f",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13218,14 +13218,14 @@
         "61703-262",
         "61703-600"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: January 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 150 mg 15 ml 10 mg ml ndc 61703 150 05 hospira inc a pfizer company next delivery and estimated recovery december 2026 shortage per manufacturer manufacturing delay 61703 150 05 carboplatin 597195 oncology 61703 150 61703 360 61703 262 61703 600",
+      "search_text": "carboplatin injection current injection carboplatin injection 150 mg 15 ml 10 mg ml ndc 61703 150 05 hospira inc a pfizer company next delivery january 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 61703 150 05 carboplatin 597195 oncology 61703 150 61703 360 61703 262 61703 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13234,7 +13234,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13277,7 +13277,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13301,14 +13301,14 @@
       "product_ndcs": [
         "61703-339"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: February 2027; Estimated Recovery: March 2027",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 339 18 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 61703 339 18 carboplatin 597195 oncology 61703 339",
+      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 339 18 hospira inc a pfizer company next delivery february 2027 estimated recovery march 2027 61703 339 18 carboplatin 597195 oncology 61703 339",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13317,7 +13317,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13357,7 +13357,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13381,14 +13381,14 @@
       "product_ndcs": [
         "61703-339"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 450 mg 45 ml 10 mg ml ndc 61703 339 50 hospira inc a pfizer company next delivery and estimated recovery december 2026 shortage per manufacturer manufacturing delay 61703 339 50 carboplatin 597195 oncology 61703 339",
+      "search_text": "carboplatin injection current injection carboplatin injection 450 mg 45 ml 10 mg ml ndc 61703 339 50 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 61703 339 50 carboplatin 597195 oncology 61703 339",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13397,7 +13397,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13421,14 +13421,14 @@
       "product_ndcs": [
         "61703-339"
       ],
-      "related_info": "Next Delivery: July 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 600 mg 60 ml 10 mg ml ndc 61703 339 56 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 61703 339 56 carboplatin 597195 oncology 61703 339",
+      "search_text": "carboplatin injection current injection carboplatin injection 600 mg 60 ml 10 mg ml ndc 61703 339 56 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 61703 339 56 carboplatin 597195 oncology 61703 339",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13437,7 +13437,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13464,14 +13464,14 @@
         "61703-262",
         "61703-600"
       ],
-      "related_info": "Next Delivery: July 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: February 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 360 18 hospira inc a pfizer company next delivery july 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 61703 360 18 carboplatin 597195 oncology 61703 360 61703 150 61703 262 61703 600",
+      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 360 18 hospira inc a pfizer company next delivery february 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 61703 360 18 carboplatin 597195 oncology 61703 360 61703 150 61703 262 61703 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13480,7 +13480,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -13523,7 +13523,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -18411,7 +18411,7 @@
         "0338-9555",
         "0338-9557"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: August 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -18419,7 +18419,7 @@
         "1718906",
         "1718909"
       ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 ug 50 ml ndc 0338 9555 24 baxter healthcare 0338 9555 24 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 0338 9555 0338 9557",
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 ug 50 ml ndc 0338 9555 24 baxter healthcare estimated recovery august 2026 0338 9555 24 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 0338 9555 0338 9557",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -18428,8 +18428,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-07-19",
-      "update_type": "Reverified"
+      "update_date": "2026-08-07",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -18451,7 +18451,7 @@
         "0338-9557",
         "0338-9555"
       ],
-      "related_info": "Estimated recovery: August 2026",
+      "related_info": "",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -18459,7 +18459,7 @@
         "1718906",
         "1718909"
       ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 ug 100 ml ndc 0338 9557 12 baxter healthcare estimated recovery august 2026 0338 9557 12 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 0338 9557 0338 9555",
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 ug 100 ml ndc 0338 9557 12 baxter healthcare 0338 9557 12 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 0338 9557 0338 9555",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -18468,7 +18468,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-07-19",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -23701,7 +23701,7 @@
         "0409-6648",
         "0409-7517"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026. Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: October 2026; Estimated Recovery: December 2026. Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -23709,7 +23709,7 @@
         "727517",
         "1795514"
       ],
-      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 6648 02 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 6648 02 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 6648 0409 7517",
+      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 6648 02 hospira inc a pfizer company next delivery october 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 6648 02 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 6648 0409 7517",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23720,7 +23720,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -23745,7 +23745,7 @@
         "0409-7517",
         "0409-6648"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026. Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -23753,7 +23753,7 @@
         "727517",
         "1795514"
       ],
-      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 7517 16 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 7517 0409 6648",
+      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company 0409 7517 16 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 7517 0409 6648",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23764,7 +23764,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -27673,7 +27673,7 @@
       "product_ndcs": [
         "0409-6695"
       ],
-      "related_info": "Next Delivery: November 2026; Estimated Recovery: March 2027. Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: November 2026; Estimated Recovery: December 2026. Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -27683,7 +27683,7 @@
         "1654009",
         "1654011"
       ],
-      "search_text": "etomidate injection current injection amidate injection 2 mg ml ndc 0409 6695 02 hospira inc a pfizer company next delivery november 2026 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 6695 02 amidate 1654006 1654008 1654009 1654011 anesthesia 0409 6695",
+      "search_text": "etomidate injection current injection amidate injection 2 mg ml ndc 0409 6695 02 hospira inc a pfizer company next delivery november 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 6695 02 amidate 1654006 1654008 1654009 1654011 anesthesia 0409 6695",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -27692,7 +27692,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -29652,7 +29652,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -29703,7 +29703,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -29754,7 +29754,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -33190,7 +33190,7 @@
         "0409-3795",
         "0409-3796"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: June 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery and Estimated Recovery: December 2027",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -33200,7 +33200,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 0409 3793 01 hospira inc a pfizer company next delivery and estimated recovery june 2027 shortage per manufacturer manufacturing delay 0409 3793 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 0409 3793 0409 3795 0409 3796",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 0409 3793 01 hospira inc a pfizer company next delivery and estimated recovery december 2027 0409 3793 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 0409 3793 0409 3795 0409 3796",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33209,7 +33209,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -33259,7 +33259,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Revised"
     },
     {
@@ -33627,49 +33627,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "7a4bf58e2f43f991",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -33707,6 +33664,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-08-04",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "7a4bf58e2f43f991",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-07-22",
       "update_type": "Reverified"
     },
     {
@@ -42816,79 +42816,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "da859d7c14cd90e6",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-048-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
-      "product_ndcs": [
-        "57664-048",
-        "57664-047",
-        "57664-046",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-08-05",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "3a979204f5856004",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-048-88",
@@ -42943,6 +42870,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-08-05",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "da859d7c14cd90e6",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-048-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
+      "product_ndcs": [
+        "57664-048",
+        "57664-047",
+        "57664-046",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -49079,7 +49079,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49145,7 +49145,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49211,7 +49211,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49277,7 +49277,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49343,7 +49343,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49409,7 +49409,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49475,7 +49475,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49541,7 +49541,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49607,7 +49607,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49673,7 +49673,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -49739,7 +49739,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-15",
+      "update_date": "2026-08-12",
       "update_type": "Reverified"
     },
     {
@@ -50997,9 +50997,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51007,47 +51005,16 @@
       "id": "ce5318e3432fdc89",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "0409-2305-05",
-      "package_ndcs": [
-        "0409-2305-55",
-        "0409-2305-50",
-        "0409-2308-69",
-        "0409-2308-49",
-        "0409-2308-70",
-        "0409-2308-50",
-        "0409-2305-16",
-        "0409-2305-17",
-        "0409-2305-04",
-        "0409-2305-05",
-        "0409-2308-21",
-        "0409-2308-01",
-        "0409-2308-22",
-        "0409-2308-02",
-        "0409-0001-01",
-        "0409-0001-25"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam Hydrochloride Preservative Free, Injection, 5 mg/5 mL (1 mg/mL) (NDC 0409-2305-05)",
-      "product_ndcs": [
-        "0409-2305",
-        "0409-2308",
-        "0409-0001"
-      ],
+      "product_ndcs": [],
       "related_info": "Limited Supply Available. Next Delivery: October 2026; Estimated Recovery: December 2026",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1666800",
-        "1666814",
-        "1666823",
-        "1666798"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 5 mg 5 ml 1 mg ml ndc 0409 2305 05 hospira inc a pfizer company limited supply available next delivery october 2026 estimated recovery december 2026 0409 2305 05 midazolam 1666800 1666814 1666823 1666798 anesthesia neurology 0409 2305 0409 2308 0409 0001",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 5 mg 5 ml 1 mg ml ndc 0409 2305 05 hospira inc a pfizer company limited supply available next delivery october 2026 estimated recovery december 2026 0409 2305 05 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -51056,9 +51023,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51066,47 +51031,16 @@
       "id": "6f7790a4d3321c05",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "0409-2305-17",
-      "package_ndcs": [
-        "0409-2305-55",
-        "0409-2305-50",
-        "0409-2308-69",
-        "0409-2308-49",
-        "0409-2308-70",
-        "0409-2308-50",
-        "0409-2305-16",
-        "0409-2305-17",
-        "0409-2305-04",
-        "0409-2305-05",
-        "0409-2308-21",
-        "0409-2308-01",
-        "0409-2308-22",
-        "0409-2308-02",
-        "0409-0001-01",
-        "0409-0001-25"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam Hydrochloride Preservative Free, Injection, 2 mg/2mL (1 mg/mL) (NDC 0409-2305-17)",
-      "product_ndcs": [
-        "0409-2305",
-        "0409-2308",
-        "0409-0001"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1666800",
-        "1666814",
-        "1666823",
-        "1666798"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 2305 17 hospira inc a pfizer company 0409 2305 17 midazolam 1666800 1666814 1666823 1666798 anesthesia neurology 0409 2305 0409 2308 0409 0001",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 2305 17 hospira inc a pfizer company 0409 2305 17 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -51115,9 +51049,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51125,47 +51057,16 @@
       "id": "3d3d29c91708ca4e",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "0409-2308-01",
-      "package_ndcs": [
-        "0409-2305-55",
-        "0409-2305-50",
-        "0409-2308-69",
-        "0409-2308-49",
-        "0409-2308-70",
-        "0409-2308-50",
-        "0409-2305-16",
-        "0409-2305-17",
-        "0409-2305-04",
-        "0409-2305-05",
-        "0409-2308-21",
-        "0409-2308-01",
-        "0409-2308-22",
-        "0409-2308-02",
-        "0409-0001-01",
-        "0409-0001-25"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam Hydrochloride Preservative Free, Injection, 5 mg/mL (5 mg/mL) (NDC 0409-2308-01)",
-      "product_ndcs": [
-        "0409-2308",
-        "0409-2305",
-        "0409-0001"
-      ],
+      "product_ndcs": [],
       "related_info": "Next Delivery: September 2026; Estimated Recovery: December 2026",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1666800",
-        "1666814",
-        "1666823",
-        "1666798"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 5 mg ml 5 mg ml ndc 0409 2308 01 hospira inc a pfizer company next delivery september 2026 estimated recovery december 2026 0409 2308 01 midazolam 1666800 1666814 1666823 1666798 anesthesia neurology 0409 2308 0409 2305 0409 0001",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 5 mg ml 5 mg ml ndc 0409 2308 01 hospira inc a pfizer company next delivery september 2026 estimated recovery december 2026 0409 2308 01 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -51174,9 +51075,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "MIDAZOLAM"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -51184,47 +51083,16 @@
       "id": "66daae3af7012c7e",
       "initial_posting_date": "2020-04-02",
       "package_ndc": "0409-2308-02",
-      "package_ndcs": [
-        "0409-2305-55",
-        "0409-2305-50",
-        "0409-2308-69",
-        "0409-2308-49",
-        "0409-2308-70",
-        "0409-2308-50",
-        "0409-2305-16",
-        "0409-2305-17",
-        "0409-2305-04",
-        "0409-2305-05",
-        "0409-2308-21",
-        "0409-2308-01",
-        "0409-2308-22",
-        "0409-2308-02",
-        "0409-0001-01",
-        "0409-0001-25"
-      ],
+      "package_ndcs": [],
       "presentation": "Midazolam Hydrochloride Preservative Free, Injection, 10 mg/2 mL (5 mg/mL) (NDC 0409-2308-02)",
-      "product_ndcs": [
-        "0409-2308",
-        "0409-2305",
-        "0409-0001"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1666800",
-        "1666814",
-        "1666823",
-        "1666798"
-      ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 10 mg 2 ml 5 mg ml ndc 0409 2308 02 hospira inc a pfizer company 0409 2308 02 midazolam 1666800 1666814 1666823 1666798 anesthesia neurology 0409 2308 0409 2305 0409 0001",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 10 mg 2 ml 5 mg ml ndc 0409 2308 02 hospira inc a pfizer company 0409 2308 02 anesthesia neurology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "MIDAZOLAM HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia",
         "Neurology"
@@ -52914,12 +52782,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 0641 6125 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6125 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6125 0641 6126 0641 6127",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 0641 6125 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6125 25 morphine sulfate analgesia addiction 0641 6125 0641 6126 0641 6127",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -52960,12 +52824,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 8 mg 1 ml ndc 0641 6126 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6126 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6126 0641 6127 0641 6125",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 8 mg 1 ml ndc 0641 6126 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6126 25 morphine sulfate analgesia addiction 0641 6126 0641 6127 0641 6125",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53006,12 +52866,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 10 mg 1 ml ndc 0641 6127 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6127 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6127 0641 6126 0641 6125",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 10 mg 1 ml ndc 0641 6127 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6127 25 morphine sulfate analgesia addiction 0641 6127 0641 6126 0641 6125",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53584,7 +53440,7 @@
         "60793-701",
         "60793-702"
       ],
-      "related_info": "Next Delivery: October 2027; Estimated Recovery: December 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery and Estimated Recovery:  4Q 2027; Manufacturing delay",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -53596,7 +53452,7 @@
         "731570",
         "731571"
       ],
-      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 600000 iu 1 ml ndc 60793 700 10 pfizer inc next delivery october 2027 estimated recovery december 2027 shortage per manufacturer manufacturing delay 60793 700 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 700 60793 701 60793 702",
+      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 600000 iu 1 ml ndc 60793 700 10 pfizer inc next delivery and estimated recovery 4q 2027 manufacturing delay 60793 700 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 700 60793 701 60793 702",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53605,7 +53461,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-12",
       "update_type": "Revised"
     },
     {
@@ -53633,7 +53489,7 @@
         "60793-700",
         "60793-702"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: October 2026; Estimated Recovery: December 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery:  Fourth Quarter 2026 Estimated Recovery: 4Q 2027; Manufacturing delay",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -53645,7 +53501,7 @@
         "731570",
         "731571"
       ],
-      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 1200000 iu 2 ml ndc 60793 701 10 pfizer inc limited supply available next delivery october 2026 estimated recovery december 2027 shortage per manufacturer manufacturing delay 60793 701 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 701 60793 700 60793 702",
+      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 1200000 iu 2 ml ndc 60793 701 10 pfizer inc next delivery fourth quarter 2026 estimated recovery 4q 2027 manufacturing delay 60793 701 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 701 60793 700 60793 702",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53654,7 +53510,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-12",
       "update_type": "Revised"
     },
     {
@@ -53682,7 +53538,7 @@
         "60793-700",
         "60793-701"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: October 2026; Estimated Recovery: December 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery:  Fourth Quarter 2026 Estimated Recovery: 4Q 2027; Manufacturing delay",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -53694,7 +53550,7 @@
         "731570",
         "731571"
       ],
-      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 2400000 iu 4 ml ndc 60793 702 10 pfizer inc limited supply available next delivery october 2026 estimated recovery december 2027 shortage per manufacturer manufacturing delay 60793 702 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 702 60793 700 60793 701",
+      "search_text": "penicillin g benzathine injection current injection bicillin l a injection 2400000 iu 4 ml ndc 60793 702 10 pfizer inc next delivery fourth quarter 2026 estimated recovery 4q 2027 manufacturing delay 60793 702 10 bicillin l a 731564 731566 731567 731568 731570 731571 anti infective 60793 702 60793 700 60793 701",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53703,7 +53559,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-12",
       "update_type": "Revised"
     },
     {
@@ -61717,7 +61573,7 @@
       "product_ndcs": [
         "0409-3299"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: September 2026. Shortage per Manufacturer: Manufacturing Delay.",
+      "related_info": "Next Delivery and Estimated Recovery: September 2026. Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -61736,7 +61592,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-07-23",
+      "update_date": "2026-08-07",
       "update_type": "Reverified"
     },
     {
@@ -69786,43 +69642,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -69853,6 +69672,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -70697,291 +70553,6 @@
         "Anesthesia"
       ],
       "update_date": "2026-07-02",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "9651ec034f5a69c0",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-578-01",
-      "package_ndcs": [
-        "23155-578-01",
-        "23155-579-01",
-        "23155-580-01",
-        "23155-581-01",
-        "23155-582-01",
-        "23155-583-25"
-      ],
-      "presentation": "Desipramine Hydrochloride, Tablet, 10 mg (NDC 23155-578-01)",
-      "product_ndcs": [
-        "23155-578",
-        "23155-579",
-        "23155-580",
-        "23155-581",
-        "23155-582",
-        "23155-583"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099288",
-        "1099292",
-        "1099296",
-        "1099300",
-        "1099304",
-        "1099316"
-      ],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 10 mg ndc 23155 578 01 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 578 01 desipramine hydrochloride 1099288 1099292 1099296 1099300 1099304 1099316 psychiatry 23155 578 23155 579 23155 580 23155 581 23155 582 23155 583",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "6744ed8c1551555b",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-579-01",
-      "package_ndcs": [
-        "23155-578-01",
-        "23155-579-01",
-        "23155-580-01",
-        "23155-581-01",
-        "23155-582-01",
-        "23155-583-25"
-      ],
-      "presentation": "Desipramine Hydrochloride, Tablet, 25 mg (NDC 23155-579-01)",
-      "product_ndcs": [
-        "23155-579",
-        "23155-578",
-        "23155-580",
-        "23155-581",
-        "23155-582",
-        "23155-583"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099288",
-        "1099292",
-        "1099296",
-        "1099300",
-        "1099304",
-        "1099316"
-      ],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 25 mg ndc 23155 579 01 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 579 01 desipramine hydrochloride 1099288 1099292 1099296 1099300 1099304 1099316 psychiatry 23155 579 23155 578 23155 580 23155 581 23155 582 23155 583",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "a3e7386dbef92add",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-580-01",
-      "package_ndcs": [
-        "23155-578-01",
-        "23155-579-01",
-        "23155-580-01",
-        "23155-581-01",
-        "23155-582-01",
-        "23155-583-25"
-      ],
-      "presentation": "Desipramine Hydrochloride, Tablet, 50 mg (NDC 23155-580-01)",
-      "product_ndcs": [
-        "23155-580",
-        "23155-578",
-        "23155-579",
-        "23155-581",
-        "23155-582",
-        "23155-583"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099288",
-        "1099292",
-        "1099296",
-        "1099300",
-        "1099304",
-        "1099316"
-      ],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 50 mg ndc 23155 580 01 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 580 01 desipramine hydrochloride 1099288 1099292 1099296 1099300 1099304 1099316 psychiatry 23155 580 23155 578 23155 579 23155 581 23155 582 23155 583",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "3344a5878b535b2f",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-581-01",
-      "package_ndcs": [
-        "23155-578-01",
-        "23155-579-01",
-        "23155-580-01",
-        "23155-581-01",
-        "23155-582-01",
-        "23155-583-25"
-      ],
-      "presentation": "Desipramine Hydrochloride, Tablet, 75 mg (NDC 23155-581-01)",
-      "product_ndcs": [
-        "23155-581",
-        "23155-578",
-        "23155-579",
-        "23155-580",
-        "23155-582",
-        "23155-583"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099288",
-        "1099292",
-        "1099296",
-        "1099300",
-        "1099304",
-        "1099316"
-      ],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 75 mg ndc 23155 581 01 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 581 01 desipramine hydrochloride 1099288 1099292 1099296 1099300 1099304 1099316 psychiatry 23155 581 23155 578 23155 579 23155 580 23155 582 23155 583",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "9e9d248c6a0b74a4",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-582-01",
-      "package_ndcs": [
-        "23155-578-01",
-        "23155-579-01",
-        "23155-580-01",
-        "23155-581-01",
-        "23155-582-01",
-        "23155-583-25"
-      ],
-      "presentation": "Desipramine Hydrochloride, Tablet, 100 mg (NDC 23155-582-01)",
-      "product_ndcs": [
-        "23155-582",
-        "23155-578",
-        "23155-579",
-        "23155-580",
-        "23155-581",
-        "23155-583"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1099288",
-        "1099292",
-        "1099296",
-        "1099300",
-        "1099304",
-        "1099316"
-      ],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 100 mg ndc 23155 582 01 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 582 01 desipramine hydrochloride 1099288 1099292 1099296 1099300 1099304 1099316 psychiatry 23155 582 23155 578 23155 579 23155 580 23155 581 23155 583",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESIPRAMINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Avet Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-08-12",
-      "dosage_form": "Tablet",
-      "generic_name": "Desipramine Hydrochloride Tablet",
-      "id": "f16928fc565b648b",
-      "initial_posting_date": "2025-08-12",
-      "package_ndc": "23155-583-25",
-      "package_ndcs": [],
-      "presentation": "Desipramine Hydrochloride, Tablet, 150 mg (NDC 23155-583-25)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "desipramine hydrochloride tablet to be discontinued tablet desipramine hydrochloride tablet 150 mg ndc 23155 583 25 avet pharmaceuticals inc discontinuation of the manufacture of the drug 23155 583 25 psychiatry",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-08-12",
       "update_type": "New"
     },
     {
@@ -74466,13 +74037,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 1 mg ndc 0228 2850 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2850 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2850 0228 2851 0228 2853 0228 2855",
+      "rxcuis": [],
+      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 1 mg ndc 0228 2850 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2850 11 guanfacine psychiatry 0228 2850 0228 2851 0228 2853 0228 2855",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -74512,13 +74078,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 2 mg ndc 0228 2851 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2851 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2851 0228 2850 0228 2853 0228 2855",
+      "rxcuis": [],
+      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 2 mg ndc 0228 2851 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2851 11 guanfacine psychiatry 0228 2851 0228 2850 0228 2853 0228 2855",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -74558,13 +74119,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 3 mg ndc 0228 2853 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2853 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2853 0228 2850 0228 2851 0228 2855",
+      "rxcuis": [],
+      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 3 mg ndc 0228 2853 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2853 11 guanfacine psychiatry 0228 2853 0228 2850 0228 2851 0228 2855",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -74604,13 +74160,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 4 mg ndc 0228 2855 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2855 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2855 0228 2850 0228 2851 0228 2853",
+      "rxcuis": [],
+      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 4 mg ndc 0228 2855 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2855 11 guanfacine psychiatry 0228 2855 0228 2850 0228 2851 0228 2853",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -77850,7 +77401,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "OMVOH"
+      ],
       "company_name": "Eli Lilly and Co.",
       "discontinued_date": "2025-12-22",
       "dosage_form": "Injection",
@@ -77858,16 +77411,43 @@
       "id": "8cc8773605cc1cfe",
       "initial_posting_date": "2025-12-22",
       "package_ndc": "0002-8011-27",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0002-7575-01",
+        "0002-8011-01",
+        "0002-8011-27",
+        "0002-8011-61",
+        "0002-8870-01",
+        "0002-8870-27",
+        "0002-7717-11",
+        "0002-7717-61",
+        "0002-3116-01",
+        "0002-7722-11",
+        "0002-1442-01",
+        "0002-3116-11",
+        "0002-3116-61",
+        "0002-1442-11"
+      ],
       "presentation": "Omvoh, Injection, 100 mg/1 mL (NDC 0002-8011-27)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0002-8011",
+        "0002-7575",
+        "0002-8870",
+        "0002-7717",
+        "0002-7722",
+        "0002-3116",
+        "0002-1442"
+      ],
       "related_info": "A business decision was made to discontinue. Distribution will end April 2026. The 200 mg/2 mL injection presentation (NDC 0002-3116-11) will remain.",
-      "routes": [],
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
       "rxcuis": [],
-      "search_text": "mirikizumab mrkz injection to be discontinued injection omvoh injection 100 mg 1 ml ndc 0002 8011 27 eli lilly and co a business decision was made to discontinue distribution will end april 2026 the 200 mg 2 ml injection presentation ndc 0002 3116 11 will remain 0002 8011 27 gastroenterology other",
+      "search_text": "mirikizumab mrkz injection to be discontinued injection omvoh injection 100 mg 1 ml ndc 0002 8011 27 eli lilly and co a business decision was made to discontinue distribution will end april 2026 the 200 mg 2 ml injection presentation ndc 0002 3116 11 will remain 0002 8011 27 omvoh gastroenterology other 0002 8011 0002 7575 0002 8870 0002 7717 0002 7722 0002 3116 0002 1442",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "MIRIKIZUMAB"
+      ],
       "therapeutic_categories": [
         "Gastroenterology",
         "Other"
@@ -77876,7 +77456,9 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
+      "brand_names": [
+        "OMVOH"
+      ],
       "company_name": "Eli Lilly and Co.",
       "discontinued_date": "2025-12-22",
       "dosage_form": "Injection",
@@ -77884,16 +77466,43 @@
       "id": "3b26162d9e25e3b7",
       "initial_posting_date": "2025-12-22",
       "package_ndc": "0002-8870-27",
-      "package_ndcs": [],
+      "package_ndcs": [
+        "0002-7575-01",
+        "0002-8011-01",
+        "0002-8011-27",
+        "0002-8011-61",
+        "0002-8870-01",
+        "0002-8870-27",
+        "0002-7717-11",
+        "0002-7717-61",
+        "0002-3116-01",
+        "0002-7722-11",
+        "0002-1442-01",
+        "0002-3116-11",
+        "0002-3116-61",
+        "0002-1442-11"
+      ],
       "presentation": "Omvoh, Injection, 100 mg/1 mL (NDC 0002-8870-27)",
-      "product_ndcs": [],
+      "product_ndcs": [
+        "0002-8870",
+        "0002-7575",
+        "0002-8011",
+        "0002-7717",
+        "0002-7722",
+        "0002-3116",
+        "0002-1442"
+      ],
       "related_info": "A business decision was made to discontinue. Distribution will end April 2026. The 200 mg/2 mL injection presentation (NDC 0002-1442-11) will remain.",
-      "routes": [],
+      "routes": [
+        "SUBCUTANEOUS"
+      ],
       "rxcuis": [],
-      "search_text": "mirikizumab mrkz injection to be discontinued injection omvoh injection 100 mg 1 ml ndc 0002 8870 27 eli lilly and co a business decision was made to discontinue distribution will end april 2026 the 200 mg 2 ml injection presentation ndc 0002 1442 11 will remain 0002 8870 27 gastroenterology other",
+      "search_text": "mirikizumab mrkz injection to be discontinued injection omvoh injection 100 mg 1 ml ndc 0002 8870 27 eli lilly and co a business decision was made to discontinue distribution will end april 2026 the 200 mg 2 ml injection presentation ndc 0002 1442 11 will remain 0002 8870 27 omvoh gastroenterology other 0002 8870 0002 7575 0002 8011 0002 7717 0002 7722 0002 3116 0002 1442",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [],
+      "substances": [
+        "MIRIKIZUMAB"
+      ],
       "therapeutic_categories": [
         "Gastroenterology",
         "Other"
@@ -83190,11 +82799,8 @@
       "routes": [
         "NASAL"
       ],
-      "rxcuis": [
-        "313159",
-        "314227"
-      ],
-      "search_text": "sumatriptan nasal spray to be discontinued nasal spray imitrex nasal spray 5 mg 100 ul ndc 66993 081 69 prasco laboratories this product discontinuation is a business related decision the anticipated date that prasco will cease distribution of the product is approximately february 28 2026 66993 081 69 sumatriptan 313159 314227 neurology 66993 081 66993 082",
+      "rxcuis": [],
+      "search_text": "sumatriptan nasal spray to be discontinued nasal spray imitrex nasal spray 5 mg 100 ul ndc 66993 081 69 prasco laboratories this product discontinuation is a business related decision the anticipated date that prasco will cease distribution of the product is approximately february 28 2026 66993 081 69 sumatriptan neurology 66993 081 66993 082",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -83230,11 +82836,8 @@
       "routes": [
         "NASAL"
       ],
-      "rxcuis": [
-        "313159",
-        "314227"
-      ],
-      "search_text": "sumatriptan nasal spray to be discontinued nasal spray imitrex nasal spray 20 mg 100 ul ndc 66993 082 69 prasco laboratories this product discontinuation is a business related decision the anticipated date that prasco will cease distribution of the product is approximately march 16 2026 66993 082 69 sumatriptan 313159 314227 neurology 66993 082 66993 081",
+      "rxcuis": [],
+      "search_text": "sumatriptan nasal spray to be discontinued nasal spray imitrex nasal spray 20 mg 100 ul ndc 66993 082 69 prasco laboratories this product discontinuation is a business related decision the anticipated date that prasco will cease distribution of the product is approximately march 16 2026 66993 082 69 sumatriptan neurology 66993 082 66993 081",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -84183,7 +83786,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -84192,8 +83795,8 @@
     "status_counts": {
       "Current": 1177,
       "Resolved": 10,
-      "To Be Discontinued": 450
+      "To Be Discontinued": 444
     },
-    "total_records": 1637
+    "total_records": 1631
   }
 }
