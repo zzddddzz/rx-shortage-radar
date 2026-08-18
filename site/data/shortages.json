@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:57:17+00:00",
+  "generated_at": "2026-08-18T09:48:15+00:00",
   "records": [
     {
       "brand_names": [
@@ -335,7 +335,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -390,7 +390,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -445,7 +445,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -499,7 +499,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -553,7 +553,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -607,7 +607,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -669,7 +669,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -731,7 +731,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -793,7 +793,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -1598,16 +1598,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "541363",
-        "541878",
-        "541892",
-        "577957",
-        "577961",
-        "687043",
-        "1009145"
-      ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 1 25 mg 1 25 mg 1 25 mg 1 25 mg ndc 0527 0760 37 lannett company inc 0527 0760 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate 541363 541878 541892 577957 577961 687043 1009145 psychiatry 0527 0760 0527 0761 0527 0762 0527 0763 0527 0764 0527 0765 0527 0766",
+      "rxcuis": [],
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 1 25 mg 1 25 mg 1 25 mg 1 25 mg ndc 0527 0760 37 lannett company inc 0527 0760 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate psychiatry 0527 0760 0527 0761 0527 0762 0527 0763 0527 0764 0527 0765 0527 0766",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -1656,16 +1648,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "541363",
-        "541878",
-        "541892",
-        "577957",
-        "577961",
-        "687043",
-        "1009145"
-      ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 1 875 mg 1 875 mg 1 875 mg 1 875 mg ndc 0527 0761 37 lannett company inc 0527 0761 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate 541363 541878 541892 577957 577961 687043 1009145 psychiatry 0527 0761 0527 0760 0527 0762 0527 0763 0527 0764 0527 0765 0527 0766",
+      "rxcuis": [],
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 1 875 mg 1 875 mg 1 875 mg 1 875 mg ndc 0527 0761 37 lannett company inc 0527 0761 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate psychiatry 0527 0761 0527 0760 0527 0762 0527 0763 0527 0764 0527 0765 0527 0766",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -1714,16 +1698,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "541363",
-        "541878",
-        "541892",
-        "577957",
-        "577961",
-        "687043",
-        "1009145"
-      ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 3 125 mg 3 125 mg 3 125 mg 3 125 mg ndc 0527 0763 37 lannett company inc 0527 0763 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate 541363 541878 541892 577957 577961 687043 1009145 psychiatry 0527 0763 0527 0760 0527 0761 0527 0762 0527 0764 0527 0765 0527 0766",
+      "rxcuis": [],
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 3 125 mg 3 125 mg 3 125 mg 3 125 mg ndc 0527 0763 37 lannett company inc 0527 0763 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate psychiatry 0527 0763 0527 0760 0527 0761 0527 0762 0527 0764 0527 0765 0527 0766",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -1772,16 +1748,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "541363",
-        "541878",
-        "541892",
-        "577957",
-        "577961",
-        "687043",
-        "1009145"
-      ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 3 75 mg 3 75 mg 3 75 mg 3 75 mg ndc 0527 0764 37 lannett company inc 0527 0764 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate 541363 541878 541892 577957 577961 687043 1009145 psychiatry 0527 0764 0527 0760 0527 0761 0527 0762 0527 0763 0527 0765 0527 0766",
+      "rxcuis": [],
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 3 75 mg 3 75 mg 3 75 mg 3 75 mg ndc 0527 0764 37 lannett company inc 0527 0764 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate psychiatry 0527 0764 0527 0760 0527 0761 0527 0762 0527 0763 0527 0765 0527 0766",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -1830,16 +1798,8 @@
       "routes": [
         "ORAL"
       ],
-      "rxcuis": [
-        "541363",
-        "541878",
-        "541892",
-        "577957",
-        "577961",
-        "687043",
-        "1009145"
-      ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 7 5 mg 7 5 mg 7 5 mg 7 5 mg ndc 0527 0766 37 lannett company inc 0527 0766 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate 541363 541878 541892 577957 577961 687043 1009145 psychiatry 0527 0766 0527 0760 0527 0761 0527 0762 0527 0763 0527 0764 0527 0765",
+      "rxcuis": [],
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 7 5 mg 7 5 mg 7 5 mg 7 5 mg ndc 0527 0766 37 lannett company inc 0527 0766 37 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate and amphetamine sulfate psychiatry 0527 0766 0527 0760 0527 0761 0527 0762 0527 0763 0527 0764 0527 0765",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -1959,7 +1919,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -2017,7 +1977,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -2075,7 +2035,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -2191,8 +2151,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -2372,7 +2332,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2437,7 +2397,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2502,7 +2462,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2567,7 +2527,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2632,7 +2592,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2697,7 +2657,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -2762,7 +2722,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -3610,7 +3570,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -3682,7 +3642,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -3754,7 +3714,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -3826,7 +3786,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -3898,7 +3858,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -3963,7 +3923,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4028,7 +3988,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4158,7 +4118,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4223,7 +4183,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4288,7 +4248,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4353,7 +4313,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4425,7 +4385,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4497,7 +4457,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4569,7 +4529,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4641,7 +4601,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4713,7 +4673,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4785,7 +4745,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -4857,7 +4817,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -5752,7 +5712,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-07-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -5796,7 +5756,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-07-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -5886,7 +5846,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -5933,7 +5893,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -5980,7 +5940,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -6078,7 +6038,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -6161,7 +6121,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -6408,7 +6368,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -6523,7 +6483,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-16",
       "update_type": "Reverified"
     },
     {
@@ -7486,92 +7446,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "3fc6a9a9d2d6a923",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-08-07",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "234ec8f5c0c5772f",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7639,6 +7513,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-08-07",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "3fc6a9a9d2d6a923",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -12817,7 +12777,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -12858,7 +12818,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -12899,8 +12859,8 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -12940,7 +12900,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -14518,7 +14478,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -14610,8 +14570,8 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -14656,7 +14616,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -14748,7 +14708,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15144,8 +15104,8 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -15288,7 +15248,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15336,7 +15296,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15384,7 +15344,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15432,7 +15392,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15480,7 +15440,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15528,7 +15488,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15576,7 +15536,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15624,7 +15584,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -15672,7 +15632,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -16408,7 +16368,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -16456,7 +16416,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -16504,7 +16464,7 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -17303,7 +17263,7 @@
       "therapeutic_categories": [
         "Pulmonary/Allergy"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -18639,8 +18599,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19650,7 +19610,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -19675,7 +19635,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -19844,7 +19804,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -19884,7 +19844,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -20190,7 +20150,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -20232,7 +20192,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -20960,7 +20920,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -21002,7 +20962,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -21254,7 +21214,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -21315,7 +21275,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -21376,7 +21336,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22051,7 +22011,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22112,7 +22072,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22173,7 +22133,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22234,7 +22194,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22295,7 +22255,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22356,7 +22316,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22417,7 +22377,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22478,7 +22438,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22539,7 +22499,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22603,7 +22563,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22667,7 +22627,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22731,7 +22691,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22773,7 +22733,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22815,7 +22775,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22858,7 +22818,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -22901,7 +22861,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24060,8 +24020,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -24197,7 +24157,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24242,7 +24202,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24287,7 +24247,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24684,7 +24644,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24731,7 +24691,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24778,7 +24738,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -24825,7 +24785,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -29978,7 +29938,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -30025,7 +29985,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -30072,7 +30032,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -30385,7 +30345,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -30434,7 +30394,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -30483,7 +30443,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -31213,7 +31173,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -31257,7 +31217,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -32187,7 +32147,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -32234,7 +32194,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -32281,7 +32241,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -32918,8 +32878,8 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-08-05",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -33043,7 +33003,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -33086,7 +33046,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -33129,7 +33089,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -33154,7 +33114,7 @@
         "10019-926",
         "10019-925"
       ],
-      "related_info": "Estimated recovery: October 2026",
+      "related_info": "Estimated recovery: September 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -33162,7 +33122,7 @@
         "1791588",
         "1791593"
       ],
-      "search_text": "ifosfamide injection current injection ifosfamide injection 3 g 60 ml ndc 10019 926 02 baxter healthcare estimated recovery october 2026 10019 926 02 ifosfamide 1791588 1791593 oncology pediatric 10019 926 10019 925",
+      "search_text": "ifosfamide injection current injection ifosfamide injection 3 g 60 ml ndc 10019 926 02 baxter healthcare estimated recovery september 2026 10019 926 02 ifosfamide 1791588 1791593 oncology pediatric 10019 926 10019 925",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33172,8 +33132,8 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Reverified"
+      "update_date": "2026-08-17",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -33292,7 +33252,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -33632,49 +33592,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -33712,6 +33629,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-08-04",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "1dc3a32cba02875c",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [
+        "25021-700",
+        "25021-701"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-07-22",
       "update_type": "Reverified"
     },
     {
@@ -33804,49 +33764,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "53f3133efc435e4e",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-08-04",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -33884,6 +33801,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-07-22",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "53f3133efc435e4e",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-08-04",
       "update_type": "Reverified"
     },
     {
@@ -34810,7 +34770,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -34852,7 +34812,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -39723,7 +39683,7 @@
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -39766,7 +39726,7 @@
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -39809,7 +39769,7 @@
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -39848,7 +39808,7 @@
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -39887,7 +39847,7 @@
       "therapeutic_categories": [
         "Endocrinology/Metabolism"
       ],
-      "update_date": "2026-08-06",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41173,7 +41133,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41228,7 +41188,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41283,7 +41243,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41338,7 +41298,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41393,7 +41353,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41448,7 +41408,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -41503,7 +41463,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42713,7 +42673,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42768,7 +42728,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42823,7 +42783,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42878,7 +42838,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42933,7 +42893,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -42988,7 +42948,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -43043,7 +43003,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -43127,79 +43087,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "da859d7c14cd90e6",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-048-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
-      "product_ndcs": [
-        "57664-048",
-        "57664-047",
-        "57664-046",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-08-05",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "3a979204f5856004",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-048-88",
@@ -43254,6 +43141,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-08-05",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "da859d7c14cd90e6",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-048-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
+      "product_ndcs": [
+        "57664-048",
+        "57664-047",
+        "57664-046",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -44596,7 +44556,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44651,7 +44611,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44706,7 +44666,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44761,7 +44721,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44816,7 +44776,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44871,7 +44831,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -44926,7 +44886,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-10",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -47781,7 +47741,7 @@
         "Rheumatology",
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -47826,7 +47786,7 @@
         "Rheumatology",
         "Oncology"
       ],
-      "update_date": "2026-08-05",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48188,7 +48148,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-21",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -48234,7 +48194,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-21",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -48280,7 +48240,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-21",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -48326,7 +48286,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-07-21",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -48366,7 +48326,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48416,7 +48376,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48466,7 +48426,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48516,7 +48476,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48566,7 +48526,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48616,7 +48576,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -48656,7 +48616,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49140,7 +49100,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49390,7 +49350,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49456,7 +49416,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49522,7 +49482,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49588,7 +49548,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49654,7 +49614,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49720,7 +49680,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49786,7 +49746,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49852,7 +49812,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49918,7 +49878,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -49984,7 +49944,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -50050,7 +50010,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-08-12",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -51192,7 +51152,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -53205,12 +53165,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 0641 6125 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6125 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6125 0641 6126 0641 6127",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 0641 6125 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6125 25 morphine sulfate analgesia addiction 0641 6125 0641 6126 0641 6127",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53251,12 +53207,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 8 mg 1 ml ndc 0641 6126 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6126 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6126 0641 6127 0641 6125",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 8 mg 1 ml ndc 0641 6126 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6126 25 morphine sulfate analgesia addiction 0641 6126 0641 6127 0641 6125",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53297,12 +53249,8 @@
       "routes": [
         "INTRAVENOUS"
       ],
-      "rxcuis": [
-        "1731993",
-        "1732006",
-        "1732011"
-      ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 10 mg 1 ml ndc 0641 6127 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6127 25 morphine sulfate 1731993 1732006 1732011 analgesia addiction 0641 6127 0641 6126 0641 6125",
+      "rxcuis": [],
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 10 mg 1 ml ndc 0641 6127 25 hikma pharmaceuticals usa inc additional lots are scheduled to be manufactured product will be made available as it is released 0641 6127 25 morphine sulfate analgesia addiction 0641 6127 0641 6126 0641 6125",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53805,7 +53753,7 @@
       "therapeutic_categories": [
         "Antiviral"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -53847,7 +53795,7 @@
       "therapeutic_categories": [
         "Antiviral"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -54032,8 +53980,8 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-07-13",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -56787,7 +56735,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -56825,7 +56773,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -56863,7 +56811,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -56901,7 +56849,7 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -57305,7 +57253,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-23",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -57345,7 +57293,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-06-23",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -57384,7 +57332,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -57423,7 +57371,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -62453,7 +62401,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -62498,7 +62446,7 @@
       "therapeutic_categories": [
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -62543,7 +62491,7 @@
       "therapeutic_categories": [
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -62591,7 +62539,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-15",
       "update_type": "Reverified"
     },
     {
@@ -63198,7 +63146,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -63717,7 +63665,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-08-04",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -63847,8 +63795,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -63893,7 +63841,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
+      "update_date": "2026-08-17",
       "update_type": "Reverified"
     },
     {
@@ -63939,8 +63887,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-07",
-      "update_type": "Revised"
+      "update_date": "2026-08-17",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [],
@@ -69515,271 +69463,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CELECOXIB"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "e371c2cfc3ead9da",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3982-60",
-      "package_ndcs": [
-        "0591-3982-60",
-        "0591-3983-01",
-        "0591-3983-05",
-        "0591-3984-01",
-        "0591-3984-05",
-        "0591-3985-60"
-      ],
-      "presentation": "Celecoxib, Capsule, 50 mg (NDC 0591-3982-60)",
-      "product_ndcs": [
-        "0591-3982",
-        "0591-3983",
-        "0591-3984",
-        "0591-3985"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "205322",
-        "205323",
-        "349514",
-        "686379"
-      ],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 50 mg ndc 0591 3982 60 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3982 60 celecoxib 205322 205323 349514 686379 analgesia addiction 0591 3982 0591 3983 0591 3984 0591 3985",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CELECOXIB"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CELECOXIB"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "f379fc2b2ba4844f",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3983-01",
-      "package_ndcs": [
-        "0591-3982-60",
-        "0591-3983-01",
-        "0591-3983-05",
-        "0591-3984-01",
-        "0591-3984-05",
-        "0591-3985-60"
-      ],
-      "presentation": "Celecoxib, Capsule, 100 mg (NDC 0591-3983-01)",
-      "product_ndcs": [
-        "0591-3983",
-        "0591-3982",
-        "0591-3984",
-        "0591-3985"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "205322",
-        "205323",
-        "349514",
-        "686379"
-      ],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 100 mg ndc 0591 3983 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3983 01 celecoxib 205322 205323 349514 686379 analgesia addiction 0591 3983 0591 3982 0591 3984 0591 3985",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CELECOXIB"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CELECOXIB"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "d7cc2e709428ddec",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3983-05",
-      "package_ndcs": [
-        "0591-3982-60",
-        "0591-3983-01",
-        "0591-3983-05",
-        "0591-3984-01",
-        "0591-3984-05",
-        "0591-3985-60"
-      ],
-      "presentation": "Celecoxib, Capsule, 100 mg (NDC 0591-3983-05)",
-      "product_ndcs": [
-        "0591-3983",
-        "0591-3982",
-        "0591-3984",
-        "0591-3985"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "205322",
-        "205323",
-        "349514",
-        "686379"
-      ],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 100 mg ndc 0591 3983 05 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3983 05 celecoxib 205322 205323 349514 686379 analgesia addiction 0591 3983 0591 3982 0591 3984 0591 3985",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CELECOXIB"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CELECOXIB"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "d2a114d533ba276d",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3984-01",
-      "package_ndcs": [
-        "0591-3982-60",
-        "0591-3983-01",
-        "0591-3983-05",
-        "0591-3984-01",
-        "0591-3984-05",
-        "0591-3985-60"
-      ],
-      "presentation": "Celecoxib, Capsule, 200 mg (NDC 0591-3984-01)",
-      "product_ndcs": [
-        "0591-3984",
-        "0591-3982",
-        "0591-3983",
-        "0591-3985"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "205322",
-        "205323",
-        "349514",
-        "686379"
-      ],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 200 mg ndc 0591 3984 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3984 01 celecoxib 205322 205323 349514 686379 analgesia addiction 0591 3984 0591 3982 0591 3983 0591 3985",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CELECOXIB"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CELECOXIB"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "0fd31fb42c006aee",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3984-05",
-      "package_ndcs": [
-        "0591-3982-60",
-        "0591-3983-01",
-        "0591-3983-05",
-        "0591-3984-01",
-        "0591-3984-05",
-        "0591-3985-60"
-      ],
-      "presentation": "Celecoxib, Capsule, 200 mg (NDC 0591-3984-05)",
-      "product_ndcs": [
-        "0591-3984",
-        "0591-3982",
-        "0591-3983",
-        "0591-3985"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "205322",
-        "205323",
-        "349514",
-        "686379"
-      ],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 200 mg ndc 0591 3984 05 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3984 05 celecoxib 205322 205323 349514 686379 analgesia addiction 0591 3984 0591 3982 0591 3983 0591 3985",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CELECOXIB"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-08-15",
-      "dosage_form": "Capsule",
-      "generic_name": "Celecoxib Capsule",
-      "id": "10ae4b8490cfab6a",
-      "initial_posting_date": "2025-08-15",
-      "package_ndc": "0591-3985-60",
-      "package_ndcs": [],
-      "presentation": "Celecoxib, Capsule, 400 mg (NDC 0591-3985-60)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "celecoxib capsule to be discontinued capsule celecoxib capsule 400 mg ndc 0591 3985 60 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 3985 60 analgesia addiction",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2025-08-15",
-      "update_type": "New"
-    },
-    {
       "brand_names": [],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2025-11-13",
@@ -73934,51 +73617,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -74017,6 +73655,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "32b433e925aa33b2",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -84659,7 +84342,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-17",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -84668,8 +84351,8 @@
     "status_counts": {
       "Current": 1177,
       "Resolved": 10,
-      "To Be Discontinued": 450
+      "To Be Discontinued": 444
     },
-    "total_records": 1637
+    "total_records": 1631
   }
 }
