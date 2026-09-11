@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:36:07+00:00",
+  "generated_at": "2026-09-11T13:34:24+00:00",
   "records": [
     {
       "brand_names": [
@@ -55,7 +55,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -110,7 +110,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -165,7 +165,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -7413,96 +7413,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "c5d6d8de6b0e7525",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1159-10",
-      "package_ndcs": [
-        "0409-1159-09",
-        "0409-1159-10",
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 0.25%; 75 mg/30 mL (2.5 mg/mL) (NDC 0409-1159-10)",
-      "product_ndcs": [
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "EPIDURAL",
-        "INFILTRATION",
-        "INTRACAUDAL",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1725078",
-        "1725082",
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 0 25 75 mg 30 ml 2 5 mg ml ndc 0409 1159 10 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 1159 10 bupivacaine hydrochloride 1725078 1725082 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1867594 1867596 anesthesia 0409 1159 0409 1160 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -8307,7 +8217,7 @@
       "product_ndcs": [
         "0409-1761"
       ],
-      "related_info": "Next Delivery: October 2026; Estimated Recovery: December 2026",
+      "related_info": "Next Delivery: October 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "SUBARACHNOID"
       ],
@@ -8315,7 +8225,7 @@
         "1724784",
         "1724792"
       ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection 0 75 15 mg 2 ml 7 5 mg ml in dextrose 8 25 ndc 0409 1761 10 hospira inc a pfizer company next delivery october 2026 estimated recovery december 2026 0409 1761 10 marcaine spinal 1724784 1724792 anesthesia 0409 1761",
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection 0 75 15 mg 2 ml 7 5 mg ml in dextrose 8 25 ndc 0409 1761 10 hospira inc a pfizer company next delivery october 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 1761 10 marcaine spinal 1724784 1724792 anesthesia 0409 1761",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8324,7 +8234,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-31",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -8629,14 +8539,14 @@
       "product_ndcs": [
         "0409-3613"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: August 2026; Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Limited Supply Available. Next Delivery and Estimated Recovery: September 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "SUBARACHNOID"
       ],
       "rxcuis": [
         "1724784"
       ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection bupivacaine spinal 15 mg 2 ml 7 5 mg ml in 8 25 dextrose ndc 0409 3613 01 hospira inc a pfizer company limited supply available next delivery august 2026 estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 3613 01 bupivacaine spinal 1724784 anesthesia 0409 3613",
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection bupivacaine spinal 15 mg 2 ml 7 5 mg ml in 8 25 dextrose ndc 0409 3613 01 hospira inc a pfizer company limited supply available next delivery and estimated recovery september 2026 shortage per manufacturer manufacturing delay 0409 3613 01 bupivacaine spinal 1724784 anesthesia 0409 3613",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -8645,7 +8555,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -11680,7 +11590,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -11769,7 +11679,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -11856,7 +11766,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -11944,7 +11854,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -12032,7 +11942,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -12118,7 +12028,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -21078,7 +20988,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21129,7 +21039,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21180,7 +21090,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21780,7 +21690,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21824,7 +21734,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21875,7 +21785,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21926,7 +21836,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -21977,7 +21887,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -24007,7 +23917,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -24403,7 +24313,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -24956,7 +24866,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25138,7 +25048,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25216,7 +25126,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25294,7 +25204,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25348,7 +25258,7 @@
         "0409-0007",
         "0409-0147"
       ],
-      "related_info": "Next Delivery: November 2026; Estimated Recovery: June 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: November 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -25361,7 +25271,7 @@
         "1867996",
         "1867998"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection lidocaine hydrochloride and epinephrine injection 300 mg 30 ml 1 1 100 000 ndc 0409 3178 02 hospira inc a pfizer company next delivery november 2026 estimated recovery june 2027 shortage per manufacturer manufacturing delay 0409 3178 02 lidocaine hydrochloride and epinephrine 1010688 1010745 1010751 1010759 1867996 1867998 anesthesia pediatric 0409 3178 0409 1209 0409 3177 0409 3181 0409 3182 0409 3183 0409 0007 0409 0147",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection lidocaine hydrochloride and epinephrine injection 300 mg 30 ml 1 1 100 000 ndc 0409 3178 02 hospira inc a pfizer company next delivery november 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 0409 3178 02 lidocaine hydrochloride and epinephrine 1010688 1010745 1010751 1010759 1867996 1867998 anesthesia pediatric 0409 3178 0409 1209 0409 3177 0409 3181 0409 3182 0409 3183 0409 0007 0409 0147",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -25372,7 +25282,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25608,7 +25518,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25686,7 +25596,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -25740,7 +25650,7 @@
         "0409-0007",
         "0409-0147"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: April 2027; Estimated Recovery: June 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Limited Supply Available. Next Delivery: May 2027; Estimated Recovery: June 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -25753,7 +25663,7 @@
         "1867996",
         "1867998"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection lidocaine hydrochloride and epinephrine injection 1 g 50 ml 2 1 100 000 ndc 0409 3182 03 hospira inc a pfizer company limited supply available next delivery april 2027 estimated recovery june 2027 shortage per manufacturer manufacturing delay 0409 3182 03 lidocaine hydrochloride and epinephrine 1010688 1010745 1010751 1010759 1867996 1867998 anesthesia pediatric 0409 3182 0409 1209 0409 3177 0409 3178 0409 3181 0409 3183 0409 0007 0409 0147",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection lidocaine hydrochloride and epinephrine injection 1 g 50 ml 2 1 100 000 ndc 0409 3182 03 hospira inc a pfizer company limited supply available next delivery may 2027 estimated recovery june 2027 shortage per manufacturer manufacturing delay 0409 3182 03 lidocaine hydrochloride and epinephrine 1010688 1010745 1010751 1010759 1867996 1867998 anesthesia pediatric 0409 3182 0409 1209 0409 3177 0409 3178 0409 3181 0409 3183 0409 0007 0409 0147",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -25764,7 +25674,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -33666,49 +33576,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -33756,18 +33623,18 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "b401d47954f60913",
+      "id": "1dc3a32cba02875c",
       "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-01",
+      "package_ndc": "25021-700-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
       "product_ndcs": [
-        "25021-701",
-        "25021-700"
+        "25021-700",
+        "25021-701"
       ],
       "related_info": "",
       "routes": [
@@ -33779,7 +33646,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33832,6 +33699,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-08-18",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "b401d47954f60913",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-701-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-07-22",
       "update_type": "Reverified"
     },
     {
@@ -34716,7 +34626,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -34759,7 +34669,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -34802,7 +34712,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -35056,7 +34966,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -47222,56 +47132,6 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Meperidine Hydrochloride Injection",
-      "id": "fafc88056dd34178",
-      "initial_posting_date": "2025-05-30",
-      "package_ndc": "0409-1179-30",
-      "package_ndcs": [],
-      "presentation": "Demerol, Injection, 75 mg/1 mL (NDC 0409-1179-30)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "meperidine hydrochloride injection current injection demerol injection 75 mg 1 ml ndc 0409 1179 30 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 1179 30 analgesia addiction",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Meperidine Hydrochloride Injection",
-      "id": "915ab1987a892ff7",
-      "initial_posting_date": "2025-05-30",
-      "package_ndc": "0409-1180-69",
-      "package_ndcs": [],
-      "presentation": "Demerol, Injection, 100 mg/1 mL (NDC 0409-1180-69)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "meperidine hydrochloride injection current injection demerol injection 100 mg 1 ml ndc 0409 1180 69 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 1180 69 analgesia addiction",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
       "brand_names": [
         "DEMEROL"
       ],
@@ -52672,31 +52532,6 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Morphine Sulfate Injection",
-      "id": "95c2c8c8c9073350",
-      "initial_posting_date": "2017-10-31",
-      "package_ndc": "0409-1134-05",
-      "package_ndcs": [],
-      "presentation": "Morphine Sulfate, Injection, 50 mg/1 mL (NDC 0409-1134-05)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 50 mg 1 ml ndc 0409 1134 05 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 1134 05 analgesia addiction",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
       "brand_names": [
         "MORPHINE SULFATE"
       ],
@@ -52879,31 +52714,6 @@
       "substances": [
         "MORPHINE SULFATE"
       ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Morphine Sulfate Injection",
-      "id": "0b4a18d58019848a",
-      "initial_posting_date": "2017-10-31",
-      "package_ndc": "0409-1892-01",
-      "package_ndcs": [],
-      "presentation": "Morphine Sulfate, Injection, 8 mg/1 mL Syringes (NDC 0409-1892-01)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 8 mg 1 ml syringes ndc 0409 1892 01 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 1892 01 analgesia addiction",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -53711,6 +53521,8 @@
       "initial_posting_date": "2017-10-31",
       "package_ndc": "76045-004-11",
       "package_ndcs": [
+        "76045-238-01",
+        "76045-238-10",
         "76045-004-01",
         "76045-004-11",
         "76045-005-01",
@@ -53725,6 +53537,7 @@
       "presentation": "Morphine Sulfate, Injection, 2 mg/1 mL (NDC 76045-004-11)",
       "product_ndcs": [
         "76045-004",
+        "76045-238",
         "76045-005",
         "76045-006",
         "76045-007",
@@ -53742,7 +53555,7 @@
         "998213",
         "1442790"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 76045 004 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 004 11 morphine sulfate 894912 894914 998212 998213 1442790 analgesia addiction 76045 004 76045 005 76045 006 76045 007 76045 008",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 76045 004 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 004 11 morphine sulfate 894912 894914 998212 998213 1442790 analgesia addiction 76045 004 76045 238 76045 005 76045 006 76045 007 76045 008",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53766,6 +53579,8 @@
       "initial_posting_date": "2017-10-31",
       "package_ndc": "76045-005-11",
       "package_ndcs": [
+        "76045-238-01",
+        "76045-238-10",
         "76045-004-01",
         "76045-004-11",
         "76045-005-01",
@@ -53780,6 +53595,7 @@
       "presentation": "Morphine Sulfate, Injection, 4 mg/1 mL (NDC 76045-005-11)",
       "product_ndcs": [
         "76045-005",
+        "76045-238",
         "76045-004",
         "76045-006",
         "76045-007",
@@ -53797,7 +53613,7 @@
         "998213",
         "1442790"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 76045 005 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 005 11 morphine sulfate 894912 894914 998212 998213 1442790 analgesia addiction 76045 005 76045 004 76045 006 76045 007 76045 008",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 76045 005 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 005 11 morphine sulfate 894912 894914 998212 998213 1442790 analgesia addiction 76045 005 76045 238 76045 004 76045 006 76045 007 76045 008",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53891,7 +53707,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-08",
       "update_type": "Revised"
     },
     {
@@ -53940,7 +53756,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-08",
       "update_type": "Revised"
     },
     {
@@ -53989,7 +53805,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-24",
+      "update_date": "2026-09-08",
       "update_type": "Revised"
     },
     {
@@ -62458,33 +62274,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Sodium Bicarbonate Injection",
-      "id": "9cfefe42d8b586de",
-      "initial_posting_date": "2017-03-01",
-      "package_ndc": "0409-4900-14",
-      "package_ndcs": [],
-      "presentation": "Sodium Bicarbonate, Injection, 10 mEq/10 mL (8.4%, 1 mEq/mL) Syringes (NDC 0409-4900-14)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "sodium bicarbonate injection current injection sodium bicarbonate injection 10 meq 10 ml 8 4 1 meq ml syringes ndc 0409 4900 14 hospira inc a pfizer company discontinuation of the manufacture of the drug 0409 4900 14 endocrinology metabolism gastroenterology pediatric",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology",
-        "Pediatric"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Sodium Bicarbonate Injection",
       "id": "31d2ef6b0f55dccd",
       "initial_posting_date": "2017-03-01",
       "package_ndc": "0409-4916-14",
@@ -63617,7 +63406,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -63659,7 +63448,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-08-21",
+      "update_date": "2026-09-09",
       "update_type": "Reverified"
     },
     {
@@ -70838,6 +70627,55 @@
         "Pediatric"
       ],
       "update_date": "2025-11-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DELFLEX"
+      ],
+      "company_name": "Fresenius Medical Care North America",
+      "discontinued_date": "2026-09-10",
+      "dosage_form": "Solution",
+      "generic_name": "Dextrose Monohydrate, Sodium Chloride, Sodium Lactate, Calcium Chloride, Magnesium Chloride Solution",
+      "id": "75e0c78582bcc1a1",
+      "initial_posting_date": "2026-09-10",
+      "package_ndc": "46163-212-95",
+      "package_ndcs": [
+        "46163-209-92",
+        "46163-209-94",
+        "46163-209-95",
+        "46163-212-95",
+        "46163-212-92",
+        "46163-212-94",
+        "46163-206-92",
+        "46163-206-94",
+        "46163-206-95"
+      ],
+      "presentation": "DELFLEX, Solution, 18.4 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 46163-212-95)",
+      "product_ndcs": [
+        "46163-212",
+        "46163-209",
+        "46163-206"
+      ],
+      "related_info": "A business decision was made to discontinue manufacture of the drug.",
+      "routes": [
+        "INTRAPERITONEAL"
+      ],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate sodium chloride sodium lactate calcium chloride magnesium chloride solution to be discontinued solution delflex solution 18 4 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 46163 212 95 fresenius medical care north america a business decision was made to discontinue manufacture of the drug 46163 212 95 delflex renal 46163 212 46163 209 46163 206",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DEXTROSE MONOHYDRATE",
+        "SODIUM CHLORIDE",
+        "SODIUM LACTATE",
+        "CALCIUM CHLORIDE",
+        "MAGNESIUM CHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Renal"
+      ],
+      "update_date": "2026-09-10",
       "update_type": "New"
     },
     {
@@ -84169,17 +84007,17 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-09-10",
+    "last_updated": "2026-09-11",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
   },
   "summary": {
     "status_counts": {
-      "Current": 1166,
+      "Current": 1160,
       "Resolved": 7,
-      "To Be Discontinued": 446
+      "To Be Discontinued": 447
     },
-    "total_records": 1619
+    "total_records": 1614
   }
 }
