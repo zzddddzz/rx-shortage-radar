@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:36:06+00:00",
+  "generated_at": "2026-09-19T13:10:09+00:00",
   "records": [
     {
       "brand_names": [
@@ -7326,92 +7326,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "3fc6a9a9d2d6a923",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-09-09",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "234ec8f5c0c5772f",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7479,6 +7393,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-09-09",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "3fc6a9a9d2d6a923",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33957,49 +33957,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -34038,6 +33995,49 @@
       ],
       "update_date": "2026-08-18",
       "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "1dc3a32cba02875c",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [
+        "25021-700",
+        "25021-701"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-07-22",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -51167,7 +51167,7 @@
         "0409-2305",
         "0409-2308"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: December 2026",
+      "related_info": "Next Estimated Delivery and Estimated Recovery: December 2026",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51178,7 +51178,7 @@
         "1666814",
         "1666823"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 0001 25 hospira inc a pfizer company next delivery and estimated recovery december 2026 0409 0001 25 midazolam 1666798 1666800 1666814 1666823 anesthesia neurology 0409 0001 0409 2305 0409 2308",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 0001 25 hospira inc a pfizer company next estimated delivery and estimated recovery december 2026 0409 0001 25 midazolam 1666798 1666800 1666814 1666823 anesthesia neurology 0409 0001 0409 2305 0409 2308",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51188,7 +51188,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-09-09",
       "update_type": "Revised"
     },
     {
@@ -51220,7 +51220,7 @@
         "0409-2305",
         "0409-2308"
       ],
-      "related_info": "Next Estimated Delivery and Estimated Recovery: December 2026",
+      "related_info": "Next Delivery and Estimated Recovery: December 2026",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51231,7 +51231,7 @@
         "1666814",
         "1666823"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 0001 25 hospira inc a pfizer company next estimated delivery and estimated recovery december 2026 0409 0001 25 midazolam 1666798 1666800 1666814 1666823 anesthesia neurology 0409 0001 0409 2305 0409 2308",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2ml 1 mg ml ndc 0409 0001 25 hospira inc a pfizer company next delivery and estimated recovery december 2026 0409 0001 25 midazolam 1666798 1666800 1666814 1666823 anesthesia neurology 0409 0001 0409 2305 0409 2308",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51241,7 +51241,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-09-09",
+      "update_date": "2026-09-11",
       "update_type": "Revised"
     },
     {
@@ -70368,90 +70368,6 @@
     },
     {
       "brand_names": [
-        "DESONIDE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Lotion",
-      "generic_name": "Desonide Lotion",
-      "id": "99bc7878a8f3935f",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0472-0803-02",
-      "package_ndcs": [
-        "0472-0804-15",
-        "0472-0804-60",
-        "0472-0803-02",
-        "0472-0803-04"
-      ],
-      "presentation": "Desowen, Lotion, .5 mg/1 mL (NDC 0472-0803-02)",
-      "product_ndcs": [
-        "0472-0803",
-        "0472-0804"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "TOPICAL"
-      ],
-      "rxcuis": [
-        "197572",
-        "349351"
-      ],
-      "search_text": "desonide lotion to be discontinued lotion desowen lotion 5 mg 1 ml ndc 0472 0803 02 actavis pharma inc discontinuation of the manufacture of the drug 0472 0803 02 desonide 197572 349351 dermatology 0472 0803 0472 0804",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESONIDE"
-      ],
-      "therapeutic_categories": [
-        "Dermatology"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "DESONIDE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Lotion",
-      "generic_name": "Desonide Lotion",
-      "id": "c13968541b8c5790",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0472-0803-04",
-      "package_ndcs": [
-        "0472-0804-15",
-        "0472-0804-60",
-        "0472-0803-02",
-        "0472-0803-04"
-      ],
-      "presentation": "Desowen, Lotion, .5 mg/1 mL (NDC 0472-0803-04)",
-      "product_ndcs": [
-        "0472-0803",
-        "0472-0804"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "TOPICAL"
-      ],
-      "rxcuis": [
-        "197572",
-        "349351"
-      ],
-      "search_text": "desonide lotion to be discontinued lotion desowen lotion 5 mg 1 ml ndc 0472 0803 04 actavis pharma inc discontinuation of the manufacture of the drug 0472 0803 04 desonide 197572 349351 dermatology 0472 0803 0472 0804",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "DESONIDE"
-      ],
-      "therapeutic_categories": [
-        "Dermatology"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "DEXMEDETOMIDINE"
       ],
       "company_name": "Accord Healthcare Inc.",
@@ -71999,194 +71915,6 @@
     },
     {
       "brand_names": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Tablet",
-      "generic_name": "Fluphenazine Hydrochloride Tablet",
-      "id": "afb8891c49e56293",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0832-6003-11",
-      "package_ndcs": [
-        "0832-6004-11",
-        "0832-6003-11",
-        "0832-6005-11",
-        "0832-6006-11"
-      ],
-      "presentation": "Fluphenazine Hydrochloride, Tablet, 1 mg (NDC 0832-6003-11)",
-      "product_ndcs": [
-        "0832-6003",
-        "0832-6004",
-        "0832-6005",
-        "0832-6006"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "859841",
-        "860918",
-        "865117",
-        "865123"
-      ],
-      "search_text": "fluphenazine hydrochloride tablet to be discontinued tablet fluphenazine hydrochloride tablet 1 mg ndc 0832 6003 11 upsher smith laboratories llc discontinuation of the manufacture of the drug 0832 6003 11 fluphenazine hydrochloride 859841 860918 865117 865123 neurology psychiatry 0832 6003 0832 6004 0832 6005 0832 6006",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology",
-        "Psychiatry"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Tablet",
-      "generic_name": "Fluphenazine Hydrochloride Tablet",
-      "id": "4203327636688f6e",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0832-6004-11",
-      "package_ndcs": [
-        "0832-6004-11",
-        "0832-6003-11",
-        "0832-6005-11",
-        "0832-6006-11"
-      ],
-      "presentation": "Fluphenazine Hydrochloride, Tablet, 2.5 mg (NDC 0832-6004-11)",
-      "product_ndcs": [
-        "0832-6004",
-        "0832-6003",
-        "0832-6005",
-        "0832-6006"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "859841",
-        "860918",
-        "865117",
-        "865123"
-      ],
-      "search_text": "fluphenazine hydrochloride tablet to be discontinued tablet fluphenazine hydrochloride tablet 2 5 mg ndc 0832 6004 11 upsher smith laboratories llc discontinuation of the manufacture of the drug 0832 6004 11 fluphenazine hydrochloride 859841 860918 865117 865123 neurology psychiatry 0832 6004 0832 6003 0832 6005 0832 6006",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology",
-        "Psychiatry"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Tablet",
-      "generic_name": "Fluphenazine Hydrochloride Tablet",
-      "id": "237e444383924e95",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0832-6005-11",
-      "package_ndcs": [
-        "0832-6004-11",
-        "0832-6003-11",
-        "0832-6005-11",
-        "0832-6006-11"
-      ],
-      "presentation": "Fluphenazine Hydrochloride, Tablet, 5 mg (NDC 0832-6005-11)",
-      "product_ndcs": [
-        "0832-6005",
-        "0832-6004",
-        "0832-6003",
-        "0832-6006"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "859841",
-        "860918",
-        "865117",
-        "865123"
-      ],
-      "search_text": "fluphenazine hydrochloride tablet to be discontinued tablet fluphenazine hydrochloride tablet 5 mg ndc 0832 6005 11 upsher smith laboratories llc discontinuation of the manufacture of the drug 0832 6005 11 fluphenazine hydrochloride 859841 860918 865117 865123 neurology psychiatry 0832 6005 0832 6004 0832 6003 0832 6006",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology",
-        "Psychiatry"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "company_name": "Upsher-Smith Laboratories, LLC",
-      "discontinued_date": "2025-09-18",
-      "dosage_form": "Tablet",
-      "generic_name": "Fluphenazine Hydrochloride Tablet",
-      "id": "420b0d7c56bf78f9",
-      "initial_posting_date": "2025-09-18",
-      "package_ndc": "0832-6006-11",
-      "package_ndcs": [
-        "0832-6004-11",
-        "0832-6003-11",
-        "0832-6005-11",
-        "0832-6006-11"
-      ],
-      "presentation": "Fluphenazine Hydrochloride, Tablet, 10 mg (NDC 0832-6006-11)",
-      "product_ndcs": [
-        "0832-6006",
-        "0832-6004",
-        "0832-6003",
-        "0832-6005"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "859841",
-        "860918",
-        "865117",
-        "865123"
-      ],
-      "search_text": "fluphenazine hydrochloride tablet to be discontinued tablet fluphenazine hydrochloride tablet 10 mg ndc 0832 6006 11 upsher smith laboratories llc discontinuation of the manufacture of the drug 0832 6006 11 fluphenazine hydrochloride 859841 860918 865117 865123 neurology psychiatry 0832 6006 0832 6004 0832 6003 0832 6005",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "FLUPHENAZINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Neurology",
-        "Psychiatry"
-      ],
-      "update_date": "2025-09-18",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "ADVAIR HFA"
       ],
       "company_name": "GlaxoSmithKline",
@@ -73108,51 +72836,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "e973040d79b16682",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -73201,9 +72884,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
+      "id": "e973040d79b16682",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
+      "package_ndc": "65219-080-05",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -73214,10 +72897,10 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
       "product_ndcs": [
-        "65219-082",
         "65219-080",
+        "65219-082",
         "65219-084",
         "65219-086"
       ],
@@ -73226,7 +72909,7 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -73291,9 +72974,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "d9f7c2f5b4111faf",
+      "id": "32b433e925aa33b2",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-084-15",
+      "package_ndc": "65219-082-10",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -73304,11 +72987,11 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
       "product_ndcs": [
-        "65219-084",
-        "65219-080",
         "65219-082",
+        "65219-080",
+        "65219-084",
         "65219-086"
       ],
       "related_info": "Discontinuation of the manufacture of the drug",
@@ -73316,7 +72999,7 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -73371,6 +73054,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "d9f7c2f5b4111faf",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-084-15",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "product_ndcs": [
+        "65219-084",
+        "65219-080",
+        "65219-082",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -82175,6 +81903,52 @@
     },
     {
       "brand_names": [
+        "RIVASTIGMINE"
+      ],
+      "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
+      "discontinued_date": "2026-09-18",
+      "dosage_form": "Film, Extended Release",
+      "generic_name": "Rivastigmine Film, Extended Release",
+      "id": "a354050068f66451",
+      "initial_posting_date": "2026-09-18",
+      "package_ndc": "0378-9070-93",
+      "package_ndcs": [
+        "0378-9070-16",
+        "0378-9070-93",
+        "0378-9071-16",
+        "0378-9071-93",
+        "0378-9072-16",
+        "0378-9072-93"
+      ],
+      "presentation": "Rivastigmine, Film, Extended Release, 4.6 mg/24 h (NDC 0378-9070-93)",
+      "product_ndcs": [
+        "0378-9070",
+        "0378-9071",
+        "0378-9072"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug.",
+      "routes": [
+        "TRANSDERMAL"
+      ],
+      "rxcuis": [
+        "725021",
+        "725023",
+        "1308569"
+      ],
+      "search_text": "rivastigmine film extended release to be discontinued film extended release rivastigmine film extended release 4 6 mg 24 h ndc 0378 9070 93 mylan pharmaceuticals inc a viatris company discontinuation of the manufacture of the drug 0378 9070 93 rivastigmine 725021 725023 1308569 neurology 0378 9070 0378 9071 0378 9072",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "RIVASTIGMINE"
+      ],
+      "therapeutic_categories": [
+        "Neurology"
+      ],
+      "update_date": "2026-09-18",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "SCOPOLAMINE TRANSDERMAL SYSTEM"
       ],
       "company_name": "Padagis US LLC",
@@ -83908,8 +83682,8 @@
     "status_counts": {
       "Current": 1153,
       "Resolved": 7,
-      "To Be Discontinued": 448
+      "To Be Discontinued": 443
     },
-    "total_records": 1608
+    "total_records": 1603
   }
 }
