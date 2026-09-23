@@ -5,8 +5,30 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status To Be Discontinued from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:14:25 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Arsenic Trioxide Injection (63323-637-10)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=63323-637-10</link>
+      <guid isPermaLink="false">b4975ac24c5a6b9b</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Arsenic Trioxide, Injection, 1 mg/1 mL (NDC 63323-637-10)
+Status: To Be Discontinued
+Updated: 2026-09-21
+Company: Fresenius Kabi USA, LLC
+Discontinuation of the manufacture of the drug</description>
+    </item>
+    <item>
+      <title>To Be Discontinued: Rivaroxaban For Suspension (50458-575-01)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=50458-575-01</link>
+      <guid isPermaLink="false">dec553cc80413b24</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Xarelto, For Suspension, 155 mg (NDC 50458-575-01)
+Status: To Be Discontinued
+Updated: 2026-09-18
+Company: Janssen Pharmaceuticals
+Business Decision</description>
+    </item>
     <item>
       <title>To Be Discontinued: Rivastigmine Film, Extended Release (0378-9070-93)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0378-9070-93</link>
@@ -1084,28 +1106,6 @@ Status: To Be Discontinued
 Updated: 2026-06-30
 Company: Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)
 Discontinuation of the manufacture of the drug</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Gadobutrol Injection (65219-281-02)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=65219-281-02</link>
-      <guid isPermaLink="false">c444f3a5c9d98627</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-02)
-Status: To Be Discontinued
-Updated: 2026-06-30
-Company: Jiangsu Hengrui Pharmaceuticals Co., Ltd.
-Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Gadobutrol Injection (65219-281-07)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=65219-281-07</link>
-      <guid isPermaLink="false">f1b801147dc9feff</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Gadobutrol, Injection, 604.72 mg/mL (NDC 65219-281-07)
-Status: To Be Discontinued
-Updated: 2026-06-30
-Company: Jiangsu Hengrui Pharmaceuticals Co., Ltd.
-Discontinuance of single dose vials, the other two Imaging Bulk Package(IBP) strengths are to remain in supply: the IBP strengths (18.1416 g/30 mL and 39.3068 g/65 mL); Marketed by Fresenius Kabi, USA</description>
     </item>
   </channel>
 </rss>
