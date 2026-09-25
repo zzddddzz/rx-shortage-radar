@@ -5,7 +5,7 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status Current from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:36:18 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
     <item>
       <title>Current: Amino Acid Injection (0264-1933-10)</title>
@@ -81,9 +81,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
+      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -91,9 +91,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1160-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1160-01</link>
-      <guid isPermaLink="false">234ec8f5c0c5772f</guid>
+      <guid isPermaLink="false">3fc6a9a9d2d6a923</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
+      <description>Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)
 Status: Current
 Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -131,9 +131,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">efbc78b31dd9b430</guid>
+      <guid isPermaLink="false">ac58831c6b843752</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
+      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -141,9 +141,9 @@ Company: Hospira, Inc., a Pfizer Company</description>
     <item>
       <title>Current: Bupivacaine Hydrochloride Injection (0409-1165-01)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1165-01</link>
-      <guid isPermaLink="false">ac58831c6b843752</guid>
+      <guid isPermaLink="false">efbc78b31dd9b430</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)
+      <description>Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)
 Status: Current
 Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
@@ -759,6 +759,28 @@ Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
     </item>
     <item>
+      <title>Current: Heparin Sodium Injection (0264-9872-00)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0264-9872-00</link>
+      <guid isPermaLink="false">6a686542f01a4930</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Heparin Sodium 2,000 Units in Sodium Chloride 0.9% in Plastic Container, Injection, 200 [USP'U]/100 mL (NDC 0264-9872-00)
+Status: Current
+Updated: 2026-09-22
+Company: B. Braun Medical Inc.
+Estimated recovery: late Q4 2026; Manufacturing delays</description>
+    </item>
+    <item>
+      <title>Current: Heparin Sodium Injection (0264-9872-10)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0264-9872-10</link>
+      <guid isPermaLink="false">1dd63fed85110652</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Heparin Sodium 1,000 Units In Sodium Chloride 0.9% In Plastic Container, Injection, 200 [USP'U]/100 mL (NDC 0264-9872-10)
+Status: Current
+Updated: 2026-09-22
+Company: B. Braun Medical Inc.
+Estimated recovery: late Q4 2026; Manufacturing delays</description>
+    </item>
+    <item>
       <title>Current: Heparin Sodium Injection (0409-1005-20)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1005-20</link>
       <guid isPermaLink="false">4b26311a32812eeb</guid>
@@ -1007,26 +1029,6 @@ Company: Hospira, Inc., a Pfizer Company</description>
       <guid isPermaLink="false">98fbbf329799d7e4</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <description>Lidocaine Hydrochloride, Injection, 200 mg/10 mL (2%; 20 mg/mL) (NDC 0409-4282-02)
-Status: Current
-Updated: 2026-09-22
-Company: Hospira, Inc., a Pfizer Company</description>
-    </item>
-    <item>
-      <title>Current: Lidocaine Hydrochloride Injection (0409-4283-01)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-4283-01</link>
-      <guid isPermaLink="false">3e42c9bfeec3048e</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Lidocaine Hydrochloride Preservative Free, Injection, 200 mg/5 mL (4%; 40 mg/mL) (NDC 0409-4283-01)
-Status: Current
-Updated: 2026-09-22
-Company: Hospira, Inc., a Pfizer Company</description>
-    </item>
-    <item>
-      <title>Current: Lidocaine Hydrochloride Injection (0409-4713-02)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-4713-02</link>
-      <guid isPermaLink="false">57e3028edd8869c0</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Lidocaine Hydrochloride Preservative Free, Injection, 50 mg/5 mL (1%; 10 mg/mL) (NDC 0409-4713-02)
 Status: Current
 Updated: 2026-09-22
 Company: Hospira, Inc., a Pfizer Company</description>
