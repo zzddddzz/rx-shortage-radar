@@ -5,8 +5,19 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status To Be Discontinued from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 15:51:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:55:10 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Ivermectin Tablet (0006-0032-01)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0006-0032-01</link>
+      <guid isPermaLink="false">98f05605758856b2</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <description>STROMECTOL, Tablet, 3 mg (NDC 0006-0032-01)
+Status: To Be Discontinued
+Updated: 2026-09-29
+Company: Merck Sharp &amp; Dohme LLC
+Product will be discontinued on 10/31/2026</description>
+    </item>
     <item>
       <title>To Be Discontinued: Arsenic Trioxide Injection (63323-637-10)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=63323-637-10</link>
@@ -1095,17 +1106,6 @@ Status: To Be Discontinued
 Updated: 2026-06-30
 Company: Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)
 Discontinuation of the manufacture of the drug; Marketed by Hikma Pharmaceuticals USA, Inc.</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Daptomycin Injection (57884-3151-1)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=57884-3151-1</link>
-      <guid isPermaLink="false">bc863c6182858a24</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Daptomycin, Injection, 500 mg/10 mL (NDC 57884-3151-1)
-Status: To Be Discontinued
-Updated: 2026-06-30
-Company: Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)
-Discontinuation of the manufacture of the drug</description>
     </item>
   </channel>
 </rss>
