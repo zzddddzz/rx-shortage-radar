@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:28:39+00:00",
+  "generated_at": "2026-10-08T16:28:34+00:00",
   "records": [
     {
       "brand_names": [
@@ -6552,92 +6552,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "234ec8f5c0c5772f",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-09-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -6705,6 +6619,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-09-22",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "234ec8f5c0c5772f",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -41510,79 +41510,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated Recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-09-18",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41637,6 +41564,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-09-18",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated Recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -68452,48 +68452,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "TYBOST"
-      ],
-      "company_name": "Gilead Sciences, Inc.",
-      "discontinued_date": "2025-10-07",
-      "dosage_form": "Tablet",
-      "generic_name": "Cobicistat Tablet",
-      "id": "25c8ecab6fbf6f75",
-      "initial_posting_date": "2025-10-07",
-      "package_ndc": "61958-1401-1",
-      "package_ndcs": [
-        "61958-1401-1",
-        "61958-1402-1"
-      ],
-      "presentation": "Tybost, Tablet, 150 mg (NDC 61958-1401-1)",
-      "product_ndcs": [
-        "61958-1401",
-        "61958-1402"
-      ],
-      "related_info": "Gilead plans to sell through the end of February 2026. Discontinuation of the manufacture of the drug due to business reasons.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1551993",
-        "1551999",
-        "2719618",
-        "2719620"
-      ],
-      "search_text": "cobicistat tablet to be discontinued tablet tybost tablet 150 mg ndc 61958 1401 1 gilead sciences inc gilead plans to sell through the end of february 2026 discontinuation of the manufacture of the drug due to business reasons 61958 1401 1 tybost 1551993 1551999 2719618 2719620 antiviral 61958 1401 61958 1402",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "COBICISTAT"
-      ],
-      "therapeutic_categories": [
-        "Antiviral"
-      ],
-      "update_date": "2025-10-07",
-      "update_type": "New"
-    },
-    {
       "brand_names": [],
       "company_name": "Neurocrine Biosciences, Inc.",
       "discontinued_date": "2026-04-28",
@@ -70353,6 +70311,156 @@
         "Transplant"
       ],
       "update_date": "2026-01-06",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Extended Release",
+      "id": "64882d3d4dbb6907",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3581-21",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Extended Release, 2.5 mg (NDC 0603-3581-21)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet extended release to be discontinued tablet felodipine tablet extended release 2 5 mg ndc 0603 3581 21 par health usa llc discontinuation in the manufacturing of the drug product 0603 3581 21 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Extended Release",
+      "id": "67fd18a9b51bba9b",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3581-28",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Extended Release, 2.5 mg (NDC 0603-3581-28)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet extended release to be discontinued tablet felodipine tablet extended release 2 5 mg ndc 0603 3581 28 par health usa llc discontinuation in the manufacturing of the drug product 0603 3581 28 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Extended Release",
+      "id": "ba815417625effc9",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3582-21",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Extended Release, 5 mg (NDC 0603-3582-21)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet extended release to be discontinued tablet felodipine tablet extended release 5 mg ndc 0603 3582 21 par health usa llc discontinuation in the manufacturing of the drug product 0603 3582 21 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Extended Release",
+      "id": "119239a013bc1645",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3582-28",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Extended Release, 5 mg (NDC 0603-3582-28)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet extended release to be discontinued tablet felodipine tablet extended release 5 mg ndc 0603 3582 28 par health usa llc discontinuation in the manufacturing of the drug product 0603 3582 28 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Film Coated, Extended Release",
+      "id": "9f803796dcc24721",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3583-21",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Film Coated, Extended Release, 10 mg (NDC 0603-3583-21)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet film coated extended release to be discontinued tablet felodipine tablet film coated extended release 10 mg ndc 0603 3583 21 par health usa llc discontinuation in the manufacturing of the drug product 0603 3583 21 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-01",
+      "dosage_form": "Tablet",
+      "generic_name": "Felodipine Tablet, Film Coated, Extended Release",
+      "id": "abf5d0229271352d",
+      "initial_posting_date": "2026-10-07",
+      "package_ndc": "0603-3583-28",
+      "package_ndcs": [],
+      "presentation": "Felodipine, Tablet, Film Coated, Extended Release, 10 mg (NDC 0603-3583-28)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation in the manufacturing of the drug product",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "felodipine tablet film coated extended release to be discontinued tablet felodipine tablet film coated extended release 10 mg ndc 0603 3583 28 par health usa llc discontinuation in the manufacturing of the drug product 0603 3583 28 cardiovascular",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-10-07",
       "update_type": "New"
     },
     {
@@ -77251,100 +77359,6 @@
     },
     {
       "brand_names": [
-        "ZEMPLAR"
-      ],
-      "company_name": "AbbVie Inc.",
-      "discontinued_date": "2025-10-07",
-      "dosage_form": "Capsule",
-      "generic_name": "Paricalcitol Capsule",
-      "id": "336d6ad3475a3a36",
-      "initial_posting_date": "2025-10-07",
-      "package_ndc": "0074-9036-30",
-      "package_ndcs": [
-        "0074-4314-30",
-        "0074-4317-30",
-        "0074-4317-73",
-        "0074-9036-30",
-        "0074-9037-30"
-      ],
-      "presentation": "Zemplar, Capsule, 1 ug (NDC 0074-9036-30)",
-      "product_ndcs": [
-        "0074-9036",
-        "0074-4314",
-        "0074-4317",
-        "0074-9037"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "577315",
-        "577317",
-        "606854",
-        "606859"
-      ],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 1 ug ndc 0074 9036 30 abbvie inc discontinuation of the manufacture of the drug 0074 9036 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9036 0074 4314 0074 4317 0074 9037",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PARICALCITOL"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-07",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ZEMPLAR"
-      ],
-      "company_name": "AbbVie Inc.",
-      "discontinued_date": "2025-10-07",
-      "dosage_form": "Capsule",
-      "generic_name": "Paricalcitol Capsule",
-      "id": "a83e920931e7af8e",
-      "initial_posting_date": "2025-10-07",
-      "package_ndc": "0074-9037-30",
-      "package_ndcs": [
-        "0074-4314-30",
-        "0074-4317-30",
-        "0074-4317-73",
-        "0074-9036-30",
-        "0074-9037-30"
-      ],
-      "presentation": "Zemplar, Capsule, 2 ug (NDC 0074-9037-30)",
-      "product_ndcs": [
-        "0074-9037",
-        "0074-4314",
-        "0074-4317",
-        "0074-9036"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "577315",
-        "577317",
-        "606854",
-        "606859"
-      ],
-      "search_text": "paricalcitol capsule to be discontinued capsule zemplar capsule 2 ug ndc 0074 9037 30 abbvie inc discontinuation of the manufacture of the drug 0074 9037 30 zemplar 577315 577317 606854 606859 endocrinology metabolism 0074 9037 0074 4314 0074 4317 0074 9036",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PARICALCITOL"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-07",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "PEGASYS"
       ],
       "company_name": "pharmaand GmbH (pharma&)",
@@ -81279,7 +81293,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-08",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -81288,8 +81302,8 @@
     "status_counts": {
       "Current": 1141,
       "Resolved": 19,
-      "To Be Discontinued": 430
+      "To Be Discontinued": 433
     },
-    "total_records": 1590
+    "total_records": 1593
   }
 }
