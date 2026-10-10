@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:12:56+00:00",
+  "generated_at": "2026-10-10T15:22:51+00:00",
   "records": [
     {
       "brand_names": [
@@ -32499,49 +32499,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -32585,22 +32542,22 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
+      "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "c99a2667dae6d828",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-01",
+      "id": "1dc3a32cba02875c",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-700-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
       "product_ndcs": [
-        "25021-701",
-        "25021-700"
+        "25021-700",
+        "25021-701"
       ],
       "related_info": "",
       "routes": [
@@ -32612,7 +32569,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32621,7 +32578,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-07-22",
       "update_type": "Reverified"
     },
     {
@@ -32675,15 +32632,15 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "53f3133efc435e4e",
+      "id": "c99a2667dae6d828",
       "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-02",
+      "package_ndc": "25021-701-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
       "product_ndcs": [
         "25021-701",
         "25021-700"
@@ -32698,7 +32655,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32751,6 +32708,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-07-22",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "53f3133efc435e4e",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-09-18",
       "update_type": "Reverified"
     },
     {
@@ -41510,79 +41510,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "bbab88fdb6eb3a99",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated Recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-09-18",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "cb0835bd9e955a3d",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41637,6 +41564,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-09-18",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "bbab88fdb6eb3a99",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 30 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated Recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -62928,64 +62928,6 @@
     },
     {
       "brand_names": [
-        "ABRILADA"
-      ],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "Injection",
-      "generic_name": "Adalimumab-afzb Injection",
-      "id": "0eb1698d6099b8b9",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0025-0325-01",
-      "package_ndcs": [
-        "0025-0325-01",
-        "0025-0325-02",
-        "0025-0318-01",
-        "0069-1111-01",
-        "0025-0328-01",
-        "0025-0328-02",
-        "0025-0317-01",
-        "0025-0333-02",
-        "0025-0329-01",
-        "0025-0347-02",
-        "0025-0331-01",
-        "0025-0319-01"
-      ],
-      "presentation": "Abrilada, Injection, Kit (NDC 0025-0325-01)",
-      "product_ndcs": [
-        "0025-0325",
-        "0025-0328",
-        "0025-0333",
-        "0025-0347",
-        "0025-0319"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [
-        "797544",
-        "2668064",
-        "2668071",
-        "2668074",
-        "2668078",
-        "2668095",
-        "2668096",
-        "2668105",
-        "2668106",
-        "2668109",
-        "2668113"
-      ],
-      "search_text": "adalimumab afzb injection to be discontinued injection abrilada injection kit ndc 0025 0325 01 pfizer inc discontinuation of the manufacture of the drug 0025 0325 01 abrilada 797544 2668064 2668071 2668074 2668078 2668095 2668096 2668105 2668106 2668109 2668113 rheumatology 0025 0325 0025 0328 0025 0333 0025 0347 0025 0319",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Rheumatology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "SIMLANDI"
       ],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
@@ -67995,43 +67937,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -68062,6 +67967,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -71587,51 +71529,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
-      "product_ndcs": [
-        "65219-086",
-        "65219-080",
-        "65219-082",
-        "65219-084"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -71670,6 +71567,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -76558,445 +76500,6 @@
     },
     {
       "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "2568e54b329bc7d1",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2234-01",
-      "package_ndcs": [
-        "0781-2234-10",
-        "0781-2234-01",
-        "0781-2234-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 40 mg (NDC 0781-2234-01)",
-      "product_ndcs": [
-        "0781-2234"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "200329"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 40 mg ndc 0781 2234 01 sandoz inc discontinuation of the manufacture of the drug 0781 2234 01 omeprazole 200329 gastroenterology 0781 2234",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "59c310d2f5aa6164",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2234-10",
-      "package_ndcs": [
-        "0781-2234-10",
-        "0781-2234-01",
-        "0781-2234-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 40 mg (NDC 0781-2234-10)",
-      "product_ndcs": [
-        "0781-2234"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "200329"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 40 mg ndc 0781 2234 10 sandoz inc discontinuation of the manufacture of the drug 0781 2234 10 omeprazole 200329 gastroenterology 0781 2234",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "a486aa76462e931d",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2234-31",
-      "package_ndcs": [
-        "0781-2234-10",
-        "0781-2234-01",
-        "0781-2234-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 40 mg (NDC 0781-2234-31)",
-      "product_ndcs": [
-        "0781-2234"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "200329"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 40 mg ndc 0781 2234 31 sandoz inc discontinuation of the manufacture of the drug 0781 2234 31 omeprazole 200329 gastroenterology 0781 2234",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "5a9fc08d41e2914e",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2859-01",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 10 mg (NDC 0781-2859-01)",
-      "product_ndcs": [
-        "0781-2859",
-        "0781-2868"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 10 mg ndc 0781 2859 01 sandoz inc discontinuation of the manufacture of the drug 0781 2859 01 omeprazole 198051 199119 gastroenterology 0781 2859 0781 2868",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "4c062576aeaf1800",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2859-10",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 10 mg (NDC 0781-2859-10)",
-      "product_ndcs": [
-        "0781-2859",
-        "0781-2868"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 10 mg ndc 0781 2859 10 sandoz inc discontinuation of the manufacture of the drug 0781 2859 10 omeprazole 198051 199119 gastroenterology 0781 2859 0781 2868",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "9f212913c494fbd3",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2859-31",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 10 mg (NDC 0781-2859-31)",
-      "product_ndcs": [
-        "0781-2859",
-        "0781-2868"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 10 mg ndc 0781 2859 31 sandoz inc discontinuation of the manufacture of the drug 0781 2859 31 omeprazole 198051 199119 gastroenterology 0781 2859 0781 2868",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "ce8ae3ca1180ee90",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2868-01",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 20 mg (NDC 0781-2868-01)",
-      "product_ndcs": [
-        "0781-2868",
-        "0781-2859"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 20 mg ndc 0781 2868 01 sandoz inc discontinuation of the manufacture of the drug 0781 2868 01 omeprazole 198051 199119 gastroenterology 0781 2868 0781 2859",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "739e9f5fd2a23f14",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2868-10",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 20 mg (NDC 0781-2868-10)",
-      "product_ndcs": [
-        "0781-2868",
-        "0781-2859"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 20 mg ndc 0781 2868 10 sandoz inc discontinuation of the manufacture of the drug 0781 2868 10 omeprazole 198051 199119 gastroenterology 0781 2868 0781 2859",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "b0cb7aa895677d52",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2868-31",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 20 mg (NDC 0781-2868-31)",
-      "product_ndcs": [
-        "0781-2868",
-        "0781-2859"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 20 mg ndc 0781 2868 31 sandoz inc discontinuation of the manufacture of the drug 0781 2868 31 omeprazole 198051 199119 gastroenterology 0781 2868 0781 2859",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "OMEPRAZOLE"
-      ],
-      "company_name": "Sandoz Inc.",
-      "discontinued_date": "2025-10-09",
-      "dosage_form": "",
-      "generic_name": "Omeprazole Delayed Release Capsule",
-      "id": "96b46ab4e68f102a",
-      "initial_posting_date": "2025-10-09",
-      "package_ndc": "0781-2868-92",
-      "package_ndcs": [
-        "0781-2859-10",
-        "0781-2859-01",
-        "0781-2859-92",
-        "0781-2859-31",
-        "0781-2868-10",
-        "0781-2868-01",
-        "0781-2868-92",
-        "0781-2868-31"
-      ],
-      "presentation": "Omeprazole, Delayed Release Capsule, 20 mg (NDC 0781-2868-92)",
-      "product_ndcs": [
-        "0781-2868",
-        "0781-2859"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "198051",
-        "199119"
-      ],
-      "search_text": "omeprazole delayed release capsule to be discontinued omeprazole delayed release capsule 20 mg ndc 0781 2868 92 sandoz inc discontinuation of the manufacture of the drug 0781 2868 92 omeprazole 198051 199119 gastroenterology 0781 2868 0781 2859",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "OMEPRAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Gastroenterology"
-      ],
-      "update_date": "2025-10-09",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "OXALIPLATIN"
       ],
       "company_name": "Sandoz Inc.",
@@ -81293,7 +80796,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-09",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -81302,8 +80805,8 @@
     "status_counts": {
       "Current": 1141,
       "Resolved": 19,
-      "To Be Discontinued": 433
+      "To Be Discontinued": 422
     },
-    "total_records": 1593
+    "total_records": 1582
   }
 }
