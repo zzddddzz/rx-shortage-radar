@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:30:39+00:00",
+  "generated_at": "2026-10-15T14:09:49+00:00",
   "records": [
     {
       "brand_names": [
@@ -867,7 +867,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -920,7 +920,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -973,7 +973,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -1026,7 +1026,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -4482,7 +4482,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4547,7 +4547,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4612,7 +4612,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4677,7 +4677,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4742,7 +4742,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4807,7 +4807,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -4872,7 +4872,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -5640,7 +5640,7 @@
       "product_ndcs": [
         "63323-580"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "ENDOTRACHEAL",
         "INTRAMEDULLARY",
@@ -5651,7 +5651,7 @@
       "rxcuis": [
         "1190776"
       ],
-      "search_text": "atropine sulfate injection current injection atropine sulfate injection 4 mg 1 ml ndc 63323 580 20 fresenius kabi usa llc check wholesalers for inventory 63323 580 20 atropine sulfate 1190776 anesthesia neurology pediatric 63323 580",
+      "search_text": "atropine sulfate injection current injection atropine sulfate injection 4 mg 1 ml ndc 63323 580 20 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 580 20 atropine sulfate 1190776 anesthesia neurology pediatric 63323 580",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -5662,8 +5662,8 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-09-01",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -5702,7 +5702,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Reverified"
     },
     {
@@ -6552,92 +6552,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "3fc6a9a9d2d6a923",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-09-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "234ec8f5c0c5772f",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -6705,6 +6619,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-09-22",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "3fc6a9a9d2d6a923",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11668,7 +11668,7 @@
         "63323-463",
         "63323-468"
       ],
-      "related_info": "Check wholesaler for inventory",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -11687,7 +11687,7 @@
         "1867618",
         "1867620"
       ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection sensorcaine injection 2 5 mg 1 ml 005 mg 1 ml ndc 63323 461 57 fresenius kabi usa llc check wholesaler for inventory 63323 461 57 sensorcaine 1012377 1012384 1012413 1012417 1724786 1724787 1724809 1724810 1867594 1867596 1867618 1867620 anesthesia 63323 461 63323 472 63323 463 63323 468",
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection sensorcaine injection 2 5 mg 1 ml 005 mg 1 ml ndc 63323 461 57 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 461 57 sensorcaine 1012377 1012384 1012413 1012417 1724786 1724787 1724809 1724810 1867594 1867596 1867618 1867620 anesthesia 63323 461 63323 472 63323 463 63323 468",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11697,8 +11697,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -11996,7 +11996,7 @@
         "63323-461",
         "63323-468"
       ],
-      "related_info": "Check wholesaler for inventory",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "PERINEURAL"
       ],
@@ -12014,7 +12014,7 @@
         "1867618",
         "1867620"
       ],
-      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection sensorcaine injection 5 mg 1 ml 005 mg 1 ml ndc 63323 463 57 fresenius kabi usa llc check wholesaler for inventory 63323 463 57 sensorcaine 1012377 1012384 1012413 1012417 1724786 1724787 1724809 1724810 1867594 1867596 1867618 1867620 anesthesia 63323 463 63323 472 63323 461 63323 468",
+      "search_text": "bupivacaine hydrochloride epinephrine bitartrate injection current injection sensorcaine injection 5 mg 1 ml 005 mg 1 ml ndc 63323 463 57 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 463 57 sensorcaine 1012377 1012384 1012413 1012417 1724786 1724787 1724809 1724810 1867594 1867596 1867618 1867620 anesthesia 63323 463 63323 472 63323 461 63323 468",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -12024,8 +12024,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -14216,7 +14216,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14262,7 +14262,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14308,7 +14308,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14333,7 +14333,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14358,7 +14358,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14383,7 +14383,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14425,7 +14425,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14467,7 +14467,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -14591,7 +14591,7 @@
         "0093-0832",
         "0093-3213"
       ],
-      "related_info": "Estimated supply: August 2026",
+      "related_info": "",
       "routes": [
         "ORAL"
       ],
@@ -14600,7 +14600,7 @@
         "197528",
         "197529"
       ],
-      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 0093 3212 01 teva pharmaceuticals usa inc estimated supply august 2026 0093 3212 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 3212 0093 0832 0093 3213",
+      "search_text": "clonazepam tablet current tablet clonazepam tablet 1 mg ndc 0093 3212 01 teva pharmaceuticals usa inc 0093 3212 01 clonazepam 197527 197528 197529 neurology pediatric psychiatry 0093 3212 0093 0832 0093 3213",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -14611,8 +14611,8 @@
         "Pediatric",
         "Psychiatry"
       ],
-      "update_date": "2026-08-17",
-      "update_type": "Reverified"
+      "update_date": "2026-10-01",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -17759,10 +17759,10 @@
       "package_ndcs": [],
       "presentation": "Dexamethasone Sodium Phosphate, Injection, 10 mg/1 mL (NDC 76045-0212-10)",
       "product_ndcs": [],
-      "related_info": "3 month expiry available on request. Next release not available at this time.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [],
       "rxcuis": [],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 0212 10 fresenius kabi usa llc 3 month expiry available on request next release not available at this time 76045 0212 10 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 0212 10 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 76045 0212 10 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [],
@@ -17778,7 +17778,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -17854,7 +17854,7 @@
         "76045-212",
         "76045-109"
       ],
-      "related_info": "3 month expiry available on request. Next release not available at this time.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -17862,7 +17862,7 @@
       "rxcuis": [
         "2099700"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 212 10 fresenius kabi usa llc 3 month expiry available on request next release not available at this time 76045 212 10 dexamethasone sodium phosphate 2099700 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 212 76045 109",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 10 mg 1 ml ndc 76045 212 10 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 76045 212 10 dexamethasone sodium phosphate 2099700 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 76045 212 76045 109",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -17880,7 +17880,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -19034,8 +19034,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-18",
-      "update_type": "Reverified"
+      "update_date": "2026-10-02",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -19358,9 +19358,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Azurity Pharmaceuticals, Inc",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19368,31 +19366,16 @@
       "id": "4872f0f1d4e16b63",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "52536-125-10",
-      "package_ndcs": [
-        "52536-125-01",
-        "52536-125-10",
-        "52536-126-01",
-        "52536-126-08"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 200 mcg/50 mL (4 ug/1 mL) (NDC 52536-125-10)",
-      "product_ndcs": [
-        "52536-125",
-        "52536-126"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Wilshire Pharmaceuticals, Inc.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 mcg 50 ml 4 ug 1 ml ndc 52536 125 10 azurity pharmaceuticals inc distributed by wilshire pharmaceuticals inc 52536 125 10 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 52536 125 52536 126",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 mcg 50 ml 4 ug 1 ml ndc 52536 125 10 azurity pharmaceuticals inc distributed by wilshire pharmaceuticals inc 52536 125 10 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -19400,9 +19383,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Azurity Pharmaceuticals, Inc",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19410,31 +19391,16 @@
       "id": "a98aef38496fcd9c",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "52536-126-08",
-      "package_ndcs": [
-        "52536-125-01",
-        "52536-125-10",
-        "52536-126-01",
-        "52536-126-08"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 400 mcg/100 mL (4 ug/1 mL) (NDC 52536-126-08)",
-      "product_ndcs": [
-        "52536-126",
-        "52536-125"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Wilshire Pharmaceuticals, Inc.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 mcg 100 ml 4 ug 1 ml ndc 52536 126 08 azurity pharmaceuticals inc distributed by wilshire pharmaceuticals inc 52536 126 08 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 52536 126 52536 125",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 mcg 100 ml 4 ug 1 ml ndc 52536 126 08 azurity pharmaceuticals inc distributed by wilshire pharmaceuticals inc 52536 126 08 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -20246,8 +20212,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-10-05",
-      "update_type": "Reverified"
+      "update_date": "2026-10-14",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -24715,7 +24681,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -24760,7 +24726,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 5 mg 1 ml ndc 63323 481 57 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 481 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 481 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 483 63323 482 63323 487",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 5 mg 1 ml ndc 63323 481 57 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 481 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 481 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -24771,8 +24737,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -24871,7 +24837,7 @@
         "63323-483",
         "63323-487"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -24916,7 +24882,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 01 mg 1 ml 10 mg 1 ml ndc 63323 482 17 fresenius kabi usa llc check wholesalers for inventory 63323 482 17 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 482 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 487",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 01 mg 1 ml 10 mg 1 ml ndc 63323 482 17 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 482 17 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 482 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -24927,7 +24893,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -25183,7 +25149,7 @@
         "63323-483",
         "63323-487"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -25228,7 +25194,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 01 mg 1 ml 10 mg 1 ml ndc 63323 482 57 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 482 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 482 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 487",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 01 mg 1 ml 10 mg 1 ml ndc 63323 482 57 fresenius kabi usa llc check wholesalers for inventory 63323 482 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 482 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -25239,8 +25205,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -25897,7 +25863,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -25944,7 +25910,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 15 mg 1 ml ndc 63323 488 17 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 488 17 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 488 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 481 63323 483 63323 482 63323 487",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 15 mg 1 ml ndc 63323 488 17 fresenius kabi usa llc check wholesalers for inventory 63323 488 17 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 488 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 481 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -25955,8 +25921,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -26329,7 +26295,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -26376,7 +26342,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 20 mg 1 ml ndc 63323 489 27 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 489 27 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 489 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 488 63323 481 63323 483 63323 482 63323 487",
+      "search_text": "epinephrine bitartrate lidocaine hydrochloride injection current injection xylocaine injection 005 mg 1 ml 20 mg 1 ml ndc 63323 489 27 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 489 27 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 489 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 488 63323 481 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -26387,8 +26353,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -26832,7 +26798,7 @@
         "67457-902",
         "67457-903"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: November 2026",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -26840,7 +26806,7 @@
         "1654006",
         "1654008"
       ],
-      "search_text": "etomidate injection current injection etomidate injection 2 mg 1 ml ndc 67457 902 10 mylan institutional a viatris company 67457 902 10 etomidate 1654006 1654008 anesthesia 67457 902 67457 903",
+      "search_text": "etomidate injection current injection etomidate injection 2 mg 1 ml ndc 67457 902 10 mylan institutional a viatris company estimated recovery november 2026 67457 902 10 etomidate 1654006 1654008 anesthesia 67457 902 67457 903",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -26849,8 +26815,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-17",
-      "update_type": "Reverified"
+      "update_date": "2026-10-05",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -27964,7 +27930,7 @@
       "product_ndcs": [
         "63323-806"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -27976,7 +27942,7 @@
         "1735013",
         "2168270"
       ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 806 02 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate preservative free injection 05 mg 1 ml ndc 63323 806 02 fresenius kabi usa llc check wholesalers for inventory 63323 806 02 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 analgesia addiction pediatric 63323 806",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -27986,7 +27952,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -30200,7 +30166,7 @@
       "product_ndcs": [
         "63323-519"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -30208,7 +30174,7 @@
         "1658690",
         "1658692"
       ],
-      "search_text": "heparin sodium injection current injection heparin sodium injection 200 usp u 100 ml ndc 63323 519 77 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 519 77 heparin sodium 1658690 1658692 hematology 63323 519",
+      "search_text": "heparin sodium injection current injection heparin sodium injection 200 usp u 100 ml ndc 63323 519 77 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 519 77 heparin sodium 1658690 1658692 hematology 63323 519",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -30217,8 +30183,8 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -31314,7 +31280,7 @@
         "63323-853",
         "63323-854"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31328,7 +31294,7 @@
         "1724340",
         "1724341"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 1 mg 1 ml ndc 63323 852 25 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 852 25 hydromorphone hydrochloride 897653 897753 1724276 1724338 1724340 1724341 analgesia addiction 63323 852 63323 851 63323 853 63323 854",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 1 mg 1 ml ndc 63323 852 25 fresenius kabi usa llc check wholesalers for inventory 63323 852 25 hydromorphone hydrochloride 897653 897753 1724276 1724338 1724340 1724341 analgesia addiction 63323 852 63323 851 63323 853 63323 854",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31337,7 +31303,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -31371,7 +31337,7 @@
         "63323-852",
         "63323-854"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31385,7 +31351,7 @@
         "1724340",
         "1724341"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 2 mg 1 ml ndc 63323 853 25 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 853 25 hydromorphone hydrochloride 897653 897753 1724276 1724338 1724340 1724341 analgesia addiction 63323 853 63323 851 63323 852 63323 854",
+      "search_text": "hydromorphone hydrochloride injection current injection hydromorphone hydrochloride injection 2 mg 1 ml ndc 63323 853 25 fresenius kabi usa llc check wholesalers for inventory 63323 853 25 hydromorphone hydrochloride 897653 897753 1724276 1724338 1724340 1724341 analgesia addiction 63323 853 63323 851 63323 852 63323 854",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31394,8 +31360,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -31481,7 +31447,7 @@
         "76045-010",
         "76045-121"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31497,7 +31463,7 @@
         "2277368",
         "2277370"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection dilaudid injection 1 mg 1 ml ndc 76045 009 06 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 009 06 dilaudid 897756 897757 1433251 1872265 1872269 1872752 2277368 2277370 analgesia addiction 76045 009 76045 010 76045 121",
+      "search_text": "hydromorphone hydrochloride injection current injection dilaudid injection 1 mg 1 ml ndc 76045 009 06 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 76045 009 06 dilaudid 897756 897757 1433251 1872265 1872269 1872752 2277368 2277370 analgesia addiction 76045 009 76045 010 76045 121",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31506,8 +31472,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -31646,7 +31612,7 @@
         "76045-009",
         "76045-010"
       ],
-      "related_info": "Next release November 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
@@ -31662,7 +31628,7 @@
         "2277368",
         "2277370"
       ],
-      "search_text": "hydromorphone hydrochloride injection current injection dilaudid injection 2 mg 1 ml ndc 76045 121 11 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 76045 121 11 dilaudid 897756 897757 1433251 1872265 1872269 1872752 2277368 2277370 analgesia addiction 76045 121 76045 009 76045 010",
+      "search_text": "hydromorphone hydrochloride injection current injection dilaudid injection 2 mg 1 ml ndc 76045 121 11 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 76045 121 11 dilaudid 897756 897757 1433251 1872265 1872269 1872752 2277368 2277370 analgesia addiction 76045 121 76045 009 76045 010",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31671,7 +31637,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -31692,14 +31658,14 @@
       "product_ndcs": [
         "0591-2888"
       ],
-      "related_info": "Estimated recovery: October 2026",
+      "related_info": "Estimated recovery: mid-November 2026",
       "routes": [
         "INTRAMUSCULAR"
       ],
       "rxcuis": [
         "317106"
       ],
-      "search_text": "hydroxocobalamin injection current injection hydroxocobalamin injection 1000 mcg ml 30 ml multi dose vial ndc 0591 2888 30 teva pharmaceuticals usa inc estimated recovery october 2026 0591 2888 30 hydroxocobalamin 317106 other 0591 2888",
+      "search_text": "hydroxocobalamin injection current injection hydroxocobalamin injection 1000 mcg ml 30 ml multi dose vial ndc 0591 2888 30 teva pharmaceuticals usa inc estimated recovery mid november 2026 0591 2888 30 hydroxocobalamin 317106 other 0591 2888",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31708,7 +31674,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-10-01",
+      "update_date": "2026-10-13",
       "update_type": "Revised"
     },
     {
@@ -32499,49 +32465,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "6b36c11670dc66d6",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "Estimated recovery: late September 2026, Product in transit",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery late september 2026 product in transit 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-18",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -32579,6 +32502,92 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-07-22",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "6b36c11670dc66d6",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [
+        "25021-700",
+        "25021-701"
+      ],
+      "related_info": "Estimated recovery: end-October to mid-November 2026",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery end october to mid november 2026 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-08",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "c99a2667dae6d828",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -32632,15 +32641,15 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "c99a2667dae6d828",
+      "id": "53f3133efc435e4e",
       "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-01",
+      "package_ndc": "25021-701-02",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
       "product_ndcs": [
         "25021-701",
         "25021-700"
@@ -32655,7 +32664,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -32664,7 +32673,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -32708,49 +32717,6 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-07-22",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "53f3133efc435e4e",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-09-18",
       "update_type": "Reverified"
     },
     {
@@ -32992,7 +32958,7 @@
         "63323-162",
         "63323-161"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release not available at this time.  Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -33001,7 +32967,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 01 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 162 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 01 fresenius kabi usa llc next release not available at this time check wholesalers for inventory 63323 162 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33010,7 +32976,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -33051,7 +33017,7 @@
         "63323-162",
         "63323-161"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release not available at this time.  Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR"
       ],
@@ -33060,7 +33026,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 02 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 162 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 63323 162 02 fresenius kabi usa llc next release not available at this time check wholesalers for inventory 63323 162 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 63323 162 63323 161",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -33069,7 +33035,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -35682,14 +35648,14 @@
       "product_ndcs": [
         "63323-208"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "1737761"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride preservative free injection 20 mg 1 ml ndc 63323 208 05 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 208 05 lidocaine 1737761 anesthesia pediatric 63323 208",
+      "search_text": "lidocaine hydrochloride injection current injection lidocaine hydrochloride preservative free injection 20 mg 1 ml ndc 63323 208 05 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 208 05 lidocaine 1737761 anesthesia pediatric 63323 208",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -35699,8 +35665,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -36095,7 +36061,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -36140,7 +36106,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 10 mg 1 ml ndc 63323 485 57 fresenius kabi usa llc check wholesalers for inventory 63323 485 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 485 63323 492 63323 491 63323 495 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
+      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 10 mg 1 ml ndc 63323 485 57 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 485 57 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 485 63323 492 63323 491 63323 495 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -36150,8 +36116,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -36405,7 +36371,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INFILTRATION",
         "PERINEURAL"
@@ -36450,7 +36416,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 20 mg 1 ml ndc 63323 486 27 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 486 27 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 486 63323 492 63323 491 63323 495 63323 485 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
+      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 20 mg 1 ml ndc 63323 486 27 fresenius kabi usa llc check wholesalers for inventory 63323 486 27 xylocaine 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 486 63323 492 63323 491 63323 495 63323 485 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -36460,7 +36426,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -36865,7 +36831,7 @@
         "63323-493",
         "63323-496"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -36918,7 +36884,7 @@
         "1737763",
         "1737764"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 10 mg 1 ml ndc 63323 492 27 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 492 27 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 1737636 1737637 1737640 1737641 1737763 1737764 anesthesia pediatric 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487 63323 493 63323 496",
+      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 10 mg 1 ml ndc 63323 492 27 fresenius kabi usa llc check wholesalers for inventory 63323 492 27 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 1737636 1737637 1737640 1737641 1737763 1737764 anesthesia pediatric 63323 492 63323 491 63323 495 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487 63323 493 63323 496",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -36928,7 +36894,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -37673,7 +37639,7 @@
         "63323-482",
         "63323-487"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "EPIDURAL",
         "INFILTRATION",
@@ -37720,7 +37686,7 @@
         "1868028",
         "1868029"
       ],
-      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 20 mg 1 ml ndc 63323 495 07 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 495 07 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 495 63323 492 63323 491 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
+      "search_text": "lidocaine hydrochloride injection current injection xylocaine injection 20 mg 1 ml ndc 63323 495 07 fresenius kabi usa llc check wholesalers for inventory 63323 495 07 xylocaine mpf 1010033 1010035 1010671 1010673 1010688 1010692 1010745 1010749 1010751 1010755 1010759 1010763 1010900 1010902 1737343 1737345 1737562 1737563 1737566 1737567 1737568 1737569 1737570 1737571 1737757 1737758 1737761 1737762 1867938 1867940 1867943 1867944 1867992 1867993 1867996 1867997 1868028 1868029 anesthesia pediatric 63323 495 63323 492 63323 491 63323 485 63323 486 63323 484 63323 489 63323 488 63323 481 63323 483 63323 482 63323 487",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -37730,7 +37696,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -37990,7 +37956,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-05-15",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -41510,79 +41476,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "cb0835bd9e955a3d",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-047-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
-      "product_ndcs": [
-        "57664-047",
-        "57664-046",
-        "57664-048",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated Recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-09-18",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "bbab88fdb6eb3a99",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-047-88",
@@ -41637,6 +41530,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-09-18",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "cb0835bd9e955a3d",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-047-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-047-88)",
+      "product_ndcs": [
+        "57664-047",
+        "57664-046",
+        "57664-048",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated Recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 047 88 sun pharmaceutical industries inc estimated recovery tbd 57664 047 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 047 57664 046 57664 048 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -45048,7 +45014,7 @@
       "product_ndcs": [
         "65219-368"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -45056,7 +45022,7 @@
       "rxcuis": [
         "1665188"
       ],
-      "search_text": "lorazepam injection current injection lorazepam injection 2 mg 1 ml ndc 65219 368 02 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 65219 368 02 lorazepam 1665188 neurology 65219 368",
+      "search_text": "lorazepam injection current injection lorazepam injection 2 mg 1 ml ndc 65219 368 02 fresenius kabi usa llc check wholesalers for inventory 65219 368 02 lorazepam 1665188 neurology 65219 368",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -45065,8 +45031,8 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -48700,7 +48666,7 @@
         "25021-820",
         "25021-821"
       ],
-      "related_info": "Estimated recovery: November 2026",
+      "related_info": "",
       "routes": [
         "INTRA-ARTICULAR",
         "INTRALESIONAL",
@@ -48712,7 +48678,7 @@
         "1358610",
         "1358617"
       ],
-      "search_text": "methylprednisolone acetate injection current injection methylprednisolone acetate injection 40 mg 1 ml ndc 25021 820 05 sagent pharmaceuticals estimated recovery november 2026 25021 820 05 methylprednisolone acetate 1358610 1358617 rheumatology 25021 820 25021 821",
+      "search_text": "methylprednisolone acetate injection current injection methylprednisolone acetate injection 40 mg 1 ml ndc 25021 820 05 sagent pharmaceuticals 25021 820 05 methylprednisolone acetate 1358610 1358617 rheumatology 25021 820 25021 821",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -48721,7 +48687,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Revised"
     },
     {
@@ -48745,7 +48711,7 @@
         "25021-820",
         "25021-821"
       ],
-      "related_info": "Estimated recovery: November 2026,",
+      "related_info": "Limited product available. Estimated recovery: October 2026",
       "routes": [
         "INTRA-ARTICULAR",
         "INTRALESIONAL",
@@ -48757,7 +48723,7 @@
         "1358610",
         "1358617"
       ],
-      "search_text": "methylprednisolone acetate injection current injection methylprednisolone acetate injection 40 mg 1 ml ndc 25021 820 10 sagent pharmaceuticals estimated recovery november 2026 25021 820 10 methylprednisolone acetate 1358610 1358617 rheumatology 25021 820 25021 821",
+      "search_text": "methylprednisolone acetate injection current injection methylprednisolone acetate injection 40 mg 1 ml ndc 25021 820 10 sagent pharmaceuticals limited product available estimated recovery october 2026 25021 820 10 methylprednisolone acetate 1358610 1358617 rheumatology 25021 820 25021 821",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -48766,7 +48732,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Revised"
     },
     {
@@ -48811,7 +48777,7 @@
       "therapeutic_categories": [
         "Rheumatology"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -49204,14 +49170,14 @@
       "product_ndcs": [
         "25021-131"
       ],
-      "related_info": "Estimated recovery: August 2026; Marketed by Sagent Pharmaceuticals",
+      "related_info": "Estimated recovery: November 2026; Marketed by Sagent Pharmaceuticals",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "311683"
       ],
-      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa estimated recovery august 2026 marketed by sagent pharmaceuticals 25021 131 82 metronidazole 311683 anti infective 25021 131",
+      "search_text": "metronidazole injection current injection metronidazole injection 500 mg 100 ml ndc 25021 131 82 inforlife sa estimated recovery november 2026 marketed by sagent pharmaceuticals 25021 131 82 metronidazole 311683 anti infective 25021 131",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -49220,7 +49186,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-08-18",
+      "update_date": "2026-10-06",
       "update_type": "Revised"
     },
     {
@@ -50600,7 +50566,7 @@
         "76045-002",
         "76045-003"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -50610,7 +50576,7 @@
         "1551393",
         "1551395"
       ],
-      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2 ml ndc 76045 211 20 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 76045 211 20 midazolam 998211 1551393 1551395 anesthesia neurology 76045 211 76045 001 76045 002 76045 003",
+      "search_text": "midazolam hydrochloride injection current injection midazolam hydrochloride preservative free injection 2 mg 2 ml ndc 76045 211 20 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 76045 211 20 midazolam 998211 1551393 1551395 anesthesia neurology 76045 211 76045 001 76045 002 76045 003",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -50620,8 +50586,8 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -51445,7 +51411,7 @@
         "63323-458",
         "63323-451"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51457,7 +51423,7 @@
         "1732136",
         "2003714"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 63323 452 01 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 452 01 morphine sulfate 1731993 1732006 1732011 1732136 2003714 analgesia addiction 63323 452 63323 454 63323 455 63323 458 63323 451",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 63323 452 01 fresenius kabi usa llc check wholesalers for inventory 63323 452 01 morphine sulfate 1731993 1732006 1732011 1732136 2003714 analgesia addiction 63323 452 63323 454 63323 455 63323 458 63323 451",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51466,8 +51432,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -51500,7 +51466,7 @@
         "63323-458",
         "63323-451"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51512,7 +51478,7 @@
         "1732136",
         "2003714"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 63323 454 01 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 454 01 morphine sulfate 1731993 1732006 1732011 1732136 2003714 analgesia addiction 63323 454 63323 452 63323 455 63323 458 63323 451",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 63323 454 01 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 454 01 morphine sulfate 1731993 1732006 1732011 1732136 2003714 analgesia addiction 63323 454 63323 452 63323 455 63323 458 63323 451",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51521,8 +51487,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -51699,7 +51665,7 @@
         "76045-007",
         "76045-008"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51712,7 +51678,7 @@
         "1442790",
         "2752697"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 76045 004 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 004 11 morphine sulfate 894912 894914 998212 998213 1442790 2752697 analgesia addiction 76045 004 76045 238 76045 005 76045 006 76045 007 76045 008",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 2 mg 1 ml ndc 76045 004 11 fresenius kabi usa llc check wholesalers for inventory 76045 004 11 morphine sulfate 894912 894914 998212 998213 1442790 2752697 analgesia addiction 76045 004 76045 238 76045 005 76045 006 76045 007 76045 008",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51721,8 +51687,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -51758,7 +51724,7 @@
         "76045-007",
         "76045-008"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -51771,7 +51737,7 @@
         "1442790",
         "2752697"
       ],
-      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 76045 005 11 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 76045 005 11 morphine sulfate 894912 894914 998212 998213 1442790 2752697 analgesia addiction 76045 005 76045 238 76045 004 76045 006 76045 007 76045 008",
+      "search_text": "morphine sulfate injection current injection morphine sulfate injection 4 mg 1 ml ndc 76045 005 11 fresenius kabi usa llc check wholesalers for inventory 76045 005 11 morphine sulfate 894912 894914 998212 998213 1442790 2752697 analgesia addiction 76045 005 76045 238 76045 004 76045 006 76045 007 76045 008",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -51780,8 +51746,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -52554,14 +52520,14 @@
       "product_ndcs": [
         "63323-604"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release: November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "856443"
       ],
-      "search_text": "propranolol hydrochloride injection current injection propranolol hydrochloride injection 1 mg 1 ml ndc 63323 604 01 fresenius kabi usa llc check wholesalers for inventory 63323 604 01 propranolol 856443 cardiovascular 63323 604",
+      "search_text": "propranolol hydrochloride injection current injection propranolol hydrochloride injection 1 mg 1 ml ndc 63323 604 01 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 604 01 propranolol 856443 cardiovascular 63323 604",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -52570,8 +52536,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -53254,7 +53220,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -53279,7 +53245,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -53331,7 +53297,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -53383,7 +53349,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -53864,7 +53830,7 @@
         "63323-723",
         "63323-725"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -53873,7 +53839,7 @@
         "1729584",
         "1729710"
       ],
-      "search_text": "remifentanil hydrochloride injection current injection remifentanil hydrochloride injection 1 mg 1 ml ndc 63323 724 05 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 724 05 remifentanil hydrochloride 1729578 1729584 1729710 analgesia addiction 63323 724 63323 723 63323 725",
+      "search_text": "remifentanil hydrochloride injection current injection remifentanil hydrochloride injection 1 mg 1 ml ndc 63323 724 05 fresenius kabi usa llc check wholesalers for inventory 63323 724 05 remifentanil hydrochloride 1729578 1729584 1729710 analgesia addiction 63323 724 63323 723 63323 725",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53882,8 +53848,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -54382,7 +54348,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -54425,7 +54391,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -54468,7 +54434,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-09-01",
+      "update_date": "2026-10-13",
       "update_type": "Reverified"
     },
     {
@@ -55006,7 +54972,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -55046,7 +55012,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -55071,7 +55037,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-18",
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -55333,14 +55299,14 @@
       "product_ndcs": [
         "63323-426"
       ],
-      "related_info": "Next release October 2026. Check wholesalers for inventory.",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "1234995"
       ],
-      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 63323 426 05 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 426 05 rocuronium 1234995 anesthesia 63323 426",
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 63323 426 05 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 426 05 rocuronium 1234995 anesthesia 63323 426",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -55349,8 +55315,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -55460,7 +55426,7 @@
         "65219-695",
         "65219-697"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -55468,7 +55434,7 @@
         "2720024",
         "2720026"
       ],
-      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 65219 442 05 fresenius kabi usa llc check wholesalers for inventory 65219 442 05 rocuronium 2720024 2720026 anesthesia 65219 442 65219 444 65219 695 65219 697",
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 65219 442 05 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 65219 442 05 rocuronium 2720024 2720026 anesthesia 65219 442 65219 444 65219 695 65219 697",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -55477,8 +55443,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -55508,7 +55474,7 @@
         "65219-695",
         "65219-697"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -55516,7 +55482,7 @@
         "2720024",
         "2720026"
       ],
-      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 65219 444 10 fresenius kabi usa llc check wholesalers for inventory 65219 444 10 rocuronium 2720024 2720026 anesthesia 65219 444 65219 442 65219 695 65219 697",
+      "search_text": "rocuronium bromide injection current injection rocuronium bromide injection 10 mg 1 ml ndc 65219 444 10 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 65219 444 10 rocuronium 2720024 2720026 anesthesia 65219 444 65219 442 65219 695 65219 697",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -55525,8 +55491,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -55894,7 +55860,7 @@
         "25021-671",
         "25021-652"
       ],
-      "related_info": "Estimated recovery: TBD; Marketed by Sagent Pharmaceuticals",
+      "related_info": "Marketed by Sagent Pharmaceuticals",
       "routes": [
         "EPIDURAL",
         "INFILTRATION"
@@ -55905,7 +55871,7 @@
         "1734479",
         "1734481"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 25021 671 66 inforlife sa estimated recovery tbd marketed by sagent pharmaceuticals 25021 671 66 ropivacaine hydrochloride 1734347 1734355 1734479 1734481 anesthesia 25021 671 25021 652",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 25021 671 66 inforlife sa marketed by sagent pharmaceuticals 25021 671 66 ropivacaine hydrochloride 1734347 1734355 1734479 1734481 anesthesia 25021 671 25021 652",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -55914,8 +55880,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-08-18",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -60118,24 +60084,27 @@
       "product_ndcs": [
         "63323-032"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "312965"
       ],
-      "search_text": "sodium acetate injection current injection sodium acetate injection 4 meq 100 ml ndc 63323 032 00 fresenius kabi usa llc check wholesalers for inventory 63323 032 00 sodium acetate 312965 total parenteral nutrition 63323 032",
+      "search_text": "sodium acetate injection current injection sodium acetate injection 4 meq 100 ml ndc 63323 032 00 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 032 00 sodium acetate 312965 endocrinology metabolism gastroenterology pediatric total parenteral nutrition 63323 032",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
         "SODIUM ACETATE"
       ],
       "therapeutic_categories": [
+        "Endocrinology/Metabolism",
+        "Gastroenterology",
+        "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -61251,14 +61220,14 @@
       "product_ndcs": [
         "63323-185"
       ],
-      "related_info": "Next release September 2026. Check wholesalers for inventory.",
+      "related_info": "Next release October 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS",
         "SUBCUTANEOUS"
       ],
       "rxcuis": [],
-      "search_text": "sterile water injection current injection sterile water for injection in plastic container injection 1 ml 1 ml ndc 63323 185 10 fresenius kabi usa llc next release september 2026 check wholesalers for inventory 63323 185 10 sterile water other 63323 185",
+      "search_text": "sterile water injection current injection sterile water for injection in plastic container injection 1 ml 1 ml ndc 63323 185 10 fresenius kabi usa llc next release october 2026 check wholesalers for inventory 63323 185 10 sterile water other 63323 185",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -61267,8 +61236,8 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -61398,7 +61367,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-09-15",
+      "update_date": "2026-10-06",
       "update_type": "Reverified"
     },
     {
@@ -62062,14 +62031,14 @@
       "product_ndcs": [
         "63323-494"
       ],
-      "related_info": "Checkwholesalers for inventory",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "1099648"
       ],
-      "search_text": "valproate sodium injection current injection valproate sodium injection 100 mg 1 ml ndc 63323 494 05 fresenius kabi usa llc checkwholesalers for inventory 63323 494 05 valproate sodium 1099648 neurology 63323 494",
+      "search_text": "valproate sodium injection current injection valproate sodium injection 100 mg 1 ml ndc 63323 494 05 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 494 05 valproate sodium 1099648 neurology 63323 494",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -62078,8 +62047,8 @@
       "therapeutic_categories": [
         "Neurology"
       ],
-      "update_date": "2026-09-15",
-      "update_type": "Reverified"
+      "update_date": "2026-10-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -67937,43 +67906,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -68004,6 +67936,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -68882,6 +68851,44 @@
         "Anesthesia"
       ],
       "update_date": "2026-06-05",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "DEXMEDETOMIDINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
+      "discontinued_date": "2026-10-14",
+      "dosage_form": "Injection",
+      "generic_name": "Dexmedetomidine Hydrochloride Injection",
+      "id": "d72b273b53cd124a",
+      "initial_posting_date": "2026-10-14",
+      "package_ndc": "83634-600-02",
+      "package_ndcs": [
+        "83634-600-41",
+        "83634-600-02"
+      ],
+      "presentation": "Dexmedetomidine Hydrochloride, Injection, 200 mcg/2 mL (NDC 83634-600-02)",
+      "product_ndcs": [
+        "83634-600"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug; Distributed by Avenacy; Contact information: 877-283-6229",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "309710"
+      ],
+      "search_text": "dexmedetomidine hydrochloride injection to be discontinued injection dexmedetomidine hydrochloride injection 200 mcg 2 ml ndc 83634 600 02 jiangsu hengrui pharmaceuticals co us agent evenus pharmaceutical laboratories inc discontinuation of the manufacture of the drug distributed by avenacy contact information 877 283 6229 83634 600 02 dexmedetomidine 309710 anesthesia 83634 600",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-10-14",
       "update_type": "New"
     },
     {
@@ -70246,6 +70253,106 @@
     {
       "brand_names": [],
       "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-14",
+      "dosage_form": "Tablet",
+      "generic_name": "Everolimus Tablet",
+      "id": "1e5d3847dbbdf3d4",
+      "initial_posting_date": "2026-10-14",
+      "package_ndc": "49884-158-02",
+      "package_ndcs": [],
+      "presentation": "Everolimus, Tablet, .25 mg (NDC 49884-158-02)",
+      "product_ndcs": [],
+      "related_info": "A business decision was made to withdraw from sale.",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "everolimus tablet to be discontinued tablet everolimus tablet 25 mg ndc 49884 158 02 par health usa llc a business decision was made to withdraw from sale 49884 158 02 transplant",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Transplant"
+      ],
+      "update_date": "2026-10-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-14",
+      "dosage_form": "Tablet",
+      "generic_name": "Everolimus Tablet",
+      "id": "924de49f7e5299f6",
+      "initial_posting_date": "2026-10-14",
+      "package_ndc": "49884-159-02",
+      "package_ndcs": [],
+      "presentation": "Everolimus, Tablet, .5 mg (NDC 49884-159-02)",
+      "product_ndcs": [],
+      "related_info": "A business decision was made to withdraw from sale.",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "everolimus tablet to be discontinued tablet everolimus tablet 5 mg ndc 49884 159 02 par health usa llc a business decision was made to withdraw from sale 49884 159 02 transplant",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Transplant"
+      ],
+      "update_date": "2026-10-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-14",
+      "dosage_form": "Tablet",
+      "generic_name": "Everolimus Tablet",
+      "id": "5389a9f42dde5d9d",
+      "initial_posting_date": "2026-10-14",
+      "package_ndc": "49884-160-02",
+      "package_ndcs": [],
+      "presentation": "Everolimus, Tablet, .75 mg (NDC 49884-160-02)",
+      "product_ndcs": [],
+      "related_info": "A business decision was made to withdraw from sale.",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "everolimus tablet to be discontinued tablet everolimus tablet 75 mg ndc 49884 160 02 par health usa llc a business decision was made to withdraw from sale 49884 160 02 transplant",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Transplant"
+      ],
+      "update_date": "2026-10-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
+      "discontinued_date": "2026-10-14",
+      "dosage_form": "Tablet",
+      "generic_name": "Everolimus Tablet",
+      "id": "ca1e0990c942f639",
+      "initial_posting_date": "2026-10-14",
+      "package_ndc": "49884-283-02",
+      "package_ndcs": [],
+      "presentation": "Everolimus, Tablet, 1 mg (NDC 49884-283-02)",
+      "product_ndcs": [],
+      "related_info": "A business decision was made to withdraw from sale.",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "everolimus tablet to be discontinued tablet everolimus tablet 1 mg ndc 49884 283 02 par health usa llc a business decision was made to withdraw from sale 49884 283 02 transplant",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Transplant"
+      ],
+      "update_date": "2026-10-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Par Health, USA LLC",
       "discontinued_date": "2026-10-01",
       "dosage_form": "Tablet",
       "generic_name": "Felodipine Tablet, Extended Release",
@@ -71427,51 +71534,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "03231b60c365d47e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-084-15",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
-      "product_ndcs": [
-        "65219-084",
-        "65219-080",
-        "65219-082",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -71520,9 +71582,9 @@
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "3136280ceb152b3c",
+      "id": "03231b60c365d47e",
       "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-086-20",
+      "package_ndc": "65219-084-15",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -71533,19 +71595,19 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
       "product_ndcs": [
-        "65219-086",
+        "65219-084",
         "65219-080",
         "65219-082",
-        "65219-084"
+        "65219-086"
       ],
       "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -71600,6 +71662,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "3136280ceb152b3c",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -80698,7 +80805,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-15",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -80707,8 +80814,8 @@
     "status_counts": {
       "Current": 1141,
       "Resolved": 19,
-      "To Be Discontinued": 420
+      "To Be Discontinued": 425
     },
-    "total_records": 1580
+    "total_records": 1585
   }
 }
