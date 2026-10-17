@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:57:27+00:00",
+  "generated_at": "2026-10-17T12:58:30+00:00",
   "records": [
     {
       "brand_names": [
@@ -18843,9 +18843,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Azurity Pharmaceuticals, Inc",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -18853,31 +18851,16 @@
       "id": "54dc4dc4fbb0b0f4",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "72572-127-10",
-      "package_ndcs": [
-        "72572-127-01",
-        "72572-127-10",
-        "72572-128-01",
-        "72572-128-08"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 200 mcg/50 mL (4 ug/1 mL) (NDC 72572-127-10)",
-      "product_ndcs": [
-        "72572-127",
-        "72572-128"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Civica",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 mcg 50 ml 4 ug 1 ml ndc 72572 127 10 azurity pharmaceuticals inc distributed by civica 72572 127 10 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 72572 127 72572 128",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 200 mcg 50 ml 4 ug 1 ml ndc 72572 127 10 azurity pharmaceuticals inc distributed by civica 72572 127 10 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -18885,9 +18868,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "Azurity Pharmaceuticals, Inc",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -18895,31 +18876,16 @@
       "id": "ce4bf3e696ae1e7f",
       "initial_posting_date": "2020-04-10",
       "package_ndc": "72572-128-08",
-      "package_ndcs": [
-        "72572-127-01",
-        "72572-127-10",
-        "72572-128-01",
-        "72572-128-08"
-      ],
+      "package_ndcs": [],
       "presentation": "Dexmedetomidine Hydrochloride, Injection, 400 mcg/100 mL (4 ug/1 mL) (NDC 72572-128-08)",
-      "product_ndcs": [
-        "72572-128",
-        "72572-127"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Civica",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1718906",
-        "1718909"
-      ],
-      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 mcg 100 ml 4 ug 1 ml ndc 72572 128 08 azurity pharmaceuticals inc distributed by civica 72572 128 08 dexmedetomidine hydrochloride 1718906 1718909 anesthesia 72572 128 72572 127",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dexmedetomidine hydrochloride injection current injection dexmedetomidine hydrochloride injection 400 mcg 100 ml 4 ug 1 ml ndc 72572 128 08 azurity pharmaceuticals inc distributed by civica 72572 128 08 anesthesia",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXMEDETOMIDINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anesthesia"
       ],
@@ -66218,9 +66184,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2026-09-11",
       "dosage_form": "Injection",
@@ -66228,35 +66192,16 @@
       "id": "41248fc1c1176168",
       "initial_posting_date": "2026-09-11",
       "package_ndc": "0409-1098-02",
-      "package_ndcs": [
-        "0409-1098-12",
-        "0409-1098-02",
-        "0409-1103-11",
-        "0409-1103-01",
-        "0409-1208-11",
-        "0409-1208-01"
-      ],
+      "package_ndcs": [],
       "presentation": "Cisatracurium Besylate, Injection, 10 mg/5ml (2 mg/mL) Single Dose Vial (NDC 0409-1098-02)",
-      "product_ndcs": [
-        "0409-1098",
-        "0409-1103",
-        "0409-1208"
-      ],
+      "product_ndcs": [],
       "related_info": "Supply expected to exhaust November  2026; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "199211",
-        "199212",
-        "1730194"
-      ],
-      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 10 mg 5ml 2 mg ml single dose vial ndc 0409 1098 02 hospira inc a pfizer company supply expected to exhaust november 2026 discontinuation of the manufacture of the drug 0409 1098 02 cisatracurium besylate 199211 199212 1730194 analgesia addiction 0409 1098 0409 1103 0409 1208",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 10 mg 5ml 2 mg ml single dose vial ndc 0409 1098 02 hospira inc a pfizer company supply expected to exhaust november 2026 discontinuation of the manufacture of the drug 0409 1098 02 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -66264,9 +66209,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2026-05-06",
       "dosage_form": "Injection",
@@ -66274,35 +66217,16 @@
       "id": "0eb8c67f22b156f5",
       "initial_posting_date": "2026-05-06",
       "package_ndc": "0409-1103-01",
-      "package_ndcs": [
-        "0409-1098-12",
-        "0409-1098-02",
-        "0409-1103-11",
-        "0409-1103-01",
-        "0409-1208-11",
-        "0409-1208-01"
-      ],
+      "package_ndcs": [],
       "presentation": "Cisatracurium Besylate, Injection, 200 mg/20ml (10 mg/mL) Single Dose Vial (NDC 0409-1103-01)",
-      "product_ndcs": [
-        "0409-1103",
-        "0409-1098",
-        "0409-1208"
-      ],
+      "product_ndcs": [],
       "related_info": "Supply expected to exhaust late June 2026; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "199211",
-        "199212",
-        "1730194"
-      ],
-      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 200 mg 20ml 10 mg ml single dose vial ndc 0409 1103 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1103 01 cisatracurium besylate 199211 199212 1730194 analgesia addiction 0409 1103 0409 1098 0409 1208",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 200 mg 20ml 10 mg ml single dose vial ndc 0409 1103 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1103 01 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -66310,9 +66234,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": "2026-05-06",
       "dosage_form": "Injection",
@@ -66320,35 +66242,16 @@
       "id": "b94d508f75ebe329",
       "initial_posting_date": "2026-05-06",
       "package_ndc": "0409-1208-01",
-      "package_ndcs": [
-        "0409-1098-12",
-        "0409-1098-02",
-        "0409-1103-11",
-        "0409-1103-01",
-        "0409-1208-11",
-        "0409-1208-01"
-      ],
+      "package_ndcs": [],
       "presentation": "Cisatracurium Besylate, Injection, 20 mg/10 mL (2 mg/mL) Multidose Vial (NDC 0409-1208-01)",
-      "product_ndcs": [
-        "0409-1208",
-        "0409-1098",
-        "0409-1103"
-      ],
+      "product_ndcs": [],
       "related_info": "Supply expected to exhaust late June 2026; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "199211",
-        "199212",
-        "1730194"
-      ],
-      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 20 mg 10 ml 2 mg ml multidose vial ndc 0409 1208 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1208 01 cisatracurium besylate 199211 199212 1730194 analgesia addiction 0409 1208 0409 1098 0409 1103",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cisatracurium besylate injection to be discontinued injection cisatracurium besylate injection 20 mg 10 ml 2 mg ml multidose vial ndc 0409 1208 01 hospira inc a pfizer company supply expected to exhaust late june 2026 discontinuation of the manufacture of the drug 0409 1208 01 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "CISATRACURIUM BESYLATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -66435,43 +66338,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -66502,6 +66368,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -69973,51 +69876,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70056,6 +69914,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "32b433e925aa33b2",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -75569,90 +75472,6 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "ALIMTA"
-      ],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-16",
-      "dosage_form": "Injection",
-      "generic_name": "Pemetrexed Disodium Injection",
-      "id": "ddd0cf1a06b4ebcf",
-      "initial_posting_date": "2025-10-16",
-      "package_ndc": "0002-7623-01",
-      "package_ndcs": [
-        "0002-7640-01",
-        "0002-7623-01"
-      ],
-      "presentation": "Alimta, Injection, 500 mg/20 mL (NDC 0002-7623-01)",
-      "product_ndcs": [
-        "0002-7623",
-        "0002-7640"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1728072",
-        "1728075",
-        "1728077",
-        "1728079"
-      ],
-      "search_text": "pemetrexed disodium injection to be discontinued injection alimta injection 500 mg 20 ml ndc 0002 7623 01 eli lilly and co discontinuation of the manufacture of the drug 0002 7623 01 alimta 1728072 1728075 1728077 1728079 oncology 0002 7623 0002 7640",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PEMETREXED DISODIUM HEPTAHYDRATE"
-      ],
-      "therapeutic_categories": [
-        "Oncology"
-      ],
-      "update_date": "2025-10-16",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "ALIMTA"
-      ],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-16",
-      "dosage_form": "Injection",
-      "generic_name": "Pemetrexed Disodium Injection",
-      "id": "1a59aead36ff6bd4",
-      "initial_posting_date": "2025-10-16",
-      "package_ndc": "0002-7640-01",
-      "package_ndcs": [
-        "0002-7640-01",
-        "0002-7623-01"
-      ],
-      "presentation": "Alimta, Injection, 100 mg/4 mL (NDC 0002-7640-01)",
-      "product_ndcs": [
-        "0002-7640",
-        "0002-7623"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1728072",
-        "1728075",
-        "1728077",
-        "1728079"
-      ],
-      "search_text": "pemetrexed disodium injection to be discontinued injection alimta injection 100 mg 4 ml ndc 0002 7640 01 eli lilly and co discontinuation of the manufacture of the drug 0002 7640 01 alimta 1728072 1728075 1728077 1728079 oncology 0002 7640 0002 7623",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PEMETREXED DISODIUM HEPTAHYDRATE"
-      ],
-      "therapeutic_categories": [
-        "Oncology"
-      ],
-      "update_date": "2025-10-16",
-      "update_type": "New"
-    },
-    {
       "brand_names": [],
       "company_name": "XGen Pharmaceuticals DJB, Inc.",
       "discontinued_date": "2026-03-23",
@@ -79251,82 +79070,6 @@
       ],
       "update_date": "2025-11-21",
       "update_type": "New"
-    },
-    {
-      "brand_names": [],
-      "company_name": "Pyros Pharmaceuticals, Inc.",
-      "discontinued_date": "2025-10-16",
-      "dosage_form": "Oral Solution",
-      "generic_name": "Vigabatrin Oral Solution",
-      "id": "9b5ceb83553d6993",
-      "initial_posting_date": "2025-10-16",
-      "package_ndc": "80789-117-50",
-      "package_ndcs": [],
-      "presentation": "Vigpoder, Oral Solution, 50 mg/1 mL (NDC 80789-117-50)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "vigabatrin oral solution to be discontinued oral solution vigpoder oral solution 50 mg 1 ml ndc 80789 117 50 pyros pharmaceuticals inc discontinuation of the manufacture of the drug 80789 117 50 neurology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Neurology"
-      ],
-      "update_date": "2025-10-16",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "VFEND"
-      ],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-10-16",
-      "dosage_form": "Injection",
-      "generic_name": "Voriconazole Injection",
-      "id": "4b438b21ae0d5712",
-      "initial_posting_date": "2025-10-16",
-      "package_ndc": "0049-3190-01",
-      "package_ndcs": [
-        "0049-3190-01",
-        "0049-3170-30",
-        "0049-3180-30",
-        "0049-3190-28",
-        "0049-3160-44"
-      ],
-      "presentation": "Vfend, Injection, 10 mg/1 mL (NDC 0049-3190-01)",
-      "product_ndcs": [
-        "0049-3190",
-        "0049-3170",
-        "0049-3180",
-        "0049-3160"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "351209",
-        "352220",
-        "349434",
-        "349435",
-        "352218",
-        "352219",
-        "465355",
-        "546624"
-      ],
-      "search_text": "voriconazole injection to be discontinued injection vfend injection 10 mg 1 ml ndc 0049 3190 01 pfizer inc discontinuation of the manufacture of the drug 0049 3190 01 vfend 351209 352220 349434 349435 352218 352219 465355 546624 antiviral 0049 3190 0049 3170 0049 3180 0049 3160",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "VORICONAZOLE"
-      ],
-      "therapeutic_categories": [
-        "Antiviral"
-      ],
-      "update_date": "2025-10-16",
-      "update_type": "New"
     }
   ],
   "schema_version": 1,
@@ -79343,8 +79086,8 @@
     "status_counts": {
       "Current": 1141,
       "Resolved": 19,
-      "To Be Discontinued": 425
+      "To Be Discontinued": 421
     },
-    "total_records": 1585
+    "total_records": 1581
   }
 }
