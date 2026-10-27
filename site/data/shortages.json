@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:07:25+00:00",
+  "generated_at": "2026-10-27T15:21:15+00:00",
   "records": [
     {
       "brand_names": [
@@ -3125,7 +3125,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -3177,7 +3177,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -3229,7 +3229,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -3281,7 +3281,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -3333,7 +3333,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -6231,10 +6231,10 @@
       "package_ndcs": [],
       "presentation": "Bacitracin, Ophthalmic Ointment, 3.5 g (NDC 0574-4022-35)",
       "product_ndcs": [],
-      "related_info": "Shortage is estimated for 24 months",
+      "related_info": "Shortage is estimated for 15 additional months",
       "routes": [],
       "rxcuis": [],
-      "search_text": "bacitracin ophthalmic ointment current ophthalmic ointment bacitracin ophthalmic ointment 3 5 g ndc 0574 4022 35 padagis us llc shortage is estimated for 24 months 0574 4022 35 anti infective ophthalmology",
+      "search_text": "bacitracin ophthalmic ointment current ophthalmic ointment bacitracin ophthalmic ointment 3 5 g ndc 0574 4022 35 padagis us llc shortage is estimated for 15 additional months 0574 4022 35 anti infective ophthalmology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [],
@@ -6242,7 +6242,7 @@
         "Anti-Infective",
         "Ophthalmology"
       ],
-      "update_date": "2026-06-01",
+      "update_date": "2026-10-23",
       "update_type": "Revised"
     },
     {
@@ -11550,14 +11550,14 @@
         "61703-262",
         "61703-600"
       ],
-      "related_info": "Next Delivery: January 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: December 2026; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 150 mg 15 ml 10 mg ml ndc 61703 150 05 hospira inc a pfizer company next delivery january 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 61703 150 05 carboplatin 597195 oncology 61703 150 61703 360 61703 262 61703 600",
+      "search_text": "carboplatin injection current injection carboplatin injection 150 mg 15 ml 10 mg ml ndc 61703 150 05 hospira inc a pfizer company next delivery december 2026 estimated recovery march 2027 shortage per manufacturer manufacturing delay 61703 150 05 carboplatin 597195 oncology 61703 150 61703 360 61703 262 61703 600",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11566,7 +11566,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11609,7 +11609,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11633,14 +11633,14 @@
       "product_ndcs": [
         "61703-339"
       ],
-      "related_info": "Limited Supply Available. Next Delivery: January 2027; Estimated Recovery: March 2027",
+      "related_info": "Limited Supply Available. Next Delivery: February 2027; Estimated Recovery: March 2027",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 339 18 hospira inc a pfizer company limited supply available next delivery january 2027 estimated recovery march 2027 61703 339 18 carboplatin 597195 oncology 61703 339",
+      "search_text": "carboplatin injection current injection carboplatin injection 50 mg 5 ml 10 mg ml ndc 61703 339 18 hospira inc a pfizer company limited supply available next delivery february 2027 estimated recovery march 2027 61703 339 18 carboplatin 597195 oncology 61703 339",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11649,7 +11649,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11689,7 +11689,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11713,14 +11713,14 @@
       "product_ndcs": [
         "61703-339"
       ],
-      "related_info": "Limited Supply Available. Next Delivery and Estimated Recovery: December 2026",
+      "related_info": "Limited Supply Available. Next Delivery and Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 450 mg 45 ml 10 mg ml ndc 61703 339 50 hospira inc a pfizer company limited supply available next delivery and estimated recovery december 2026 61703 339 50 carboplatin 597195 oncology 61703 339",
+      "search_text": "carboplatin injection current injection carboplatin injection 450 mg 45 ml 10 mg ml ndc 61703 339 50 hospira inc a pfizer company limited supply available next delivery and estimated recovery december 2026 shortage per manufacturer manufacturing delay 61703 339 50 carboplatin 597195 oncology 61703 339",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11729,7 +11729,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11769,7 +11769,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11812,7 +11812,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -11839,14 +11839,14 @@
         "61703-150",
         "61703-262"
       ],
-      "related_info": "Next Delivery: October 2026; Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: February 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [
         "597195"
       ],
-      "search_text": "carboplatin injection current injection carboplatin injection 600 mg 60 ml 10 mg ml ndc 61703 600 05 hospira inc a pfizer company next delivery october 2026 estimated recovery december 2026 shortage per manufacturer manufacturing delay 61703 600 05 carboplatin 597195 oncology 61703 600 61703 360 61703 150 61703 262",
+      "search_text": "carboplatin injection current injection carboplatin injection 600 mg 60 ml 10 mg ml ndc 61703 600 05 hospira inc a pfizer company next delivery february 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 61703 600 05 carboplatin 597195 oncology 61703 600 61703 360 61703 150 61703 262",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -11855,7 +11855,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -22791,9 +22791,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DOPAMINE HYDROCHLORIDE IN DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -22801,40 +22799,16 @@
       "id": "cf8a188f882e61bc",
       "initial_posting_date": "2017-11-06",
       "package_ndc": "0409-0042-12",
-      "package_ndcs": [
-        "0409-7809-11",
-        "0409-7809-22",
-        "0409-7809-31",
-        "0409-7809-24",
-        "0409-7810-11",
-        "0409-7810-22",
-        "0409-0042-01",
-        "0409-0042-12",
-        "0409-1858-01",
-        "0409-1858-12"
-      ],
+      "package_ndcs": [],
       "presentation": "Dopamine Hydrochloride In Dextrose 5% In Plastic Container, Injection, 400 mg/250 mL (1.6 mg/1 mL) (NDC 0409-0042-12)",
-      "product_ndcs": [
-        "0409-0042",
-        "0409-7809",
-        "0409-7810",
-        "0409-1858"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1292887",
-        "1743877",
-        "1743879"
-      ],
-      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 400 mg 250 ml 1 6 mg 1 ml ndc 0409 0042 12 hospira inc a pfizer company 0409 0042 12 dopamine hydrochloride in dextrose 1292887 1743877 1743879 cardiovascular 0409 0042 0409 7809 0409 7810 0409 1858",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 400 mg 250 ml 1 6 mg 1 ml ndc 0409 0042 12 hospira inc a pfizer company 0409 0042 12 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DOPAMINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -22842,9 +22816,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DOPAMINE HYDROCHLORIDE IN DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -22852,40 +22824,16 @@
       "id": "a17ead30338cfc5a",
       "initial_posting_date": "2017-11-06",
       "package_ndc": "0409-1858-12",
-      "package_ndcs": [
-        "0409-7809-11",
-        "0409-7809-22",
-        "0409-7809-31",
-        "0409-7809-24",
-        "0409-7810-11",
-        "0409-7810-22",
-        "0409-0042-01",
-        "0409-0042-12",
-        "0409-1858-01",
-        "0409-1858-12"
-      ],
+      "package_ndcs": [],
       "presentation": "Dopamine Hydrochloride In Dextrose 5% In Plastic Container, Injection, 800 mg/250 mL (3.2 mg/1 mL) (NDC 0409-1858-12)",
-      "product_ndcs": [
-        "0409-1858",
-        "0409-7809",
-        "0409-7810",
-        "0409-0042"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1292887",
-        "1743877",
-        "1743879"
-      ],
-      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 800 mg 250 ml 3 2 mg 1 ml ndc 0409 1858 12 hospira inc a pfizer company 0409 1858 12 dopamine hydrochloride in dextrose 1292887 1743877 1743879 cardiovascular 0409 1858 0409 7809 0409 7810 0409 0042",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 800 mg 250 ml 3 2 mg 1 ml ndc 0409 1858 12 hospira inc a pfizer company 0409 1858 12 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DOPAMINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -22935,9 +22883,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DOPAMINE HYDROCHLORIDE IN DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -22945,40 +22891,16 @@
       "id": "b99ad107b6ad1021",
       "initial_posting_date": "2017-11-06",
       "package_ndc": "0409-7809-24",
-      "package_ndcs": [
-        "0409-7809-11",
-        "0409-7809-22",
-        "0409-7809-31",
-        "0409-7809-24",
-        "0409-7810-11",
-        "0409-7810-22",
-        "0409-0042-01",
-        "0409-0042-12",
-        "0409-1858-01",
-        "0409-1858-12"
-      ],
+      "package_ndcs": [],
       "presentation": "Dopamine Hydrochloride In Dextrose 5% In Plastic Container, Injection, 800 mg/500 mL (1.6 mg/1 mL) (NDC 0409-7809-24)",
-      "product_ndcs": [
-        "0409-7809",
-        "0409-7810",
-        "0409-0042",
-        "0409-1858"
-      ],
+      "product_ndcs": [],
       "related_info": "Next Delivery and Estimated Recovery: December 2027; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1292887",
-        "1743877",
-        "1743879"
-      ],
-      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 800 mg 500 ml 1 6 mg 1 ml ndc 0409 7809 24 hospira inc a pfizer company next delivery and estimated recovery december 2027 shortage per manufacturer manufacturing delay 0409 7809 24 dopamine hydrochloride in dextrose 1292887 1743877 1743879 cardiovascular 0409 7809 0409 7810 0409 0042 0409 1858",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride in dextrose 5 in plastic container injection 800 mg 500 ml 1 6 mg 1 ml ndc 0409 7809 24 hospira inc a pfizer company next delivery and estimated recovery december 2027 shortage per manufacturer manufacturing delay 0409 7809 24 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DOPAMINE HYDROCHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -23007,7 +22929,7 @@
         "0409-9104",
         "0409-5820"
       ],
-      "related_info": "",
+      "related_info": "Limited Supply Available. Next Delivery: February 2027; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -23015,7 +22937,7 @@
         "1743938",
         "1743941"
       ],
-      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride injection 400 mg 10ml 40 mg 1 ml ndc 0409 9104 20 hospira inc a pfizer company 0409 9104 20 dopamine hydrochloride 1743938 1743941 cardiovascular 0409 9104 0409 5820",
+      "search_text": "dopamine hydrochloride injection current injection dopamine hydrochloride injection 400 mg 10ml 40 mg 1 ml ndc 0409 9104 20 hospira inc a pfizer company limited supply available next delivery february 2027 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 9104 20 dopamine hydrochloride 1743938 1743941 cardiovascular 0409 9104 0409 5820",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -23024,8 +22946,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-08",
-      "update_type": "Reverified"
+      "update_date": "2026-10-21",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -26278,9 +26200,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FENTANYL CITRATE"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26288,61 +26208,16 @@
       "id": "53dc0a85fa4fbd1f",
       "initial_posting_date": "2023-12-20",
       "package_ndc": "0641-6027-25",
-      "package_ndcs": [
-        "0641-6024-01",
-        "0641-6024-10",
-        "0641-6027-01",
-        "0641-6027-25",
-        "0641-6025-01",
-        "0641-6025-10",
-        "0641-6028-01",
-        "0641-6028-10",
-        "0641-6028-25",
-        "0641-6026-01",
-        "0641-6026-05",
-        "0641-6029-01",
-        "0641-6029-25",
-        "0641-6030-01",
-        "0641-6247-01",
-        "0641-6247-25",
-        "0641-6248-01",
-        "0641-6248-10",
-        "0641-6249-01",
-        "0641-6249-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Fentanyl Citrate, Injection, 50 mcg/1 mL (NDC 0641-6027-25)",
-      "product_ndcs": [
-        "0641-6027",
-        "0641-6024",
-        "0641-6025",
-        "0641-6028",
-        "0641-6026",
-        "0641-6029",
-        "0641-6030",
-        "0641-6247",
-        "0641-6248",
-        "0641-6249"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be scheduled for manufacturing to meet demand.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1735003",
-        "1735007",
-        "1735008",
-        "1735013",
-        "2168270",
-        "2474269",
-        "2629337"
-      ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6027 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6027 25 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 2474269 2629337 analgesia addiction pediatric 0641 6027 0641 6024 0641 6025 0641 6028 0641 6026 0641 6029 0641 6030 0641 6247 0641 6248 0641 6249",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6027 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6027 25 analgesia addiction pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FENTANYL CITRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction",
         "Pediatric"
@@ -26351,9 +26226,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FENTANYL CITRATE"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26361,61 +26234,16 @@
       "id": "925d00141de67787",
       "initial_posting_date": "2023-12-20",
       "package_ndc": "0641-6028-25",
-      "package_ndcs": [
-        "0641-6024-01",
-        "0641-6024-10",
-        "0641-6027-01",
-        "0641-6027-25",
-        "0641-6025-01",
-        "0641-6025-10",
-        "0641-6028-01",
-        "0641-6028-10",
-        "0641-6028-25",
-        "0641-6026-01",
-        "0641-6026-05",
-        "0641-6029-01",
-        "0641-6029-25",
-        "0641-6030-01",
-        "0641-6247-01",
-        "0641-6247-25",
-        "0641-6248-01",
-        "0641-6248-10",
-        "0641-6249-01",
-        "0641-6249-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Fentanyl Citrate, Injection, 50 mcg/1 mL (NDC 0641-6028-25)",
-      "product_ndcs": [
-        "0641-6028",
-        "0641-6024",
-        "0641-6027",
-        "0641-6025",
-        "0641-6026",
-        "0641-6029",
-        "0641-6030",
-        "0641-6247",
-        "0641-6248",
-        "0641-6249"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be scheduled for manufacturing to meet demand.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1735003",
-        "1735007",
-        "1735008",
-        "1735013",
-        "2168270",
-        "2474269",
-        "2629337"
-      ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6028 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6028 25 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 2474269 2629337 analgesia addiction pediatric 0641 6028 0641 6024 0641 6027 0641 6025 0641 6026 0641 6029 0641 6030 0641 6247 0641 6248 0641 6249",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6028 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6028 25 analgesia addiction pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FENTANYL CITRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction",
         "Pediatric"
@@ -26424,9 +26252,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FENTANYL CITRATE"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26434,60 +26260,16 @@
       "id": "c1e4095c94ae8418",
       "initial_posting_date": "2023-12-20",
       "package_ndc": "0641-6029-25",
-      "package_ndcs": [
-        "0641-6024-01",
-        "0641-6024-10",
-        "0641-6027-01",
-        "0641-6027-25",
-        "0641-6025-01",
-        "0641-6025-10",
-        "0641-6028-01",
-        "0641-6028-10",
-        "0641-6028-25",
-        "0641-6026-01",
-        "0641-6026-05",
-        "0641-6029-01",
-        "0641-6029-25",
-        "0641-6030-01",
-        "0641-6247-01",
-        "0641-6247-25",
-        "0641-6248-01",
-        "0641-6248-10",
-        "0641-6249-01",
-        "0641-6249-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Fentanyl Citrate, Injection, 50 mcg/1 mL (NDC 0641-6029-25)",
-      "product_ndcs": [
-        "0641-6029",
-        "0641-6024",
-        "0641-6027",
-        "0641-6025",
-        "0641-6028",
-        "0641-6026",
-        "0641-6030",
-        "0641-6247",
-        "0641-6248",
-        "0641-6249"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be scheduled for manufacturing to meet demand.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1735003",
-        "1735007",
-        "1735008",
-        "1735013",
-        "2168270",
-        "2474269",
-        "2629337"
-      ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6029 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6029 25 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 2474269 2629337 analgesia addiction pediatric 0641 6029 0641 6024 0641 6027 0641 6025 0641 6028 0641 6026 0641 6030 0641 6247 0641 6248 0641 6249",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6029 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6029 25 analgesia addiction pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FENTANYL CITRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction",
         "Pediatric"
@@ -26496,9 +26278,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FENTANYL CITRATE"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26506,60 +26286,16 @@
       "id": "7de1756836cc5128",
       "initial_posting_date": "2023-12-20",
       "package_ndc": "0641-6030-01",
-      "package_ndcs": [
-        "0641-6024-01",
-        "0641-6024-10",
-        "0641-6027-01",
-        "0641-6027-25",
-        "0641-6025-01",
-        "0641-6025-10",
-        "0641-6028-01",
-        "0641-6028-10",
-        "0641-6028-25",
-        "0641-6026-01",
-        "0641-6026-05",
-        "0641-6029-01",
-        "0641-6029-25",
-        "0641-6030-01",
-        "0641-6247-01",
-        "0641-6247-25",
-        "0641-6248-01",
-        "0641-6248-10",
-        "0641-6249-01",
-        "0641-6249-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Fentanyl Citrate, Injection, 50 mcg/1 mL (NDC 0641-6030-01)",
-      "product_ndcs": [
-        "0641-6030",
-        "0641-6024",
-        "0641-6027",
-        "0641-6025",
-        "0641-6028",
-        "0641-6026",
-        "0641-6029",
-        "0641-6247",
-        "0641-6248",
-        "0641-6249"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be scheduled for manufacturing to meet demand.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1735003",
-        "1735007",
-        "1735008",
-        "1735013",
-        "2168270",
-        "2474269",
-        "2629337"
-      ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6030 01 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6030 01 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 2474269 2629337 analgesia addiction pediatric 0641 6030 0641 6024 0641 6027 0641 6025 0641 6028 0641 6026 0641 6029 0641 6247 0641 6248 0641 6249",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6030 01 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6030 01 analgesia addiction pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FENTANYL CITRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction",
         "Pediatric"
@@ -26568,9 +26304,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FENTANYL CITRATE"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26578,61 +26312,16 @@
       "id": "5c971ba2e3d35292",
       "initial_posting_date": "2023-12-20",
       "package_ndc": "0641-6247-25",
-      "package_ndcs": [
-        "0641-6024-01",
-        "0641-6024-10",
-        "0641-6027-01",
-        "0641-6027-25",
-        "0641-6025-01",
-        "0641-6025-10",
-        "0641-6028-01",
-        "0641-6028-10",
-        "0641-6028-25",
-        "0641-6026-01",
-        "0641-6026-05",
-        "0641-6029-01",
-        "0641-6029-25",
-        "0641-6030-01",
-        "0641-6247-01",
-        "0641-6247-25",
-        "0641-6248-01",
-        "0641-6248-10",
-        "0641-6249-01",
-        "0641-6249-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Fentanyl Citrate, Injection, 50 mcg/1 mL (NDC 0641-6247-25)",
-      "product_ndcs": [
-        "0641-6247",
-        "0641-6024",
-        "0641-6027",
-        "0641-6025",
-        "0641-6028",
-        "0641-6026",
-        "0641-6029",
-        "0641-6030",
-        "0641-6248",
-        "0641-6249"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be scheduled for manufacturing to meet demand.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1735003",
-        "1735007",
-        "1735008",
-        "1735013",
-        "2168270",
-        "2474269",
-        "2629337"
-      ],
-      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6247 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6247 25 fentanyl citrate 1735003 1735007 1735008 1735013 2168270 2474269 2629337 analgesia addiction pediatric 0641 6247 0641 6024 0641 6027 0641 6025 0641 6028 0641 6026 0641 6029 0641 6030 0641 6248 0641 6249",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "fentanyl citrate injection current injection fentanyl citrate injection 50 mcg 1 ml ndc 0641 6247 25 hikma pharmaceuticals usa inc additional lots will be scheduled for manufacturing to meet demand product will be made available as it is released 0641 6247 25 analgesia addiction pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FENTANYL CITRATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction",
         "Pediatric"
@@ -27364,7 +27053,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -27415,7 +27104,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -27466,7 +27155,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -30919,7 +30608,7 @@
         "0409-3795",
         "0409-3796"
       ],
-      "related_info": "Next Delivery and Estimated Recovery: December 2027",
+      "related_info": "Next Delivery and Estimated Recovery: December 2027; Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -30929,7 +30618,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 0409 3793 01 hospira inc a pfizer company next delivery and estimated recovery december 2027 0409 3793 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 0409 3793 0409 3795 0409 3796",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 0409 3793 01 hospira inc a pfizer company next delivery and estimated recovery december 2027 shortage per manufacturer manufacturing delay 0409 3793 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 0409 3793 0409 3795 0409 3796",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -30938,7 +30627,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-21",
       "update_type": "Revised"
     },
     {
@@ -49791,9 +49480,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "NIPENT"
-      ],
+      "brand_names": [],
       "company_name": "Hospira, Inc., a Pfizer Company",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -49801,27 +49488,16 @@
       "id": "1e913e10e2302eeb",
       "initial_posting_date": "2026-08-27",
       "package_ndc": "0409-0801-01",
-      "package_ndcs": [
-        "0409-0801-01"
-      ],
+      "package_ndcs": [],
       "presentation": "Nipent, Injection, 10 mg, single dose vial (NDC 0409-0801-01)",
-      "product_ndcs": [
-        "0409-0801"
-      ],
+      "product_ndcs": [],
       "related_info": "Next Delivery and Estimated Recovery: December 2028; Shortage per Manufacturer: Manufacturing Delay",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "105607",
-        "240573"
-      ],
-      "search_text": "pentostatin injection current injection nipent injection 10 mg single dose vial ndc 0409 0801 01 hospira inc a pfizer company next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0409 0801 01 nipent 105607 240573 oncology 0409 0801",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "pentostatin injection current injection nipent injection 10 mg single dose vial ndc 0409 0801 01 hospira inc a pfizer company next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0409 0801 01 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "PENTOSTATIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -51905,7 +51581,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -51949,7 +51625,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -51993,7 +51669,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -52037,7 +51713,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -52081,7 +51757,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -52125,7 +51801,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-10-05",
+      "update_date": "2026-10-23",
       "update_type": "Reverified"
     },
     {
@@ -62701,31 +62377,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Mylan Institutional, a Viatris Company",
-      "discontinued_date": "2025-10-24",
-      "dosage_form": "Injection",
-      "generic_name": "Busulfan Injection",
-      "id": "83e514dbb6fa0a2b",
-      "initial_posting_date": "2025-10-24",
-      "package_ndc": "67457-893-08",
-      "package_ndcs": [],
-      "presentation": "Busulfan, Injection, 6 mg/1 mL (NDC 67457-893-08)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "busulfan injection to be discontinued injection busulfan injection 6 mg 1 ml ndc 67457 893 08 mylan institutional a viatris company discontinuation of the manufacture of the drug 67457 893 08 hematology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Hematology"
-      ],
-      "update_date": "2025-10-24",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "CALCITRIOL"
       ],
@@ -65638,43 +65289,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -65705,6 +65319,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -67446,9 +67097,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "EMTRIVA"
-      ],
+      "brand_names": [],
       "company_name": "Gilead Sciences, Inc.",
       "discontinued_date": "2026-06-17",
       "dosage_form": "Capsule",
@@ -67456,31 +67105,16 @@
       "id": "5b299c5aad277d7d",
       "initial_posting_date": "2026-06-17",
       "package_ndc": "61958-0601-1",
-      "package_ndcs": [
-        "61958-0601-1",
-        "61958-0602-1"
-      ],
+      "package_ndcs": [],
       "presentation": "Emtriva, Capsule, 200 mg (NDC 61958-0601-1)",
-      "product_ndcs": [
-        "61958-0601",
-        "61958-0602"
-      ],
+      "product_ndcs": [],
       "related_info": "Product expected to be available until March 2027",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "403875",
-        "404587",
-        "597291",
-        "616148"
-      ],
-      "search_text": "emtricitabine capsule to be discontinued capsule emtriva capsule 200 mg ndc 61958 0601 1 gilead sciences inc product expected to be available until march 2027 61958 0601 1 emtriva 403875 404587 597291 616148 anti infective 61958 0601 61958 0602",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "emtricitabine capsule to be discontinued capsule emtriva capsule 200 mg ndc 61958 0601 1 gilead sciences inc product expected to be available until march 2027 61958 0601 1 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "EMTRICITABINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -67488,9 +67122,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "EMTRIVA"
-      ],
+      "brand_names": [],
       "company_name": "Gilead Sciences, Inc.",
       "discontinued_date": "2026-06-17",
       "dosage_form": "Oral Solution",
@@ -67498,31 +67130,16 @@
       "id": "15fb1a60e7037b57",
       "initial_posting_date": "2026-06-17",
       "package_ndc": "61958-0602-1",
-      "package_ndcs": [
-        "61958-0601-1",
-        "61958-0602-1"
-      ],
+      "package_ndcs": [],
       "presentation": "Emtriva, Oral Solution, 10 mg/1 mL (NDC 61958-0602-1)",
-      "product_ndcs": [
-        "61958-0602",
-        "61958-0601"
-      ],
+      "product_ndcs": [],
       "related_info": "Product expected to be available until March 2027",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "403875",
-        "404587",
-        "597291",
-        "616148"
-      ],
-      "search_text": "emtricitabine oral solution to be discontinued oral solution emtriva oral solution 10 mg 1 ml ndc 61958 0602 1 gilead sciences inc product expected to be available until march 2027 61958 0602 1 emtriva 403875 404587 597291 616148 anti infective 61958 0602 61958 0601",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "emtricitabine oral solution to be discontinued oral solution emtriva oral solution 10 mg 1 ml ndc 61958 0602 1 gilead sciences inc product expected to be available until march 2027 61958 0602 1 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "EMTRICITABINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -70506,51 +70123,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "ee95d38fe9db694e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70589,6 +70161,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "ee95d38fe9db694e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -70686,51 +70303,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
-      "product_ndcs": [
-        "65219-086",
-        "65219-080",
-        "65219-082",
-        "65219-084"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70769,6 +70341,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -71973,31 +71590,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-24",
-      "dosage_form": "Injection",
-      "generic_name": "Insulin Glargine Injection",
-      "id": "765307b9da28c5a3",
-      "initial_posting_date": "2025-10-24",
-      "package_ndc": "0002-8214-05",
-      "package_ndcs": [],
-      "presentation": "Basaglar, Injection, U-100 Tempo Pen (NDC 0002-8214-05)",
-      "product_ndcs": [],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "insulin glargine injection to be discontinued injection basaglar injection u 100 tempo pen ndc 0002 8214 05 eli lilly and co a business decision was made to discontinue manufacture of the drug 0002 8214 05 endocrinology metabolism",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-24",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "REZVOGLAR KWIKPEN"
       ],
@@ -72083,77 +71675,6 @@
     },
     {
       "brand_names": [
-        "HUMALOG TEMPO PEN"
-      ],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-24",
-      "dosage_form": "Injection",
-      "generic_name": "Insulin Lispro Injection",
-      "id": "9b62d44dbfe9fb87",
-      "initial_posting_date": "2025-10-24",
-      "package_ndc": "0002-8213-05",
-      "package_ndcs": [
-        "0002-7510-01",
-        "0002-7510-17",
-        "0002-7533-01",
-        "0002-8799-01",
-        "0002-8799-59",
-        "0002-7516-01",
-        "0002-7516-59",
-        "0002-7516-99",
-        "0002-7714-01",
-        "0002-7714-59",
-        "0002-7714-61",
-        "0002-8213-01",
-        "0002-8213-05",
-        "0002-0800-01",
-        "0002-7712-01",
-        "0002-7712-27",
-        "0002-7712-61"
-      ],
-      "presentation": "Humalog, Injection, U-100 Tempo Pen (NDC 0002-8213-05)",
-      "product_ndcs": [
-        "0002-8213",
-        "0002-7510",
-        "0002-7533",
-        "0002-8799",
-        "0002-7516",
-        "0002-7714",
-        "0002-0800",
-        "0002-7712"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "SUBCUTANEOUS"
-      ],
-      "rxcuis": [
-        "242120",
-        "865098",
-        "1652239",
-        "1652242",
-        "1652639",
-        "1652640",
-        "1652644",
-        "1652646",
-        "1926331",
-        "1926332",
-        "2621571",
-        "2621572"
-      ],
-      "search_text": "insulin lispro injection to be discontinued injection humalog injection u 100 tempo pen ndc 0002 8213 05 eli lilly and co a business decision was made to discontinue manufacture of the drug 0002 8213 05 humalog tempo pen 242120 865098 1652239 1652242 1652639 1652640 1652644 1652646 1926331 1926332 2621571 2621572 endocrinology metabolism 0002 8213 0002 7510 0002 7533 0002 8799 0002 7516 0002 7714 0002 0800 0002 7712",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "INSULIN LISPRO"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-24",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "INSULIN LISPRO PROTAMINE AND INSULIN LISPRO INJECTABLE SUSPENSION MIX75/25 KWIKPEN"
       ],
       "company_name": "Eli Lilly and Co.",
@@ -72188,138 +71709,6 @@
         "Endocrinology/Metabolism"
       ],
       "update_date": "2026-09-01",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "LYUMJEV TEMPO PEN"
-      ],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-24",
-      "dosage_form": "Injection",
-      "generic_name": "Insulin Lispro-aabc Injection",
-      "id": "1f0883f752ae2dee",
-      "initial_posting_date": "2025-10-24",
-      "package_ndc": "0002-8235-05",
-      "package_ndcs": [
-        "0002-7728-01",
-        "0002-7728-99",
-        "0002-7726-01",
-        "0002-7726-05",
-        "0002-8207-01",
-        "0002-8207-05",
-        "0002-8207-61",
-        "0002-8351-01",
-        "0002-8351-05",
-        "0002-8235-01",
-        "0002-8235-05",
-        "0002-8235-99",
-        "0002-8228-01",
-        "0002-8228-27"
-      ],
-      "presentation": "Lyumjev, Injection, U-100 Tempo Pen (NDC 0002-8235-05)",
-      "product_ndcs": [
-        "0002-8235",
-        "0002-7728",
-        "0002-7726",
-        "0002-8207",
-        "0002-8351",
-        "0002-8228"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "SUBCUTANEOUS"
-      ],
-      "rxcuis": [
-        "2380231",
-        "2380236",
-        "2380248",
-        "2380250",
-        "2380254",
-        "2380256",
-        "2380259",
-        "2380260",
-        "2380265",
-        "2380266",
-        "2380267",
-        "2380268"
-      ],
-      "search_text": "insulin lispro aabc injection to be discontinued injection lyumjev injection u 100 tempo pen ndc 0002 8235 05 eli lilly and co a business decision was made to discontinue manufacture of the drug 0002 8235 05 lyumjev tempo pen 2380231 2380236 2380248 2380250 2380254 2380256 2380259 2380260 2380265 2380266 2380267 2380268 endocrinology metabolism 0002 8235 0002 7728 0002 7726 0002 8207 0002 8351 0002 8228",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "INSULIN LISPRO"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-24",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "LYUMJEV TEMPO PEN"
-      ],
-      "company_name": "Eli Lilly and Co.",
-      "discontinued_date": "2025-10-24",
-      "dosage_form": "Injection",
-      "generic_name": "Insulin Lispro-aabc Injection",
-      "id": "0e8f0bb2b7074eac",
-      "initial_posting_date": "2025-10-24",
-      "package_ndc": "0002-8235-99",
-      "package_ndcs": [
-        "0002-7728-01",
-        "0002-7728-99",
-        "0002-7726-01",
-        "0002-7726-05",
-        "0002-8207-01",
-        "0002-8207-05",
-        "0002-8207-61",
-        "0002-8351-01",
-        "0002-8351-05",
-        "0002-8235-01",
-        "0002-8235-05",
-        "0002-8235-99",
-        "0002-8228-01",
-        "0002-8228-27"
-      ],
-      "presentation": "Lyumjev, Injection, U-100 Tempo Pen Sample (NDC 0002-8235-99)",
-      "product_ndcs": [
-        "0002-8235",
-        "0002-7728",
-        "0002-7726",
-        "0002-8207",
-        "0002-8351",
-        "0002-8228"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "SUBCUTANEOUS"
-      ],
-      "rxcuis": [
-        "2380231",
-        "2380236",
-        "2380248",
-        "2380250",
-        "2380254",
-        "2380256",
-        "2380259",
-        "2380260",
-        "2380265",
-        "2380266",
-        "2380267",
-        "2380268"
-      ],
-      "search_text": "insulin lispro aabc injection to be discontinued injection lyumjev injection u 100 tempo pen sample ndc 0002 8235 99 eli lilly and co a business decision was made to discontinue manufacture of the drug 0002 8235 99 lyumjev tempo pen 2380231 2380236 2380248 2380250 2380254 2380256 2380259 2380260 2380265 2380266 2380267 2380268 endocrinology metabolism 0002 8235 0002 7728 0002 7726 0002 8207 0002 8351 0002 8228",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "INSULIN LISPRO"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-24",
       "update_type": "New"
     },
     {
@@ -79755,7 +79144,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-27",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -79764,8 +79153,8 @@
     "status_counts": {
       "Current": 1142,
       "Resolved": 19,
-      "To Be Discontinued": 450
+      "To Be Discontinued": 445
     },
-    "total_records": 1611
+    "total_records": 1606
   }
 }
