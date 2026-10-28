@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:21:15+00:00",
+  "generated_at": "2026-10-28T16:02:40+00:00",
   "records": [
     {
       "brand_names": [
@@ -5746,7 +5746,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -5790,7 +5790,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -5834,7 +5834,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -9255,7 +9255,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -16424,7 +16424,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -16471,7 +16471,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -18606,7 +18606,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -18645,7 +18645,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -18943,9 +18943,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -18953,37 +18951,16 @@
       "id": "8a47e05c28ea7265",
       "initial_posting_date": "2022-03-01",
       "package_ndc": "0264-7520-00",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 10%, Injection, 10 g/100 mL (NDC 0264-7520-00)",
-      "product_ndcs": [
-        "0264-7520",
-        "0264-7510"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 00 b braun medical inc 0264 7520 00 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7520 0264 7510",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 00 b braun medical inc 0264 7520 00 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -18994,9 +18971,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19004,37 +18979,16 @@
       "id": "cd7549d0f097bf7c",
       "initial_posting_date": "2022-03-01",
       "package_ndc": "0264-7520-10",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 10%, Injection, 10 g/100 mL (NDC 0264-7520-10)",
-      "product_ndcs": [
-        "0264-7520",
-        "0264-7510"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 10 b braun medical inc 0264 7520 10 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7520 0264 7510",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 10 b braun medical inc 0264 7520 10 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -19045,9 +18999,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19055,37 +19007,16 @@
       "id": "b1cd42f56ec78ccb",
       "initial_posting_date": "2022-03-01",
       "package_ndc": "0264-7520-20",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 10%, Injection, 10 g/100 mL (NDC 0264-7520-20)",
-      "product_ndcs": [
-        "0264-7520",
-        "0264-7510"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 20 b braun medical inc 0264 7520 20 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7520 0264 7510",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 10 injection current injection dextrose monohydrate 10 injection 10 g 100 ml ndc 0264 7520 20 b braun medical inc 0264 7520 20 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -19740,9 +19671,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19750,37 +19679,16 @@
       "id": "439b080c0f99a30e",
       "initial_posting_date": "2022-02-14",
       "package_ndc": "0264-7510-00",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 5%, Injection, 5 g/100 mL (NDC 0264-7510-00)",
-      "product_ndcs": [
-        "0264-7510",
-        "0264-7520"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 00 b braun medical inc 0264 7510 00 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7510 0264 7520",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 00 b braun medical inc 0264 7510 00 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -19791,9 +19699,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19801,37 +19707,16 @@
       "id": "f73c5bac48854591",
       "initial_posting_date": "2022-02-14",
       "package_ndc": "0264-7510-10",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 5%, Injection, 5 g/100 mL (NDC 0264-7510-10)",
-      "product_ndcs": [
-        "0264-7510",
-        "0264-7520"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 10 b braun medical inc 0264 7510 10 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7510 0264 7520",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 10 b braun medical inc 0264 7510 10 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -19842,9 +19727,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -19852,37 +19735,16 @@
       "id": "259f89b2ff575810",
       "initial_posting_date": "2022-02-14",
       "package_ndc": "0264-7510-20",
-      "package_ndcs": [
-        "0264-7510-00",
-        "0264-7510-10",
-        "0264-7510-20",
-        "0264-7520-00",
-        "0264-7520-10",
-        "0264-7520-20"
-      ],
+      "package_ndcs": [],
       "presentation": "Dextrose Monohydrate 5%, Injection, 5 g/100 mL (NDC 0264-7510-20)",
-      "product_ndcs": [
-        "0264-7510",
-        "0264-7520"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1795477",
-        "1795480",
-        "1795481",
-        "1795607",
-        "1795610",
-        "1795612"
-      ],
-      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 20 b braun medical inc 0264 7510 20 dextrose 1795477 1795480 1795481 1795607 1795610 1795612 endocrinology metabolism gastroenterology other pediatric 0264 7510 0264 7520",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "dextrose monohydrate 5 injection current injection dextrose monohydrate 5 injection 5 g 100 ml ndc 0264 7510 20 b braun medical inc 0264 7510 20 endocrinology metabolism gastroenterology other pediatric",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "DEXTROSE, UNSPECIFIED FORM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Endocrinology/Metabolism",
         "Gastroenterology",
@@ -21769,7 +21631,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-10-21",
+      "update_date": "2026-10-27",
       "update_type": "Revised"
     },
     {
@@ -21794,7 +21656,7 @@
         "0409-7517",
         "0409-6648"
       ],
-      "related_info": "Next Delivery: October 2026; Estimated Recovery: March 2027; Shortage per Manufacturer: Manufacturing Delay",
+      "related_info": "Next Delivery: November 2026.  Estimated Recovery: March 2027.  Shortage per Manufacturer: Manufacturing Delay",
       "routes": [
         "INTRAVENOUS"
       ],
@@ -21802,7 +21664,7 @@
         "727517",
         "1795514"
       ],
-      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company next delivery october 2026 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 7517 16 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 7517 0409 6648",
+      "search_text": "dextrose monohydrate 50 injection current injection dextrose monohydrate 50 injection 25 g 50 ml ndc 0409 7517 16 hospira inc a pfizer company next delivery november 2026 estimated recovery march 2027 shortage per manufacturer manufacturing delay 0409 7517 16 dextrose 727517 1795514 endocrinology metabolism gastroenterology pediatric 0409 7517 0409 6648",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -21813,7 +21675,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-10-08",
+      "update_date": "2026-10-27",
       "update_type": "Revised"
     },
     {
@@ -28197,8 +28059,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-14",
-      "update_type": "Reverified"
+      "update_date": "2026-10-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -28236,7 +28098,7 @@
         "0054-8301",
         "0054-3298"
       ],
-      "related_info": "Available on allocation",
+      "related_info": "",
       "routes": [
         "ORAL"
       ],
@@ -28247,7 +28109,7 @@
         "310429",
         "313988"
       ],
-      "search_text": "furosemide oral solution current oral solution furosemide oral solution 10 mg 1 ml ndc 0054 3294 50 hikma pharmaceuticals usa inc available on allocation 0054 3294 50 furosemide 197730 197731 197732 310429 313988 cardiovascular 0054 3294 0054 4297 0054 8297 0054 4299 0054 8299 0054 4301 0054 8301 0054 3298",
+      "search_text": "furosemide oral solution current oral solution furosemide oral solution 10 mg 1 ml ndc 0054 3294 50 hikma pharmaceuticals usa inc 0054 3294 50 furosemide 197730 197731 197732 310429 313988 cardiovascular 0054 3294 0054 4297 0054 8297 0054 4299 0054 8299 0054 4301 0054 8301 0054 3298",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -28256,8 +28118,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-14",
-      "update_type": "Reverified"
+      "update_date": "2026-10-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -28315,8 +28177,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-14",
-      "update_type": "Reverified"
+      "update_date": "2026-10-27",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -30959,49 +30821,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "c99a2667dae6d828",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-08",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31039,6 +30858,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-10-21",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "c99a2667dae6d828",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -53765,15 +53627,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 195 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 195 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 195 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 195 20 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53822,15 +53684,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 196 99 eugia us llc check wholesalers for inventory 55150 196 99 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 196 55150 195 55150 197 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 2 mg 1 ml ndc 55150 196 99 eugia us llc check wholesalers for inventory 55150 196 99 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 196 55150 195 55150 197 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53879,15 +53741,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 197 20 eugia us llc check wholesalers for inventory 55150 197 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 197 55150 195 55150 196 55150 198 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 197 20 eugia us llc check wholesalers for inventory 55150 197 20 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 197 55150 195 55150 196 55150 198 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53936,15 +53798,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 198 30 eugia us llc check wholesalers for inventory 55150 198 30 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 198 55150 195 55150 196 55150 197 55150 199 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 5 mg 1 ml ndc 55150 198 30 eugia us llc check wholesalers for inventory 55150 198 30 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 198 55150 195 55150 196 55150 197 55150 199 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -53992,15 +53854,15 @@
         "PERINEURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 199 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 199 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 199 55150 195 55150 196 55150 197 55150 198 55150 200 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 7 5 mg 1 ml ndc 55150 199 20 eugia us llc on backorder recovery tbd check wholesalers for inventory 55150 199 20 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 199 55150 195 55150 196 55150 197 55150 198 55150 200 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -54047,15 +53909,15 @@
         "EPIDURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 200 10 eugia us llc check wholesalers for inventory 55150 200 10 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 200 55150 195 55150 196 55150 197 55150 198 55150 199 55150 201",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 200 10 eugia us llc check wholesalers for inventory 55150 200 10 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 200 55150 195 55150 196 55150 197 55150 198 55150 199 55150 201",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -54102,15 +53964,15 @@
         "EPIDURAL"
       ],
       "rxcuis": [
-        "905189",
-        "1734084",
         "1734090",
         "1734207",
         "1734347",
         "1734475",
-        "1734483"
+        "1734483",
+        "905189",
+        "1734084"
       ],
-      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 201 20 eugia us llc check wholesalers for inventory 55150 201 20 ropivacaine hydrochloride 905189 1734084 1734090 1734207 1734347 1734475 1734483 anesthesia 55150 201 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200",
+      "search_text": "ropivacaine hydrochloride injection current injection ropivacaine hydrochloride injection 10 mg 1 ml ndc 55150 201 20 eugia us llc check wholesalers for inventory 55150 201 20 ropivacaine hydrochloride 1734090 1734207 1734347 1734475 1734483 905189 1734084 anesthesia 55150 201 55150 195 55150 196 55150 197 55150 198 55150 199 55150 200",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -56584,7 +56446,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56653,7 +56515,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56722,7 +56584,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56791,7 +56653,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56860,7 +56722,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56929,7 +56791,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -56998,7 +56860,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -57067,7 +56929,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -57134,7 +56996,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -57201,7 +57063,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -57641,7 +57503,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -57683,7 +57545,7 @@
         "Pediatric",
         "Total Parenteral Nutrition"
       ],
-      "update_date": "2026-09-11",
+      "update_date": "2026-10-27",
       "update_type": "Reverified"
     },
     {
@@ -70033,51 +69895,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "e973040d79b16682",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70116,6 +69933,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "e973040d79b16682",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-080-05",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
+      "product_ndcs": [
+        "65219-080",
+        "65219-082",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -70213,51 +70075,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "03231b60c365d47e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-084-15",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
-      "product_ndcs": [
-        "65219-084",
-        "65219-080",
-        "65219-082",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70296,6 +70113,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "03231b60c365d47e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-084-15",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "product_ndcs": [
+        "65219-084",
+        "65219-080",
+        "65219-082",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -73541,9 +73403,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "PENTASA"
-      ],
+      "brand_names": [],
       "company_name": "Takeda Pharmaceuticals USA Inc.",
       "discontinued_date": "2026-09-16",
       "dosage_form": "Capsule, Extended Release",
@@ -73551,31 +73411,16 @@
       "id": "d9eef5aee398a8a8",
       "initial_posting_date": "2026-09-16",
       "package_ndc": "54092-189-81",
-      "package_ndcs": [
-        "54092-189-81",
-        "54092-191-12"
-      ],
+      "package_ndcs": [],
       "presentation": "Pentasa, Capsule, Extended Release, 250 mg (NDC 54092-189-81)",
-      "product_ndcs": [
-        "54092-189",
-        "54092-191"
-      ],
+      "product_ndcs": [],
       "related_info": "Product is anticipated to be available until December 31, 2027",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "206791",
-        "314092",
-        "476362",
-        "580286"
-      ],
-      "search_text": "mesalamine capsule extended release to be discontinued capsule extended release pentasa capsule extended release 250 mg ndc 54092 189 81 takeda pharmaceuticals usa inc product is anticipated to be available until december 31 2027 54092 189 81 pentasa 206791 314092 476362 580286 gastroenterology 54092 189 54092 191",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "mesalamine capsule extended release to be discontinued capsule extended release pentasa capsule extended release 250 mg ndc 54092 189 81 takeda pharmaceuticals usa inc product is anticipated to be available until december 31 2027 54092 189 81 gastroenterology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "MESALAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Gastroenterology"
       ],
@@ -73583,9 +73428,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "PENTASA"
-      ],
+      "brand_names": [],
       "company_name": "Takeda Pharmaceuticals USA Inc.",
       "discontinued_date": "2026-09-16",
       "dosage_form": "Capsule, Extended Release",
@@ -73593,31 +73436,16 @@
       "id": "e40a22ea4687cf6e",
       "initial_posting_date": "2026-09-16",
       "package_ndc": "54092-191-12",
-      "package_ndcs": [
-        "54092-189-81",
-        "54092-191-12"
-      ],
+      "package_ndcs": [],
       "presentation": "Pentasa, Capsule, Extended Release, 500 mg (NDC 54092-191-12)",
-      "product_ndcs": [
-        "54092-191",
-        "54092-189"
-      ],
+      "product_ndcs": [],
       "related_info": "Product is anticipated to be available until December 31, 2027",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "206791",
-        "314092",
-        "476362",
-        "580286"
-      ],
-      "search_text": "mesalamine capsule extended release to be discontinued capsule extended release pentasa capsule extended release 500 mg ndc 54092 191 12 takeda pharmaceuticals usa inc product is anticipated to be available until december 31 2027 54092 191 12 pentasa 206791 314092 476362 580286 gastroenterology 54092 191 54092 189",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "mesalamine capsule extended release to be discontinued capsule extended release pentasa capsule extended release 500 mg ndc 54092 191 12 takeda pharmaceuticals usa inc product is anticipated to be available until december 31 2027 54092 191 12 gastroenterology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "MESALAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Gastroenterology"
       ],
@@ -77049,90 +76877,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "SYMLINPEN"
-      ],
-      "company_name": "AstraZeneca AB",
-      "discontinued_date": "2025-10-27",
-      "dosage_form": "Injection",
-      "generic_name": "Pramlintide Acetate Injection",
-      "id": "983e12df87bad2ba",
-      "initial_posting_date": "2025-10-27",
-      "package_ndc": "0310-6615-02",
-      "package_ndcs": [
-        "0310-6615-02",
-        "0310-6627-02"
-      ],
-      "presentation": "SymlinPen\u00ae 60 , Injection, 1000 ug/1 mL (NDC 0310-6615-02)",
-      "product_ndcs": [
-        "0310-6615",
-        "0310-6627"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "SUBCUTANEOUS"
-      ],
-      "rxcuis": [
-        "861042",
-        "861043",
-        "861044",
-        "861045"
-      ],
-      "search_text": "pramlintide acetate injection to be discontinued injection symlinpen 60 injection 1000 ug 1 ml ndc 0310 6615 02 astrazeneca ab discontinuation of the manufacture of the drug 0310 6615 02 symlinpen 861042 861043 861044 861045 endocrinology metabolism 0310 6615 0310 6627",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PRAMLINTIDE ACETATE"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "SYMLINPEN"
-      ],
-      "company_name": "AstraZeneca AB",
-      "discontinued_date": "2025-10-27",
-      "dosage_form": "Injection",
-      "generic_name": "Pramlintide Acetate Injection",
-      "id": "dbae84142862f7e1",
-      "initial_posting_date": "2025-10-27",
-      "package_ndc": "0310-6627-02",
-      "package_ndcs": [
-        "0310-6615-02",
-        "0310-6627-02"
-      ],
-      "presentation": "SymlinPen\u00ae 120 , Injection, 1000 ug/1 mL (NDC 0310-6627-02)",
-      "product_ndcs": [
-        "0310-6627",
-        "0310-6615"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug.",
-      "routes": [
-        "SUBCUTANEOUS"
-      ],
-      "rxcuis": [
-        "861042",
-        "861043",
-        "861044",
-        "861045"
-      ],
-      "search_text": "pramlintide acetate injection to be discontinued injection symlinpen 120 injection 1000 ug 1 ml ndc 0310 6627 02 astrazeneca ab discontinuation of the manufacture of the drug 0310 6627 02 symlinpen 861042 861043 861044 861045 endocrinology metabolism 0310 6627 0310 6615",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "PRAMLINTIDE ACETATE"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism"
-      ],
-      "update_date": "2025-10-27",
-      "update_type": "New"
-    },
-    {
       "brand_names": [],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2023-04-28",
@@ -79144,7 +78888,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-27",
+    "last_updated": "2026-10-28",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -79153,8 +78897,8 @@
     "status_counts": {
       "Current": 1142,
       "Resolved": 19,
-      "To Be Discontinued": 445
+      "To Be Discontinued": 443
     },
-    "total_records": 1606
+    "total_records": 1604
   }
 }
