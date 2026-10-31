@@ -5,8 +5,19 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:19:27 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Ciprofloxacin Hydrochloride and Hydrocortisone Otic Suspension/Drops (66758-087-70)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=66758-087-70</link>
+      <guid isPermaLink="false">5c5dcb1971536a56</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Cipro, Otic Suspension/Drops, 0.2% base, 1% (NDC 66758-087-70)
+Status: To Be Discontinued
+Updated: 2026-10-30
+Company: Sandoz Inc.
+Discontinuation of the manufacturing of NDC 66758-087-70. Authorized generic is available under new NDC 0781-6218-70</description>
+    </item>
     <item>
       <title>Current: Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection (0409-1541-10)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-1541-10</link>
@@ -1031,17 +1042,6 @@ Next Delivery: November 2026; Estimated Recovery: December 2026; Shortage per Ma
 Status: Current
 Updated: 2026-10-21
 Company: Hospira, Inc., a Pfizer Company</description>
-    </item>
-    <item>
-      <title>Current: Bupivacaine Hydrochloride Injection (0409-0525-25)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-0525-25</link>
-      <guid isPermaLink="false">e93f637ba62f8b03</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Marcaine, Injection, 250 mg/50 mL (NDC 0409-0525-25)
-Status: Current
-Updated: 2026-10-21
-Company: Hospira, Inc., a Pfizer Company
-Historical NDC: 0409-1610-50</description>
     </item>
   </channel>
 </rss>
