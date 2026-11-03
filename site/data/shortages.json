@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T19:29:15+00:00",
+  "generated_at": "2026-11-03T17:03:02+00:00",
   "records": [
     {
       "brand_names": [
@@ -6889,92 +6889,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "efbc78b31dd9b430",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1165-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
-      "product_ndcs": [
-        "0409-1165",
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "EPIDURAL",
-        "RETROBULBAR"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-10-21",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "ac58831c6b843752",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1165-01",
@@ -7042,6 +6956,92 @@
         "1867596"
       ],
       "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-10-21",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "efbc78b31dd9b430",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1165-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Bupivacaine Hydrochloride, Injection, 7.5 mg/1 mL (NDC 0409-1165-01)",
+      "product_ndcs": [
+        "0409-1165",
+        "0409-1159",
+        "0409-1160",
+        "0409-1162",
+        "0409-1163",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection bupivacaine hydrochloride injection 7 5 mg 1 ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31108,49 +31108,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "c99a2667dae6d828",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-08",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31198,15 +31155,15 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "53f3133efc435e4e",
+      "id": "c99a2667dae6d828",
       "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-02",
+      "package_ndc": "25021-701-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
       "product_ndcs": [
         "25021-701",
         "25021-700"
@@ -31221,7 +31178,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31274,6 +31231,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-10-21",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "53f3133efc435e4e",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-08",
       "update_type": "Reverified"
     },
     {
@@ -44655,7 +44655,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -44680,7 +44680,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -44705,7 +44705,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -44730,7 +44730,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -59752,7 +59752,7 @@
       "therapeutic_categories": [
         "Medical Imaging"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -59788,7 +59788,7 @@
       "therapeutic_categories": [
         "Medical Imaging"
       ],
-      "update_date": "2026-10-19",
+      "update_date": "2026-10-30",
       "update_type": "Reverified"
     },
     {
@@ -65334,6 +65334,159 @@
       "update_type": "New"
     },
     {
+      "brand_names": [],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Cefazolin in Dextrose Injection",
+      "id": "ae04bb73946ea00f",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-0096-06",
+      "package_ndcs": [],
+      "presentation": "Cefazolin in Dextrose, Injection, 3g/150mL (NDC 0338-0096-06)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cefazolin in dextrose injection to be discontinued injection cefazolin in dextrose injection 3g 150ml ndc 0338 0096 06 baxter healthcare discontinuation of the manufacture of the drug 0338 0096 06 anti infective",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Cefazolin in Dextrose Injection",
+      "id": "cc748557d9c8604f",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-3503-41",
+      "package_ndcs": [],
+      "presentation": "Cefazolin in Dextrose, Injection, 1g/50 mL (NDC 0338-3503-41)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cefazolin in dextrose injection to be discontinued injection cefazolin in dextrose injection 1g 50 ml ndc 0338 3503 41 baxter healthcare discontinuation of the manufacture of the drug 0338 3503 41 anti infective",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Cefazolin in Dextrose Injection",
+      "id": "f29ba993b57325fe",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-3508-41",
+      "package_ndcs": [],
+      "presentation": "Cefazolin in Dextrose, Injection, 2g/100mL (NDC 0338-3508-41)",
+      "product_ndcs": [],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "cefazolin in dextrose injection to be discontinued injection cefazolin in dextrose injection 2g 100ml ndc 0338 3508 41 baxter healthcare discontinuation of the manufacture of the drug 0338 3508 41 anti infective",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CEFEPIME"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Cefepime Hydrochloride Injection",
+      "id": "95e4bee10ea41459",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-1301-41",
+      "package_ndcs": [
+        "0338-1301-41",
+        "0338-1301-48"
+      ],
+      "presentation": "Cefepime Hydrochloride in Plastic Container, Injection, 1g/50 mL (NDC 0338-1301-41)",
+      "product_ndcs": [
+        "0338-1301"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1665088",
+        "1665093"
+      ],
+      "search_text": "cefepime hydrochloride injection to be discontinued injection cefepime hydrochloride in plastic container injection 1g 50 ml ndc 0338 1301 41 baxter healthcare discontinuation of the manufacture of the drug 0338 1301 41 cefepime 1665088 1665093 anti infective 0338 1301",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CEFEPIME"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Cefepime Hydrochloride Injection",
+      "id": "0a48d03452f09e01",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-1301-48",
+      "package_ndcs": [
+        "0338-1301-41",
+        "0338-1301-48"
+      ],
+      "presentation": "Cefepime Hydrochloride in Plastic Container, Injection, 2g/100mL (NDC 0338-1301-48)",
+      "product_ndcs": [
+        "0338-1301"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1665088",
+        "1665093"
+      ],
+      "search_text": "cefepime hydrochloride injection to be discontinued injection cefepime hydrochloride in plastic container injection 2g 100ml ndc 0338 1301 48 baxter healthcare discontinuation of the manufacture of the drug 0338 1301 48 cefepime 1665088 1665093 anti infective 0338 1301",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
       "brand_names": [
         "CEFEPIME"
       ],
@@ -65466,6 +65619,86 @@
         "Anti-Infective"
       ],
       "update_date": "2025-11-14",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CEFTRIAXONE"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Ceftriaxone Sodium Injection",
+      "id": "99ebe75a0660369b",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-5002-41",
+      "package_ndcs": [
+        "0338-5002-41",
+        "0338-5003-41"
+      ],
+      "presentation": "Ceftriaxone Sodium in Plastic Container, Injection, 1g/50mL (NDC 0338-5002-41)",
+      "product_ndcs": [
+        "0338-5002",
+        "0338-5003"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1665021",
+        "1665046"
+      ],
+      "search_text": "ceftriaxone sodium injection to be discontinued injection ceftriaxone sodium in plastic container injection 1g 50ml ndc 0338 5002 41 baxter healthcare discontinuation of the manufacture of the drug 0338 5002 41 ceftriaxone 1665021 1665046 anti infective 0338 5002 0338 5003",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CEFTRIAXONE SODIUM"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CEFTRIAXONE"
+      ],
+      "company_name": "Baxter Healthcare",
+      "discontinued_date": "2026-10-30",
+      "dosage_form": "Injection",
+      "generic_name": "Ceftriaxone Sodium Injection",
+      "id": "cbc7dcebd5f85495",
+      "initial_posting_date": "2026-10-30",
+      "package_ndc": "0338-5003-41",
+      "package_ndcs": [
+        "0338-5002-41",
+        "0338-5003-41"
+      ],
+      "presentation": "Ceftriaxone Sodium in Plastic Container, Injection, 2g/100 mL (NDC 0338-5003-41)",
+      "product_ndcs": [
+        "0338-5003",
+        "0338-5002"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "1665021",
+        "1665046"
+      ],
+      "search_text": "ceftriaxone sodium injection to be discontinued injection ceftriaxone sodium in plastic container injection 2g 100 ml ndc 0338 5003 41 baxter healthcare discontinuation of the manufacture of the drug 0338 5003 41 ceftriaxone 1665021 1665046 anti infective 0338 5003 0338 5002",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CEFTRIAXONE SODIUM"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-10-30",
       "update_type": "New"
     },
     {
@@ -65725,43 +65958,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -65792,6 +65988,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -70469,51 +70702,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "e973040d79b16682",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70552,6 +70740,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "e973040d79b16682",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-080-05",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
+      "product_ndcs": [
+        "65219-080",
+        "65219-082",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -72507,9 +72740,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "STROMECTOL"
-      ],
+      "brand_names": [],
       "company_name": "Merck Sharp & Dohme LLC",
       "discontinued_date": "2026-09-29",
       "dosage_form": "Tablet",
@@ -72517,28 +72748,16 @@
       "id": "98f05605758856b2",
       "initial_posting_date": "2026-09-29",
       "package_ndc": "0006-0032-01",
-      "package_ndcs": [
-        "0006-0032-20",
-        "0006-0032-01"
-      ],
+      "package_ndcs": [],
       "presentation": "STROMECTOL, Tablet, 3 mg (NDC 0006-0032-01)",
-      "product_ndcs": [
-        "0006-0032"
-      ],
+      "product_ndcs": [],
       "related_info": "Product will be discontinued on 10/31/2026",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "261314",
-        "311207"
-      ],
-      "search_text": "ivermectin tablet to be discontinued tablet stromectol tablet 3 mg ndc 0006 0032 01 merck sharp dohme llc product will be discontinued on 10 31 2026 0006 0032 01 stromectol 261314 311207 anti infective 0006 0032",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ivermectin tablet to be discontinued tablet stromectol tablet 3 mg ndc 0006 0032 01 merck sharp dohme llc product will be discontinued on 10 31 2026 0006 0032 01 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "IVERMECTIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -79424,7 +79643,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-11-02",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -79433,8 +79652,8 @@
     "status_counts": {
       "Current": 1153,
       "Resolved": 19,
-      "To Be Discontinued": 443
+      "To Be Discontinued": 450
     },
-    "total_records": 1615
+    "total_records": 1622
   }
 }
