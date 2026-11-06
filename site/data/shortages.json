@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:24:19+00:00",
+  "generated_at": "2026-11-06T16:45:38+00:00",
   "records": [
     {
       "brand_names": [
@@ -2643,8 +2643,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -2729,8 +2729,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -2815,8 +2815,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -2901,8 +2901,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -2987,8 +2987,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -3073,8 +3073,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-10-02",
-      "update_type": "Revised"
+      "update_date": "2026-11-04",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -12862,7 +12862,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -12875,9 +12874,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 600 mg 4 ml 150 mg ml ndc 0009 0775 26 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0775 26 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 600 mg 4 ml 150 mg ml ndc 0009 0775 26 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0775 26 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -12941,7 +12941,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -12954,9 +12953,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 300 mg 2 ml 150 mg ml ndc 0009 0870 26 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0870 26 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 300 mg 2 ml 150 mg ml ndc 0009 0870 26 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0870 26 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -13020,7 +13020,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -13033,9 +13032,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 900 mg 6 ml 150 mg ml ndc 0009 0902 18 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0902 18 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection current injection cleocin phosphate injection cleocin phosphate 900 mg 6 ml 150 mg ml ndc 0009 0902 18 pfizer inc next delivery and estimated recovery december 2028 shortage per manufacturer manufacturing delay 0009 0902 18 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -26387,9 +26387,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "HEPARIN SODIUM IN SODIUM CHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26397,28 +26395,16 @@
       "id": "6a686542f01a4930",
       "initial_posting_date": "2017-11-14",
       "package_ndc": "0264-9872-00",
-      "package_ndcs": [
-        "0264-9872-10",
-        "0264-9872-00"
-      ],
+      "package_ndcs": [],
       "presentation": "Heparin Sodium 2,000 Units in Sodium Chloride 0.9% in Plastic Container, Injection, 200 [USP'U]/100 mL (NDC 0264-9872-00)",
-      "product_ndcs": [
-        "0264-9872"
-      ],
+      "product_ndcs": [],
       "related_info": "Estimated recovery: late Q4 2026; Manufacturing delays",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1658690",
-        "1658692"
-      ],
-      "search_text": "heparin sodium injection current injection heparin sodium 2 000 units in sodium chloride 0 9 in plastic container injection 200 usp u 100 ml ndc 0264 9872 00 b braun medical inc estimated recovery late q4 2026 manufacturing delays 0264 9872 00 heparin sodium in sodium chloride 1658690 1658692 hematology 0264 9872",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "heparin sodium injection current injection heparin sodium 2 000 units in sodium chloride 0 9 in plastic container injection 200 usp u 100 ml ndc 0264 9872 00 b braun medical inc estimated recovery late q4 2026 manufacturing delays 0264 9872 00 hematology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "HEPARIN SODIUM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Hematology"
       ],
@@ -26426,9 +26412,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "HEPARIN SODIUM IN SODIUM CHLORIDE"
-      ],
+      "brand_names": [],
       "company_name": "B. Braun Medical Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -26436,28 +26420,16 @@
       "id": "1dd63fed85110652",
       "initial_posting_date": "2017-11-14",
       "package_ndc": "0264-9872-10",
-      "package_ndcs": [
-        "0264-9872-10",
-        "0264-9872-00"
-      ],
+      "package_ndcs": [],
       "presentation": "Heparin Sodium 1,000 Units In Sodium Chloride 0.9% In Plastic Container, Injection, 200 [USP'U]/100 mL (NDC 0264-9872-10)",
-      "product_ndcs": [
-        "0264-9872"
-      ],
+      "product_ndcs": [],
       "related_info": "Estimated recovery: late Q4 2026; Manufacturing delays",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1658690",
-        "1658692"
-      ],
-      "search_text": "heparin sodium injection current injection heparin sodium 1 000 units in sodium chloride 0 9 in plastic container injection 200 usp u 100 ml ndc 0264 9872 10 b braun medical inc estimated recovery late q4 2026 manufacturing delays 0264 9872 10 heparin sodium in sodium chloride 1658690 1658692 hematology 0264 9872",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "heparin sodium injection current injection heparin sodium 1 000 units in sodium chloride 0 9 in plastic container injection 200 usp u 100 ml ndc 0264 9872 10 b braun medical inc estimated recovery late q4 2026 manufacturing delays 0264 9872 10 hematology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "HEPARIN SODIUM"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Hematology"
       ],
@@ -28941,49 +28913,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "6b36c11670dc66d6",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "Estimated recovery: end-October to mid-November 2026",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery end october to mid november 2026 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-08",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -29022,6 +28951,49 @@
       ],
       "update_date": "2026-10-21",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "6b36c11670dc66d6",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [
+        "25021-700",
+        "25021-701"
+      ],
+      "related_info": "Estimated recovery: end-October to mid-November 2026",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery end october to mid november 2026 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-08",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -37217,79 +37189,6 @@
       "discontinued_date": null,
       "dosage_form": "Capsule",
       "generic_name": "Lisdexamfetamine Dimesylate Capsule",
-      "id": "da859d7c14cd90e6",
-      "initial_posting_date": "2023-07-14",
-      "package_ndc": "57664-048-88",
-      "package_ndcs": [
-        "57664-047-88",
-        "57664-046-88",
-        "57664-048-88",
-        "57664-049-88",
-        "57664-050-88",
-        "57664-051-88",
-        "57664-052-88",
-        "57664-083-88",
-        "57664-084-88",
-        "57664-085-88",
-        "57664-086-88",
-        "57664-087-88",
-        "57664-088-88"
-      ],
-      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
-      "product_ndcs": [
-        "57664-048",
-        "57664-047",
-        "57664-046",
-        "57664-049",
-        "57664-050",
-        "57664-051",
-        "57664-052",
-        "57664-083",
-        "57664-084",
-        "57664-085",
-        "57664-086",
-        "57664-087",
-        "57664-088"
-      ],
-      "related_info": "Estimated recovery: TBD",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "854830",
-        "854834",
-        "854838",
-        "854842",
-        "854846",
-        "854850",
-        "1593856",
-        "1871456",
-        "1871460",
-        "1871462",
-        "1871464",
-        "1871466",
-        "1871468"
-      ],
-      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2026-10-30",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "LISDEXAMFETAMINE DIMESYLATE"
-      ],
-      "company_name": "Sun Pharmaceutical Industries, Inc.",
-      "discontinued_date": null,
-      "dosage_form": "Capsule",
-      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
       "id": "3a979204f5856004",
       "initial_posting_date": "2023-07-14",
       "package_ndc": "57664-048-88",
@@ -37344,6 +37243,79 @@
         "1871468"
       ],
       "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 30 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "therapeutic_categories": [
+        "Psychiatry"
+      ],
+      "update_date": "2026-10-30",
+      "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "LISDEXAMFETAMINE DIMESYLATE"
+      ],
+      "company_name": "Sun Pharmaceutical Industries, Inc.",
+      "discontinued_date": null,
+      "dosage_form": "Capsule",
+      "generic_name": "Lisdexamfetamine Dimesylate Capsule",
+      "id": "da859d7c14cd90e6",
+      "initial_posting_date": "2023-07-14",
+      "package_ndc": "57664-048-88",
+      "package_ndcs": [
+        "57664-047-88",
+        "57664-046-88",
+        "57664-048-88",
+        "57664-049-88",
+        "57664-050-88",
+        "57664-051-88",
+        "57664-052-88",
+        "57664-083-88",
+        "57664-084-88",
+        "57664-085-88",
+        "57664-086-88",
+        "57664-087-88",
+        "57664-088-88"
+      ],
+      "presentation": "Lisdexamfetamine Dimesylate, Capsule, 20 mg (NDC 57664-048-88)",
+      "product_ndcs": [
+        "57664-048",
+        "57664-047",
+        "57664-046",
+        "57664-049",
+        "57664-050",
+        "57664-051",
+        "57664-052",
+        "57664-083",
+        "57664-084",
+        "57664-085",
+        "57664-086",
+        "57664-087",
+        "57664-088"
+      ],
+      "related_info": "Estimated recovery: TBD",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "854830",
+        "854834",
+        "854838",
+        "854842",
+        "854846",
+        "854850",
+        "1593856",
+        "1871456",
+        "1871460",
+        "1871462",
+        "1871464",
+        "1871466",
+        "1871468"
+      ],
+      "search_text": "lisdexamfetamine dimesylate capsule current capsule lisdexamfetamine dimesylate capsule 20 mg ndc 57664 048 88 sun pharmaceutical industries inc estimated recovery tbd 57664 048 88 lisdexamfetamine dimesylate 854830 854834 854838 854842 854846 854850 1593856 1871456 1871460 1871462 1871464 1871466 1871468 psychiatry 57664 048 57664 047 57664 046 57664 049 57664 050 57664 051 57664 052 57664 083 57664 084 57664 085 57664 086 57664 087 57664 088",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -44777,9 +44749,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "METRONIDAZOLE"
-      ],
+      "brand_names": [],
       "company_name": "InfoRLife SA",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -44787,27 +44757,16 @@
       "id": "ed8ffdd34718350c",
       "initial_posting_date": "2022-01-13",
       "package_ndc": "0409-0152-24",
-      "package_ndcs": [
-        "0409-0152-01",
-        "0409-0152-24"
-      ],
+      "package_ndcs": [],
       "presentation": "Metronidazole in Flexible Container, Injection, 500 mg/100 mL (NDC 0409-0152-24)",
-      "product_ndcs": [
-        "0409-0152"
-      ],
+      "product_ndcs": [],
       "related_info": "Labeler: Hospira Inc.",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "311683"
-      ],
-      "search_text": "metronidazole injection current injection metronidazole in flexible container injection 500 mg 100 ml ndc 0409 0152 24 inforlife sa labeler hospira inc 0409 0152 24 metronidazole 311683 anti infective 0409 0152",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "metronidazole injection current injection metronidazole in flexible container injection 500 mg 100 ml ndc 0409 0152 24 inforlife sa labeler hospira inc 0409 0152 24 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "METRONIDAZOLE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -48632,7 +48591,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -48698,7 +48657,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -48764,7 +48723,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -48830,7 +48789,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -49188,7 +49147,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -49233,7 +49192,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -49278,7 +49237,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-10-02",
+      "update_date": "2026-11-04",
       "update_type": "Reverified"
     },
     {
@@ -58958,9 +58917,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "EMEND"
-      ],
+      "brand_names": [],
       "company_name": "Merck Sharp & Dohme LLC",
       "discontinued_date": "2026-04-08",
       "dosage_form": "",
@@ -58968,51 +58925,16 @@
       "id": "156f4220ba8b4bd6",
       "initial_posting_date": "2026-04-08",
       "package_ndc": "0006-3066-03",
-      "package_ndcs": [
-        "0006-0461-02",
-        "0006-0461-01",
-        "0006-0461-06",
-        "0006-0461-12",
-        "0006-0462-01",
-        "0006-0462-06",
-        "0006-3862-03",
-        "0006-3862-13",
-        "0006-0464-01",
-        "0006-0464-10",
-        "0006-0464-05",
-        "0006-3066-01",
-        "0006-3066-03"
-      ],
+      "package_ndcs": [],
       "presentation": "Emend, Oral Powder for Suspension, 125 mg (NDC 0006-3066-03)",
-      "product_ndcs": [
-        "0006-3066",
-        "0006-0461",
-        "0006-0462",
-        "0006-3862",
-        "0006-0464"
-      ],
+      "product_ndcs": [],
       "related_info": "To be discontinued in approximately early-September 2026.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "403810",
-        "403811",
-        "404465",
-        "404466",
-        "644088",
-        "644278",
-        "754508",
-        "754509",
-        "1729308",
-        "1729311"
-      ],
-      "search_text": "aprepitant oral powder for suspension to be discontinued emend oral powder for suspension 125 mg ndc 0006 3066 03 merck sharp dohme llc to be discontinued in approximately early september 2026 0006 3066 03 emend 403810 403811 404465 404466 644088 644278 754508 754509 1729308 1729311 gastroenterology 0006 3066 0006 0461 0006 0462 0006 3862 0006 0464",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "aprepitant oral powder for suspension to be discontinued emend oral powder for suspension 125 mg ndc 0006 3066 03 merck sharp dohme llc to be discontinued in approximately early september 2026 0006 3066 03 gastroenterology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "APREPITANT"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Gastroenterology"
       ],
@@ -63562,7 +63484,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -63575,9 +63496,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 600 mg 4 ml 150 mg ml 4 ml vial ndc 0009 0775 26 pfizer inc discontinuation of the manufacture of the drug 0009 0775 26 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 600 mg 4 ml 150 mg ml 4 ml vial ndc 0009 0775 26 pfizer inc discontinuation of the manufacture of the drug 0009 0775 26 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0775 0009 0870 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -63641,7 +63563,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -63654,9 +63575,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 300 mg 2 ml 150 mg ml 2 ml vial ndc 0009 0870 26 pfizer inc discontinuation of the manufacture of the drug 0009 0870 26 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 300 mg 2 ml 150 mg ml 2 ml vial ndc 0009 0870 26 pfizer inc discontinuation of the manufacture of the drug 0009 0870 26 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0870 0009 0775 0009 0902 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -63720,7 +63642,6 @@
         "INTRAVENOUS"
       ],
       "rxcuis": [
-        "205964",
         "309335",
         "309336",
         "309339",
@@ -63733,9 +63654,10 @@
         "1737578",
         "1737579",
         "1737581",
-        "1737582"
+        "1737582",
+        "205964"
       ],
-      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 900 mg 6 ml 150 mg ml 6 ml vial ndc 0009 0902 18 pfizer inc discontinuation of the manufacture of the drug 0009 0902 18 cleocin phosphate 205964 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
+      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 900 mg 6 ml 150 mg ml 6 ml vial ndc 0009 0902 18 pfizer inc discontinuation of the manufacture of the drug 0009 0902 18 cleocin phosphate 309335 309336 309339 685574 685576 685578 706461 1737244 1737245 1737578 1737579 1737581 1737582 205964 anti infective 0009 0902 0009 0870 0009 0775 0009 0728 0009 3124 0009 3447 0009 3381 0009 3375 0009 3382 0009 6582",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -70194,51 +70116,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "ee95d38fe9db694e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -70284,12 +70161,12 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
+      "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "d9f7c2f5b4111faf",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-084-15",
+      "id": "ee95d38fe9db694e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-082-10",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -70300,19 +70177,19 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
       "product_ndcs": [
-        "65219-084",
-        "65219-080",
         "65219-082",
+        "65219-080",
+        "65219-084",
         "65219-086"
       ],
-      "related_info": "Discontinuation of the manufacture of the drug",
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -70321,7 +70198,7 @@
       "therapeutic_categories": [
         "Medical Imaging"
       ],
-      "update_date": "2026-05-21",
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -70377,9 +70254,9 @@
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
+      "id": "d9f7c2f5b4111faf",
       "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
+      "package_ndc": "65219-084-15",
       "package_ndcs": [
         "65219-080-01",
         "65219-080-05",
@@ -70390,19 +70267,19 @@
         "65219-086-01",
         "65219-086-20"
       ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
       "product_ndcs": [
-        "65219-086",
+        "65219-084",
         "65219-080",
         "65219-082",
-        "65219-084"
+        "65219-086"
       ],
       "related_info": "Discontinuation of the manufacture of the drug",
       "routes": [
         "INTRAVENOUS"
       ],
       "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -70457,6 +70334,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -77458,6 +77380,44 @@
     },
     {
       "brand_names": [
+        "ADCIRCA"
+      ],
+      "company_name": "Eli Lilly and Co.",
+      "discontinued_date": "2026-11-05",
+      "dosage_form": "Tablet",
+      "generic_name": "Tadalafil Tablet",
+      "id": "6060fd3b6658731b",
+      "initial_posting_date": "2026-11-05",
+      "package_ndc": "66302-467-60",
+      "package_ndcs": [
+        "66302-467-60"
+      ],
+      "presentation": "Adcirca, Tablet, 20 mg (NDC 66302-467-60)",
+      "product_ndcs": [
+        "66302-467"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "849866",
+        "2123194"
+      ],
+      "search_text": "tadalafil tablet to be discontinued tablet adcirca tablet 20 mg ndc 66302 467 60 eli lilly and co discontinuation of the manufacture of the drug 66302 467 60 adcirca 849866 2123194 cardiovascular 66302 467",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "TADALAFIL"
+      ],
+      "therapeutic_categories": [
+        "Cardiovascular"
+      ],
+      "update_date": "2026-11-05",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "TAZVERIK"
       ],
       "company_name": "Epizyme, Inc. (An Ipsen Company)",
@@ -77979,7 +77939,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-06",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -77988,8 +77948,8 @@
     "status_counts": {
       "Current": 1113,
       "Resolved": 59,
-      "To Be Discontinued": 425
+      "To Be Discontinued": 426
     },
-    "total_records": 1597
+    "total_records": 1598
   }
 }
