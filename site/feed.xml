@@ -5,8 +5,19 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:48:28 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Valrubicin Solution (67979-001-01)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=67979-001-01</link>
+      <guid isPermaLink="false">1e1a5f56a1ef95b7</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Valstar Preservative Free, Solution, 40 mg/1 mL (NDC 67979-001-01)
+Status: To Be Discontinued
+Updated: 2026-11-13
+Company: Endo Operations LTD
+Discontinuation of the manufacture of the drug</description>
+    </item>
     <item>
       <title>Current: Azacitidine Injection (43598-305-62)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=43598-305-62</link>
@@ -1044,16 +1055,6 @@ Status: Current
 Updated: 2026-11-09
 Company: Hospira, Inc., a Pfizer Company
 Next Delivery and Estimated Recovery: December 2026; Shortage per Manufacturer: Manufacturing Delay</description>
-    </item>
-    <item>
-      <title>Current: Etomidate Injection (0409-6695-02)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-6695-02</link>
-      <guid isPermaLink="false">8c71228b6901ac89</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-      <description>Amidate, Injection, 2 mg/mL (NDC 0409-6695-02)
-Status: Current
-Updated: 2026-11-09
-Company: Hospira, Inc., a Pfizer Company</description>
     </item>
   </channel>
 </rss>

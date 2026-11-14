@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:12:36+00:00",
+  "generated_at": "2026-11-14T15:48:28+00:00",
   "records": [
     {
       "brand_names": [
@@ -13804,9 +13804,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "KYXATA"
-      ],
+      "brand_names": [],
       "company_name": "Avyxa Pharma, LLC",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -13814,31 +13812,16 @@
       "id": "2722b2b7eec0a8eb",
       "initial_posting_date": "2023-04-28",
       "package_ndc": "83831-141-08",
-      "package_ndcs": [
-        "83831-140-02",
-        "83831-141-08",
-        "83831-142-50"
-      ],
+      "package_ndcs": [],
       "presentation": "Kyxata, Injection, 80 mg/8 mL (10 mg/mL) (NDC 83831-141-08)",
-      "product_ndcs": [
-        "83831-141",
-        "83831-140",
-        "83831-142"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "597195",
-        "2721602"
-      ],
-      "search_text": "carboplatin injection current injection kyxata injection 80 mg 8 ml 10 mg ml ndc 83831 141 08 avyxa pharma llc 83831 141 08 kyxata 597195 2721602 oncology 83831 141 83831 140 83831 142",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "carboplatin injection current injection kyxata injection 80 mg 8 ml 10 mg ml ndc 83831 141 08 avyxa pharma llc 83831 141 08 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "CARBOPLATIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -13846,9 +13829,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "KYXATA"
-      ],
+      "brand_names": [],
       "company_name": "Avyxa Pharma, LLC",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -13856,31 +13837,16 @@
       "id": "e8e576c5d1d2b172",
       "initial_posting_date": "2023-04-28",
       "package_ndc": "83831-142-50",
-      "package_ndcs": [
-        "83831-140-02",
-        "83831-141-08",
-        "83831-142-50"
-      ],
+      "package_ndcs": [],
       "presentation": "Kyxata, Injection, 500 mg/50 mL (10 mg/mL) (NDC 83831-142-50)",
-      "product_ndcs": [
-        "83831-142",
-        "83831-140",
-        "83831-141"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "597195",
-        "2721602"
-      ],
-      "search_text": "carboplatin injection current injection kyxata injection 500 mg 50 ml 10 mg ml ndc 83831 142 50 avyxa pharma llc 83831 142 50 kyxata 597195 2721602 oncology 83831 142 83831 140 83831 141",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "carboplatin injection current injection kyxata injection 500 mg 50 ml 10 mg ml ndc 83831 142 50 avyxa pharma llc 83831 142 50 oncology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "CARBOPLATIN"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology"
       ],
@@ -31708,6 +31674,49 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "1dc3a32cba02875c",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [
+        "25021-700",
+        "25021-701"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-21",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31755,18 +31764,18 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
+      "id": "b401d47954f60913",
       "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
+      "package_ndc": "25021-701-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
       "product_ndcs": [
-        "25021-700",
-        "25021-701"
+        "25021-701",
+        "25021-700"
       ],
       "related_info": "",
       "routes": [
@@ -31778,7 +31787,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31831,49 +31840,6 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-11-06",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "b401d47954f60913",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-21",
       "update_type": "Reverified"
     },
     {
@@ -63118,64 +63084,6 @@
     },
     {
       "brand_names": [
-        "SIMLANDI"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "",
-      "generic_name": "Adalimumab-ryvk Kit",
-      "id": "d0a3e7caf91c4e42",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "51759-523-21",
-      "package_ndcs": [
-        "51759-402-02",
-        "51759-402-17",
-        "51759-513-21",
-        "65517-0002-1",
-        "51759-386-22",
-        "51759-497-31",
-        "51759-412-22",
-        "51759-624-31",
-        "51759-523-21",
-        "51759-634-31",
-        "51759-274-17",
-        "51759-384-21"
-      ],
-      "presentation": "Simlandi, Kit, Kit (NDC 51759-523-21)",
-      "product_ndcs": [
-        "51759-523",
-        "51759-402",
-        "51759-386",
-        "51759-412",
-        "51759-274"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [
-        "797544",
-        "2677780",
-        "2677787",
-        "2688819",
-        "2688823",
-        "2688826",
-        "2688827",
-        "2688828",
-        "2688829",
-        "2706644",
-        "2706645"
-      ],
-      "search_text": "adalimumab ryvk kit to be discontinued simlandi kit kit ndc 51759 523 21 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 51759 523 21 simlandi 797544 2677780 2677787 2688819 2688823 2688826 2688827 2688828 2688829 2706644 2706645 rheumatology 51759 523 51759 402 51759 386 51759 412 51759 274",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Rheumatology"
-      ],
-      "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
         "ALBUTEROL SULFATE"
       ],
       "company_name": "Nephron Pharmaceuticals Corporation",
@@ -65139,9 +65047,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65149,99 +65055,16 @@
       "id": "7f39cffc60f5eb84",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0409-07",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0409-07)",
-      "product_ndcs": [
-        "0941-0409",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0409 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0409 07 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0409 0941 0411 0941 0413 0941 0415 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0409 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0409 07 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65249,9 +65072,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65259,99 +65080,16 @@
       "id": "eb9ebf51baa54719",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0411-06",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0411-06)",
-      "product_ndcs": [
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0411 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0411 06 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0411 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0411 06 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65359,9 +65097,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65369,99 +65105,16 @@
       "id": "1725f201e24d432c",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0411-07",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0411-07)",
-      "product_ndcs": [
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0411 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0411 07 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0411 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0411 07 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65469,9 +65122,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65479,99 +65130,16 @@
       "id": "3d118bfe5f93b7fe",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0413-06",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0413-06)",
-      "product_ndcs": [
-        "0941-0413",
-        "0941-0411",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0413 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0413 06 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0413 0941 0411 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0413 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0413 06 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65579,9 +65147,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65589,99 +65155,16 @@
       "id": "1b6529826fd46d01",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0413-07",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0413-07)",
-      "product_ndcs": [
-        "0941-0413",
-        "0941-0411",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0413 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0413 07 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0413 0941 0411 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0413 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0413 07 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65689,9 +65172,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65699,99 +65180,16 @@
       "id": "88aad897f154d7b4",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0415-06",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0415-06)",
-      "product_ndcs": [
-        "0941-0415",
-        "0941-0411",
-        "0941-0413",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0415 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0415 06 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0415 0941 0411 0941 0413 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0415 06 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0415 06 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65799,9 +65197,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65809,99 +65205,16 @@
       "id": "7ab1e899499d4a83",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0415-07",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0415-07)",
-      "product_ndcs": [
-        "0941-0415",
-        "0941-0411",
-        "0941-0413",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0415 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0415 07 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0415 0941 0411 0941 0413 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0415 07 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0415 07 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -65909,9 +65222,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -65919,99 +65230,16 @@
       "id": "e115533b50071dbd",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0424-51",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0424-51)",
-      "product_ndcs": [
-        "0941-0424",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0424 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0424 51 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0424 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0424 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0424 51 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66019,9 +65247,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66029,99 +65255,16 @@
       "id": "9a0d5ca08a993150",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0426-52",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0426-52)",
-      "product_ndcs": [
-        "0941-0426",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0426 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0426 52 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0426 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0426 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0426 52 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66129,9 +65272,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66139,99 +65280,16 @@
       "id": "3a04d480f16418d8",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0426-53",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 1.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0426-53)",
-      "product_ndcs": [
-        "0941-0426",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0426 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0426 53 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0426 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 1 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0426 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0426 53 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66239,9 +65297,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66249,99 +65305,16 @@
       "id": "d681c5bd0d07f7c3",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0427-52",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0427-52)",
-      "product_ndcs": [
-        "0941-0427",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0427 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0427 52 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0427 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0427 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0427 52 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66349,9 +65322,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66359,99 +65330,16 @@
       "id": "6c9b64dc536898db",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0427-53",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0427-53)",
-      "product_ndcs": [
-        "0941-0427",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0427 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0427 53 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0427 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0427 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0427 53 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66459,9 +65347,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66469,99 +65355,16 @@
       "id": "427a1607b5351584",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0429-52",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0429-52)",
-      "product_ndcs": [
-        "0941-0429",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0429 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0429 52 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0429 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0429 52 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0429 52 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66569,9 +65372,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL PD-2 WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66579,99 +65380,16 @@
       "id": "b2ec608d4329f177",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0429-53",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL PD-2 with Dextrose, Intraperitoneal Injection, Solution, 25.7 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0429-53)",
-      "product_ndcs": [
-        "0941-0429",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0429 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0429 53 dianeal pd 2 with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0429 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal pd 2 with dextrose intraperitoneal injection solution 25 7 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0429 53 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0429 53 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66679,9 +65397,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66689,99 +65405,16 @@
       "id": "12e0efcf980f725b",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0430-51",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0430-51)",
-      "product_ndcs": [
-        "0941-0430",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0430 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0430 51 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0430 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0430 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0430 51 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66789,9 +65422,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66799,99 +65430,16 @@
       "id": "b911321f0458c34d",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0433-51",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0433-51)",
-      "product_ndcs": [
-        "0941-0433",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0433 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0433 51 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0433 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0433 51 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0433 51 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -66899,9 +65447,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -66909,99 +65455,16 @@
       "id": "84d072bbc7e1c471",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0457-05",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 2.5 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0457-05)",
-      "product_ndcs": [
-        "0941-0457",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0459",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0457 05 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0457 05 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0457 0941 0411 0941 0413 0941 0415 0941 0409 0941 0459 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 2 5 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0457 05 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0457 05 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -67009,9 +65472,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "DIANEAL LOW CALCIUM WITH DEXTROSE"
-      ],
+      "brand_names": [],
       "company_name": "Vantive US Healthcare LLC",
       "discontinued_date": "2026-08-03",
       "dosage_form": "Solution",
@@ -67019,99 +65480,16 @@
       "id": "79ba2d7bd8f71272",
       "initial_posting_date": "2026-08-03",
       "package_ndc": "0941-0459-05",
-      "package_ndcs": [
-        "0941-0411-05",
-        "0941-0411-06",
-        "0941-0411-07",
-        "0941-0411-04",
-        "0941-0411-11",
-        "0941-0413-05",
-        "0941-0413-06",
-        "0941-0413-07",
-        "0941-0413-01",
-        "0941-0413-04",
-        "0941-0415-05",
-        "0941-0415-06",
-        "0941-0415-04",
-        "0941-0415-07",
-        "0941-0415-01",
-        "0941-0409-06",
-        "0941-0409-05",
-        "0941-0409-07",
-        "0941-0409-01",
-        "0941-0457-08",
-        "0941-0457-02",
-        "0941-0457-05",
-        "0941-0457-01",
-        "0941-0459-08",
-        "0941-0459-02",
-        "0941-0459-05",
-        "0941-0459-01",
-        "0941-0426-52",
-        "0941-0426-53",
-        "0941-0427-52",
-        "0941-0427-53",
-        "0941-0429-52",
-        "0941-0429-53",
-        "0941-0424-51",
-        "0941-0424-52",
-        "0941-0424-53",
-        "0941-0430-51",
-        "0941-0430-52",
-        "0941-0430-53",
-        "0941-0433-51",
-        "0941-0433-52",
-        "0941-0433-53",
-        "0941-0484-01",
-        "0941-0487-01",
-        "0941-0490-01"
-      ],
+      "package_ndcs": [],
       "presentation": "DIANEAL Low Calcium with Dextrose, Intraperitoneal Injection, Solution, 18.3 mg/100 mL; 4.25 g/100 mL; 5.08 mg/100 mL; 538 mg/100 mL; 448 mg/100 mL (NDC 0941-0459-05)",
-      "product_ndcs": [
-        "0941-0459",
-        "0941-0411",
-        "0941-0413",
-        "0941-0415",
-        "0941-0409",
-        "0941-0457",
-        "0941-0426",
-        "0941-0427",
-        "0941-0429",
-        "0941-0424",
-        "0941-0430",
-        "0941-0433",
-        "0941-0484",
-        "0941-0487",
-        "0941-0490"
-      ],
+      "product_ndcs": [],
       "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "INTRAPERITONEAL"
-      ],
-      "rxcuis": [
-        "799999",
-        "800003",
-        "800057",
-        "800061",
-        "800062",
-        "800064",
-        "800066",
-        "800074",
-        "800111",
-        "800115",
-        "800472",
-        "800474"
-      ],
-      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0459 05 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0459 05 dianeal low calcium with dextrose 799999 800003 800057 800061 800062 800064 800066 800074 800111 800115 800472 800474 renal 0941 0459 0941 0411 0941 0413 0941 0415 0941 0409 0941 0457 0941 0426 0941 0427 0941 0429 0941 0424 0941 0430 0941 0433 0941 0484 0941 0487 0941 0490",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "calcium chloride dextrose magnesium chloride sodium chloride sodium lactate intraperitoneal injection solution to be discontinued solution dianeal low calcium with dextrose intraperitoneal injection solution 18 3 mg 100 ml 4 25 g 100 ml 5 08 mg 100 ml 538 mg 100 ml 448 mg 100 ml ndc 0941 0459 05 vantive us healthcare llc a business decision was made to discontinue manufacture of the drug 0941 0459 05 renal",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "DEXTROSE MONOHYDRATE",
-        "SODIUM CHLORIDE",
-        "SODIUM LACTATE",
-        "CALCIUM CHLORIDE",
-        "MAGNESIUM CHLORIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Renal"
       ],
@@ -68015,31 +66393,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "Injection",
-      "generic_name": "Cetrorelix Acetate Injection",
-      "id": "8f9935117d65982e",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "0480-5795-08",
-      "package_ndcs": [],
-      "presentation": "Cetrorelix Acetate, Injection, Kit (NDC 0480-5795-08)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "cetrorelix acetate injection to be discontinued injection cetrorelix acetate injection kit ndc 0480 5795 08 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0480 5795 08 reproductive",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Reproductive"
-      ],
-      "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "DIURIL"
       ],
@@ -68397,43 +66750,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-02-27",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "8e94b7b7c41401e2",
-      "initial_posting_date": "2026-02-27",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-02-27",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-03-26",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -68464,6 +66780,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-03-26",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-02-27",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "8e94b7b7c41401e2",
+      "initial_posting_date": "2026-02-27",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-02-27",
       "update_type": "New"
     },
     {
@@ -75485,51 +73838,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "e973040d79b16682",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -75568,6 +73876,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "e973040d79b16682",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-080-05",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
+      "product_ndcs": [
+        "65219-080",
+        "65219-082",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -75755,51 +74108,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "983c82fe00083f4e",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-086-20",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
-      "product_ndcs": [
-        "65219-086",
-        "65219-080",
-        "65219-082",
-        "65219-084"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -75838,6 +74146,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "983c82fe00083f4e",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-086-20",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-086-20)",
+      "product_ndcs": [
+        "65219-086",
+        "65219-080",
+        "65219-082",
+        "65219-084"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 086 20 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 086 20 gadoterate meglumine medical imaging 65219 086 65219 080 65219 082 65219 084",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -76317,190 +74670,6 @@
         "Anesthesia"
       ],
       "update_date": "2026-07-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GUANFACINE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Guanfacine Hydrochloride Tablet, Extended Release",
-      "id": "6c34c7096ed96171",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "0228-2850-11",
-      "package_ndcs": [
-        "0228-2850-11",
-        "0228-2851-11",
-        "0228-2853-11",
-        "0228-2855-11"
-      ],
-      "presentation": "Guanfacine Hydrochloride, Tablet, Extended Release, 1 mg (NDC 0228-2850-11)",
-      "product_ndcs": [
-        "0228-2850",
-        "0228-2851",
-        "0228-2853",
-        "0228-2855"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 1 mg ndc 0228 2850 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2850 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2850 0228 2851 0228 2853 0228 2855",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GUANFACINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GUANFACINE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Guanfacine Hydrochloride Tablet, Extended Release",
-      "id": "83a91af65eefd273",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "0228-2851-11",
-      "package_ndcs": [
-        "0228-2850-11",
-        "0228-2851-11",
-        "0228-2853-11",
-        "0228-2855-11"
-      ],
-      "presentation": "Guanfacine Hydrochloride, Tablet, Extended Release, 2 mg (NDC 0228-2851-11)",
-      "product_ndcs": [
-        "0228-2851",
-        "0228-2850",
-        "0228-2853",
-        "0228-2855"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 2 mg ndc 0228 2851 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2851 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2851 0228 2850 0228 2853 0228 2855",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GUANFACINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GUANFACINE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Guanfacine Hydrochloride Tablet, Extended Release",
-      "id": "1d00dc9ac91b8431",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "0228-2853-11",
-      "package_ndcs": [
-        "0228-2850-11",
-        "0228-2851-11",
-        "0228-2853-11",
-        "0228-2855-11"
-      ],
-      "presentation": "Guanfacine Hydrochloride, Tablet, Extended Release, 3 mg (NDC 0228-2853-11)",
-      "product_ndcs": [
-        "0228-2853",
-        "0228-2850",
-        "0228-2851",
-        "0228-2855"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 3 mg ndc 0228 2853 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2853 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2853 0228 2850 0228 2851 0228 2855",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GUANFACINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-11-13",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GUANFACINE"
-      ],
-      "company_name": "Actavis Pharma, Inc.",
-      "discontinued_date": "2025-11-13",
-      "dosage_form": "Tablet",
-      "generic_name": "Guanfacine Hydrochloride Tablet, Extended Release",
-      "id": "3f7a78fc85210b1d",
-      "initial_posting_date": "2025-11-13",
-      "package_ndc": "0228-2855-11",
-      "package_ndcs": [
-        "0228-2850-11",
-        "0228-2851-11",
-        "0228-2853-11",
-        "0228-2855-11"
-      ],
-      "presentation": "Guanfacine Hydrochloride, Tablet, Extended Release, 4 mg (NDC 0228-2855-11)",
-      "product_ndcs": [
-        "0228-2855",
-        "0228-2850",
-        "0228-2851",
-        "0228-2853"
-      ],
-      "related_info": "A business decision was made to discontinue manufacture of the drug.",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "862006",
-        "862013",
-        "862019",
-        "862025"
-      ],
-      "search_text": "guanfacine hydrochloride tablet extended release to be discontinued tablet guanfacine hydrochloride tablet extended release 4 mg ndc 0228 2855 11 actavis pharma inc a business decision was made to discontinue manufacture of the drug 0228 2855 11 guanfacine 862006 862013 862019 862025 psychiatry 0228 2855 0228 2850 0228 2851 0228 2853",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GUANFACINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Psychiatry"
-      ],
-      "update_date": "2025-11-13",
       "update_type": "New"
     },
     {
@@ -83520,6 +81689,44 @@
     },
     {
       "brand_names": [
+        "VALSTAR"
+      ],
+      "company_name": "Endo Operations LTD",
+      "discontinued_date": "2026-11-13",
+      "dosage_form": "Solution",
+      "generic_name": "Valrubicin Solution",
+      "id": "1e1a5f56a1ef95b7",
+      "initial_posting_date": "2026-11-13",
+      "package_ndc": "67979-001-01",
+      "package_ndcs": [
+        "67979-001-01"
+      ],
+      "presentation": "Valstar Preservative Free, Solution, 40 mg/1 mL (NDC 67979-001-01)",
+      "product_ndcs": [
+        "67979-001"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVESICAL"
+      ],
+      "rxcuis": [
+        "262063",
+        "313567"
+      ],
+      "search_text": "valrubicin solution to be discontinued solution valstar preservative free solution 40 mg 1 ml ndc 67979 001 01 endo operations ltd discontinuation of the manufacture of the drug 67979 001 01 valstar 262063 313567 oncology 67979 001",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "VALRUBICIN"
+      ],
+      "therapeutic_categories": [
+        "Oncology"
+      ],
+      "update_date": "2026-11-13",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "VALSARTAN"
       ],
       "company_name": "Mylan Pharmaceuticals Inc., a Viatris Company",
@@ -83804,8 +82011,8 @@
     "status_counts": {
       "Current": 1114,
       "Resolved": 59,
-      "To Be Discontinued": 412
+      "To Be Discontinued": 407
     },
-    "total_records": 1585
+    "total_records": 1580
   }
 }
