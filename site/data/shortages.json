@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:03:38+00:00",
+  "generated_at": "2026-11-19T18:16:07+00:00",
   "records": [
     {
       "brand_names": [
@@ -219,7 +219,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -274,7 +274,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -329,7 +329,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -437,7 +437,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -491,7 +491,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -553,7 +553,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -615,7 +615,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -677,7 +677,7 @@
       "therapeutic_categories": [
         "Gastroenterology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -3494,7 +3494,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -3541,7 +3541,7 @@
         "47781-179",
         "47781-180"
       ],
-      "related_info": "",
+      "related_info": "Estimated recovery: TBD",
       "routes": [
         "ORAL"
       ],
@@ -3554,7 +3554,7 @@
         "687043",
         "1009145"
       ],
-      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 10mg ndc 47781 176 01 alvogen 47781 176 01 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate amphetamine sulfate tablets cii 541363 541878 541892 577957 577961 687043 1009145 psychiatry 47781 176 47781 174 47781 175 47781 177 47781 178 47781 179 47781 180",
+      "search_text": "amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet current tablet amphetamine aspartate monohydrate amphetamine sulfate dextroamphetamine saccharate dextroamphetamine sulfate tablet 10mg ndc 47781 176 01 alvogen estimated recovery tbd 47781 176 01 dextroamphetamine saccharate amphetamine aspartate dextroamphetamine sulfate amphetamine sulfate tablets cii 541363 541878 541892 577957 577961 687043 1009145 psychiatry 47781 176 47781 174 47781 175 47781 177 47781 178 47781 179 47781 180",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -3566,8 +3566,8 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
-      "update_type": "Reverified"
+      "update_date": "2026-11-18",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -3638,7 +3638,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -3710,7 +3710,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -3782,7 +3782,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -5617,7 +5617,7 @@
         "Neurology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -6445,7 +6445,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -6876,92 +6876,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "234ec8f5c0c5772f",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1160-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
-      "product_ndcs": [
-        "0409-1160",
-        "0409-1159",
-        "0409-1162",
-        "0409-1163",
-        "0409-1165",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "INFILTRATION",
-        "PERINEURAL"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-11-09",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "3fc6a9a9d2d6a923",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1160-01",
@@ -7039,6 +6953,92 @@
       ],
       "update_date": "2026-11-09",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "234ec8f5c0c5772f",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1160-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 125 mg/50 mL (2.5 mg/mL) (NDC 0409-1160-01)",
+      "product_ndcs": [
+        "0409-1160",
+        "0409-1159",
+        "0409-1162",
+        "0409-1163",
+        "0409-1165",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "INFILTRATION",
+        "PERINEURAL"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 125 mg 50 ml 2 5 mg ml ndc 0409 1160 01 hospira inc a pfizer company 0409 1160 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1160 0409 1159 0409 1162 0409 1163 0409 1165 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-11-09",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -9242,7 +9242,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9337,7 +9337,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9432,7 +9432,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9511,7 +9511,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9606,7 +9606,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9701,7 +9701,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9796,7 +9796,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9874,7 +9874,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -9937,7 +9937,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -10000,7 +10000,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -12118,7 +12118,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -12270,7 +12270,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -12358,7 +12358,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -12509,8 +12509,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -12645,7 +12645,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -13628,7 +13628,7 @@
       "therapeutic_categories": [
         "Oncology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -14431,7 +14431,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -14569,7 +14569,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -14661,7 +14661,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15073,7 +15073,7 @@
       "therapeutic_categories": [
         "Pulmonary/Allergy"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15306,14 +15306,14 @@
       "product_ndcs": [
         "60505-0815"
       ],
-      "related_info": "Replenishment expected mid to late November 2026",
+      "related_info": "Replenishment expected  late November 2026",
       "routes": [
         "NASAL"
       ],
       "rxcuis": [
         "849506"
       ],
-      "search_text": "desmopressin acetate spray current spray desmopressin acetate needs no refrigeration spray 10 ug ndc 60505 0815 0 apotex corp replenishment expected mid to late november 2026 60505 0815 0 desmopressin acetate 849506 hematology 60505 0815",
+      "search_text": "desmopressin acetate spray current spray desmopressin acetate needs no refrigeration spray 10 ug ndc 60505 0815 0 apotex corp replenishment expected late november 2026 60505 0815 0 desmopressin acetate 849506 hematology 60505 0815",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -15322,7 +15322,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-10-15",
+      "update_date": "2026-11-17",
       "update_type": "Revised"
     },
     {
@@ -15605,7 +15605,7 @@
       "product_ndcs": [
         "63323-165"
       ],
-      "related_info": "Check wholesalers for inventory",
+      "related_info": "Next release November 2026. Check wholesalers for inventory.",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -15614,7 +15614,7 @@
         "1116927",
         "1812194"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 63323 165 01 fresenius kabi usa llc check wholesalers for inventory 63323 165 01 dexamethasone sodium phosphate 1116927 1812194 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 165",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 63323 165 01 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 165 01 dexamethasone sodium phosphate 1116927 1812194 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -15632,7 +15632,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Revised"
     },
     {
@@ -15692,7 +15692,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15725,7 +15725,7 @@
       "product_ndcs": [
         "63323-165"
       ],
-      "related_info": "Next release November 2026. Check wholesalers for inventory.",
+      "related_info": "Check wholesalers for inventory",
       "routes": [
         "INTRAMUSCULAR",
         "INTRAVENOUS"
@@ -15734,7 +15734,7 @@
         "1116927",
         "1812194"
       ],
-      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 63323 165 30 fresenius kabi usa llc next release november 2026 check wholesalers for inventory 63323 165 30 dexamethasone sodium phosphate 1116927 1812194 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 165",
+      "search_text": "dexamethasone sodium phosphate injection current injection dexamethasone sodium phosphate injection 4 mg 1 ml ndc 63323 165 30 fresenius kabi usa llc check wholesalers for inventory 63323 165 30 dexamethasone sodium phosphate 1116927 1812194 dermatology endocrinology metabolism gastroenterology hematology neurology oncology ophthalmology other pulmonary allergy rheumatology 63323 165",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -15752,7 +15752,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Revised"
     },
     {
@@ -15808,7 +15808,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15862,7 +15862,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15921,7 +15921,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -15983,7 +15983,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16045,7 +16045,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16107,7 +16107,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16236,7 +16236,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16270,7 +16270,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16321,7 +16321,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16372,7 +16372,7 @@
         "Pulmonary/Allergy",
         "Rheumatology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16450,7 +16450,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -16490,7 +16490,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -17695,7 +17695,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -17735,7 +17735,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18258,7 +18258,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18283,7 +18283,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18308,7 +18308,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18333,7 +18333,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18409,7 +18409,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18451,7 +18451,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -18493,7 +18493,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -19174,7 +19174,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -19235,7 +19235,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -19514,8 +19514,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19561,8 +19561,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19608,8 +19608,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -19910,7 +19910,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -19971,7 +19971,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20032,7 +20032,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20154,7 +20154,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20215,7 +20215,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20276,7 +20276,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20337,7 +20337,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20398,7 +20398,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20462,7 +20462,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20526,7 +20526,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20590,7 +20590,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20632,7 +20632,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20674,7 +20674,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20717,7 +20717,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -20760,7 +20760,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -21514,8 +21514,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -21571,8 +21571,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -21628,8 +21628,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -21892,7 +21892,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22029,7 +22029,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22074,7 +22074,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22119,7 +22119,7 @@
         "Pediatric",
         "Renal"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22579,7 +22579,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22626,7 +22626,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -22673,7 +22673,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -23920,8 +23920,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -24076,7 +24076,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -24232,7 +24232,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -24530,7 +24530,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -24816,7 +24816,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -24960,7 +24960,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -25104,7 +25104,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -25248,7 +25248,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -25392,7 +25392,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -25536,8 +25536,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -25998,8 +25998,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -26040,7 +26040,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -27138,7 +27138,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -27189,7 +27189,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -27240,7 +27240,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -27291,8 +27291,8 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -27342,8 +27342,8 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -27386,7 +27386,7 @@
         "Analgesia/Addiction",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -28370,7 +28370,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -28419,7 +28419,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -28468,7 +28468,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -28660,7 +28660,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -28762,8 +28762,8 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -29242,7 +29242,7 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -29379,8 +29379,8 @@
       "therapeutic_categories": [
         "Hematology"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -30369,7 +30369,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -30426,7 +30426,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -30540,8 +30540,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -30654,7 +30654,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -30679,8 +30679,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [],
@@ -30759,7 +30759,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31014,7 +31014,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31057,8 +31057,8 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -31100,7 +31100,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31143,7 +31143,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31220,7 +31220,7 @@
         "Oncology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31346,7 +31346,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -31728,49 +31728,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "b401d47954f60913",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-21",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31808,6 +31765,49 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2026-11-06",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "b401d47954f60913",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-701-01",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-21",
       "update_type": "Reverified"
     },
     {
@@ -32094,7 +32094,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32153,7 +32153,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32212,7 +32212,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32352,7 +32352,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32398,7 +32398,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32445,7 +32445,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32820,7 +32820,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -32862,7 +32862,7 @@
       "therapeutic_categories": [
         "Cardiovascular"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -34974,7 +34974,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -35154,7 +35154,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -35309,7 +35309,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -35464,8 +35464,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -35774,8 +35774,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -35929,8 +35929,8 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -36069,7 +36069,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36242,7 +36242,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36415,7 +36415,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36588,7 +36588,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36761,7 +36761,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36824,7 +36824,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -36887,7 +36887,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -37044,7 +37044,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -37201,7 +37201,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -37264,7 +37264,7 @@
         "Anesthesia",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38490,7 +38490,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38515,7 +38515,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38540,7 +38540,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38565,7 +38565,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38590,7 +38590,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38615,7 +38615,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -38640,7 +38640,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40620,7 +40620,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40675,7 +40675,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40730,7 +40730,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40785,7 +40785,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40840,7 +40840,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40895,7 +40895,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -40950,7 +40950,7 @@
       "therapeutic_categories": [
         "Psychiatry"
       ],
-      "update_date": "2026-11-02",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -45954,7 +45954,7 @@
         "Rheumatology",
         "Oncology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -49044,7 +49044,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50399,7 +50399,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50455,7 +50455,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50511,7 +50511,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50567,7 +50567,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50623,7 +50623,7 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -50730,8 +50730,8 @@
         "Anesthesia",
         "Neurology"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -51477,7 +51477,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -51532,8 +51532,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -51587,8 +51587,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -51642,7 +51642,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -51787,7 +51787,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -53986,8 +53986,8 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -54032,7 +54032,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54078,7 +54078,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54127,7 +54127,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54176,7 +54176,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54225,7 +54225,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54716,7 +54716,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -54753,7 +54753,7 @@
       "therapeutic_categories": [
         "Anti-Infective"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55375,7 +55375,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55400,7 +55400,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55520,7 +55520,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55562,7 +55562,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55600,7 +55600,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55648,8 +55648,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -55696,8 +55696,8 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -55818,7 +55818,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -55858,7 +55858,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -56946,7 +56946,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57182,7 +57182,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57300,7 +57300,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57418,7 +57418,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57536,7 +57536,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57654,7 +57654,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57772,7 +57772,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -57893,7 +57893,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58014,7 +58014,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58135,7 +58135,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58256,7 +58256,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58377,7 +58377,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58498,7 +58498,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58600,7 +58600,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58702,7 +58702,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58811,7 +58811,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -58920,7 +58920,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -59029,7 +59029,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -59138,7 +59138,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -59181,7 +59181,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -59224,7 +59224,7 @@
       "therapeutic_categories": [
         "Anesthesia"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -60930,7 +60930,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -60974,7 +60974,7 @@
         "Gastroenterology",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -61435,7 +61435,7 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -61479,8 +61479,8 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -61567,8 +61567,8 @@
       "therapeutic_categories": [
         "Other"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -61786,7 +61786,7 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
+      "update_date": "2026-11-18",
       "update_type": "Reverified"
     },
     {
@@ -61832,8 +61832,8 @@
         "Other",
         "Pediatric"
       ],
-      "update_date": "2026-11-03",
-      "update_type": "Revised"
+      "update_date": "2026-11-18",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [],
@@ -70545,6 +70545,46 @@
     },
     {
       "brand_names": [
+        "DEMECLOCYCLINE HYDROCHLORIDE"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-11-18",
+      "dosage_form": "Tablet",
+      "generic_name": "Demeclocycline Hydrochloride Tablet",
+      "id": "3225de04f48722e6",
+      "initial_posting_date": "2026-11-18",
+      "package_ndc": "53746-555-48",
+      "package_ndcs": [
+        "53746-554-01",
+        "53746-555-48"
+      ],
+      "presentation": "Demeclocycline Hydrochloride, Tablet, 300 mg (NDC 53746-555-48)",
+      "product_ndcs": [
+        "53746-555",
+        "53746-554"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "905341",
+        "905347"
+      ],
+      "search_text": "demeclocycline hydrochloride tablet to be discontinued tablet demeclocycline hydrochloride tablet 300 mg ndc 53746 555 48 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 555 48 demeclocycline hydrochloride 905341 905347 anti infective 53746 555 53746 554",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "DEMECLOCYCLINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-11-18",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
         "DESFLURANE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co. (US Agent eVenus Pharmaceutical Laboratories, Inc.)",
@@ -74907,51 +74947,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "32b433e925aa33b2",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -74990,6 +74985,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "32b433e925aa33b2",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -77543,9 +77583,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "KALETRA"
-      ],
+      "brand_names": [],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2026-07-24",
       "dosage_form": "Oral Solution",
@@ -77553,36 +77591,16 @@
       "id": "7d959c389fbc3731",
       "initial_posting_date": "2026-07-24",
       "package_ndc": "0074-3956-46",
-      "package_ndcs": [
-        "0074-3956-46",
-        "0074-4014-12",
-        "0074-3008-60"
-      ],
+      "package_ndcs": [],
       "presentation": "Kaletra, Oral Solution, 80 mg/1 mL; 20 mg/1 mL (NDC 0074-3956-46)",
-      "product_ndcs": [
-        "0074-3956",
-        "0074-4014",
-        "0074-3008"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "311369",
-        "597730",
-        "746645",
-        "847741",
-        "847745",
-        "847749"
-      ],
-      "search_text": "lopinavir and ritonavir oral solution to be discontinued oral solution kaletra oral solution 80 mg 1 ml 20 mg 1 ml ndc 0074 3956 46 abbvie inc discontinuation of the manufacture of the drug 0074 3956 46 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 3956 0074 4014 0074 3008",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lopinavir and ritonavir oral solution to be discontinued oral solution kaletra oral solution 80 mg 1 ml 20 mg 1 ml ndc 0074 3956 46 abbvie inc discontinuation of the manufacture of the drug 0074 3956 46 antiviral",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "LOPINAVIR",
-        "RITONAVIR"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Antiviral"
       ],
@@ -77615,9 +77633,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "KALETRA"
-      ],
+      "brand_names": [],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2026-07-24",
       "dosage_form": "Tablet",
@@ -77625,36 +77641,16 @@
       "id": "4d7bc44a4f24c2f4",
       "initial_posting_date": "2026-07-24",
       "package_ndc": "0074-3008-60",
-      "package_ndcs": [
-        "0074-3956-46",
-        "0074-4014-12",
-        "0074-3008-60"
-      ],
+      "package_ndcs": [],
       "presentation": "Kaletra, Tablet, 100 mg; 25 mg (NDC 0074-3008-60)",
-      "product_ndcs": [
-        "0074-3008",
-        "0074-3956",
-        "0074-4014"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "311369",
-        "597730",
-        "746645",
-        "847741",
-        "847745",
-        "847749"
-      ],
-      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 100 mg 25 mg ndc 0074 3008 60 abbvie inc discontinuation of the manufacture of the drug 0074 3008 60 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 3008 0074 3956 0074 4014",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 100 mg 25 mg ndc 0074 3008 60 abbvie inc discontinuation of the manufacture of the drug 0074 3008 60 antiviral",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "LOPINAVIR",
-        "RITONAVIR"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Antiviral"
       ],
@@ -77662,9 +77658,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "KALETRA"
-      ],
+      "brand_names": [],
       "company_name": "AbbVie Inc.",
       "discontinued_date": "2026-07-24",
       "dosage_form": "Tablet",
@@ -77672,36 +77666,16 @@
       "id": "3935424a1d1b24f8",
       "initial_posting_date": "2026-07-24",
       "package_ndc": "0074-4014-12",
-      "package_ndcs": [
-        "0074-3956-46",
-        "0074-4014-12",
-        "0074-3008-60"
-      ],
+      "package_ndcs": [],
       "presentation": "Kaletra, Tablet, 200 mg; 50 mg (NDC 0074-4014-12)",
-      "product_ndcs": [
-        "0074-4014",
-        "0074-3956",
-        "0074-3008"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "311369",
-        "597730",
-        "746645",
-        "847741",
-        "847745",
-        "847749"
-      ],
-      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 200 mg 50 mg ndc 0074 4014 12 abbvie inc discontinuation of the manufacture of the drug 0074 4014 12 kaletra 311369 597730 746645 847741 847745 847749 antiviral 0074 4014 0074 3956 0074 3008",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "lopinavir and ritonavir tablet to be discontinued tablet kaletra tablet 200 mg 50 mg ndc 0074 4014 12 abbvie inc discontinuation of the manufacture of the drug 0074 4014 12 antiviral",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "LOPINAVIR",
-        "RITONAVIR"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Antiviral"
       ],
@@ -83043,7 +83017,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-19",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83052,8 +83026,8 @@
     "status_counts": {
       "Current": 1116,
       "Resolved": 59,
-      "To Be Discontinued": 409
+      "To Be Discontinued": 410
     },
-    "total_records": 1584
+    "total_records": 1585
   }
 }
