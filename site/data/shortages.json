@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:21:50+00:00",
+  "generated_at": "2026-11-25T09:21:56+00:00",
   "records": [
     {
       "brand_names": [
@@ -31740,49 +31740,6 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "c99a2667dae6d828",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-11-06",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31826,19 +31783,19 @@
       "brand_names": [
         "KETOROLAC TROMETHAMINE"
       ],
-      "company_name": "Gland Pharma Limited",
+      "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "7a4bf58e2f43f991",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-701-02",
+      "id": "c99a2667dae6d828",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-01",
       "package_ndcs": [
         "25021-700-01",
         "25021-701-01",
         "25021-701-02"
       ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
       "product_ndcs": [
         "25021-701",
         "25021-700"
@@ -31853,7 +31810,7 @@
         "1665459",
         "1665461"
       ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
       "substances": [
@@ -31862,7 +31819,7 @@
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
-      "update_date": "2026-10-21",
+      "update_date": "2026-11-06",
       "update_type": "Reverified"
     },
     {
@@ -31907,6 +31864,49 @@
       ],
       "update_date": "2026-11-06",
       "update_type": "Revised"
+    },
+    {
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "7a4bf58e2f43f991",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [
+        "25021-700-01",
+        "25021-701-01",
+        "25021-701-02"
+      ],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [
+        "25021-701",
+        "25021-700"
+      ],
+      "related_info": "",
+      "routes": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-10-21",
+      "update_type": "Reverified"
     },
     {
       "brand_names": [
@@ -61555,9 +61555,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "STERILE WATER"
-      ],
+      "brand_names": [],
       "company_name": "Hikma Pharmaceuticals USA, Inc.",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -61565,28 +61563,16 @@
       "id": "39267ee75be47e64",
       "initial_posting_date": "2021-11-23",
       "package_ndc": "0641-6147-10",
-      "package_ndcs": [
-        "0641-6147-01",
-        "0641-6147-10",
-        "0641-6147-25"
-      ],
+      "package_ndcs": [],
       "presentation": "Sterile Water, Injection, 1 mL/1 mL (NDC 0641-6147-10)",
-      "product_ndcs": [
-        "0641-6147"
-      ],
+      "product_ndcs": [],
       "related_info": "Additional lots will be available in the November 2026 timeframe.  Product will be made available as it is released.",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS",
-        "SUBCUTANEOUS"
-      ],
+      "routes": [],
       "rxcuis": [],
-      "search_text": "sterile water injection current injection sterile water injection 1 ml 1 ml ndc 0641 6147 10 hikma pharmaceuticals usa inc additional lots will be available in the november 2026 timeframe product will be made available as it is released 0641 6147 10 sterile water other 0641 6147",
+      "search_text": "sterile water injection current injection sterile water injection 1 ml 1 ml ndc 0641 6147 10 hikma pharmaceuticals usa inc additional lots will be available in the november 2026 timeframe product will be made available as it is released 0641 6147 10 other",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "WATER"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Other"
       ],
@@ -63241,9 +63227,7 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "ALLOPURINOL"
-      ],
+      "brand_names": [],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2026-02-19",
       "dosage_form": "Tablet",
@@ -63251,31 +63235,16 @@
       "id": "4861429e4da81f2e",
       "initial_posting_date": "2026-02-19",
       "package_ndc": "0591-5543-01",
-      "package_ndcs": [
-        "0591-5543-01",
-        "0591-5543-10",
-        "0591-5544-01",
-        "0591-5544-05"
-      ],
+      "package_ndcs": [],
       "presentation": "Allopurinol, Tablet, 100 mg (NDC 0591-5543-01)",
-      "product_ndcs": [
-        "0591-5543",
-        "0591-5544"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197319",
-        "197320"
-      ],
-      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 100 mg ndc 0591 5543 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5543 01 allopurinol 197319 197320 oncology renal rheumatology 0591 5543 0591 5544",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 100 mg ndc 0591 5543 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5543 01 oncology renal rheumatology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ALLOPURINOL"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology",
         "Renal",
@@ -63285,9 +63254,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "ALLOPURINOL"
-      ],
+      "brand_names": [],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2026-02-19",
       "dosage_form": "Tablet",
@@ -63295,31 +63262,16 @@
       "id": "0139d291729191cb",
       "initial_posting_date": "2026-02-19",
       "package_ndc": "0591-5543-10",
-      "package_ndcs": [
-        "0591-5543-01",
-        "0591-5543-10",
-        "0591-5544-01",
-        "0591-5544-05"
-      ],
+      "package_ndcs": [],
       "presentation": "Allopurinol, Tablet, 100 mg (NDC 0591-5543-10)",
-      "product_ndcs": [
-        "0591-5543",
-        "0591-5544"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197319",
-        "197320"
-      ],
-      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 100 mg ndc 0591 5543 10 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5543 10 allopurinol 197319 197320 oncology renal rheumatology 0591 5543 0591 5544",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 100 mg ndc 0591 5543 10 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5543 10 oncology renal rheumatology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ALLOPURINOL"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology",
         "Renal",
@@ -63329,9 +63281,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "ALLOPURINOL"
-      ],
+      "brand_names": [],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2026-02-19",
       "dosage_form": "Tablet",
@@ -63339,31 +63289,16 @@
       "id": "9831e82e0500914b",
       "initial_posting_date": "2026-02-19",
       "package_ndc": "0591-5544-01",
-      "package_ndcs": [
-        "0591-5543-01",
-        "0591-5543-10",
-        "0591-5544-01",
-        "0591-5544-05"
-      ],
+      "package_ndcs": [],
       "presentation": "Allopurinol, Tablet, 300 mg (NDC 0591-5544-01)",
-      "product_ndcs": [
-        "0591-5544",
-        "0591-5543"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197319",
-        "197320"
-      ],
-      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 300 mg ndc 0591 5544 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5544 01 allopurinol 197319 197320 oncology renal rheumatology 0591 5544 0591 5543",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 300 mg ndc 0591 5544 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5544 01 oncology renal rheumatology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ALLOPURINOL"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology",
         "Renal",
@@ -63373,9 +63308,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "ALLOPURINOL"
-      ],
+      "brand_names": [],
       "company_name": "Teva Pharmaceuticals USA, Inc.",
       "discontinued_date": "2026-02-19",
       "dosage_form": "Tablet",
@@ -63383,31 +63316,16 @@
       "id": "4e1dcd60fd48f9f8",
       "initial_posting_date": "2026-02-19",
       "package_ndc": "0591-5544-05",
-      "package_ndcs": [
-        "0591-5543-01",
-        "0591-5543-10",
-        "0591-5544-01",
-        "0591-5544-05"
-      ],
+      "package_ndcs": [],
       "presentation": "Allopurinol, Tablet, 300 mg (NDC 0591-5544-05)",
-      "product_ndcs": [
-        "0591-5544",
-        "0591-5543"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "197319",
-        "197320"
-      ],
-      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 300 mg ndc 0591 5544 05 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5544 05 allopurinol 197319 197320 oncology renal rheumatology 0591 5544 0591 5543",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "allopurinol tablet to be discontinued tablet allopurinol tablet 300 mg ndc 0591 5544 05 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 0591 5544 05 oncology renal rheumatology",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "ALLOPURINOL"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Oncology",
         "Renal",
@@ -68087,43 +68005,6 @@
         "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
       ],
       "company_name": "Amneal Pharmaceuticals",
-      "discontinued_date": "2026-03-26",
-      "dosage_form": "Injection",
-      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
-      "id": "bd9c64c627da4898",
-      "initial_posting_date": "2026-03-26",
-      "package_ndc": "53746-468-19",
-      "package_ndcs": [
-        "53746-468-19"
-      ],
-      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
-      "product_ndcs": [
-        "53746-468"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "562266"
-      ],
-      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anti-Infective"
-      ],
-      "update_date": "2026-03-26",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
-      ],
-      "company_name": "Amneal Pharmaceuticals",
       "discontinued_date": "2026-02-27",
       "dosage_form": "Injection",
       "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
@@ -68154,6 +68035,43 @@
         "Anti-Infective"
       ],
       "update_date": "2026-02-27",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE (PEDIATRIC)"
+      ],
+      "company_name": "Amneal Pharmaceuticals",
+      "discontinued_date": "2026-03-26",
+      "dosage_form": "Injection",
+      "generic_name": "Clindamycin Palmitate Hydrochloride Injection",
+      "id": "bd9c64c627da4898",
+      "initial_posting_date": "2026-03-26",
+      "package_ndc": "53746-468-19",
+      "package_ndcs": [
+        "53746-468-19"
+      ],
+      "presentation": "Clindamycin Palmitate Hydrochloride, Injection, 75 mg/5 mL (NDC 53746-468-19)",
+      "product_ndcs": [
+        "53746-468"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "ORAL"
+      ],
+      "rxcuis": [
+        "562266"
+      ],
+      "search_text": "clindamycin palmitate hydrochloride injection to be discontinued injection clindamycin palmitate hydrochloride injection 75 mg 5 ml ndc 53746 468 19 amneal pharmaceuticals discontinuation of the manufacture of the drug 53746 468 19 clindamycin palmitate hydrochloride pediatric 562266 anti infective 53746 468",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anti-Infective"
+      ],
+      "update_date": "2026-03-26",
       "update_type": "New"
     },
     {
@@ -68419,9 +68337,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "CLEOCIN PHOSPHATE"
-      ],
+      "brand_names": [],
       "company_name": "Pfizer Inc.",
       "discontinued_date": "2026-06-01",
       "dosage_form": "Injection",
@@ -68429,39 +68345,16 @@
       "id": "20369648d58cb2ee",
       "initial_posting_date": "2026-06-01",
       "package_ndc": "0009-4073-04",
-      "package_ndcs": [
-        "0009-3051-01",
-        "0009-3051-02",
-        "0009-4073-03",
-        "0009-4073-04",
-        "0009-5095-05",
-        "0009-5095-06"
-      ],
+      "package_ndcs": [],
       "presentation": "Cleocin Phosphate, Injection, 600 mg/4 mL (150 mg/mL); 4 mL Vial NovaPlus (NDC 0009-4073-04)",
-      "product_ndcs": [
-        "0009-4073",
-        "0009-3051",
-        "0009-5095"
-      ],
+      "product_ndcs": [],
       "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1737244",
-        "1737245",
-        "1737578",
-        "1737579",
-        "1737581",
-        "1737582"
-      ],
-      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 600 mg 4 ml 150 mg ml 4 ml vial novaplus ndc 0009 4073 04 pfizer inc discontinuation of the manufacture of the drug 0009 4073 04 cleocin phosphate 1737244 1737245 1737578 1737579 1737581 1737582 anti infective 0009 4073 0009 3051 0009 5095",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "clindamycin phosphate injection to be discontinued injection cleocin phosphate injection 600 mg 4 ml 150 mg ml 4 ml vial novaplus ndc 0009 4073 04 pfizer inc discontinuation of the manufacture of the drug 0009 4073 04 anti infective",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "CLINDAMYCIN PHOSPHATE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Anti-Infective"
       ],
@@ -75305,51 +75198,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "ee95d38fe9db694e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-082-10",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
-      "product_ndcs": [
-        "65219-082",
-        "65219-080",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -75388,6 +75236,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "ee95d38fe9db694e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-082-10",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-082-10)",
+      "product_ndcs": [
+        "65219-082",
+        "65219-080",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 082 10 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 082 10 gadoterate meglumine medical imaging 65219 082 65219 080 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -81282,161 +81175,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-21",
-      "dosage_form": "Tablet",
-      "generic_name": "Potassium Chloride Tablet, Extended Release",
-      "id": "a5a4113958ff542d",
-      "initial_posting_date": "2025-11-21",
-      "package_ndc": "62037-710-01",
-      "package_ndcs": [],
-      "presentation": "Potassium Chloride, Tablet, Extended Release, 10 meq (NDC 62037-710-01)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "potassium chloride tablet extended release to be discontinued tablet potassium chloride tablet extended release 10 meq ndc 62037 710 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 62037 710 01 endocrinology metabolism gastroenterology",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology"
-      ],
-      "update_date": "2025-11-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-21",
-      "dosage_form": "Tablet",
-      "generic_name": "Potassium Chloride Tablet, Extended Release",
-      "id": "6354993ecab84d88",
-      "initial_posting_date": "2025-11-21",
-      "package_ndc": "62037-720-01",
-      "package_ndcs": [
-        "62037-710-01",
-        "62037-720-01",
-        "62037-720-05",
-        "62037-720-10"
-      ],
-      "presentation": "Potassium Chloride, Tablet, Extended Release, 20 meq (NDC 62037-720-01)",
-      "product_ndcs": [
-        "62037-720",
-        "62037-710"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1801294",
-        "1801298"
-      ],
-      "search_text": "potassium chloride tablet extended release to be discontinued tablet potassium chloride tablet extended release 20 meq ndc 62037 720 01 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 62037 720 01 potassium chloride 1801294 1801298 endocrinology metabolism gastroenterology 62037 720 62037 710",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology"
-      ],
-      "update_date": "2025-11-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-21",
-      "dosage_form": "Tablet",
-      "generic_name": "Potassium Chloride Tablet, Extended Release",
-      "id": "220948467a5ad75e",
-      "initial_posting_date": "2025-11-21",
-      "package_ndc": "62037-720-05",
-      "package_ndcs": [
-        "62037-710-01",
-        "62037-720-01",
-        "62037-720-05",
-        "62037-720-10"
-      ],
-      "presentation": "Potassium Chloride, Tablet, Extended Release, 20 meq (NDC 62037-720-05)",
-      "product_ndcs": [
-        "62037-720",
-        "62037-710"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1801294",
-        "1801298"
-      ],
-      "search_text": "potassium chloride tablet extended release to be discontinued tablet potassium chloride tablet extended release 20 meq ndc 62037 720 05 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 62037 720 05 potassium chloride 1801294 1801298 endocrinology metabolism gastroenterology 62037 720 62037 710",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology"
-      ],
-      "update_date": "2025-11-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "company_name": "Teva Pharmaceuticals USA, Inc.",
-      "discontinued_date": "2025-11-21",
-      "dosage_form": "Tablet",
-      "generic_name": "Potassium Chloride Tablet, Extended Release",
-      "id": "7e59d062b5a1071a",
-      "initial_posting_date": "2025-11-21",
-      "package_ndc": "62037-720-10",
-      "package_ndcs": [
-        "62037-710-01",
-        "62037-720-01",
-        "62037-720-05",
-        "62037-720-10"
-      ],
-      "presentation": "Potassium Chloride, Tablet, Extended Release, 20 meq (NDC 62037-720-10)",
-      "product_ndcs": [
-        "62037-720",
-        "62037-710"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "ORAL"
-      ],
-      "rxcuis": [
-        "1801294",
-        "1801298"
-      ],
-      "search_text": "potassium chloride tablet extended release to be discontinued tablet potassium chloride tablet extended release 20 meq ndc 62037 720 10 teva pharmaceuticals usa inc discontinuation of the manufacture of the drug 62037 720 10 potassium chloride 1801294 1801298 endocrinology metabolism gastroenterology 62037 720 62037 710",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "POTASSIUM CHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Endocrinology/Metabolism",
-        "Gastroenterology"
-      ],
-      "update_date": "2025-11-21",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "CARDIOPLEGIC SOLUTION"
       ],
@@ -83270,31 +83008,6 @@
       "update_type": "New"
     },
     {
-      "brand_names": [],
-      "company_name": "Pfizer Inc.",
-      "discontinued_date": "2025-11-21",
-      "dosage_form": "Injection",
-      "generic_name": "Verapamil Hydrochloride Injection",
-      "id": "30a50b3f8cd0dbd5",
-      "initial_posting_date": "2025-11-21",
-      "package_ndc": "0409-9633-05",
-      "package_ndcs": [],
-      "presentation": "Verapamil Hydrochloride, Injection, 2.5 mg/1 mL (NDC 0409-9633-05)",
-      "product_ndcs": [],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [],
-      "rxcuis": [],
-      "search_text": "verapamil hydrochloride injection to be discontinued injection verapamil hydrochloride injection 2 5 mg 1 ml ndc 0409 9633 05 pfizer inc discontinuation of the manufacture of the drug 0409 9633 05 cardiovascular",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [],
-      "therapeutic_categories": [
-        "Cardiovascular"
-      ],
-      "update_date": "2025-11-21",
-      "update_type": "New"
-    },
-    {
       "brand_names": [
         "VIGABATRIN"
       ],
@@ -83335,7 +83048,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-11-20",
+    "last_updated": "2026-11-24",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83344,8 +83057,8 @@
     "status_counts": {
       "Current": 1116,
       "Resolved": 59,
-      "To Be Discontinued": 406
+      "To Be Discontinued": 401
     },
-    "total_records": 1581
+    "total_records": 1576
   }
 }
