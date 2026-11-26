@@ -5,8 +5,19 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:21:46 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Mycophenolate Mofetil  Injectable (67457-386-81)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=67457-386-81</link>
+      <guid isPermaLink="false">ddef10d3d4de8fb0</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Mycophenolate Mofetil, Injectable, 500 mg/20 mL (NDC 67457-386-81)
+Status: To Be Discontinued
+Updated: 2026-11-24
+Company: Mylan Institutional, a Viatris Company
+A business decision has been made to discontinue this product.</description>
+    </item>
     <item>
       <title>Current: Dexmedetomidine Hydrochloride Injection (0409-0155-02)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0409-0155-02</link>
@@ -1066,16 +1077,6 @@ Status: Current
 Updated: 2026-11-18
 Company: Baxter Healthcare
 Estimated recovery: January 2027</description>
-    </item>
-    <item>
-      <title>Current: Amino Acid Injection (0338-0644-04)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0338-0644-04</link>
-      <guid isPermaLink="false">788388615e6d70c3</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <description>Travasol, Injection, 2.07 g/100 mL; 1.15 g/100 mL; 1.03 g/100 mL; 480 mg/100 mL; 600 mg/100 mL; 730 mg/100 mL; 580 mg/100 mL; 400 mg/100 mL; 560 mg/100 mL; 680 mg/100 mL; 500 mg/100 mL; 420 mg/100 mL; 180 mg/100 mL; 40 mg/100 mL; 580 mg/100 mL (NDC 0338-0644-04)
-Status: Current
-Updated: 2026-11-18
-Company: Baxter Healthcare</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,19 @@
     <link>https://zzddddzz.github.io/rx-shortage-radar/</link>
     <description>Latest public FDA drug shortage records with status To Be Discontinued from openFDA.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:21:46 GMT</lastBuildDate>
     <docs>https://open.fda.gov/apis/drug/drugshortages/</docs>
+    <item>
+      <title>To Be Discontinued: Mycophenolate Mofetil  Injectable (67457-386-81)</title>
+      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=67457-386-81</link>
+      <guid isPermaLink="false">ddef10d3d4de8fb0</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Mycophenolate Mofetil, Injectable, 500 mg/20 mL (NDC 67457-386-81)
+Status: To Be Discontinued
+Updated: 2026-11-24
+Company: Mylan Institutional, a Viatris Company
+A business decision has been made to discontinue this product.</description>
+    </item>
     <item>
       <title>To Be Discontinued: Hydroxocobalamin Injection (0591-2888-30)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0591-2888-30</link>
@@ -63,22 +74,22 @@ Company: Amneal Pharmaceuticals
 Discontinuation of the manufacture of the drug</description>
     </item>
     <item>
-      <title>To Be Discontinued: Abacavir Sulfate Injection (49702-222-48)</title>
+      <title>To Be Discontinued: Abacavir Sulfate Oral Solution (49702-222-48)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=49702-222-48</link>
-      <guid isPermaLink="false">1c5c9898eb3fae4c</guid>
+      <guid isPermaLink="false">15df2386115c438d</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <description>Ziagen, Injection, 20 mg/1 mL (NDC 49702-222-48)
+      <description>Ziagen, Oral Solution, 20 mg/1 mL (NDC 49702-222-48)
 Status: To Be Discontinued
 Updated: 2026-11-16
 Company: ViiV Healthcare Company
 The anticipated date that ViiV will cease distribution of the product is approximately May 14, 2027.</description>
     </item>
     <item>
-      <title>To Be Discontinued: Lamivudine Injection (49702-205-48)</title>
+      <title>To Be Discontinued: Lamivudine Oral Solution (49702-205-48)</title>
       <link>https://zzddddzz.github.io/rx-shortage-radar/?q=49702-205-48</link>
-      <guid isPermaLink="false">df2baf229159ef73</guid>
+      <guid isPermaLink="false">9b1478c0363e8b36</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <description>Epivir, Injection, 10 mg/1 mL (NDC 49702-205-48)
+      <description>Epivir, Oral Solution, 10 mg/1 mL (NDC 49702-205-48)
 Status: To Be Discontinued
 Updated: 2026-11-16
 Company: ViiV Healthcare Company
@@ -1095,17 +1106,6 @@ Status: To Be Discontinued
 Updated: 2026-08-31
 Company: Fresenius Kabi USA, LLC
 Discontinuation of the manufacture of the drug</description>
-    </item>
-    <item>
-      <title>To Be Discontinued: Liraglutide Injection (0169-2800-15)</title>
-      <link>https://zzddddzz.github.io/rx-shortage-radar/?q=0169-2800-15</link>
-      <guid isPermaLink="false">0c78e6f331402770</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Saxenda, Injection, 6 mg/1 mL (NDC 0169-2800-15)
-Status: To Be Discontinued
-Updated: 2026-08-25
-Company: Novo Nordisk, Inc.
-Product will be available until discontinuation in January 2027; Discontinuation of the manufacture of the drug</description>
     </item>
   </channel>
 </rss>

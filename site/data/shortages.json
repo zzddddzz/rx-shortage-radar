@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:21:56+00:00",
+  "generated_at": "2026-11-26T09:21:46+00:00",
   "records": [
     {
       "brand_names": [
@@ -7307,92 +7307,6 @@
       "discontinued_date": null,
       "dosage_form": "Injection",
       "generic_name": "Bupivacaine Hydrochloride Injection",
-      "id": "ac58831c6b843752",
-      "initial_posting_date": "2018-02-20",
-      "package_ndc": "0409-1165-01",
-      "package_ndcs": [
-        "0409-1159-18",
-        "0409-1159-01",
-        "0409-1159-19",
-        "0409-1159-02",
-        "0409-1160-18",
-        "0409-1160-01",
-        "0409-1162-18",
-        "0409-1162-01",
-        "0409-1162-19",
-        "0409-1162-02",
-        "0409-1163-18",
-        "0409-1163-01",
-        "0409-1165-18",
-        "0409-1165-01",
-        "0409-1165-19",
-        "0409-1165-02",
-        "0409-9043-11",
-        "0409-9043-01",
-        "0409-9046-11",
-        "0409-9046-01",
-        "0409-9045-11",
-        "0409-9045-01",
-        "0409-9045-16",
-        "0409-9045-17",
-        "0409-9042-11",
-        "0409-9042-01",
-        "0409-9042-16",
-        "0409-9042-17"
-      ],
-      "presentation": "Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)",
-      "product_ndcs": [
-        "0409-1165",
-        "0409-1159",
-        "0409-1160",
-        "0409-1162",
-        "0409-1163",
-        "0409-9043",
-        "0409-9046",
-        "0409-9045",
-        "0409-9042"
-      ],
-      "related_info": "",
-      "routes": [
-        "EPIDURAL",
-        "RETROBULBAR"
-      ],
-      "rxcuis": [
-        "1012377",
-        "1012384",
-        "1012396",
-        "1012404",
-        "1672917",
-        "1672919",
-        "1724786",
-        "1724787",
-        "1724880",
-        "1724884",
-        "1725078",
-        "1725082",
-        "1867594",
-        "1867596"
-      ],
-      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "therapeutic_categories": [
-        "Anesthesia"
-      ],
-      "update_date": "2026-11-09",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "BUPIVACAINE HYDROCHLORIDE"
-      ],
-      "company_name": "Hospira, Inc., a Pfizer Company",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Bupivacaine Hydrochloride Injection",
       "id": "efbc78b31dd9b430",
       "initial_posting_date": "2018-02-20",
       "package_ndc": "0409-1165-01",
@@ -7470,6 +7384,92 @@
       ],
       "update_date": "2026-11-09",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "company_name": "Hospira, Inc., a Pfizer Company",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Bupivacaine Hydrochloride Injection",
+      "id": "ac58831c6b843752",
+      "initial_posting_date": "2018-02-20",
+      "package_ndc": "0409-1165-01",
+      "package_ndcs": [
+        "0409-1159-18",
+        "0409-1159-01",
+        "0409-1159-19",
+        "0409-1159-02",
+        "0409-1160-18",
+        "0409-1160-01",
+        "0409-1162-18",
+        "0409-1162-01",
+        "0409-1162-19",
+        "0409-1162-02",
+        "0409-1163-18",
+        "0409-1163-01",
+        "0409-1165-18",
+        "0409-1165-01",
+        "0409-1165-19",
+        "0409-1165-02",
+        "0409-9043-11",
+        "0409-9043-01",
+        "0409-9046-11",
+        "0409-9046-01",
+        "0409-9045-11",
+        "0409-9045-01",
+        "0409-9045-16",
+        "0409-9045-17",
+        "0409-9042-11",
+        "0409-9042-01",
+        "0409-9042-16",
+        "0409-9042-17"
+      ],
+      "presentation": "Marcaine, Injection, Marcaine 75 mg/10 mL (7.5 mg/mL) (NDC 0409-1165-01)",
+      "product_ndcs": [
+        "0409-1165",
+        "0409-1159",
+        "0409-1160",
+        "0409-1162",
+        "0409-1163",
+        "0409-9043",
+        "0409-9046",
+        "0409-9045",
+        "0409-9042"
+      ],
+      "related_info": "",
+      "routes": [
+        "EPIDURAL",
+        "RETROBULBAR"
+      ],
+      "rxcuis": [
+        "1012377",
+        "1012384",
+        "1012396",
+        "1012404",
+        "1672917",
+        "1672919",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082",
+        "1867594",
+        "1867596"
+      ],
+      "search_text": "bupivacaine hydrochloride injection current injection marcaine injection marcaine 75 mg 10 ml 7 5 mg ml ndc 0409 1165 01 hospira inc a pfizer company 0409 1165 01 bupivacaine hydrochloride 1012377 1012384 1012396 1012404 1672917 1672919 1724786 1724787 1724880 1724884 1725078 1725082 1867594 1867596 anesthesia 0409 1165 0409 1159 0409 1160 0409 1162 0409 1163 0409 9043 0409 9046 0409 9045 0409 9042",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "therapeutic_categories": [
+        "Anesthesia"
+      ],
+      "update_date": "2026-11-09",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -28211,9 +28211,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -28221,31 +28219,16 @@
       "id": "08efb0a7845ad3a8",
       "initial_posting_date": "2020-04-07",
       "package_ndc": "25021-311-02",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 02 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -28253,9 +28236,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -28263,31 +28244,16 @@
       "id": "b43a1db35a8d049e",
       "initial_posting_date": "2020-04-07",
       "package_ndc": "25021-311-04",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 04 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -28295,9 +28261,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -28305,31 +28269,16 @@
       "id": "64abdfdf398bbc7c",
       "initial_posting_date": "2020-04-07",
       "package_ndc": "25021-311-10",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals: 1-866-625-1618, Discontinued product",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection current injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals 1 866 625 1618 discontinued product 25021 311 10 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -31651,52 +31600,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "company_name": "Gland Pharma Limited",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "1dc3a32cba02875c",
-      "initial_posting_date": "2018-03-23",
-      "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
-      "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-10-21",
-      "update_type": "Reverified"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "brand_names": [],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31704,32 +31608,16 @@
       "id": "6b36c11670dc66d6",
       "initial_posting_date": "2018-03-26",
       "package_ndc": "25021-700-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
-      "product_ndcs": [
-        "25021-700",
-        "25021-701"
-      ],
+      "product_ndcs": [],
       "related_info": "Estimated recovery: Mid-November 2026, Product in transit and expected to arrive week of Nov 12th",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery mid november 2026 product in transit and expected to arrive week of nov 12th 25021 700 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 700 25021 701",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 sagent pharmaceuticals estimated recovery mid november 2026 product in transit and expected to arrive week of nov 12th 25021 700 01 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -31737,9 +31625,32 @@
       "update_type": "Revised"
     },
     {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
+      "brand_names": [],
+      "company_name": "Gland Pharma Limited",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "1dc3a32cba02875c",
+      "initial_posting_date": "2018-03-23",
+      "package_ndc": "25021-700-01",
+      "package_ndcs": [],
+      "presentation": "Ketorolac Tromethamine, Injection, 15 mg/1 mL (NDC 25021-700-01)",
+      "product_ndcs": [],
+      "related_info": "",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 15 mg 1 ml ndc 25021 700 01 gland pharma limited 25021 700 01 analgesia addiction",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
       ],
+      "update_date": "2026-10-21",
+      "update_type": "Reverified"
+    },
+    {
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31747,32 +31658,16 @@
       "id": "b401d47954f60913",
       "initial_posting_date": "2018-03-23",
       "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 gland pharma limited 25021 701 01 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -31780,9 +31675,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "brand_names": [],
       "company_name": "Sagent Pharmaceuticals",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31790,32 +31683,16 @@
       "id": "c99a2667dae6d828",
       "initial_posting_date": "2018-03-26",
       "package_ndc": "25021-701-01",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-01)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 01 sagent pharmaceuticals 25021 701 01 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
@@ -31823,52 +31700,7 @@
       "update_type": "Reverified"
     },
     {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "company_name": "Sagent Pharmaceuticals",
-      "discontinued_date": null,
-      "dosage_form": "Injection",
-      "generic_name": "Ketorolac Tromethamine Injection",
-      "id": "53f3133efc435e4e",
-      "initial_posting_date": "2018-03-26",
-      "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
-      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
-      "related_info": "Product in transit with expected delivery in December 2026",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals product in transit with expected delivery in december 2026 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
-      "therapeutic_categories": [
-        "Analgesia/Addiction"
-      ],
-      "update_date": "2026-11-06",
-      "update_type": "Revised"
-    },
-    {
-      "brand_names": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": null,
       "dosage_form": "Injection",
@@ -31876,37 +31708,46 @@
       "id": "7a4bf58e2f43f991",
       "initial_posting_date": "2018-03-23",
       "package_ndc": "25021-701-02",
-      "package_ndcs": [
-        "25021-700-01",
-        "25021-701-01",
-        "25021-701-02"
-      ],
+      "package_ndcs": [],
       "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
-      "product_ndcs": [
-        "25021-701",
-        "25021-700"
-      ],
+      "product_ndcs": [],
       "related_info": "",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "860092",
-        "1665459",
-        "1665461"
-      ],
-      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 ketorolac tromethamine 860092 1665459 1665461 analgesia addiction 25021 701 25021 700",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 gland pharma limited 25021 701 02 analgesia addiction",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "Current",
-      "substances": [
-        "KETOROLAC TROMETHAMINE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Analgesia/Addiction"
       ],
       "update_date": "2026-10-21",
       "update_type": "Reverified"
+    },
+    {
+      "brand_names": [],
+      "company_name": "Sagent Pharmaceuticals",
+      "discontinued_date": null,
+      "dosage_form": "Injection",
+      "generic_name": "Ketorolac Tromethamine Injection",
+      "id": "53f3133efc435e4e",
+      "initial_posting_date": "2018-03-26",
+      "package_ndc": "25021-701-02",
+      "package_ndcs": [],
+      "presentation": "Ketorolac Tromethamine, Injection, 30 mg/1 mL (NDC 25021-701-02)",
+      "product_ndcs": [],
+      "related_info": "Product in transit with expected delivery in December 2026",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "ketorolac tromethamine injection current injection ketorolac tromethamine injection 30 mg 1 ml ndc 25021 701 02 sagent pharmaceuticals product in transit with expected delivery in december 2026 25021 701 02 analgesia addiction",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "Current",
+      "substances": [],
+      "therapeutic_categories": [
+        "Analgesia/Addiction"
+      ],
+      "update_date": "2026-11-06",
+      "update_type": "Revised"
     },
     {
       "brand_names": [
@@ -62518,15 +62359,15 @@
       ],
       "company_name": "ViiV Healthcare Company",
       "discontinued_date": "2026-11-16",
-      "dosage_form": "Injection",
-      "generic_name": "Abacavir Sulfate Injection",
-      "id": "1c5c9898eb3fae4c",
+      "dosage_form": "Oral Solution",
+      "generic_name": "Abacavir Sulfate Oral Solution",
+      "id": "15df2386115c438d",
       "initial_posting_date": "2026-11-16",
       "package_ndc": "49702-222-48",
       "package_ndcs": [
         "49702-222-48"
       ],
-      "presentation": "Ziagen, Injection, 20 mg/1 mL (NDC 49702-222-48)",
+      "presentation": "Ziagen, Oral Solution, 20 mg/1 mL (NDC 49702-222-48)",
       "product_ndcs": [
         "49702-222"
       ],
@@ -62538,7 +62379,7 @@
         "213461",
         "242680"
       ],
-      "search_text": "abacavir sulfate injection to be discontinued injection ziagen injection 20 mg 1 ml ndc 49702 222 48 viiv healthcare company the anticipated date that viiv will cease distribution of the product is approximately may 14 2027 49702 222 48 ziagen 213461 242680 antiviral 49702 222",
+      "search_text": "abacavir sulfate oral solution to be discontinued oral solution ziagen oral solution 20 mg 1 ml ndc 49702 222 48 viiv healthcare company the anticipated date that viiv will cease distribution of the product is approximately may 14 2027 49702 222 48 ziagen 213461 242680 antiviral 49702 222",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -74810,9 +74651,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": "2026-04-28",
       "dosage_form": "Injection",
@@ -74820,31 +74659,16 @@
       "id": "68d7584c4e03e1ef",
       "initial_posting_date": "2026-04-28",
       "package_ndc": "25021-311-02",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-02)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 02 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 02 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 02 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -74852,9 +74676,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": "2026-04-28",
       "dosage_form": "Injection",
@@ -74862,31 +74684,16 @@
       "id": "466ae4fa038bbcd6",
       "initial_posting_date": "2026-04-28",
       "package_ndc": "25021-311-04",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-04)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 04 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 04 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 04 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -74894,9 +74701,7 @@
       "update_type": "New"
     },
     {
-      "brand_names": [
-        "FUROSEMIDE"
-      ],
+      "brand_names": [],
       "company_name": "Gland Pharma Limited",
       "discontinued_date": "2026-04-28",
       "dosage_form": "Injection",
@@ -74904,31 +74709,16 @@
       "id": "33c4dcf480fb8a3e",
       "initial_posting_date": "2026-04-28",
       "package_ndc": "25021-311-10",
-      "package_ndcs": [
-        "25021-311-02",
-        "25021-311-04",
-        "25021-311-10"
-      ],
+      "package_ndcs": [],
       "presentation": "Furosemide, Injection, 10 mg/1 mL (NDC 25021-311-10)",
-      "product_ndcs": [
-        "25021-311"
-      ],
+      "product_ndcs": [],
       "related_info": "Distributed by Sagent Pharmaceuticals; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAMUSCULAR",
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [
-        "1719286",
-        "1719290",
-        "1719291"
-      ],
-      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 10 furosemide 1719286 1719290 1719291 cardiovascular 25021 311",
+      "routes": [],
+      "rxcuis": [],
+      "search_text": "furosemide injection to be discontinued injection furosemide injection 10 mg 1 ml ndc 25021 311 10 gland pharma limited distributed by sagent pharmaceuticals discontinuation of the manufacture of the drug 25021 311 10 cardiovascular",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
-      "substances": [
-        "FUROSEMIDE"
-      ],
+      "substances": [],
       "therapeutic_categories": [
         "Cardiovascular"
       ],
@@ -75108,51 +74898,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-06-30",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "6badc61034de9e8e",
-      "initial_posting_date": "2026-06-30",
-      "package_ndc": "65219-080-05",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
-      "product_ndcs": [
-        "65219-080",
-        "65219-082",
-        "65219-084",
-        "65219-086"
-      ],
-      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-06-30",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-05-21",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -75191,6 +74936,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-05-21",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-06-30",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "6badc61034de9e8e",
+      "initial_posting_date": "2026-06-30",
+      "package_ndc": "65219-080-05",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-080-05)",
+      "product_ndcs": [
+        "65219-080",
+        "65219-082",
+        "65219-084",
+        "65219-086"
+      ],
+      "related_info": "Marketed by Fresenius Kabi, USA; Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 080 05 jiangsu hengrui pharmaceuticals co ltd marketed by fresenius kabi usa discontinuation of the manufacture of the drug 65219 080 05 gadoterate meglumine medical imaging 65219 080 65219 082 65219 084 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-06-30",
       "update_type": "New"
     },
     {
@@ -75288,51 +75078,6 @@
         "GADOTERATE MEGLUMINE"
       ],
       "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
-      "discontinued_date": "2026-05-21",
-      "dosage_form": "Injection",
-      "generic_name": "Gadoterate Meglumine Injection",
-      "id": "d9f7c2f5b4111faf",
-      "initial_posting_date": "2026-05-21",
-      "package_ndc": "65219-084-15",
-      "package_ndcs": [
-        "65219-080-01",
-        "65219-080-05",
-        "65219-082-01",
-        "65219-082-10",
-        "65219-084-01",
-        "65219-084-15",
-        "65219-086-01",
-        "65219-086-20"
-      ],
-      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
-      "product_ndcs": [
-        "65219-084",
-        "65219-080",
-        "65219-082",
-        "65219-086"
-      ],
-      "related_info": "Discontinuation of the manufacture of the drug",
-      "routes": [
-        "INTRAVENOUS"
-      ],
-      "rxcuis": [],
-      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
-      "source_url": "https://api.fda.gov/drug/shortages.json",
-      "status": "To Be Discontinued",
-      "substances": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "therapeutic_categories": [
-        "Medical Imaging"
-      ],
-      "update_date": "2026-05-21",
-      "update_type": "New"
-    },
-    {
-      "brand_names": [
-        "GADOTERATE MEGLUMINE"
-      ],
-      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
       "discontinued_date": "2026-06-30",
       "dosage_form": "Injection",
       "generic_name": "Gadoterate Meglumine Injection",
@@ -75371,6 +75116,51 @@
         "Medical Imaging"
       ],
       "update_date": "2026-06-30",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "company_name": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "discontinued_date": "2026-05-21",
+      "dosage_form": "Injection",
+      "generic_name": "Gadoterate Meglumine Injection",
+      "id": "d9f7c2f5b4111faf",
+      "initial_posting_date": "2026-05-21",
+      "package_ndc": "65219-084-15",
+      "package_ndcs": [
+        "65219-080-01",
+        "65219-080-05",
+        "65219-082-01",
+        "65219-082-10",
+        "65219-084-01",
+        "65219-084-15",
+        "65219-086-01",
+        "65219-086-20"
+      ],
+      "presentation": "Gadoterate Meglumine, Injection, 376.9 mg/1 mL (NDC 65219-084-15)",
+      "product_ndcs": [
+        "65219-084",
+        "65219-080",
+        "65219-082",
+        "65219-086"
+      ],
+      "related_info": "Discontinuation of the manufacture of the drug",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [],
+      "search_text": "gadoterate meglumine injection to be discontinued injection gadoterate meglumine injection 376 9 mg 1 ml ndc 65219 084 15 jiangsu hengrui pharmaceuticals co ltd discontinuation of the manufacture of the drug 65219 084 15 gadoterate meglumine medical imaging 65219 084 65219 080 65219 082 65219 086",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "GADOTERATE MEGLUMINE"
+      ],
+      "therapeutic_categories": [
+        "Medical Imaging"
+      ],
+      "update_date": "2026-05-21",
       "update_type": "New"
     },
     {
@@ -77088,9 +76878,9 @@
       ],
       "company_name": "ViiV Healthcare Company",
       "discontinued_date": "2026-11-16",
-      "dosage_form": "Injection",
-      "generic_name": "Lamivudine Injection",
-      "id": "df2baf229159ef73",
+      "dosage_form": "Oral Solution",
+      "generic_name": "Lamivudine Oral Solution",
+      "id": "9b1478c0363e8b36",
       "initial_posting_date": "2026-11-16",
       "package_ndc": "49702-205-48",
       "package_ndcs": [
@@ -77098,7 +76888,7 @@
         "49702-204-13",
         "49702-205-48"
       ],
-      "presentation": "Epivir, Injection, 10 mg/1 mL (NDC 49702-205-48)",
+      "presentation": "Epivir, Oral Solution, 10 mg/1 mL (NDC 49702-205-48)",
       "product_ndcs": [
         "49702-205",
         "49702-203",
@@ -77116,7 +76906,7 @@
         "349491",
         "352230"
       ],
-      "search_text": "lamivudine injection to be discontinued injection epivir injection 10 mg 1 ml ndc 49702 205 48 viiv healthcare company the anticipated date that viiv will cease distribution of the product is approximately may 14 2027 49702 205 48 epivir 152931 152932 199147 199148 349491 352230 antiviral 49702 205 49702 203 49702 204",
+      "search_text": "lamivudine oral solution to be discontinued oral solution epivir oral solution 10 mg 1 ml ndc 49702 205 48 viiv healthcare company the anticipated date that viiv will cease distribution of the product is approximately may 14 2027 49702 205 48 epivir 152931 152932 199147 199148 349491 352230 antiviral 49702 205 49702 203 49702 204",
       "source_url": "https://api.fda.gov/drug/shortages.json",
       "status": "To Be Discontinued",
       "substances": [
@@ -79314,6 +79104,44 @@
         "Analgesia/Addiction"
       ],
       "update_date": "2025-12-22",
+      "update_type": "New"
+    },
+    {
+      "brand_names": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "company_name": "Mylan Institutional, a Viatris Company",
+      "discontinued_date": "2026-11-24",
+      "dosage_form": "",
+      "generic_name": "Mycophenolate Mofetil  Injectable",
+      "id": "ddef10d3d4de8fb0",
+      "initial_posting_date": "2026-11-24",
+      "package_ndc": "67457-386-81",
+      "package_ndcs": [
+        "67457-386-00",
+        "67457-386-81"
+      ],
+      "presentation": "Mycophenolate Mofetil, Injectable, 500 mg/20 mL (NDC 67457-386-81)",
+      "product_ndcs": [
+        "67457-386"
+      ],
+      "related_info": "A business decision has been made to discontinue this product.",
+      "routes": [
+        "INTRAVENOUS"
+      ],
+      "rxcuis": [
+        "311881"
+      ],
+      "search_text": "mycophenolate mofetil injectable to be discontinued mycophenolate mofetil injectable 500 mg 20 ml ndc 67457 386 81 mylan institutional a viatris company a business decision has been made to discontinue this product 67457 386 81 mycophenolate mofetil 311881 transplant 67457 386",
+      "source_url": "https://api.fda.gov/drug/shortages.json",
+      "status": "To Be Discontinued",
+      "substances": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "therapeutic_categories": [
+        "Transplant"
+      ],
+      "update_date": "2026-11-24",
       "update_type": "New"
     },
     {
@@ -83048,7 +82876,7 @@
     "api_url": "https://api.fda.gov/drug/shortages.json",
     "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
     "docs_url": "https://open.fda.gov/apis/drug/drugshortages/",
-    "last_updated": "2026-11-24",
+    "last_updated": "2026-11-25",
     "license_url": "https://open.fda.gov/license/",
     "name": "openFDA Drug Shortages",
     "terms_url": "https://open.fda.gov/terms/"
@@ -83057,8 +82885,8 @@
     "status_counts": {
       "Current": 1116,
       "Resolved": 59,
-      "To Be Discontinued": 401
+      "To Be Discontinued": 402
     },
-    "total_records": 1576
+    "total_records": 1577
   }
 }
